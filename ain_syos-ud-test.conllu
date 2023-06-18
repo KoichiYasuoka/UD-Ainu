@@ -1,0 +1,3382 @@
+# doc = 知里幸惠: アイヌ神謠集, 東京: 郷土研究社, 1923.
+# sent_id = SYOS_1_1-6
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan ” arian rekpo chiki kane petesoro sapash aine, ainukotan enkashike chikush kor shichorpokun inkarash ko teeta wenkur tane nishpa ne, teeta nishpa tane wenkur ne kotom shiran.
+# text_ain = “ Shirokanipe ranran pishkan, konkanipe
+# text_ain = ranran pishkan ” arian rekpo chiki kane
+# text_ain = petesoro sapash aine, ainukotan enkashike
+# text_ain = chikush kor shichorpokun inkarash ko
+# text_ain = teeta wenkur tane nishpa ne, teeta nishpa
+# text_ain = tane wenkur ne kotom shiran.
+# text_ja = 「銀の滴降る降るまはりに、金の滴
+# text_ja = 降る降るまはりに。」と云ふ歌を私は歌ひながら
+# text_ja = 流に沿つて下り、人間の村の上を
+# text_ja = 通りながら下を眺めると
+# text_ja = 昔の貧乏人が今お金持になつてゐて、昔のお金持が
+# text_ja = 今の貧乏人になつてゐる樣です。
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	_
+13	”	”	PUNCT	記号	_	12	punct	_	_
+14	ari	ari	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+15	an	an	VERB	自動詞	_	16	acl	_	_
+16	rekpo	rekpo	NOUN	名詞	_	18	obj	_	_
+17	chi	ci=	PART	人称接辞	_	18	nsubj	_	SpaceAfter=No
+18	ki	ki	VERB	他動詞	_	22	advcl	_	_
+19	kane	kane	SCONJ	接続助詞	_	18	mark	_	_
+20	pet	pet	NOUN	名詞	_	22	obl	_	SpaceAfter=No
+21	esoro	esoro	SCONJ	後置副詞	_	20	case	_	_
+22	sap	san	VERB	自動詞	_	35	advcl	_	SpaceAfter=No
+23	ash	=as	PART	人称接辞	_	22	nsubj	_	_
+24	aine	ayne	SCONJ	接続詞	_	22	mark	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	22	punct	_	_
+26	ainu	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
+27	kotan	kotan	NOUN	名詞	_	28	nmod	_	_
+28	enkashike	enkasi	NOUN	位置名詞	_	30	obj	_	_
+29	chi	ci=	PART	人称接辞	_	30	nsubj	_	SpaceAfter=No
+30	kush	kus	VERB	他動詞	_	35	advcl	_	_
+31	kor	kor	SCONJ	接続助詞	_	30	mark	_	_
+32	shi	si-	PART	接頭辞	_	33	det	_	SpaceAfter=No
+33	chorpok	corpok	NOUN	位置名詞	_	35	obl	_	SpaceAfter=No
+34	un	un	ADP	格助詞	_	33	case	_	_
+35	inkar	inkar	VERB	自動詞	_	50	advcl	_	SpaceAfter=No
+36	ash	=as	PART	人称接辞	_	35	nsubj	_	_
+37	ko	kor	SCONJ	接続助詞	_	35	mark	_	_
+38	teeta	teeta	ADV	副詞	_	39	amod	_	_
+39	wenkur	wenkur	NOUN	名詞	_	41	nsubj	_	_
+40	tane	tane	ADV	副詞	_	41	amod	_	_
+41	nishpa	nispa	NOUN	名詞	_	50	advcl	_	_
+42	ne	ne	AUX	デアル動詞	_	41	cop	_	SpaceAfter=No
+43	,	,	PUNCT	記号	_	41	punct	_	_
+44	teeta	teeta	ADV	副詞	_	45	amod	_	_
+45	nishpa	nispa	NOUN	名詞	_	47	nsubj	_	_
+46	tane	tane	ADV	副詞	_	47	amod	_	_
+47	wenkur	wenkur	NOUN	名詞	_	50	advcl	_	_
+48	ne	ne	AUX	デアル動詞	_	47	cop	_	_
+49	kotom	kotom	SCONJ	接続助詞	_	47	mark	_	_
+50	shiran	siran	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+51	.	.	PUNCT	記号	_	50	punct	_	_
+
+# sent_id = SYOS_1_7-8
+# text = Atuiteksam ta ainuhekattar akshinotponku akshinotponai euweshinot korokai.
+# text_ain = Atuiteksam ta ainuhekattar akshinotponku
+# text_ain = akshinotponai euweshinot korokai.
+# text_ja = 海邊に人間の子供たちがおもちやの小弓に
+# text_ja = おもちやの小矢をもつてあそんで居ります。
+1	Atui	atuy	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	teksam	teksam	NOUN	位置名詞	_	13	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	ainu	aynu	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	hekat	hekaci	NOUN	名詞	_	6	compound	_	SpaceAfter=No
+6	tar	utar	NOUN	名詞	_	13	nsubj	_	_
+7	akshinot	ak-sinot	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+8	pon	pon	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	ku	ku	NOUN	名詞	_	13	obj	_	_
+10	akshinot	ak-sinot	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+11	pon	pon	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	ai	ay	NOUN	名詞	_	9	conj	_	_
+13	euweshinot	e-u-e-sinot	VERB	他動詞	_	15	advcl	_	_
+14	kor	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	okai	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_9-13
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan ” arian rekpo chiki kane hekachiutar enkashike chikush awa, unchorpoke ehoyuppa ene hawokai : ―
+# text_ain = “ Shirokanipe ranran pishkan,
+# text_ain = konkanipe ranran pishkan ” arian rekpo
+# text_ain = chiki kane hekachiutar enkashike
+# text_ain = chikush awa, unchorpoke ehoyuppa
+# text_ain = ene hawokai : ―
+# text_ja = 「銀の滴降る降るまはりに
+# text_ja = 金の滴降る降るまはりに。」といふ歌を
+# text_ja = 歌ひながら子供等の上を
+# text_ja = 通りますと、（子供等は）私の下を走りながら
+# text_ja = 云ふことには、
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	_
+13	”	”	PUNCT	記号	_	12	punct	_	_
+14	ari	ari	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+15	an	an	VERB	自動詞	_	16	acl	_	_
+16	rekpo	rekpo	NOUN	名詞	_	18	obj	_	_
+17	chi	ci=	PART	人称接辞	_	18	nsubj	_	SpaceAfter=No
+18	ki	ki	VERB	他動詞	_	24	advcl	_	_
+19	kane	kane	SCONJ	接続助詞	_	18	mark	_	_
+20	hekachi	hekaci	NOUN	名詞	_	21	compound	_	SpaceAfter=No
+21	utar	utar	NOUN	名詞	_	22	nmod	_	_
+22	enkashike	enkasi	NOUN	位置名詞	_	24	obj	_	_
+23	chi	ci=	PART	人称接辞	_	24	nsubj	_	SpaceAfter=No
+24	kush	kus	VERB	他動詞	_	31	advcl	_	_
+25	awa	awa	CCONJ	接続詞	_	24	cc	_	SpaceAfter=No
+26	,	,	PUNCT	記号	_	24	punct	_	_
+27	un	un=	PART	人称接辞	_	28	det	_	SpaceAfter=No
+28	chorpoke	corpok	NOUN	位置名詞	_	29	obj	_	_
+29	ehoyuppa	ehoyupu	VERB	他動詞	_	31	advcl	_	_
+30	ene	ene	ADV	副詞	_	31	advmod	_	_
+31	hawokai	hawean	VERB	自動詞	_	0	root	_	_
+32	:	:	PUNCT	記号	_	31	punct	_	_
+33	―	―	PUNCT	記号	_	31	punct	_	_
+
+# sent_id = SYOS_1_14a
+# text = “ Pirka chikappo !
+# text_ain = “ Pirka chikappo !
+# text_ja = 「美い鳥!
+1	“	“	PUNCT	記号	_	3	punct	_	_
+2	Pirka	pirka	VERB	自動詞	_	3	amod	_	_
+3	chikappo	cikappo	NOUN	名詞	_	0	root	_	_
+4	!	!	PUNCT	記号	_	3	punct	_	_
+
+# sent_id = SYOS_1_14b
+# text = kamui chikappo !
+# text_ain = kamui chikappo !
+# text_ja = 神樣の鳥!
+1	kamui	kamuy	NOUN	名詞	_	2	nmod	_	_
+2	chikappo	cikappo	NOUN	名詞	_	0	root	_	_
+3	!	!	PUNCT	記号	_	2	punct	_	_
+
+# sent_id = SYOS_1_15-26
+# text = Keke hetak, akash wa toan chikappo kamui chikappo tukan wa ankur, hoshkiukkur sonno rametok shino chipapa ne ruwe tapan ” hawokai kane, teeta wenkur tane nishpa nep poutari, konkani ponku konkani ponai uweunupa untukan ko, konkani ponai shichorpok chikushte shienka chikushte, rapokita, hekachiutar tumukeheta shine hekachi yayan ponku yayan ponai ukoani iyeutanne, chinukar chiki wenkur poho ne kotomno imi ka wano akoeraman.
+# text_ain = Keke hetak, akash wa toan chikappo
+# text_ain = kamui chikappo tukan wa ankur, hoshkiukkur
+# text_ain = sonno rametok shino chipapa ne ruwe tapan ”
+# text_ain = hawokai kane, teeta wenkur tane nishpa nep
+# text_ain = poutari, konkani ponku konkani ponai
+# text_ain = uweunupa untukan ko, konkani ponai
+# text_ain = shichorpok chikushte shienka chikushte,
+# text_ain = rapokita, hekachiutar tumukeheta
+# text_ain = shine hekachi yayan ponku yayan ponai
+# text_ain = ukoani iyeutanne, chinukar chiki
+# text_ain = wenkur poho ne kotomno imi ka wano
+# text_ain = akoeraman.
+# text_ja = さあ、矢を射てあの鳥
+# text_ja = 神樣の鳥を射當てたものは、一ばんさきに取つた者は
+# text_ja = ほんとうの勇者ほんとうの强者だぞ。」
+# text_ja = 云ひながら、昔貧乏人で今お金持になつてる者の
+# text_ja = 子供等は、金の小弓に金の小矢を
+# text_ja = 番へて私を射ますと、金の小矢を
+# text_ja = 私は下を通したり上を通したりしました。
+# text_ja = 其の中に、子供等の中に
+# text_ja = 一人の子供がたゞの（木製の）小弓にたゞの小矢
+# text_ja = を持つて仲間にはいつてゐます。私はそれを見ると
+# text_ja = 貧乏人の子らしく、着物でも
+# text_ja = それがわかります。
+1	Keke	keke	INTJ	間投詞	_	4	discourse	_	_
+2	hetak	hetak	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	ak	ak	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+5	ash	=as	PART	人称接辞	_	4	nsubj	_	_
+6	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+7	toan	toan	DET	連体詞	_	8	det	_	_
+8	chikappo	cikappo	NOUN	名詞	_	11	obj	_	_
+9	kamui	kamuy	NOUN	名詞	_	10	nmod	_	_
+10	chikappo	cikappo	NOUN	名詞	_	8	appos	_	_
+11	tukan	tukan	VERB	他動詞	_	13	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	an	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
+14	kur	kur	NOUN	名詞	_	20	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	hoshki	hoski	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	uk	uk	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	kur	kur	NOUN	名詞	_	14	appos	_	_
+19	sonno	sonno	ADV	副詞	_	20	amod	_	_
+20	rametok	rametok	NOUN	名詞	_	24	acl	_	_
+21	shino	sino	ADV	副詞	_	22	amod	_	_
+22	chipapa	cipapa	NOUN	名詞	_	20	appos	_	_
+23	ne	ne	AUX	デアル動詞	_	20	cop	_	_
+24	ruwe	ruwe	NOUN	形式名詞	_	27	advcl	_	_
+25	tapan	tapan	AUX	デアル動詞	_	24	cop	_	_
+26	”	”	PUNCT	記号	_	24	punct	_	_
+27	hawokai	hawean	VERB	自動詞	_	46	advcl	_	_
+28	kane	kane	SCONJ	接続助詞	_	27	mark	_	SpaceAfter=No
+29	,	,	PUNCT	記号	_	27	punct	_	_
+30	teeta	teeta	ADV	副詞	_	31	amod	_	_
+31	wenkur	wenkur	NOUN	名詞	_	33	nsubj	_	_
+32	tane	tane	ADV	副詞	_	33	amod	_	_
+33	nishpa	nispa	NOUN	名詞	_	35	acl	_	_
+34	ne	ne	AUX	デアル動詞	_	33	cop	_	SpaceAfter=No
+35	p	p	NOUN	形式名詞	_	36	nmod	_	_
+36	poutari	póutari	NOUN	名詞	_	44	nsubj	_	SpaceAfter=No
+37	,	,	PUNCT	記号	_	36	punct	_	_
+38	konkani	konkani	NOUN	名詞	_	40	nmod	_	_
+39	pon	pon	VERB	自動詞	_	40	amod	_	SpaceAfter=No
+40	ku	ku	NOUN	名詞	_	44	iobj	_	_
+41	konkani	konkani	NOUN	名詞	_	43	nmod	_	_
+42	pon	pon	VERB	自動詞	_	43	amod	_	SpaceAfter=No
+43	ai	ay	NOUN	名詞	_	44	obj	_	_
+44	uweunupa	u-e-unu	VERB	他動詞	_	46	advcl	_	_
+45	un	un=	PART	人称接辞	_	46	obj	_	SpaceAfter=No
+46	tukan	tukan	VERB	他動詞	_	55	advcl	_	_
+47	ko	kor	SCONJ	接続助詞	_	46	mark	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	46	punct	_	_
+49	konkani	konkani	NOUN	名詞	_	51	nmod	_	_
+50	pon	pon	VERB	自動詞	_	51	amod	_	SpaceAfter=No
+51	ai	ay	NOUN	名詞	_	55	obj	_	_
+52	shi	si-	PART	接頭辞	_	55	iobj	_	SpaceAfter=No
+53	chorpok	corpok	NOUN	位置名詞	_	55	obl	_	_
+54	chi	ci=	PART	人称接辞	_	55	nsubj	_	SpaceAfter=No
+55	kushte	kuste	VERB	他動詞	_	61	acl	_	_
+56	shi	si-	PART	人称接辞	_	59	iobj	_	SpaceAfter=No
+57	enka	enka	NOUN	位置名詞	_	59	obl	_	_
+58	chi	ci=	PART	人称接辞	_	59	nsubj	_	SpaceAfter=No
+59	kushte	kuste	VERB	他動詞	_	55	conj	_	SpaceAfter=No
+60	,	,	PUNCT	記号	_	59	punct	_	_
+61	rapoki	rápoki	NOUN	位置名詞	_	90	obl	_	SpaceAfter=No
+62	ta	ta	ADP	格助詞	_	61	case	_	SpaceAfter=No
+63	,	,	PUNCT	記号	_	61	punct	_	_
+64	hekachi	hekaci	NOUN	名詞	_	65	compound	_	SpaceAfter=No
+65	utar	utar	NOUN	名詞	_	66	nmod	_	_
+66	tumukehe	tumu	NOUN	位置名詞	_	77	obl	_	SpaceAfter=No
+67	ta	ta	ADP	格助詞	_	66	case	_	_
+68	shine	sine	NUM	数詞	_	69	nummod	_	_
+69	hekachi	hekaci	NOUN	名詞	_	76	nsubj	_	_
+70	yayan	yayan	DET	連体詞	_	72	det	_	_
+71	pon	pon	VERB	自動詞	_	72	amod	_	SpaceAfter=No
+72	ku	ku	NOUN	名詞	_	76	obj	_	_
+73	yayan	yayan	DET	連体詞	_	75	det	_	_
+74	pon	pon	VERB	自動詞	_	75	amod	_	SpaceAfter=No
+75	ai	ay	NOUN	名詞	_	72	conj	_	_
+76	ukoani	ukoani	VERB	他動詞	_	77	advcl	_	_
+77	iyeutanne	eyewtanne	VERB	他動詞	_	90	advcl	_	SpaceAfter=No
+78	,	,	PUNCT	記号	_	77	punct	_	_
+79	chi	ci=	PART	人称接辞	_	80	nsubj	_	SpaceAfter=No
+80	nukar	nukar	VERB	他動詞	_	90	advcl	_	_
+81	chiki	ciki	SCONJ	接続助詞	_	80	mark	_	_
+82	wenkur	wenkur	NOUN	名詞	_	83	nmod	_	_
+83	poho	poho	NOUN	名詞	_	90	advcl	_	_
+84	ne	ne	AUX	デアル動詞	_	83	cop	_	_
+85	kotomno	kotomno	SCONJ	接続助詞	_	83	mark	_	_
+86	imi	imi	NOUN	名詞	_	87	nmod	_	_
+87	ka	ka	NOUN	位置名詞	_	90	obl	_	_
+88	wano	wano	ADP	格助詞	_	87	case	_	_
+89	a	a=	PART	人称接辞	_	90	nsubj	_	SpaceAfter=No
+90	koeraman	ukoeramuan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+91	.	.	PUNCT	記号	_	90	punct	_	_
+
+# sent_id = SYOS_1_26-28
+# text = Kipnekorka shiktumorke chiuwante ko, nishpasani nekotomno, shinnai- chikapne iyeutanne.
+# text_ain = Kipnekorka shiktumorke
+# text_ain = chiuwante ko, nishpasani nekotomno, shinnai-
+# text_ain = chikapne iyeutanne.
+# text_ja = けれどもその眼色を
+# text_ja = よく見ると、えらい人の子孫らしく、一人變り
+# text_ja = 者になつて仲間入りをしてゐます。
+1	Ki	ki	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+2	p	p	NOUN	形式名詞	_	19	advcl	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	korka	korka	CCONJ	接続詞	_	2	cc	_	_
+5	shiktum	siktumu	NOUN	名詞	_	8	obj	_	SpaceAfter=No
+6	orke	orke	ADP	副助詞	_	5	case	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	uwante	uwante	VERB	自動詞	_	19	advcl	_	_
+9	ko	kor	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	8	punct	_	_
+11	nishpa	nispa	NOUN	名詞	_	12	nmod	_	SpaceAfter=No
+12	sani	sani	NOUN	名詞	_	19	advcl	_	_
+13	ne	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	kotomno	kotomno	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	12	punct	_	_
+16	shinnai-	sinna	VERB	自動詞	_	17	amod	_	SpaceAfter=No
+17	chikap	cikap	NOUN	名詞	_	19	advcl	_	SpaceAfter=No
+18	ne	ne	AUX	デアル動詞	_	17	cop	_	_
+19	iyeutanne	eyewtanne	VERB	他動詞	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	19	punct	_	_
+
+# sent_id = SYOS_1_28-31
+# text = Anihi nakka yayan ponku yayan ponai uweunu wa unramante ko, teeta wenkur tane nishpanep poutari euminare ene hawokai : ―
+# text_ain = Anihi nakka yayan ponku
+# text_ain = yayan ponai uweunu wa unramante ko,
+# text_ain = teeta wenkur tane nishpanep poutari euminare
+# text_ain = ene hawokai : ―
+# text_ja = 自分もたゞの小弓に
+# text_ja = たゞの小矢を番へて私をねらひますと、
+# text_ja = 昔貧乏人で今金持の子供等は大笑ひをして
+# text_ja = 云ふには、
+1	Anihi	anihi	PRON	代名詞	_	9	nsubj	_	_
+2	nakka	yakka	SCONJ	接続助詞	_	1	case	_	_
+3	yayan	yayan	DET	連体詞	_	5	det	_	_
+4	pon	pon	VERB	自動詞	_	5	amod	_	SpaceAfter=No
+5	ku	ku	NOUN	名詞	_	9	iobj	_	_
+6	yayan	yayan	DET	連体詞	_	8	det	_	_
+7	pon	pon	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ai	ay	NOUN	名詞	_	9	obj	_	_
+9	uweunu	u-e-unu	VERB	他動詞	_	12	advcl	_	_
+10	wa	wa	SCONJ	接続助詞	_	9	mark	_	_
+11	un	un=	PART	人称接辞	_	12	obj	_	SpaceAfter=No
+12	ramante	ramante	VERB	他動詞	_	22	advcl	_	_
+13	ko	kor	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	,	,	PUNCT	記号	_	12	punct	_	_
+15	teeta	teeta	ADV	副詞	_	16	amod	_	_
+16	wenkur	wenkur	NOUN	名詞	_	18	nsubj	_	_
+17	tane	tane	ADV	副詞	_	18	amod	_	_
+18	nishpa	nispa	NOUN	名詞	_	20	acl	_	SpaceAfter=No
+19	ne	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	p	p	NOUN	形式名詞	_	21	nmod	_	_
+21	poutari	póutari	NOUN	名詞	_	22	nsubj	_	_
+22	euminare	euminare	VERB	他動詞	_	24	advcl	_	_
+23	ene	ene	ADV	副詞	_	24	advmod	_	_
+24	hawokai	hawean	VERB	自動詞	_	0	root	_	_
+25	:	:	PUNCT	記号	_	24	punct	_	_
+26	―	―	PUNCT	記号	_	24	punct	_	_
+
+# sent_id = SYOS_1_32-37
+# text = “ Achikara ta wenkur hekachi toan chikappo kamui chikappo aokaiutar akor konkaniai ka somouk ko, enepkoran wenkur hekachi kor yayanai muninchikuniai toan chikappo kamui chikappo shinoshino uk nankor wa.”
+# text_ain = “ Achikara ta wenkur hekachi
+# text_ain = toan chikappo kamui chikappo aokaiutar
+# text_ain = akor konkaniai ka somouk ko, enepkoran
+# text_ain = wenkur hekachi kor yayanai muninchikuniai
+# text_ain = toan chikappo kamui chikappo shinoshino
+# text_ain = uk nankor wa.”
+# text_ja = 「あらをかしや貧乏の子
+# text_ja = あの鳥神樣の鳥は私たちの
+# text_ja = 金の小矢でもお取りにならないものを、お前の樣な
+# text_ja = 貧乏な子のたゞの矢腐れ木の矢を
+# text_ja = あの鳥神樣の鳥がよくよく
+# text_ja = 取るだらうよ。」
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Achikara ta	acikarata	INTJ	間投詞	_	4	discourse	_	_
+3	wenkur	wenkur	NOUN	名詞	_	4	nmod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	39	vocative	_	_
+5	toan	toan	DET	連体詞	_	6	det	_	_
+6	chikappo	cikappo	NOUN	名詞	_	17	obj	_	_
+7	kamui	kamuy	NOUN	名詞	_	8	nmod	_	_
+8	chikappo	cikappo	NOUN	名詞	_	6	appos	_	_
+9	aokai	aoká	PRON	代名詞	_	10	compound	_	SpaceAfter=No
+10	utar	utar	NOUN	名詞	_	17	nsubj	_	_
+11	a	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	kor	kor	VERB	他動詞	_	14	acl	_	_
+13	konkani	konkani	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	ai	ay	NOUN	名詞	_	17	obl	_	_
+15	ka	ka	ADP	副助詞	_	14	case	_	_
+16	somo	somo	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	uk	uk	VERB	他動詞	_	39	advcl	_	_
+18	ko	kor	SCONJ	接続助詞	_	17	mark	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	17	punct	_	_
+20	e	e=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+21	ne	ne	AUX	デアル動詞	_	22	cop	_	SpaceAfter=No
+22	p	p	NOUN	形式名詞	_	24	nsubj	_	SpaceAfter=No
+23	kor	kor	SCONJ	接続助詞	_	22	case	_	SpaceAfter=No
+24	an	an	VERB	自動詞	_	26	acl	_	_
+25	wenkur	wenkur	NOUN	名詞	_	26	nmod	_	_
+26	hekachi	hekaci	NOUN	名詞	_	27	nsubj	_	_
+27	kor	kor	VERB	他動詞	_	29	acl	_	_
+28	yayan	yayan	DET	連体詞	_	29	det	_	SpaceAfter=No
+29	ai	ay	NOUN	名詞	_	39	nsubj	_	_
+30	munin	munin	VERB	自動詞	_	31	amod	_	SpaceAfter=No
+31	chikuni	cikuni	NOUN	名詞	_	32	nmod	_	SpaceAfter=No
+32	ai	ay	NOUN	名詞	_	29	conj	_	_
+33	toan	toan	DET	連体詞	_	34	det	_	_
+34	chikappo	cikappo	NOUN	名詞	_	39	obj	_	_
+35	kamui	kamuy	NOUN	名詞	_	36	nmod	_	_
+36	chikappo	cikappo	NOUN	名詞	_	34	appos	_	_
+37	shino	sino	ADV	副詞	_	39	advmod	_	SpaceAfter=No
+38	shino	sino	ADV	副詞	_	39	advmod	_	_
+39	uk	uk	VERB	他動詞	_	0	root	_	_
+40	nankor	nankor	AUX	助動詞	_	39	aux	_	_
+41	wa	wa	SCONJ	接続助詞	_	39	mark	_	SpaceAfter=No
+42	.	.	PUNCT	記号	_	39	punct	_	SpaceAfter=No
+43	”	”	PUNCT	記号	_	39	punct	_	_
+
+# sent_id = SYOS_1_38-39
+# text = hawokai kane wenkur hekachi ukooterke ukokikkik.
+# text_ain = hawokai kane wenkur hekachi ukooterke
+# text_ain = ukokikkik.
+# text_ja = と云つて、貧しい子を足蹴にしたり
+# text_ja = たゝいたりします。
+1	hawokai	hawean	VERB	自動詞	_	5	advcl	_	_
+2	kane	kane	SCONJ	接続助詞	_	1	mark	_	_
+3	wenkur	wenkur	NOUN	名詞	_	4	nmod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	5	obj	_	_
+5	ukooterke	uko-oterke	VERB	他動詞	_	0	root	_	_
+6	ukokikkik	uko-kikkik	VERB	他動詞	_	5	conj	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+
+# sent_id = SYOS_1_39-40
+# text = Kipnekorka wenkur hekachi senne ponno ekottanu uneyoko.
+# text_ain = Kipnekorka wenkur hekachi
+# text_ain = senne ponno ekottanu uneyoko.
+# text_ja = けれども貧乏な子は
+# text_ja = ちつとも構はず私をねらつてゐます。
+1	Ki	ki	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+2	p	p	NOUN	形式名詞	_	11	advcl	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	korka	korka	CCONJ	接続詞	_	2	cc	_	_
+5	wenkur	wenkur	NOUN	名詞	_	6	nmod	_	_
+6	hekachi	hekaci	NOUN	名詞	_	9	nsubj	_	_
+7	senne	senne	ADV	副詞	_	8	advmod	_	_
+8	ponno	ponno	ADV	副詞	_	9	advmod	_	_
+9	ekottanu	ekottanu	VERB	他動詞	_	11	advcl	_	_
+10	un	un=	PART	人称接辞	_	11	obj	_	SpaceAfter=No
+11	eyoko	eyoko	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_1_41
+# text = Shirki chiki ihomakeutum chiyaikore.
+# text_ain = Shirki chiki ihomakeutum chiyaikore.
+# text_ja = 私はそのさまを見ると、大層不憫に思ひました。
+1	Shirki	sirki	VERB	完全動詞	_	6	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	ihoma	ihoma	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+4	keutum	kewtum	NOUN	名詞	_	6	obj	_	_
+5	chi	ci=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	yaikore	yaykore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+
+# sent_id = SYOS_1_42-43
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan.”
+# text_ain = “ Shirokanipe ranran pishkan,
+# text_ain = konkanipe ranran pishkan.”
+# text_ja = 「銀の滴降る降るまはりに、
+# text_ja = 金の滴降る降るまはりに。」
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	SpaceAfter=No
+14	”	”	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_43-52
+# text = arian rekpo chiki kane moiretara kamuinish kashi chikoshikarinpa, wenkur hekachi oatchikiri otuimaashi oatchikiri ohanke ashi, poknapapushi shikoruki yoko wa anaine unkotushura, tapan ponai ekshirkonna tonnatara, shirki chiki chisantekehe chiturpa wa nean ponai chieshikari shikachikachiash rapash humi chiekisarshut maukururu.
+# text_ain = arian rekpo
+# text_ain = chiki kane moiretara kamuinish kashi
+# text_ain = chikoshikarinpa, wenkur hekachi
+# text_ain = oatchikiri otuimaashi oatchikiri ohanke ashi,
+# text_ain = poknapapushi shikoruki yoko wa anaine
+# text_ain = unkotushura, tapan ponai ekshirkonna
+# text_ain = tonnatara, shirki chiki chisantekehe
+# text_ain = chiturpa wa nean ponai chieshikari
+# text_ain = shikachikachiash rapash humi
+# text_ain = chiekisarshut maukururu.
+# text_ja = といふ歌を
+# text_ja = 歌ひながらゆつくりと大空に
+# text_ja = 私は輪をゑがいてゐました。貧乏な子は
+# text_ja = 片足を遠く立て片足を近くたてゝ、
+# text_ja = 下脣をグツと噛みしめて、ねらつてゐて
+# text_ja = ひようと射放しました。小さい矢は美しく飛んで
+# text_ja = 私の方へ來ました、それで私は手を
+# text_ja = 差のべてその小さい矢を取りました。
+# text_ja = クルクルまはりながら私は
+# text_ja = 風をきつて舞下りました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ki	ki	VERB	他動詞	_	12	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	moiretara	moyre-tara	ADV	副詞	_	12	advmod	_	_
+8	kamui	kamuy	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	nish	nis	NOUN	名詞	_	10	nmod	_	_
+10	kashi	kasi	NOUN	位置名詞	_	12	obj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	koshikarinpa	ko-sikarimpa	VERB	他動詞	_	31	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	記号	_	12	punct	_	_
+14	wenkur	wenkur	NOUN	名詞	_	15	nmod	_	_
+15	hekachi	hekaci	NOUN	名詞	_	18	nsubj	_	_
+16	oatchikiri	oatcikiri	NOUN	名詞	_	17	obj	_	_
+17	otuima	o-tuyma	VERB	他動詞	_	18	advcl	_	SpaceAfter=No
+18	ashi	asi	VERB	他動詞	_	31	advcl	_	_
+19	oatchikiri	oatcikiri	NOUN	名詞	_	20	obj	_	_
+20	ohanke	o-hanke	VERB	他動詞	_	21	advcl	_	_
+21	ashi	asi	VERB	他動詞	_	18	conj	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	pokna	pokna	DET	連体詞	_	24	det	_	SpaceAfter=No
+24	papushi	papusi	NOUN	名詞	_	25	obj	_	_
+25	shikoruki	si-ko-ruki	VERB	他動詞	_	31	advcl	_	_
+26	yoko	yoko	VERB	自動詞	_	28	advcl	_	_
+27	wa	wa	SCONJ	接続助詞	_	26	mark	_	_
+28	an	an	VERB	自動詞	_	31	advcl	_	SpaceAfter=No
+29	aine	ayne	SCONJ	接続詞	_	28	mark	_	_
+30	un	un	PART	人称接辞	_	31	obj	_	SpaceAfter=No
+31	kotushura	ko-tusu-ra	VERB	他動詞	_	39	advcl	_	SpaceAfter=No
+32	,	,	PUNCT	記号	_	31	punct	_	_
+33	tapan	tapan	DET	連体詞	_	35	det	_	_
+34	pon	pon	VERB	自動詞	_	35	amod	_	SpaceAfter=No
+35	ai	ay	NOUN	名詞	_	36	nsubj	_	_
+36	ek	ek	VERB	自動詞	_	37	acl	_	SpaceAfter=No
+37	shir	sir	NOUN	名詞	_	39	nsubj	_	SpaceAfter=No
+38	konna	konna	ADP	副助詞	_	37	case	_	_
+39	tonnatara	tonnatara	VERB	自動詞	_	53	advcl	_	SpaceAfter=No
+40	,	,	PUNCT	記号	_	39	punct	_	_
+41	shirki	sirki	VERB	完全動詞	_	46	advcl	_	_
+42	chiki	ciki	SCONJ	接続助詞	_	41	mark	_	_
+43	chi	ci=	PART	人称接辞	_	44	det	_	SpaceAfter=No
+44	santekehe	santeke	NOUN	名詞	_	46	obj	_	_
+45	chi	ci=	PART	人称接辞	_	46	nsubj	_	SpaceAfter=No
+46	turpa	turi	VERB	他動詞	_	53	advcl	_	_
+47	wa	wa	SCONJ	接続助詞	_	46	mark	_	_
+48	ne	ne	DET	連体詞	_	51	det	_	SpaceAfter=No
+49	an	an	VERB	自動詞	_	51	amod	_	_
+50	pon	pon	VERB	自動詞	_	51	amod	_	SpaceAfter=No
+51	ai	ay	NOUN	名詞	_	53	obj	_	_
+52	chi	ci=	PART	人称接辞	_	53	nsubj	_	SpaceAfter=No
+53	eshikari	esikari	VERB	他動詞	_	62	advcl	_	_
+54	shikachikachi	si-kaci-kaci	VERB	自動詞	_	62	advcl	_	SpaceAfter=No
+55	ash	=as	PART	人称接辞	_	54	nsubj	_	_
+56	rap	rap	VERB	自動詞	_	58	acl	_	SpaceAfter=No
+57	ash	=as	PART	人称接辞	_	56	nsubj	_	_
+58	humi	humi	NOUN	形式名詞	_	62	nsubj	_	_
+59	chi	ci=	PART	人称接辞	_	60	det	_	SpaceAfter=No
+60	ekisar	e-kisar	NOUN	名詞	_	61	nmod	_	SpaceAfter=No
+61	shut	sut	NOUN	位置名詞	_	62	obl	_	_
+62	maukururu	mawkururu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+63	.	.	PUNCT	記号	_	62	punct	_	_
+
+# sent_id = SYOS_1_53-54
+# text = Ikichiash awa, nerok hekattar uhoyuppare wenotaupun shiokotpakor unuwetushmak.
+# text_ain = Ikichiash awa, nerok hekattar uhoyuppare
+# text_ain = wenotaupun shiokotpakor unuwetushmak.
+# text_ja = すると、彼の子供たちは走つて
+# text_ja = 砂吹雪をたてながら競爭しました。
+1	Ikichi	iki-ci	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	cc	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	nerok	nerok	DET	連体詞	_	7	det	_	_
+6	hekat	hekaci	NOUN	名詞	_	7	compound	_	SpaceAfter=No
+7	tar	utar	NOUN	名詞	_	8	nsubj	_	_
+8	uhoyuppare	u-hoyuppare	VERB	自動詞	_	15	advcl	_	_
+9	wen	wen	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+10	ota	ota	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+11	upun	upun	NOUN	名詞	_	12	obj	_	_
+12	shiokotpa	si-okot	VERB	他動詞	_	15	advcl	_	SpaceAfter=No
+13	kor	kor	SCONJ	接続助詞	_	12	mark	_	_
+14	un	un=	PART	人称接辞	_	15	obj	_	SpaceAfter=No
+15	uwetushmak	u-etusmak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_55-56
+# text = Toitoi kata hachirash koiramno hoshkinopo wenkur hekachi unkoshirepa uneshikari.
+# text_ain = Toitoi kata hachirash koiramno hoshkinopo
+# text_ain = wenkur hekachi unkoshirepa uneshikari.
+# text_ja = 土の上に私か落ちると一しよに、一等先に
+# text_ja = 貧乏な子がかけついて私を取りました、
+1	Toitoi	toytoy	NOUN	名詞	_	2	nmod	_	_
+2	ka	ka	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	hachir	hácir	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
+5	ash	=as	PART	人称接辞	_	4	nsubj	_	_
+6	ko	kor	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+7	iramno	iramno	ADV	副詞	_	12	advmod	_	_
+8	hoshkinopo	hoskinopo	ADV	副詞	_	12	advmod	_	_
+9	wenkur	wenkur	NOUN	名詞	_	10	nmod	_	_
+10	hekachi	hekaci	NOUN	名詞	_	12	nsubj	_	_
+11	un	un=	PART	人称接辞	_	12	obj	_	SpaceAfter=No
+12	koshirepa	kosirepa	VERB	他動詞	_	0	root	_	_
+13	un	un=	PART	人称接辞	_	14	obj	_	SpaceAfter=No
+14	eshikari	esikari	VERB	他動詞	_	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_57-60
+# text = Shirki chiki, teeta wenkur tane nishpa nep poutari iyoshino hoyuppa wa arki, tuwan wenitak rewan wenitak shuipa kane wenkur hekachi ukooputuipa ukokikkik.
+# text_ain = Shirki chiki, teeta wenkur tane nishpa nep
+# text_ain = poutari iyoshino hoyuppa wa arki,
+# text_ain = tuwan wenitak rewan wenitak shuipa kane
+# text_ain = wenkur hekachi ukooputuipa ukokikkik.
+# text_ja = すると、昔貧乏人で今が金持になつてる者の
+# text_ja = 子供たちは後から走つて來て
+# text_ja = 二十も三十も惡口をついて
+# text_ja = 貧乏な子を押したりたゝいたり
+1	Shirki	sirki	VERB	完全動詞	_	26	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	teeta	teeta	ADV	副詞	_	5	amod	_	_
+5	wenkur	wenkur	NOUN	名詞	_	7	nsubj	_	_
+6	tane	tane	ADV	副詞	_	7	amod	_	_
+7	nishpa	nispa	NOUN	名詞	_	9	acl	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	p	p	NOUN	形式名詞	_	10	nmod	_	_
+10	poutari	póutari	NOUN	名詞	_	12	nsubj	_	_
+11	iyoshino	iyosno	ADV	副詞	_	12	advmod	_	_
+12	hoyuppa	hoyuppa	VERB	自動詞	_	22	advcl	_	_
+13	wa	wa	SCONJ	接続助詞	_	12	mark	_	_
+14	arki	arki	VERB	自動詞	_	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	tuwan	tu-wan	NUM	数詞	_	18	nummod	_	_
+17	wen	wen	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	itak	itak	NOUN	名詞	_	22	obj	_	_
+19	rewan	re-wan	NUM	数詞	_	21	nummod	_	_
+20	wen	wen	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+21	itak	itak	NOUN	名詞	_	18	conj	_	_
+22	shuipa	suye	VERB	他動詞	_	26	advcl	_	_
+23	kane	kane	SCONJ	接続助詞	_	22	mark	_	_
+24	wenkur	wenkur	NOUN	名詞	_	25	nmod	_	_
+25	hekachi	hekaci	NOUN	名詞	_	26	obj	_	_
+26	ukooputuipa	uko-oputuye	VERB	他動詞	_	0	root	_	_
+27	ukokikkik	uko-kikkik	VERB	他動詞	_	26	conj	_	SpaceAfter=No
+28	.	.	PUNCT	記号	_	26	punct	_	_
+
+# sent_id = SYOS_1_61-62
+# text = “ Shirun hekachi wenkur hekachi hoshki tashi aki kushnep eiyetushmak.”
+# text_ain = “ Shirun hekachi wenkur hekachi
+# text_ain = hoshki tashi aki kushnep eiyetushmak.”
+# text_ja = 「にくらしい子、貧乏人の子
+# text_ja = 私たちが先にしようとする事を先がけしやがつて。」
+1	“	“	PUNCT	記号	_	15	punct	_	_
+2	Shirun	sirun-	PART	接頭辞	_	3	compound	_	_
+3	hekachi	hekaci	NOUN	名詞	_	15	vocative	_	_
+4	wenkur	wenkur	NOUN	名詞	_	5	nmod	_	_
+5	hekachi	hekaci	NOUN	名詞	_	3	appos	_	_
+6	hoshki	hoski	ADV	副詞	_	9	advcl	_	_
+7	tashi	tasi	ADP	副助詞	_	6	case	_	_
+8	a	a=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	12	acl	_	_
+10	kush	kus	SCONJ	接続詞	_	9	mark	_	SpaceAfter=No
+11	ne	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+12	p	p	NOUN	形式名詞	_	15	obj	_	_
+13	e	e=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+14	i	i=	PART	人称接辞	_	15	iobj	_	SpaceAfter=No
+15	yetushmak	etusmak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	SpaceAfter=No
+17	”	”	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_63-64
+# text = hawokai ko, wenkur hekachi unkashike kamu kamu unhonkokishma.
+# text_ain = hawokai ko, wenkur hekachi unkashike
+# text_ain = kamu kamu unhonkokishma.
+# text_ja = と云ふと、貧乏な子は、私の上に
+# text_ja = おほひかぶさつて、自分の腹にしつかりと私を押へてゐました。
+1	hawokai	hawean	VERB	自動詞	_	11	advcl	_	_
+2	ko	kor	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	wenkur	wenkur	NOUN	名詞	_	5	nmod	_	_
+5	hekachi	hekaci	NOUN	名詞	_	8	nsubj	_	_
+6	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+7	kashike	kasi	NOUN	位置名詞	_	8	obl	_	_
+8	kamu	kamu	VERB	他動詞	_	11	advcl	_	_
+9	kamu	kamu	VERB	他動詞	_	8	conj	_	_
+10	un	un=	PART	人称接辞	_	11	obj	_	SpaceAfter=No
+11	honkokishma	ehonkokisma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_1_65-66
+# text = Hushkotoi wano iki aine ainuutur wa soikosanu orowano hoyupu humi taknatara.
+# text_ain = Hushkotoi wano iki aine ainuutur wa
+# text_ain = soikosanu orowano hoyupu humi taknatara.
+# text_ja = もがいてもがひてやつとの事人の隙から
+# text_ja = 飛出しますと、それから、どんどんかけ出しました。
+1	Hushkotoi	huskotoy	NOUN	名詞	_	3	obl	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	iki	iki	VERB	自動詞	_	8	advcl	_	_
+4	aine	ayne	SCONJ	接続詞	_	3	mark	_	_
+5	ainu	aynu	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	utur	utur	NOUN	位置名詞	_	8	obl	_	_
+7	wa	wa	ADP	格助詞	_	6	case	_	_
+8	soikosanu	soy-kosanu	VERB	自動詞	_	13	advcl	_	_
+9	oro	or	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+10	wano	wano	ADP	格助詞	_	9	case	_	_
+11	hoyupu	hoyupu	VERB	自動詞	_	12	acl	_	_
+12	humi	humi	NOUN	形式名詞	_	13	nsubj	_	_
+13	taknatara	tak-natara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+
+# sent_id = SYOS_1_67-71
+# text = Teeta wenkur tane nishpa nep poutari shuma ari nihum ari yapkir korka wenkur hekachi senne pono ekottanu wenotaupum shiokote hoyupu aine shine ponchise chisesoikehe akoshirepa.
+# text_ain = Teeta wenkur tane nishpa nep poutari
+# text_ain = shuma ari nihum ari yapkir korka
+# text_ain = wenkur hekachi senne pono ekottanu
+# text_ain = wenotaupum shiokote hoyupu aine shine ponchise
+# text_ain = chisesoikehe akoshirepa.
+# text_ja = 昔貧乏人で今は金持の子供等が
+# text_ja = 石や木片を投げつけるけれど
+# text_ja = 貧乏な子はちつとも構はず
+# text_ja = 砂吹雪をたてながらかけて來て一軒の小屋の
+# text_ja = 表へ着きました。
+1	Teeta	teeta	ADV	副詞	_	2	amod	_	_
+2	wenkur	wenkur	NOUN	名詞	_	4	nsubj	_	_
+3	tane	tane	ADV	副詞	_	4	amod	_	_
+4	nishpa	nispa	NOUN	名詞	_	6	acl	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	p	p	NOUN	形式名詞	_	7	nmod	_	_
+7	poutari	póutari	NOUN	名詞	_	12	nsubj	_	_
+8	shuma	suma	NOUN	名詞	_	12	obl	_	_
+9	ari	ari	SCONJ	接続助詞	_	8	case	_	_
+10	nihum	nihum	NOUN	名詞	_	8	conj	_	_
+11	ari	ari	SCONJ	接続助詞	_	10	case	_	_
+12	yapkir	yapkir	VERB	自動詞	_	18	advcl	_	_
+13	korka	korka	CCONJ	接続詞	_	12	mark	_	_
+14	wenkur	wenkur	NOUN	名詞	_	15	nmod	_	_
+15	hekachi	hekaci	NOUN	名詞	_	18	nsubj	_	_
+16	senne	senne	ADV	副詞	_	17	advmod	_	_
+17	pono	ponno	ADV	副詞	_	18	advmod	_	_
+18	ekottanu	ekottanu	VERB	他動詞	_	24	advcl	_	_
+19	wen	wen	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+20	ota	ota	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
+21	upum	upun	NOUN	名詞	_	23	obj	_	_
+22	shi	si-	PART	接頭辞	_	23	iobj	_	SpaceAfter=No
+23	okote	okot	VERB	他動詞	_	24	advcl	_	_
+24	hoyupu	hoyupu	VERB	自動詞	_	32	advcl	_	_
+25	aine	ayne	SCONJ	接続詞	_	24	mark	_	_
+26	shine	sine	NUM	数詞	_	28	nummod	_	_
+27	pon	pon	VERB	自動詞	_	28	amod	_	SpaceAfter=No
+28	chise	cise	NOUN	名詞	_	32	obj	_	_
+29	chise	cise	NOUN	名詞	_	30	nmod	_	SpaceAfter=No
+30	soikehe	soyke	NOUN	位置名詞	_	32	obl	_	_
+31	a	a=	PART	人称接辞	_	32	nsubj	_	SpaceAfter=No
+32	koshirepa	kosirepa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+33	.	.	PUNCT	記号	_	32	punct	_	_
+
+# sent_id = SYOS_1_71-73
+# text = Pon hekachi rorunpurai kari unahunke kurkashike itakomare, tapne tapne nekatuhu eisoitak.
+# text_ain = Pon hekachi
+# text_ain = rorunpurai kari unahunke kurkashike
+# text_ain = itakomare, tapne tapne nekatuhu eisoitak.
+# text_ja = 子供は
+# text_ja = 第一の窻から私を入れて、それに
+# text_ja = 言葉を添へ、斯々のありさまを物語りました。
+1	Pon	pon	VERB	自動詞	_	2	amod	_	_
+2	hekachi	hekaci	NOUN	名詞	_	8	nsubj	_	_
+3	ror	ror	NOUN	位置名詞	_	5	nmod	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	purai	puray	NOUN	名詞	_	8	obl	_	_
+6	kari	kari	SCONJ	後置副詞	_	5	case	_	_
+7	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+8	ahunke	ahunke	VERB	他動詞	_	17	advcl	_	_
+9	kurkashike	kurkasike	NOUN	位置名詞	_	11	iobj	_	_
+10	itak	itak	NOUN	名詞	_	11	obj	_	SpaceAfter=No
+11	omare	omare	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	11	punct	_	_
+13	tapne	tapne	ADV	副詞	_	17	advmod	_	_
+14	tapne	tapne	ADV	副詞	_	13	conj	_	_
+15	ne	ne	DET	連体詞	_	16	det	_	SpaceAfter=No
+16	katuhu	katu	NOUN	名詞	_	17	obj	_	_
+17	eisoitak	e-isoitak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
+
+# sent_id = SYOS_1_74-78
+# text = Chiseupshor wa onneumurek tekkakipo rikunruke raunruke arki wa inkarash ko, shino wenkur ikikorkaiki nishpa ipor katkemat ipor ukoturpa, unnukar awa, ikkeu noshki komkosampa.
+# text_ain = Chiseupshor wa onneumurek
+# text_ain = tekkakipo rikunruke raunruke arki wa
+# text_ain = inkarash ko, shino wenkur ikikorkaiki
+# text_ain = nishpa ipor katkemat ipor ukoturpa,
+# text_ain = unnukar awa, ikkeu noshki komkosampa.
+# text_ja = 家の中から老夫婦が
+# text_ja = 眼の上に手をかざしながらやつて來て
+# text_ja = 見ると、大へんな貧乏人ではあるけれども
+# text_ja = 紳士らしい淑女らしい品をそなへてゐます、
+# text_ja = 私を見ると、腰の央をギツクリ屈めて、ビックリしました。
+1	Chise	cise	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	upshor	upsor	NOUN	名詞	_	11	obl	_	_
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	onne	onne	VERB	自動詞	_	5	amod	_	SpaceAfter=No
+5	umurek	umurek	NOUN	名詞	_	8	nsubj	_	_
+6	tekkakipo	tekkaki	NOUN	名詞	_	8	obj	_	_
+7	rik	rik	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+8	unruke	uyruke	VERB	他動詞	_	11	advcl	_	_
+9	ra	ra	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+10	unruke	uyruke	VERB	他動詞	_	8	conj	_	_
+11	arki	arki	VERB	自動詞	_	33	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	inkar	inkar	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+14	ash	=as	PART	人称接辞	_	13	nsubj	_	_
+15	ko	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	13	punct	_	_
+17	shino	sino	ADV	副詞	_	19	advmod	_	_
+18	wenkur	wenkur	NOUN	名詞	_	19	nsubj	_	_
+19	iki	iki	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+20	korkaiki	korkayki	SCONJ	接続助詞	_	19	mark	_	_
+21	nishpa	nispa	NOUN	名詞	_	22	nmod	_	_
+22	ipor	ipor	NOUN	名詞	_	25	obj	_	_
+23	katkemat	katkemat	NOUN	名詞	_	24	nmod	_	_
+24	ipor	ipor	NOUN	名詞	_	22	conj	_	_
+25	ukoturpa	uko-turi	VERB	他動詞	_	33	advcl	_	SpaceAfter=No
+26	,	,	PUNCT	記号	_	25	punct	_	_
+27	un	un=	PART	人称接辞	_	28	obj	_	SpaceAfter=No
+28	nukar	nukar	VERB	他動詞	_	33	advcl	_	_
+29	awa	awa	CCONJ	接続詞	_	28	mark	_	SpaceAfter=No
+30	,	,	PUNCT	記号	_	28	punct	_	_
+31	ikkeu	ikkew	NOUN	名詞	_	32	nmod	_	_
+32	noshki	noski	NOUN	位置名詞	_	33	obl	_	_
+33	komkosampa	kom-kosanpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+34	.	.	PUNCT	記号	_	33	punct	_	_
+
+# sent_id = SYOS_1_79-80
+# text = Poroshikupkur yaikokutkor yupu kane unkoonkami.
+# text_ain = Poroshikupkur yaikokutkor yupu kane
+# text_ain = unkoonkami.
+# text_ja = 老人はキチンと帶をしめ直して、
+# text_ja = 私を拜し
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	kur	kur	NOUN	名詞	_	4	nsubj	_	_
+4	yaikokutkor	yay-ko-kutkor	VERB	自動詞	_	8	advcl	_	_
+5	yupu	yupu	VERB	他動詞	_	4	conj	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+8	koonkami	koonkami	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+
+# sent_id = SYOS_1_81-83
+# text = “ Kamuichikap kamui pase kamui wenash shiri chiwenchisehe koshirepa shiri iyairaikere.
+# text_ain = “ Kamuichikap kamui pase kamui
+# text_ain = wenash shiri chiwenchisehe
+# text_ain = koshirepa shiri iyairaikere.
+# text_ja = 「ふくらふの神樣、大神樣、
+# text_ja = 貧しい私たちの粗未な家へ
+# text_ja = お出で下さいました事、有難う御座います。
+1	“	“	PUNCT	記号	_	9	punct	_	_
+2	Kamui	kamuy	NOUN	名詞	_	3	compound	_	SpaceAfter=No
+3	chikap	cikap	NOUN	名詞	_	4	nmod	_	_
+4	kamui	kamuy	NOUN	名詞	_	9	vocative	_	_
+5	pase	pase	VERB	自動詞	_	6	amod	_	_
+6	kamui	kamuy	NOUN	名詞	_	4	appos	_	_
+7	wen	wen	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	ash	=as	PART	人称接辞	_	7	nsubj	_	_
+9	shiri	siri	NOUN	形式名詞	_	0	root	_	_
+10	chi	ci=	PART	人称接辞	_	12	det	_	SpaceAfter=No
+11	wen	wen	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	chisehe	cise	NOUN	名詞	_	13	obj	_	_
+13	koshirepa	kosirepa	VERB	他動詞	_	14	acl	_	_
+14	shiri	siri	NOUN	形式名詞	_	9	conj	_	_
+15	iyairaikere	iyayraykere	INTJ	間投詞	_	9	discourse	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_84-91
+# text = Teeta anak nishpa otta yayukopishkip chine akorka tane anakne tan korachi shirun wenkur ne okayash wa, kotankor kamui pase kamui chireushire ka aeoripak kiwaneyakka tanto anak tane shirkunne kushu tanukuran pase kamui areushire wa nisatta anak ouse inau aripoka pase kamui aomante kushne.”
+# text_ain = Teeta anak nishpa otta yayukopishkip
+# text_ain = chine akorka tane anakne tan korachi
+# text_ain = shirun wenkur ne okayash wa, kotankor kamui
+# text_ain = pase kamui chireushire ka
+# text_ain = aeoripak kiwaneyakka tanto anak
+# text_ain = tane shirkunne kushu tanukuran pase kamui
+# text_ain = areushire wa nisatta anak ouse inau aripoka
+# text_ain = pase kamui aomante kushne.”
+# text_ja = 昔は、お金持に自分を數へ入れるほどの者で
+# text_ja = 御座いましたが今はもう此の樣に
+# text_ja = つまらない貧乏人になりまして、國の神樣
+# text_ja = 大神樣お泊め申すも
+# text_ja = 畏れ多い事ながら今日はもう
+# text_ja = 日も暮れましたから、今宵は大神樣を
+# text_ja = お泊め申上げ、明日は、たゞイナウだけでも
+# text_ja = 大神樣をお送り申し上げませう。」
+1	Teeta	teeta	ADV	副詞	_	6	advmod	_	_
+2	anak	anak	ADP	副助詞	_	1	case	_	_
+3	nishpa	nispa	NOUN	名詞	_	4	nmod	_	_
+4	ot	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	yayukopishki	yay-u-kopis-ki	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	p	p	NOUN	形式名詞	_	32	advcl	_	_
+8	chi	ci=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+9	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+10	a	a	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+11	korka	korka	CCONJ	接続詞	_	7	cc	_	_
+12	tane	tane	ADV	副詞	_	17	advmod	_	_
+13	anakne	anakne	ADP	副助詞	_	12	case	_	_
+14	tan	tan	DET	連体詞	_	17	det	_	_
+15	korachi	koraci	SCONJ	後置副詞	_	14	case	_	_
+16	shirun	sirun-	PART	接頭辞	_	17	compound	_	_
+17	wenkur	wenkur	NOUN	名詞	_	19	advcl	_	_
+18	ne	ne	AUX	デアル動詞	_	17	cop	_	_
+19	okay	an	VERB	自動詞	_	7	conj	_	SpaceAfter=No
+20	ash	=as	PART	人称接辞	_	19	nsubj	_	_
+21	wa	wa	SCONJ	接続助詞	_	19	mark	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	19	punct	_	_
+23	kotan	kotan	NOUN	名詞	_	24	nsubj	_	SpaceAfter=No
+24	kor	kor	VERB	他動詞	_	25	acl	_	_
+25	kamui	kamuy	NOUN	名詞	_	29	obj	_	_
+26	pase	pase	VERB	自動詞	_	27	amod	_	_
+27	kamui	kamuy	NOUN	名詞	_	25	appos	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	reushire	rewsire	VERB	他動詞	_	32	ccomp	_	_
+30	ka	ka	ADP	副助詞	_	29	mark	_	_
+31	a	a=	PART	人称接辞	_	32	nsubj	_	SpaceAfter=No
+32	eoripak	eoripak	VERB	他動詞	_	33	advcl	_	_
+33	ki	ki	VERB	他動詞	_	40	advcl	_	SpaceAfter=No
+34	wa	wa	SCONJ	接続助詞	_	33	mark	_	SpaceAfter=No
+35	ne	ne	AUX	助動詞	_	33	aux	_	SpaceAfter=No
+36	yakka	yakka	SCONJ	接続助詞	_	33	mark	_	_
+37	tanto	tanto	ADV	副詞	_	40	advmod	_	_
+38	anak	anak	ADP	副助詞	_	37	case	_	_
+39	tane	tane	ADV	副詞	_	40	advmod	_	_
+40	shirkunne	sirkunne	VERB	完全動詞	_	46	advcl	_	_
+41	kushu	kusu	SCONJ	接続助詞	_	40	mark	_	_
+42	tanukuran	tanukuran	ADV	副詞	_	46	advmod	_	_
+43	pase	pase	VERB	自動詞	_	44	amod	_	_
+44	kamui	kamuy	NOUN	名詞	_	46	obj	_	_
+45	a	a=	PART	人称接辞	_	46	nsubj	_	SpaceAfter=No
+46	reushire	rewsire	VERB	他動詞	_	57	advcl	_	_
+47	wa	wa	SCONJ	接続助詞	_	46	mark	_	_
+48	nisatta	nisatta	ADV	副詞	_	57	advmod	_	_
+49	anak	anak	ADP	副助詞	_	48	case	_	_
+50	ouse	ouse	ADV	副詞	_	51	amod	_	_
+51	inau	inaw	NOUN	名詞	_	57	obl	_	_
+52	ari	ari	SCONJ	接続助詞	_	51	case	_	SpaceAfter=No
+53	poka	póka	ADP	副助詞	_	51	case	_	_
+54	pase	pase	VERB	自動詞	_	55	amod	_	_
+55	kamui	kamuy	NOUN	名詞	_	57	obj	_	_
+56	a	a=	PART	人称接辞	_	57	nsubj	_	SpaceAfter=No
+57	omante	omante	VERB	他動詞	_	0	root	_	_
+58	kush	kusu	SCONJ	接続詞	_	57	mark	_	SpaceAfter=No
+59	ne	ne	AUX	デアル動詞	_	57	cop	_	SpaceAfter=No
+60	.	.	PUNCT	記号	_	57	punct	_	SpaceAfter=No
+61	”	”	PUNCT	記号	_	57	punct	_	_
+
+# sent_id = SYOS_1_91-92
+# text = ari okaipe ye kor tuwan onkami rewan onkami ukakushte.
+# text_ain = ari okaipe
+# text_ain = ye kor tuwan onkami rewan onkami ukakushte.
+# text_ja = と言ふ事を
+# text_ja = 申しながら何遍も何遍も禮拜を重ねました。
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	okai	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	pe	pe	NOUN	形式名詞	_	4	obj	_	_
+4	ye	ye	VERB	他動詞	_	11	advcl	_	_
+5	kor	kor	SCONJ	接続助詞	_	4	mark	_	_
+6	tuwan	tu-wan	NUM	数詞	_	7	nummod	_	_
+7	onkami	onkami	VERB	自動詞	_	11	ccomp	_	_
+8	rewan	re-wan	NUM	数詞	_	9	nummod	_	_
+9	onkami	onkami	VERB	自動詞	_	7	conj	_	_
+10	uka	uka	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+11	kushte	kuste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_1_93-94
+# text = Poroshikupmat rorunpurai chorpoketa okitarunpe soho kar wa otta unante.
+# text_ain = Poroshikupmat rorunpurai chorpoketa
+# text_ain = okitarunpe soho kar wa otta unante.
+# text_ja = 老婦人は、東の窻の下に
+# text_ja = 敷物をしいて私を其處へ置きました。
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	11	nsubj	_	_
+4	ror	ror	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	purai	puray	NOUN	名詞	_	7	nmod	_	_
+7	chorpoke	corpok	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+8	ta	ta	ADP	格助詞	_	7	case	_	_
+9	okitarunpe	okitarunpe	NOUN	名詞	_	10	nmod	_	_
+10	soho	sóho	NOUN	名詞	_	11	obj	_	_
+11	kar	kar	VERB	他動詞	_	16	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	ot	or	NOUN	位置名詞	_	16	obl	_	SpaceAfter=No
+14	ta	ta	ADP	格助詞	_	13	case	_	_
+15	un	un=	PART	人称接辞	_	16	obj	_	SpaceAfter=No
+16	ante	ante	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+
+# sent_id = SYOS_1_95-96
+# text = Taporowa opittano hotkei nani etoro hawe meshrototke.
+# text_ain = Taporowa opittano hotkei nani etoro hawe
+# text_ain = meshrototke.
+# text_ja = それからみんな寢ると直ぐに高いびきで
+# text_ja = 寢入つてしまひました。
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	opittano	opitta-no	ADV	副詞	_	5	advmod	_	_
+5	hotke	hotke	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+6	i	-i	PART	接尾辞	_	10	obl	_	_
+7	nani	nani	ADV	副詞	_	8	advmod	_	_
+8	etoro	etoro	VERB	自動詞	_	9	acl	_	_
+9	hawe	hawe	NOUN	形式名詞	_	10	nsubj	_	_
+10	meshrototke	mes-rototke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+
+# sent_id = SYOS_1_97-99
+# text = Chinetopake ashurpe ututta rokash kane okayash aine shiannoshki turpaketa chirikipuniash.
+# text_ain = Chinetopake ashurpe ututta rokash kane
+# text_ain = okayash aine shiannoshki turpaketa
+# text_ain = chirikipuniash.
+# text_ja = 私は私の體の耳と耳の間に坐つて
+# text_ja = ゐましたがやがて、ちようど、眞夜中時分に
+# text_ja = 起上りました。
+1	Chi	ci=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	netopake	netopake	NOUN	名詞	_	3	nmod	_	_
+3	ashurpe	asurpe	NOUN	名詞	_	4	nmod	_	_
+4	utut	utur	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	rok	rok	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+7	ash	=as	PART	人称接辞	_	6	nsubj	_	_
+8	kane	kane	SCONJ	接続助詞	_	6	mark	_	_
+9	okay	an	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+10	ash	=as	PART	人称接辞	_	9	nsubj	_	_
+11	aine	ayne	SCONJ	接続詞	_	9	mark	_	_
+12	shiannoshki	si-annoski	NOUN	名詞	_	13	nsubj	_	_
+13	turpake	turpa-ke	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+14	ta	ta	ADP	格助詞	_	13	mark	_	_
+15	chirikipuni	cirikipuni	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	ash	=as	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_100-101
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan.”
+# text_ain = “ Shirokanipe ranran pishkan,
+# text_ain = konkanipe ranran pishkan.”
+# text_ja = 「銀の滴降る降るまはりに、
+# text_ja = 金の滴降る降るまはりに。」
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	SpaceAfter=No
+14	”	”	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_102-104
+# text = arian rekpo haukenopo chiki kane, tapan ponchise eharkiso un eshiso un terkeash humi tununitara.
+# text_ain = arian rekpo haukenopo chiki kane,
+# text_ain = tapan ponchise eharkiso un eshiso un
+# text_ain = terkeash humi tununitara.
+# text_ja = といふ歌を靜かにうたひながら
+# text_ja = 此の家の左の座へ右の座へ
+# text_ja = 美しい音をたてゝ飛びました。
+1	ari	ari	SCONJ	接続助詞	_	6	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	6	obj	_	_
+4	haukenopo	hawkeno	ADV	副詞	_	6	advmod	_	_
+5	chi	ci=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ki	ki	VERB	他動詞	_	19	advcl	_	_
+7	kane	kane	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	tapan	tapan	DET	連体詞	_	11	det	_	_
+10	pon	pon	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+11	chise	cise	NOUN	名詞	_	12	nmod	_	_
+12	eharkiso	e-harkiso	NOUN	位置名詞	_	16	obl	_	_
+13	un	un	ADP	格助詞	_	12	case	_	_
+14	eshiso	e-siso	NOUN	位置名詞	_	12	conj	_	_
+15	un	un	ADP	格助詞	_	14	case	_	_
+16	terke	terke	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+17	ash	=as	PART	人称接辞	_	16	nsubj	_	_
+18	humi	humi	NOUN	名詞	_	19	nsubj	_	_
+19	tununitara	tununitara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	19	punct	_	_
+
+# sent_id = SYOS_1_105-107
+# text = Shirappaash ko unpishkan ta pirkaikor kamuiikor tuihumkonna tununitara.
+# text_ain = Shirappaash ko unpishkan ta
+# text_ain = pirkaikor kamuiikor tuihumkonna
+# text_ain = tununitara.
+# text_ja = 私が羽ばたきをすると、私のまはりに
+# text_ja = 美しい寶物、神の寶物が美しい音をたてゝ
+# text_ja = 落ち散りました。
+1	Shirappa	sirappa	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	ko	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	un	un=	PART	人称接辞	_	5	det	_	SpaceAfter=No
+5	pishkan	piskan	NOUN	位置名詞	_	11	obl	_	_
+6	ta	ta	ADP	格助詞	_	5	case	_	_
+7	pirka	pirka	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ikor	ikor	NOUN	名詞	_	11	nsubj	_	_
+9	kamui	kamuy	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	ikor	ikor	NOUN	名詞	_	8	conj	_	_
+11	tui	tuy	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+12	hum	hum	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+13	konna	konna	ADP	副助詞	_	12	case	_	_
+14	tununitara	tununitara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	14	punct	_	_
+
+# sent_id = SYOS_1_108-109
+# text = Irukai neko tan ponchise pirkaikor kamuiikor chieshikte.
+# text_ain = Irukai neko tan ponchise pirkaikor
+# text_ain = kamuiikor chieshikte.
+# text_ja = 一寸のうちに、此の小さい家を、りつぱな寶物
+# text_ja = 神の寶物で一ぱいにしました。
+1	Irukai	iruka	ADV	副詞	_	12	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	ko	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	tan	tan	DET	連体詞	_	6	det	_	_
+5	pon	pon	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	chise	cise	NOUN	名詞	_	12	obj	_	_
+7	pirka	pirka	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ikor	ikor	NOUN	名詞	_	12	iobj	_	_
+9	kamui	kamuy	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	ikor	ikor	NOUN	名詞	_	8	conj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eshikte	esikte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_110-111
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan.”
+# text_ain = “ Shirokanipe ranran pishkan,
+# text_ain = konkanipe ranran pishkan.”
+# text_ja = 「銀の滴降る降るまはりに、
+# text_ja = 金の滴降る降るまはりに。」
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	SpaceAfter=No
+14	”	”	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_112-116
+# text = arian rekpo chiki kane tapan ponchise irukai neko kani chise poro chise ne chikar okere, chiseupshoro kamuiimoma chiekarkar, kamuikosonte pirkaike chitunashkarkar chiseupshoro chietomte.
+# text_ain = arian rekpo chiki kane tapan ponchise
+# text_ain = irukai neko kani chise poro chise ne
+# text_ain = chikar okere, chiseupshoro kamuiimoma
+# text_ain = chiekarkar, kamuikosonte pirkaike
+# text_ain = chitunashkarkar chiseupshoro chietomte.
+# text_ja = といふ歌をうたひながら此の小さい家を
+# text_ja = 一寸の間にかねの家、大きな家に
+# text_ja = 作りかへてしまひました、家の中は、りつぱな寶物の積場
+# text_ja = を作り、りつぱな着物の美しいのを
+# text_ja = 早つぐりして家の中を飾りつけました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ki	ki	VERB	他動詞	_	19	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	tapan	tapan	DET	連体詞	_	9	det	_	_
+8	pon	pon	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	chise	cise	NOUN	名詞	_	14	nsubj	_	_
+10	irukai	iruka	ADV	副詞	_	14	advcl	_	_
+11	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	ko	kor	SCONJ	接続助詞	_	10	mark	_	_
+13	kani	kani	NOUN	名詞	_	14	nmod	_	_
+14	chise	cise	NOUN	名詞	_	19	ccomp	_	_
+15	poro	poro	VERB	自動詞	_	16	amod	_	_
+16	chise	cise	NOUN	名詞	_	14	appos	_	_
+17	ne	ne	AUX	デアル動詞	_	14	cop	_	_
+18	chi	ci=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	kar	kar	VERB	他動詞	_	39	advcl	_	_
+20	okere	okere	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	,	,	PUNCT	記号	_	19	punct	_	_
+22	chise	cise	NOUN	名詞	_	23	nmod	_	SpaceAfter=No
+23	upshoro	upsoro	NOUN	名詞	_	27	obl	_	_
+24	kamui	kamuy	NOUN	名詞	_	25	nmod	_	SpaceAfter=No
+25	imoma	imoma	NOUN	名詞	_	27	obj	_	_
+26	chi	ci=	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	ekarkar	ekarkar	VERB	他動詞	_	39	advcl	_	SpaceAfter=No
+28	,	,	PUNCT	記号	_	27	punct	_	_
+29	kamui	kamuy	NOUN	名詞	_	30	nmod	_	SpaceAfter=No
+30	kosonte	kosonte	NOUN	名詞	_	32	nmod	_	_
+31	pirka	pirka	VERB	自動詞	_	32	amod	_	SpaceAfter=No
+32	ike	-i	NOUN	形式名詞	_	35	obj	_	_
+33	chi	ci=	PART	人称接辞	_	35	nsubj	_	SpaceAfter=No
+34	tunash	tunas	ADV	副詞	_	35	advmod	_	SpaceAfter=No
+35	karkar	karkar	VERB	他動詞	_	39	advcl	_	_
+36	chise	cise	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
+37	upshoro	upsoro	NOUN	名詞	_	39	obj	_	_
+38	chi	ci=	PART	人称接辞	_	39	nsubj	_	SpaceAfter=No
+39	etomte	e-tomte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+40	.	.	PUNCT	記号	_	39	punct	_	_
+
+# sent_id = SYOS_1_117-120
+# text = Nishpa horari ruwe okkashita tan porochise upshoroho chitomtekarkar, chiokere ko hushko anpe chishikopayar chihayokpehe ashurpeututa rokash kane okayash.
+# text_ain = Nishpa horari ruwe okkashita tan porochise
+# text_ain = upshoroho chitomtekarkar, chiokere ko
+# text_ain = hushko anpe chishikopayar chihayokpehe
+# text_ain = ashurpeututa rokash kane okayash.
+# text_ja = 富豪の家よりももつとりつぱに此の大きな家の
+# text_ja = 中を飾りつけました。私はそれを終ると
+# text_ja = もとのまゝに私の冑の
+# text_ja = 耳と耳の間に坐つてゐました。
+1	Nishpa	nispa	NOUN	名詞	_	3	nmod	_	_
+2	horari	horari	VERB	自動詞	_	3	amod	_	_
+3	ruwe	ruwe	NOUN	形式名詞	_	4	nmod	_	_
+4	okkashi	okkasi	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	tan	tan	DET	連体詞	_	8	det	_	_
+7	poro	poro	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	chise	cise	NOUN	名詞	_	9	nmod	_	_
+9	upshoroho	upsoroho	NOUN	名詞	_	11	obj	_	_
+10	chi	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	tomtekarkar	tomte-karkar	VERB	他動詞	_	26	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	11	punct	_	_
+13	chi	ci=	PART	人称接辞	_	14	nsubj	_	SpaceAfter=No
+14	okere	okere	VERB	他動詞	_	26	advcl	_	_
+15	ko	kor	SCONJ	接続助詞	_	14	mark	_	_
+16	hushko	husko	VERB	自動詞	_	18	amod	_	_
+17	an	an	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	pe	pe	NOUN	形式名詞	_	20	obj	_	_
+19	chi	ci=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+20	shikopayar	sikopayar	VERB	他動詞	_	26	advcl	_	_
+21	chi	ci=	PART	人称接辞	_	22	det	_	SpaceAfter=No
+22	hayokpehe	hayokpe	NOUN	名詞	_	23	nmod	_	_
+23	ashurpe	asurpe	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
+24	utu	utur	NOUN	位置名詞	_	26	obl	_	SpaceAfter=No
+25	ta	ta	ADP	格助詞	_	24	case	_	_
+26	rok	rok	VERB	自動詞	_	29	advcl	_	SpaceAfter=No
+27	ash	=as	PART	人称接辞	_	26	nsubj	_	_
+28	kane	kane	SCONJ	接続助詞	_	26	mark	_	_
+29	okay	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+30	ash	=as	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	29	punct	_	_
+
+# sent_id = SYOS_1_121
+# text = chisekorutar chiwentarapka.
+# text_ain = chisekorutar chiwentarapka.
+# text_ja = 家の人たちに夢を見せて
+1	chise	cise	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	kor	kor	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	utar	utar	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	wentarapka	wentarap-ka	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+
+# sent_id = SYOS_1_122-128
+# text = Ainunishpa maukowen wa wenkur ne wa, teeta wenkur tane nishpa nep utarorke wa apiye hawe akorewen shiri chinukar wa, chierampoken kushu, pashtakamui chine ruwe ka shomone korka, ainuchise chiko reushi chipirkare ruwe ne katuhu chieramante.
+# text_ain = Ainunishpa maukowen wa wenkur ne wa,
+# text_ain = teeta wenkur tane nishpa nep utarorke wa
+# text_ain = apiye hawe akorewen shiri chinukar wa,
+# text_ain = chierampoken kushu, pashtakamui
+# text_ain = chine ruwe ka shomone korka, ainuchise
+# text_ain = chiko reushi chipirkare ruwe ne katuhu
+# text_ain = chieramante.
+# text_ja = アイヌのニシパが運が惡くて貧乏人になつて
+# text_ja = 昔貧乏人で今お金持になつてる者たちに
+# text_ja = ばかにされたりいぢめられたりしてるさまを私が見て
+# text_ja = 不憫に思つたので、私は身分の卑しいたゞの神では
+# text_ja = ないのだが、人間の家
+# text_ja = に泊つて、惠んでやつたのだといふ事を
+# text_ja = 知らせました。
+1	Ainu	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	nishpa	nispa	NOUN	名詞	_	3	nsubj	_	_
+3	maukowen	mawkowen	VERB	自動詞	_	5	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	wenkur	wenkur	NOUN	名詞	_	25	advcl	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+7	wa	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	5	punct	_	_
+9	teeta	teeta	ADV	副詞	_	10	amod	_	_
+10	wenkur	wenkur	NOUN	名詞	_	12	nsubj	_	_
+11	tane	tane	ADV	副詞	_	12	amod	_	_
+12	nishpa	nispa	NOUN	名詞	_	14	acl	_	_
+13	ne	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	p	p	NOUN	形式名詞	_	15	nmod	_	_
+15	utar	utar	NOUN	名詞	_	25	obl	_	SpaceAfter=No
+16	orke	orke	ADP	副助詞	_	15	case	_	_
+17	wa	wa	SCONJ	接続助詞	_	15	case	_	_
+18	a	a=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	piye	piye	VERB	他動詞	_	20	acl	_	_
+20	hawe	hawe	NOUN	形式名詞	_	25	obj	_	_
+21	a	a=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+22	korewen	korewen	VERB	他動詞	_	23	acl	_	_
+23	shiri	siri	NOUN	形式名詞	_	20	conj	_	_
+24	chi	ci=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	nukar	nukar	VERB	他動詞	_	36	advcl	_	_
+26	wa	wa	SCONJ	接続助詞	_	25	mark	_	SpaceAfter=No
+27	,	,	PUNCT	記号	_	25	punct	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	erampoken	erampoken	VERB	他動詞	_	25	conj	_	_
+30	kushu	kusu	SCONJ	接続助詞	_	29	mark	_	SpaceAfter=No
+31	,	,	PUNCT	記号	_	29	punct	_	_
+32	pashta	pasta	NOUN	名詞	_	33	nmod	_	SpaceAfter=No
+33	kamui	kamuy	NOUN	名詞	_	36	acl	_	_
+34	chi	ci=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+35	ne	ne	AUX	デアル動詞	_	33	cop	_	_
+36	ruwe	ruwe	NOUN	形式名詞	_	48	advcl	_	_
+37	ka	ka	ADP	副助詞	_	36	case	_	_
+38	shomo	somo	ADV	副詞	_	39	advmod	_	SpaceAfter=No
+39	ne	ne	AUX	デアル動詞	_	36	cop	_	_
+40	korka	korka	CCONJ	接続詞	_	36	cc	_	SpaceAfter=No
+41	,	,	PUNCT	記号	_	36	punct	_	_
+42	ainu	aynu	NOUN	名詞	_	43	nmod	_	SpaceAfter=No
+43	chise	cise	NOUN	名詞	_	45	obj	_	_
+44	chi	ci=	PART	人称接辞	_	45	nsubj	_	SpaceAfter=No
+45	ko reushi	koreushi	VERB	他動詞	_	47	advcl	_	_
+46	chi	ci=	PART	人称接辞	_	47	nsubj	_	SpaceAfter=No
+47	pirkare	pirkare	VERB	他動詞	_	48	acl	_	_
+48	ruwe	ruwe	NOUN	形式名詞	_	50	acl	_	_
+49	ne	ne	AUX	デアル動詞	_	48	cop	_	_
+50	katuhu	katuhu	NOUN	形式名詞	_	52	obj	_	_
+51	chi	ci=	PART	人称接辞	_	52	nsubj	_	SpaceAfter=No
+52	eramante	eramante	VERB	他動詞	_	0	root	_	SpaceAfter=No
+53	.	.	PUNCT	記号	_	52	punct	_	_
+
+# sent_id = SYOS_1_129-130
+# text = Taporowa ponno okayash shirpeker awa chisekor utar shine ikinne uhopunpare.
+# text_ain = Taporowa ponno okayash shirpeker awa
+# text_ain = chisekor utar shine ikinne uhopunpare.
+# text_ja = それが濟んで少したつて夜が明けますと
+# text_ja = 家の人々が一しよに起きて
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+5	okay	an	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+6	ash	=as	PART	人称接辞	_	5	nsubj	_	_
+7	shirpeker	sirpeker	VERB	完全動詞	_	15	advcl	_	_
+8	awa	awa	CCONJ	接続詞	_	7	cc	_	_
+9	chise	cise	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+10	kor	kor	VERB	他動詞	_	11	acl	_	_
+11	utar	utar	NOUN	名詞	_	15	nsubj	_	_
+12	shine	sine	NUM	数詞	_	13	nummod	_	_
+13	ikin	ikir	NOUN	名詞	_	15	obl	_	SpaceAfter=No
+14	ne	ne	AUX	デアル動詞	_	13	cop	_	_
+15	uhopunpare	uhopunpare	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_131-132
+# text = Shik noyanoya inkanrokpe opittano amso kata oahuntaipa.
+# text_ain = Shik noyanoya inkanrokpe opittano
+# text_ain = amso kata oahuntaipa.
+# text_ja = 目をこすりこすり家の中を見るとみんな
+# text_ja = 床の上に腰を拔かしてしまひました。
+1	Shik	sik	NOUN	名詞	_	2	obj	_	_
+2	noyanoya	noyanoya	VERB	他動詞	_	3	advcl	_	_
+3	inkan	inkar	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	rok	rok	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	pe	pe	NOUN	形式名詞	_	10	nsubj	_	_
+6	opittano	opitta-no	ADV	副詞	_	10	advmod	_	_
+7	amso	amso	NOUN	名詞	_	8	nmod	_	_
+8	ka	ka	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	ta	ta	ADP	格助詞	_	8	case	_	_
+10	oahuntaipa	oahun-etaye	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+
+# sent_id = SYOS_1_132-137
+# text = Poroshikupmat tuchish wenpe yayekote, poroshikupkur tu pekernupe re pekernupe yaikorapte, okai rokine, poroshikupkur chirikipuni unotta arki tuwan onkami rewan onkami ukakushte kurkashike itakomare :
+# text_ain = Poroshikupmat
+# text_ain = tuchish wenpe yayekote, poroshikupkur
+# text_ain = tu pekernupe re pekernupe yaikorapte,
+# text_ain = okai rokine, poroshikupkur chirikipuni
+# text_ain = unotta arki tuwan onkami rewan onkami
+# text_ain = ukakushte kurkashike itakomare :
+# text_ja = 老婦人は
+# text_ja = 聲を上げて泣き老人は
+# text_ja = 大粒の淚をポロポロこぼして
+# text_ja = ゐましたが、やがて、老人は起上り
+# text_ja = 私の處へ來て、二十も三十も禮拜
+# text_ja = を重ねて、そして云ふ事には
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	5	nsubj	_	_
+4	tu	tu	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+5	chish	cis	VERB	自動詞	_	6	advcl	_	_
+6	wen	wen	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	pe	pe	NOUN	形式名詞	_	8	obj	_	_
+8	yayekote	yayekote	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	poro	poro	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+11	shikup	sukup	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	kur	kur	NOUN	名詞	_	19	nsubj	_	_
+13	tu	tu	NUM	数詞	_	15	nummod	_	_
+14	peker	peker	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+15	nupe	nupe	NOUN	位置名詞	_	19	obj	_	_
+16	re	re	NUM	数詞	_	18	nummod	_	_
+17	peker	peker	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	nupe	nupe	NOUN	名詞	_	15	conj	_	_
+19	yaikorapte	yaykorapte	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	記号	_	19	punct	_	_
+21	okai	an	VERB	自動詞	_	32	advcl	_	_
+22	rok	rok	AUX	助動詞	_	21	aux	_	SpaceAfter=No
+23	ine	hine	SCONJ	接続助詞	_	21	mark	_	SpaceAfter=No
+24	,	,	PUNCT	記号	_	21	punct	_	_
+25	poro	poro	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+26	shikup	sukup	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+27	kur	kur	NOUN	名詞	_	28	nsubj	_	_
+28	chirikipuni	cirikipuni	VERB	他動詞	_	32	advcl	_	_
+29	un	un=	PART	人称接辞	_	30	det	_	SpaceAfter=No
+30	ot	or	NOUN	位置名詞	_	32	obl	_	SpaceAfter=No
+31	ta	ta	ADP	格助詞	_	30	case	_	_
+32	arki	arki	VERB	自動詞	_	41	advcl	_	_
+33	tuwan	tuwan	NUM	数詞	_	34	nummod	_	_
+34	onkami	onkami	VERB	自動詞	_	38	ccomp	_	_
+35	rewan	rewan	NUM	数詞	_	36	nummod	_	_
+36	onkami	onkami	VERB	自動詞	_	34	conj	_	_
+37	uka	uka	NOUN	位置名詞	_	38	iobj	_	SpaceAfter=No
+38	kushte	kuste	VERB	他動詞	_	41	advcl	_	_
+39	kurkashike	kurkasike	NOUN	位置名詞	_	41	iobj	_	_
+40	itak	itak	NOUN	名詞	_	41	obj	_	SpaceAfter=No
+41	omare	omare	VERB	他動詞	_	0	root	_	_
+42	:	:	PUNCT	記号	_	41	punct	_	_
+
+# sent_id = SYOS_1_138-145
+# text = “ Tarap hetapne mokor hetapne chiki kuni chiramu awa iyosserkere ikaran ruwe, wenash shiri otuiash shiri chiwenchisehe koshirepa patek neyakka chieyairaikep, Kotankor Kamui pase kamui maukowenashruwe chierampoken unekarkar, chikashnukar nakka shipase ike aunekarkar kiruweokai.”
+# text_ain = “ Tarap hetapne mokor hetapne chiki kuni
+# text_ain = chiramu awa iyosserkere ikaran ruwe,
+# text_ain = wenash shiri otuiash shiri chiwenchisehe
+# text_ain = koshirepa patek neyakka chieyairaikep,
+# text_ain = Kotankor Kamui pase kamui maukowenashruwe
+# text_ain = chierampoken unekarkar,
+# text_ain = chikashnukar nakka shipase ike aunekarkar
+# text_ain = kiruweokai.”
+# text_ja = 「たゞの夢たゞの眠りをしたのだと
+# text_ja = 思つたのに、ほんとうに、かうしていたゞいた事。
+# text_ja = つまらないつまらない、私共の粗末な家に
+# text_ja = お出で下さる事だけでも有難く存じますものを
+# text_ja = 國の神樣大神樣、私たちの不運な
+# text_ja = 事を哀れんで下さいまして
+# text_ja = お惠みのうちにも最も大きいお惠をいたゞき
+# text_ja = ました事」
+1	“	"	PUNCT	記号	_	59	punct	_	_
+2	Tarap	tarap	NOUN	名詞	_	9	obl	_	_
+3	hetap	hetap	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	ne	ne	ADP	格助詞	_	2	case	_	_
+5	mokor	mokor	VERB	自動詞	_	9	advcl	_	_
+6	hetap	hetap	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+7	ne	ne	ADP	格助詞	_	5	mark	_	_
+8	chi	ci=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	10	acl	_	_
+10	kuni	kuni	NOUN	形式名詞	_	12	obj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	ramu	ramu	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+13	awa	awa	CCONJ	接続詞	_	12	cc	_	_
+14	iyosserkere	iyosserkere	VERB	自動詞	_	15	amod	_	_
+15	ikar	ikor	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
+16	an	an	VERB	自動詞	_	17	acl	_	_
+17	ruwe	ruwe	NOUN	形式名詞	_	59	obl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	wen	wen	VERB	自動詞	_	21	acl	_	SpaceAfter=No
+20	ash	=as	PART	人称接辞	_	19	nsubj	_	_
+21	shiri	siri	NOUN	形式名詞	_	28	obl	_	_
+22	otui	otuy	VERB	自動詞	_	24	acl	_	SpaceAfter=No
+23	ash	=as	PART	人称接辞	_	22	nsubj	_	_
+24	shiri	siri	NOUN	形式名詞	_	28	obl	_	_
+25	chi	ci=	PART	人称接辞	_	27	det	_	SpaceAfter=No
+26	wen	wen	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+27	chisehe	cise	NOUN	名詞	_	28	obj	_	_
+28	koshirepa	kosirepa	VERB	他動詞	_	33	advcl	_	_
+29	patek	patek	SCONJ	後置副詞	_	28	mark	_	_
+30	ne	ne	ADP	格助詞	_	28	mark	_	SpaceAfter=No
+31	yakka	yakka	SCONJ	接続助詞	_	28	mark	_	_
+32	chi	ci=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+33	eyairaike	eyayirayke	VERB	他動詞	_	34	acl	_	SpaceAfter=No
+34	p	p	NOUN	形式名詞	_	59	obl	_	SpaceAfter=No
+35	,	,	PUNCT	記号	_	34	punct	_	_
+36	Kotan	kotan	NOUN	名詞	_	37	nsubj	_	SpaceAfter=No
+37	kor	kor	VERB	他動詞	_	38	acl	_	_
+38	Kamui	kamuy	NOUN	名詞	_	45	vocative	_	_
+39	pase	pase	VERB	自動詞	_	40	amod	_	_
+40	kamui	kamuy	NOUN	名詞	_	38	appos	_	_
+41	maukowen	mawkowen	VERB	自動詞	_	43	acl	_	SpaceAfter=No
+42	ash	=as	PART	人称接辞	_	41	nsubj	_	SpaceAfter=No
+43	ruwe	ruwe	NOUN	形式名詞	_	45	obj	_	_
+44	chi	ci=	PART	人称接辞	_	45	nsubj	_	SpaceAfter=No
+45	erampoken	erampokiwen	VERB	他動詞	_	47	ccomp	_	_
+46	un	un=	PART	人称接辞	_	47	iobj	_	SpaceAfter=No
+47	ekarkar	ekarkar	VERB	他動詞	_	56	advcl	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	47	punct	_	_
+49	chi	ci=	PART	人称接辞	_	50	nsubj	_	SpaceAfter=No
+50	kashnukar	ekasnukar	VERB	他動詞	_	56	advcl	_	_
+51	nakka	yakka	SCONJ	接続助詞	_	50	mark	_	_
+52	shipase	sipase	VERB	自動詞	_	53	amod	_	_
+53	ike	ike	NOUN	位置名詞	_	56	obj	_	_
+54	a	a=	PART	人称接辞	_	56	nsubj	_	SpaceAfter=No
+55	un	un=	PART	人称接辞	_	56	iobj	_	SpaceAfter=No
+56	ekarkar	ekarkar	VERB	他動詞	_	57	advcl	_	_
+57	ki	ki	VERB	他動詞	_	58	acl	_	SpaceAfter=No
+58	ruwe	ruwe	NOUN	形式名詞	_	59	nsubj	_	SpaceAfter=No
+59	okai	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+60	.	.	PUNCT	記号	_	59	punct	_	SpaceAfter=No
+61	”	"	PUNCT	記号	_	59	punct	_	_
+
+# sent_id = SYOS_1_145-146
+# text = ari okaipe chishturano eonkami.
+# text_ain = ari okaipe chishturano
+# text_ain = eonkami.
+# text_ja = と云ふ事を泣きながら
+# text_ja = 申しました
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	okai	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	pe	pe	NOUN	形式名詞	_	6	obj	_	_
+4	chish	cis	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+5	turano	turano	SCONJ	後置副詞	_	4	case	_	_
+6	eonkami	e-onkami	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+
+# sent_id = SYOS_1_147-148
+# text = Taporowa poroshikupkur inauni tuye pirka inau tomtekar wa unetomte.
+# text_ain = Taporowa poroshikupkur inauni tuye
+# text_ain = pirka inau tomtekar wa unetomte.
+# text_ja = それから、老人はイナウの木をきり
+# text_ja = りっぱなイナウを美しく作つて私を飾りました。
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	poro	poro	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+5	shikup	sukup	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	kur	kur	NOUN	名詞	_	9	nsubj	_	_
+7	inau	inaw	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+8	ni	ni	NOUN	名詞	_	9	obj	_	_
+9	tuye	tuye	VERB	他動詞	_	12	advcl	_	_
+10	pirka	pirka	VERB	自動詞	_	11	amod	_	_
+11	inau	inaw	NOUN	名詞	_	12	obj	_	_
+12	tomtekar	tomte-kar	VERB	他動詞	_	15	advcl	_	_
+13	wa	wa	SCONJ	接続助詞	_	12	mark	_	_
+14	un	un=	PART	人称接辞	_	15	obj	_	SpaceAfter=No
+15	etomte	e-tomte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+
+# sent_id = SYOS_1_149-152
+# text = Poroshikupmat yaikokutkor yupu kane pon hekachi shikashuire usa nina usa wakkata sakeshuye etokooiki, irukai neko iwan shintoko rororaipa.
+# text_ain = Poroshikupmat yaikokutkor yupu kane
+# text_ain = pon hekachi shikashuire usa nina
+# text_ain = usa wakkata sakeshuye etokooiki, irukai neko
+# text_ain = iwan shintoko rororaipa.
+# text_ja = 老婦人は身仕度をして
+# text_ja = 小さい子を手傳はせ、薪をとつたり
+# text_ja = 水を汲んだりして、酒を造る仕度をして、一寸の間に
+# text_ja = 六つの酒樽を上座にならべました。
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	4	nsubj	_	_
+4	yaikokutkor	yayko-kutkor	VERB	自動詞	_	5	ccomp	_	_
+5	yupu	yupu	VERB	他動詞	_	17	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	pon	pon	VERB	自動詞	_	8	amod	_	_
+8	hekachi	hekaci	NOUN	名詞	_	9	obj	_	_
+9	shikashuire	sikasuyre	VERB	他動詞	_	17	advcl	_	_
+10	usa	usa	ADV	副詞	_	11	advmod	_	_
+11	nina	nina	VERB	自動詞	_	15	advcl	_	_
+12	usa	usa	ADV	副詞	_	13	advmod	_	_
+13	wakkata	wakkata	VERB	自動詞	_	15	advcl	_	_
+14	sake	sake	NOUN	名詞	_	15	obj	_	SpaceAfter=No
+15	shuye	suye	VERB	他動詞	_	16	acl	_	_
+16	etoko	etoko	NOUN	位置名詞	_	17	obj	_	SpaceAfter=No
+17	oiki	oyki	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	irukai	iruka	ADV	副詞	_	25	advcl	_	_
+20	ne	ne	AUX	デアル動詞	_	19	cop	_	SpaceAfter=No
+21	ko	kor	SCONJ	接続助詞	_	19	mark	_	_
+22	iwan	iwan	NUM	数詞	_	23	nummod	_	_
+23	shintoko	sintoko	NOUN	名詞	_	25	obj	_	_
+24	ror	ror	NOUN	位置名詞	_	25	iobj	_	SpaceAfter=No
+25	oraipa	oraypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	25	punct	_	_
+
+# sent_id = SYOS_1_153-154
+# text = Orowano apehuchi kamuihuchi tura usaokai kamuiorushpe chieuweneusar.
+# text_ain = Orowano apehuchi kamuihuchi tura
+# text_ain = usaokai kamuiorushpe chieuweneusar.
+# text_ja = それから私は火の老女老女神と
+# text_ja = 種々な神の話を語り合ひました。
+1	Oro	oro	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ape	ape	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	huchi	húci	NOUN	名詞	_	13	obl	_	_
+5	kamui	kamuy	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	huchi	húci	NOUN	名詞	_	4	conj	_	_
+7	tura	tura	SCONJ	後置副詞	_	4	case	_	_
+8	usa	usa	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	okai	an	VERB	自動詞	_	11	acl	_	_
+10	kamui	kamuy	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+11	orushpe	oruspe	NOUN	名詞	_	13	obj	_	_
+12	chi	ci=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	euweneusar	ewenewsar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+
+# sent_id = SYOS_1_155-157
+# text = Tutko pakno shiran ko, kamuierushuipe nepnekushu chiseupshoro sakehura epararse.
+# text_ain = Tutko pakno shiran ko, kamuierushuipe
+# text_ain = nepnekushu chiseupshoro sakehura
+# text_ain = epararse.
+# text_ja = 二日程たつと、神樣の好物ですから
+# text_ja = はや、家の中に酒の香が
+# text_ja = 漂ひました。
+1	Tutko	tutko	NOUN	名詞	_	3	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	shiran	siran	VERB	完全動詞	_	16	advcl	_	_
+4	ko	kor	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	3	punct	_	_
+6	kamui	kamuy	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	erushui	érusuy	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	pe	pe	NOUN	名詞	_	9	nsubj	_	_
+9	nep	nep	NOUN	名詞	_	16	advcl	_	SpaceAfter=No
+10	ne	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	kushu	kusu	SCONJ	接続詞	_	9	mark	_	_
+12	chise	cise	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
+13	upshoro	upsoro	NOUN	名詞	_	16	obj	_	_
+14	sake	sake	NOUN	名詞	_	15	nmod	_	SpaceAfter=No
+15	hura	hura	NOUN	名詞	_	16	nsubj	_	_
+16	epararse	e-párase	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+
+# sent_id = SYOS_1_158-165
+# text = Tata otta nea hekachi okamkino hushko amip amire wa kotanepitta okai Teeta wenkur tane nishpa nep utarorkehe ashke aukte kushu asange wakushu oshiinkarash ko ponhekachi chisepishno ahun wa sonkoye ko, teeta wenkur tane nishpa nep utarorkehe euminare :
+# text_ain = Tata otta nea hekachi okamkino
+# text_ain = hushko amip amire wa kotanepitta okai
+# text_ain = Teeta wenkur tane nishpa nep utarorkehe
+# text_ain = ashke aukte kushu asange wakushu
+# text_ain = oshiinkarash ko ponhekachi chisepishno
+# text_ain = ahun wa sonkoye ko,
+# text_ain = teeta wenkur tane nishpa nep utarorkehe
+# text_ain = euminare :
+# text_ja = そこで、あの小さい子に態と
+# text_ja = 古い衣物を着せて、村中の
+# text_ja = 昔貧乏人で今お金持になつてゐる人々を
+# text_ja = 招待する爲使ひに出してやりました。ので
+# text_ja = 後見送ると、子供は家毎に
+# text_ja = 入つて使ひの口上を述べますと
+# text_ja = 昔貧乏人で今お金持になつてゐる人々は
+# text_ja = 大笑ひをして
+1	Tata	tata	ADV	副詞	_	2	amod	_	_
+2	ot	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	nea	nea	DET	連体詞	_	5	det	_	_
+5	hekachi	hekaci	NOUN	名詞	_	10	iobj	_	_
+6	okamkino	okamkir-no	ADV	副詞	_	10	advmod	_	_
+7	hushko	husko	VERB	自動詞	_	8	amod	_	_
+8	amip	amip	NOUN	名詞	_	10	obj	_	_
+9	a	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	mire	mire	VERB	他動詞	_	32	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	kotan	kotan	NOUN	名詞	_	14	obl	_	SpaceAfter=No
+13	epitta	epitta	SCONJ	接続助詞	_	12	case	_	_
+14	okai	okay	VERB	自動詞	_	21	acl	_	_
+15	Teeta	teeta	ADV	副詞	_	16	amod	_	_
+16	wenkur	wenkur	NOUN	名詞	_	18	nsubj	_	_
+17	tane	tane	ADV	副詞	_	18	amod	_	_
+18	nishpa	nispa	NOUN	名詞	_	20	acl	_	_
+19	ne	ne	AUX	デアル動詞	_	18	cop	_	_
+20	p	p	NOUN	形式名詞	_	21	nmod	_	_
+21	utar	utar	NOUN	名詞	_	26	obl	_	SpaceAfter=No
+22	orke	orke	ADP	副助詞	_	21	case	_	SpaceAfter=No
+23	he	he	ADP	副助詞	_	21	case	_	_
+24	ashke	aske	NOUN	名詞	_	26	obl	_	_
+25	a	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ukte	ukte	VERB	他動詞	_	29	advcl	_	_
+27	kushu	kusu	SCONJ	接続詞	_	26	mark	_	_
+28	a	a=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	sange	sanke	VERB	他動詞	_	32	advcl	_	_
+30	wakushu	wakusu	SCONJ	接続詞	_	29	mark	_	_
+31	oshi	osi	NOUN	位置名詞	_	32	obl	_	SpaceAfter=No
+32	inkar	inkar	VERB	自動詞	_	54	advcl	_	SpaceAfter=No
+33	ash	=as	PART	人称接辞	_	32	nsubj	_	_
+34	ko	kor	SCONJ	接続助詞	_	32	mark	_	_
+35	pon	pon	VERB	自動詞	_	36	amod	_	SpaceAfter=No
+36	hekachi	hekachi	NOUN	名詞	_	39	nsubj	_	_
+37	chise	cise	NOUN	名詞	_	39	obl	_	SpaceAfter=No
+38	pishno	pisno	SCONJ	後置副詞	_	37	case	_	_
+39	ahun	ahun	VERB	自動詞	_	54	advcl	_	_
+40	wa	wa	SCONJ	接続助詞	_	39	mark	_	_
+41	sonko	sonko	NOUN	名詞	_	42	obj	_	SpaceAfter=No
+42	ye	ye	VERB	他動詞	_	54	advcl	_	_
+43	ko	kor	SCONJ	接続助詞	_	42	mark	_	SpaceAfter=No
+44	,	,	PUNCT	記号	_	42	punct	_	_
+45	teeta	teeta	ADV	副詞	_	46	amod	_	_
+46	wenkur	wenkur	NOUN	名詞	_	48	nsubj	_	_
+47	tane	tane	ADV	副詞	_	48	amod	_	_
+48	nishpa	nispa	NOUN	名詞	_	50	acl	_	_
+49	ne	ne	AUX	デアル動詞	_	48	cop	_	SpaceAfter=No
+50	p	p	NOUN	形式名詞	_	51	nmod	_	_
+51	utar	utar	NOUN	名詞	_	54	obl	_	SpaceAfter=No
+52	orke	orke	ADP	副助詞	_	51	case	_	SpaceAfter=No
+53	he	he	ADP	副助詞	_	51	case	_	_
+54	euminare	euminare	VERB	他動詞	_	0	root	_	_
+55	:	:	PUNCT	記号	_	54	punct	_	_
+
+# sent_id = SYOS_1_166-170
+# text = “ Usainetapshui wenkurutar koohanepo nekonaan sake kar wa nekonaan marapto an wa eunahunke hawe ta an, payean wa nekona shirki ya inkarash wa aemina ro.”
+# text_ain = “ Usainetapshui wenkurutar koohanepo
+# text_ain = nekonaan sake kar wa nekonaan
+# text_ain = marapto an wa eunahunke hawe ta an,
+# text_ain = payean wa nekona shirki ya inkarash wa
+# text_ain = aemina ro.”
+# text_ja = 「これはふしぎ、貧乏人どもが
+# text_ja = 何んな酒を造つて何んな
+# text_ja = 御馳走があつてそのため人を招待するだらう。
+# text_ja = 行つて何んな事があるか見物して
+# text_ja = 笑つてやりませう。」
+1	“	"	PUNCT	記号	_	33	punct	_	_
+2	Usaine	usayne	ADV	副詞	_	21	advmod	_	SpaceAfter=No
+3	tap	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	shui	suy	ADV	副詞	_	21	advmod	_	_
+5	wenkur	wenkur	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	utar	utar	NOUN	名詞	_	7	nmod	_	_
+7	koohanepo	koohanapo	NOUN	名詞	_	11	nsubj	_	_
+8	nekona	nekona	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	an	an	VERB	自動詞	_	10	acl	_	_
+10	sake	sake	NOUN	名詞	_	11	obj	_	_
+11	kar	kar	VERB	他動詞	_	18	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	nekona	nekona	ADV	副詞	_	14	advmod	_	SpaceAfter=No
+14	an	an	VERB	自動詞	_	15	acl	_	_
+15	marapto	marapto	NOUN	名詞	_	16	nsubj	_	_
+16	an	an	VERB	自動詞	_	18	advcl	_	_
+17	wa	wa	SCONJ	接続助詞	_	16	mark	_	_
+18	eunahunke	e-unahunke	VERB	他動詞	_	19	acl	_	SpaceAfter=No
+19	hawe	hawe	NOUN	形式名詞	_	21	nsubj	_	_
+20	ta	ta	ADP	副助詞	_	19	case	_	_
+21	an	an	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	paye	paye	VERB	自動詞	_	27	advcl	_	SpaceAfter=No
+24	an	=an	PART	人称接辞	_	23	nsubj	_	_
+25	wa	wa	SCONJ	接続助詞	_	23	mark	_	_
+26	nekona	nekona	ADV	副詞	_	27	advmod	_	_
+27	shirki	sirki	VERB	完全動詞	_	29	advcl	_	_
+28	ya	ya	PART	終助詞	_	27	mark	_	_
+29	inkar	inkar	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
+30	ash	=as	PART	人称接辞	_	29	nsubj	_	_
+31	wa	wa	SCONJ	接続助詞	_	29	mark	_	_
+32	a	a=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+33	emina	emina	VERB	他動詞	_	0	root	_	_
+34	ro	ro	PART	終助詞	_	33	discourse	_	SpaceAfter=No
+35	.	.	PUNCT	記号	_	33	punct	_	SpaceAfter=No
+36	”	"	PUNCT	記号	_	33	punct	_	SpaceAfter=No
+
+# sent_id = SYOS_1_170-174
+# text = ari hawokai kane inne topa ne uweutanne arki aine toop tuimano ouse Chise nukar wa ehomatpa yashtoma wa nani hoshippap ka okai, chisesoi pakno arki wa oahuntaipap ka okai.
+# text_ain = ari
+# text_ain = hawokai kane inne topa ne uweutanne
+# text_ain = arki aine toop tuimano ouse Chise nukar wa
+# text_ain = ehomatpa yashtoma wa nani hoshippap ka okai,
+# text_ain = chisesoi pakno arki wa oahuntaipap ka okai.
+# text_ja = と
+# text_ja = 言ひ合ひながら大勢打連れて
+# text_ja = やつて來て、ずーつと遠くから、たゞ家を見たゞけで
+# text_ja = 驚いてはづかしがり、其の儘歸る者もあります
+# text_ja = 家の前まで來て腰を拔かしてゐるのもあります。
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	hawokai	hawean	VERB	自動詞	_	7	advcl	_	_
+3	kane	kane	SCONJ	接続助詞	_	2	mark	_	_
+4	inne	inne	VERB	自動詞	_	5	amod	_	_
+5	topa	topa	NOUN	名詞	_	7	obl	_	_
+6	ne	ne	ADP	格助詞	_	5	case	_	_
+7	uweutanne	uwewtanne	VERB	自動詞	_	8	advcl	_	_
+8	arki	arki	VERB	自動詞	_	21	advcl	_	_
+9	aine	ayne	SCONJ	接続詞	_	8	mark	_	_
+10	toop	toop	ADV	副詞	_	14	advmod	_	_
+11	tuimano	tuymano	ADV	副詞	_	14	advmod	_	_
+12	ouse	ouse	ADV	副詞	_	14	advmod	_	_
+13	Chise	cise	NOUN	名詞	_	14	obj	_	_
+14	nukar	nukar	VERB	他動詞	_	16	advcl	_	_
+15	wa	wa	SCONJ	接続助詞	_	14	mark	_	_
+16	ehomatpa	ehomatu	VERB	他動詞	_	18	advcl	_	_
+17	ya	a=	PART	人称接辞	_	18	nsubj	_	_SpaceAfter=No
+18	shtoma	sitoma	VERB	他動詞	_	21	advcl	_	_
+19	wa	wa	PART	人称接辞	_	18	mark	_	_
+20	nani	nani	ADV	副詞	_	21	advmod	_	_
+21	hoshippa	hosipi	VERB	自動詞	_	22	acl	_	SpaceAfter=No
+22	p	p	NOUN	形式名詞	_	24	nsubj	_	_
+23	ka	ka	ADP	副助詞	_	22	case	_	_
+24	okai	an	VERB	自動詞	_	34	advcl	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	24	punct	_	_
+26	chise	cise	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
+27	soi	soy	NOUN	位置名詞	_	29	obl	_	_
+28	pakno	pakno	SCONJ	後置副詞	_	27	case	_	_
+29	arki	arki	VERB	自動詞	_	31	advcl	_	_
+30	wa	wa	SCONJ	接続助詞	_	29	mark	_	_
+31	oahuntaipa	oahun-etaye	VERB	自動詞	_	32	acl	_	SpaceAfter=No
+32	p	p	NOUN	形式名詞	_	34	nsubj	_	_
+33	ka	ka	ADP	副助詞	_	32	case	_	_
+34	okai	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+35	.	.	PUNCT	記号	_	34	punct	_	_
+
+# sent_id = SYOS_1_175-178
+# text = Shirki chiki chisekor katkemat soine wa ainuopitta ashkehe uk wa ahupte ko, opitta no shinu kane reye kane ahup wa hepunpa ruwe oararisham.
+# text_ain = Shirki chiki chisekor katkemat soine wa
+# text_ain = ainuopitta ashkehe uk wa ahupte ko,
+# text_ain = opitta no shinu kane reye kane ahup wa
+# text_ain = hepunpa ruwe oararisham.
+# text_ja = すると、家の夫人が外へ出て
+# text_ja = 人皆の手を取つて家へ入れますと、
+# text_ja = みんないざり這ひよつて
+# text_ja = 顏を上げる者もありません。
+1	Shirki	sirki	VERB	完全動詞	_	6	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	chise	cise	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	kor	kor	VERB	他動詞	_	5	acl	_	_
+5	katkemat	katkemat	NOUN	名詞	_	6	nsubj	_	_
+6	soine	soyne	VERB	自動詞	_	13	advcl	_	_
+7	wa	wa	SCONJ	接続助詞	_	6	mark	_	_
+8	ainu	aynu	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+9	opitta	opitta	SCONJ	後置副詞	_	8	case	_	_
+10	ashkehe	aske-he	NOUN	位置名詞	_	11	obj	_	_
+11	uk	uk	VERB	他動詞	_	13	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	ahupte	ahupte	VERB	他動詞	_	21	advcl	_	_
+14	ko	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	13	punct	_	_
+16	opitta no	opitta-no	ADV	副詞	_	17	advmod	_	_
+17	shinu	sinu	VERB	他動詞	_	21	advcl	_	_
+18	kane	kane	SCONJ	接続助詞	_	17	mark	_	_
+19	reye	reye	VERB	自動詞	_	17	conj	_	_
+20	kane	kane	SCONJ	接続助詞	_	19	mark	_	_
+21	ahup	ahup	VERB	自動詞	_	26	advcl	_	_
+22	wa	wa	SCONJ	接続助詞	_	21	mark	_	_
+23	hepunpa	hepunpa	VERB	自動詞	_	24	amod	_	_
+24	ruwe	ruwe	NOUN	形式名詞	_	26	nsubj	_	_
+25	oarar	oarar	ADV	副詞	_	26	advmod	_	SpaceAfter=No
+26	isham	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	記号	_	26	punct	_	_
+
+# sent_id = SYOS_1_179-181
+# text = Shiranchiki chisekon nishpa chirikipuni ki charanke kakkokhau ne ouseturse ene ene ne katuhu eisoitak :
+# text_ain = Shiranchiki chisekon nishpa chirikipuni
+# text_ain = ki charanke kakkokhau ne ouseturse
+# text_ain = ene ene ne katuhu eisoitak :
+# text_ja = すると、家の主人は起上つて
+# text_ja = カツコウ鳥の樣な美しい聲で物を言ひました。
+# text_ja = 斯々の譯を物語り
+1	Shiran	siran	VERB	完全動詞	_	6	advcl	_	SpaceAfter=No
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	chise	cise	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	kon	kor	VERB	他動詞	_	5	acl	_	_
+5	nishpa	nispa	NOUN	名詞	_	6	nsubj	_	_
+6	chirikipuni	cirikipuni	VERB	他動詞	_	18	advcl	_	_
+7	ki	ki	AUX	助動詞	_	6	aux	_	_
+8	charanke	caranke	VERB	自動詞	_	10	amod	_	_
+9	kakkok	kakkok	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	hau	haw	NOUN	名詞	_	13	nsubj	_	_
+11	ne	ne	ADP	格助詞	_	10	case	_	_
+12	ouse	ouse	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+13	turse	turse	VERB	自動詞	_	18	advcl	_	_
+14	ene	ene	ADV	副詞	_	18	advmod	_	_
+15	ene	ene	ADV	副詞	_	18	advmod	_	_
+16	ne	ne	DET	連体詞	_	17	det	_	_
+17	katuhu	katuhu	NOUN	名詞	_	18	obj	_	_
+18	eisoitak	eysoytak	VERB	他動詞	_	0	root	_	_
+19	:	:	PUNCT	記号	_	18	punct	_	_
+
+# sent_id = SYOS_1_182-190
+# text = “ Tapne tapne wenkur ane wa raukisamno ukopayekai ka aeaikap ruwe ne a korka pase kamui unerampokiwen, nep wenpuri chikon ruwe ka somone a kushu tankorachi aunkashnukar ki ruwene kushu, tan tewano kotanepitta shine utar ane ruwene kushu uwekatairotkean ukopayekaian ki kunine nishpa utar akoramkor shiri tapan.”
+# text_ain = “ Tapne tapne wenkur ane wa raukisamno
+# text_ain = ukopayekai ka aeaikap ruwe ne a korka
+# text_ain = pase kamui unerampokiwen, nep wenpuri
+# text_ain = chikon ruwe ka somone a kushu tankorachi
+# text_ain = aunkashnukar ki ruwene kushu,
+# text_ain = tan tewano kotanepitta shine utar
+# text_ain = ane ruwene kushu uwekatairotkean
+# text_ain = ukopayekaian ki kunine nishpa utar
+# text_ain = akoramkor shiri tapan.”
+# text_ja = 「此の樣に、貧乏人でへだてなく
+# text_ja = 互に往來も出來なかつたのだが
+# text_ja = 大神樣があはれんで下され、何の惡い考へも
+# text_ja = 私どもは持つてゐませんのでしたので此の樣に
+# text_ja = お惠をいたゞきましたのですから
+# text_ja = 今から村中、私共は一族の者
+# text_ja = なんですから、仲善くして
+# text_ja = 互に往來をしたいといふ事を皆樣に
+# text_ja = 望む次第であります」
+1	“	"	PUNCT	記号	_	64	punct	_	_
+2	Tapne	tapne	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+3	tapne	tapne	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	wenkur	wenkur	NOUN	名詞	_	9	advcl	_	_
+5	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+8	raukisamno	rawkisakno	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	ukopayekai	ukopayoka	VERB	自動詞	_	12	ccomp	_	_
+10	ka	ka	ADP	副助詞	_	9	mark	_	_
+11	a	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eaikap	eaykap	VERB	他動詞	_	13	acl	_	_
+13	ruwe	ruwe	NOUN	形式名詞	_	25	advcl	_	_
+14	ne	ne	AUX	デアル動詞	_	13	cop	_	_
+15	a	a	AUX	助動詞	_	13	aux	_	_
+16	korka	korka	CCONJ	接続詞	_	13	cc	_	_
+17	pase	pase	VERB	自動詞	_	18	amod	_	_
+18	kamui	kamuy	NOUN	名詞	_	20	nsubj	_	_
+19	un	un=	PART	人称接辞	_	20	obj	_	SpaceAfter=No
+20	erampokiwen	erampokiwen	VERB	他動詞	_	13	conj	_	SpaceAfter=No
+21	,	,	PUNCT	記号	_	20	punct	_	_
+22	nep	nep	NOUN	名詞	_	23	nmod	_	_
+23	wenpuri	wenpuri	NOUN	名詞	_	25	obj	_	_
+24	chi	ci=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	kon	kor	VERB	他動詞	_	26	acl	_	_
+26	ruwe	ruwe	NOUN	形式名詞	_	38	advcl	_	_
+27	ka	ka	ADP	副助詞	_	26	case	_	_
+28	somo	somo	ADV	副詞	_	29	advmod	_	SpaceAfter=No
+29	ne	ne	AUX	デアル動詞	_	26	cop	_	_
+30	a	a	AUX	助動詞	_	26	aux	_	_
+31	kushu	kusu	SCONJ	接続詞	_	26	mark	_	_
+32	tan	tan	DET	連体詞	_	38	det	_	SpaceAfter=No
+33	korachi	koraci	SCONJ	後置副詞	_	32	case	_	_
+34	a	a=	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+35	un	un=	PART	人称接辞	_	36	iobj	_	SpaceAfter=No
+36	kashnukar	ekasnukar	VERB	他動詞	_	38	acl	_	_
+37	ki	ki	AUX	助動詞	_	36	aux	_	_
+38	ruwe	ruwe	NOUN	形式名詞	_	51	advcl	_	SpaceAfter=No
+39	ne	ne	AUX	デアル動詞	_	38	cop	_	_
+40	kushu	kusu	SCONJ	接続詞	_	38	mark	_	SpaceAfter=No
+41	,	,	PUNCT	記号	_	38	punct	_	_
+42	tan	tan	DET	連体詞	_	43	det	_	_
+43	te	te	NOUN	位置名詞	_	51	obl	_	SpaceAfter=No
+44	wano	wano	ADP	格助詞	_	43	case	_	_
+45	kotan	kotan	NOUN	名詞	_	48	nsubj	_	SpaceAfter=No
+46	epitta	epitta	SCONJ	接続助詞	_	45	case	_	_
+47	shine	sine	NUM	数詞	_	48	nummod	_	_
+48	utar	utar	NOUN	名詞	_	51	acl	_	_
+49	a	a=	PART	人称接辞	_	48	expl	_	SpaceAfter=No
+50	ne	ne	AUX	デアル動詞	_	48	cop	_	_
+51	ruwe	ruwe	NOUN	形式名詞	_	58	advcl	_	SpaceAfter=No
+52	ne	ne	AUX	デアル動詞	_	51	cop	_	_
+53	kushu	kusu	SCONJ	接続詞	_	51	mark	_	_
+54	uwekatairotke	uwekatayerotke	VERB	自動詞	_	58	advcl	_	SpaceAfter=No
+55	an	=an	PART	人称接辞	_	54	nsubj	_	_
+56	ukopayekai	ukopayoka	VERB	他動詞	_	54	conj	_	SpaceAfter=No
+57	an	=an	PART	終助詞	_	56	nsubj	_	_
+58	ki	ki	VERB	他動詞	_	63	advcl	_	_
+59	kunine	kunine	SCONJ	接続助詞	_	58	mark	_	_
+60	nishpa	nispa	NOUN	名詞	_	61	nmod	_	_
+61	utar	utar	NOUN	名詞	_	63	obj	_	_
+62	a	a=	PART	人称接辞	_	63	nsubj	_	SpaceAfter=No
+63	koramkor	koramkor	VERB	他動詞	_	64	acl	_	_
+64	shiri	siri	NOUN	形式名詞	_	0	root	_	_
+65	tapan	tapan	AUX	デアル動詞	_	64	cop	_	SpaceAfter=No
+66	.	.	PUNCT	記号	_	64	punct	_	SpaceAfter=No
+67	”	"	PUNCT	記号	_	64	punct	_	SpaceAfter=No
+
+# sent_id = SYOS_1_190-194
+# text = ari okaipe echaranke awa nishpa utar otusanashke oresanashke ukaenoipa chisekor nishpa koyayapapu, tewano anak uwekatairotke kuni eukoitak.
+# text_ain = ari okaipe
+# text_ain = echaranke awa nishpa utar
+# text_ain = otusanashke oresanashke ukaenoipa
+# text_ain = chisekor nishpa koyayapapu, tewano anak
+# text_ain = uwekatairotke kuni eukoitak.
+# text_ja = といふ事を
+# text_ja = 申し述べると、人々は
+# text_ja = 何度も何度も手をすりあはせて
+# text_ja = 家の主人に罪を謝し、これからは
+# text_ja = 仲よくする事を話合ひました。
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	okai	okai	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	pe	pe	NOUN	形式名詞	_	4	obj	_	_
+4	echaranke	e-caranke	VERB	他動詞	_	17	advcl	_	_
+5	awa	awa	CCONJ	接続詞	_	4	cc	_	_
+6	nishpa	nispa	NOUN	名詞	_	7	nmod	_	_
+7	utar	utar	NOUN	名詞	_	13	nsubj	_	_
+8	otu	otu	NUM	数詞	_	9	nummod	_	SpaceAfter=No
+9	sanashke	sanaske	NOUN	名詞	_	12	nmod	_	_
+10	ore	ore	NUM	数詞	_	11	nummod	_	SpaceAfter=No
+11	sanashke	sanaske	NOUN	名詞	_	9	conj	_	_
+12	uka	uka	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+13	enoipa	henoye	VERB	自動詞	_	17	advcl	_	_
+14	chise	cise	NOUN	名詞	_	15	nsubj	_	_
+15	kor	kor	VERB	他動詞	_	16	acl	_	_
+16	nishpa	nispa	NOUN	名詞	_	17	obj	_	_
+17	koyayapapu	koyayapapu	VERB	他動詞	_	24	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	te	te	NOUN	位置名詞	_	24	obl	_	SpaceAfter=No
+20	wano	wano	ADP	格助詞	_	19	case	_	_
+21	anak	anak	ADP	副助詞	_	19	case	_	_
+22	uwekatairotke	uwekatayrotke	VERB	自動詞	_	23	amod	_	_
+23	kuni	kuni	NOUN	形式名詞	_	24	nsubj	_	_
+24	eukoitak	ewkoytak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	記号	_	24	punct	_	_
+
+# sent_id = SYOS_1_195
+# text = Chiokai nakka aunkoonkami.
+# text_ain = Chiokai nakka aunkoonkami.
+# text_ja = 私もみんなに拜されました。
+1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	okai	an	VERB	自動詞	_	6	advcl	_	_
+3	nakka	yakka	SCONJ	接続助詞	_	2	mark	_	_
+4	a	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+5	un	un=	PART	人称接辞	_	6	obj	_	SpaceAfter=No
+6	koonkami	koonkami	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	SpaceAfter=No
+
+# sent_id = SYOS_1_196-197
+# text = Taporowa ainuopitta ramuriten wa shisak tonoto ukoante.
+# text_ain = Taporowa ainuopitta ramuriten wa
+# text_ain = shisak tonoto ukoante.
+# text_ja = それが濟むと、人はみな、心が柔らいで
+# text_ja = 盛んな酒宴を開きました。
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	ainu	aynu	NOUN	名詞	_	6	nsubj	_	SpaceAfter=No
+5	opitta	opitta	SCONJ	後置副詞	_	4	case	_	_
+6	ramuriten	ramuriten	VERB	自動詞	_	10	advcl	_	_
+7	wa	wa	SCONJ	接続助詞	_	6	mark	_	_
+8	shisak	sisak	VERB	自動詞	_	9	amod	_	_
+9	tonoto	tonoto	NOUN	名詞	_	10	obj	_	_
+10	ukoante	uko-ante	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+
+# sent_id = SYOS_1_198-206
+# text = Chiokai anak Kamui Huchi Chisekor Kamui Nusakor Huchi tura uweneusarash kor ainupitoutar tapkar shiri rimse shiri chinukar wa chieyaikiror ante kane, tutko rerko shiran ko ikuoka an, ainupitoutar uwekatairotke shiri chinukar wa chieramushinne, Kamui Huchi Chisekor Kamui Nusakor Huchi chietutkopak.
+# text_ain = Chiokai anak Kamui Huchi Chisekor Kamui
+# text_ain = Nusakor Huchi tura uweneusarash kor
+# text_ain = ainupitoutar tapkar shiri rimse shiri
+# text_ain = chinukar wa chieyaikiror ante kane,
+# text_ain = tutko rerko shiran ko ikuoka an,
+# text_ain = ainupitoutar uwekatairotke shiri
+# text_ain = chinukar wa chieramushinne,
+# text_ain = Kamui Huchi Chisekor Kamui
+# text_ain = Nusakor Huchi chietutkopak.
+# text_ja = 私は、火の神樣や家の神樣や
+# text_ja = 御幣棚の神樣と話合ひながら
+# text_ja = 人間たちの舞を舞つたり躍りをしたりするさまを
+# text_ja = 眺めて深く興がりました。そして
+# text_ja = 二日三日たつと酒宴は終りました。
+# text_ja = 人間たちが仲の善いありさまを
+# text_ja = 見て、私は安心をして
+# text_ja = 火の神家の神
+# text_ja = 御幣棚の神に別れを告げました。
+1	Chi	chi	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	okai	okai	VERB	自動詞	_	13	advcl	_	_
+3	anak	anak	ADP	副助詞	_	2	mark	_	_
+4	Kamui	kamuy	NOUN	名詞	_	5	nmod	_	_
+5	Huchi	huci	NOUN	名詞	_	13	obl	_	_
+6	Chise	cise	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	kor	kor	VERB	他動詞	_	8	acl	_	_
+8	Kamui	kamuy	NOUN	名詞	_	5	conj	_	_
+9	Nusa	nusa	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+10	kor	kor	NOUN	名詞	_	11	acl	_	_
+11	Huchi	huci	NOUN	名詞	_	5	conj	_	_
+12	tura	tura	SCONJ	後置副詞	_	11	case	_	_
+13	uweneusar	uwenewsar	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+14	ash	=as	PART	人称接辞	_	13	nsubj	_	_
+15	kor	kor	SCONJ	接続助詞	_	13	mark	_	_
+16	ainu	aynu	NOUN	名詞	_	17	compound	_	SpaceAfter=No
+17	pito	pito	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
+18	utar	utar	NOUN	名詞	_	19	nsubj	_	_
+19	tapkar	tapkar	VERB	自動詞	_	20	acl	_	_
+20	shiri	siri	NOUN	形式名詞	_	24	obj	_	_
+21	rimse	rimse	VERB	自動詞	_	22	acl	_	_
+22	shiri	siri	NOUN	形式名詞	_	20	conj	_	_
+23	chi	ci=	PART	人称接辞	_	24	nsubj	_	SpaceAfter=No
+24	nukar	nukar	VERB	他動詞	_	27	advcl	_	_
+25	wa	wa	SCONJ	接続助詞	_	24	mark	_	_
+26	chi	ci=	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	eyaikiror ante	e-yay-kiroran-te	VERB	自動詞	_	47	advcl	_	_
+28	kane	kane	SCONJ	接続助詞	_	27	mark	_	SpaceAfter=No
+29	,	,	PUNCT	記号	_	27	punct	_	_
+30	tutko	tutko	NOUN	名詞	_	32	obl	_	_
+31	rerko	rerko	NOUN	名詞	_	30	conj	_	_
+32	shiran	siran	VERB	完全動詞	_	36	advcl	_	_
+33	ko	kor	SCONJ	接続助詞	_	32	mark	_	_
+34	iku	iku	VERB	自動詞	_	35	amod	_	SpaceAfter=No
+35	oka	oka	NOUN	位置名詞	_	36	nsubj	_	_
+36	an	an	VERB	自動詞	_	44	advcl	_	SpaceAfter=No
+37	,	,	PUNCT	記号	_	36	punct	_	_
+38	ainu	aynu	NOUN	名詞	_	39	compound	_	SpaceAfter=No
+39	pito	pito	NOUN	名詞	_	40	nmod	_	SpaceAfter=No
+40	utar	utar	NOUN	名詞	_	41	nsubj	_	_
+41	uwekatairotke	uwekatayerotke	VERB	自動詞	_	42	acl	_	_
+42	shiri	siri	NOUN	形式名詞	_	44	obj	_	_
+43	chi	ci=	PART	人称接辞	_	44	nsubj	_	SpaceAfter=No
+44	nukar	nukar	VERB	他動詞	_	47	advcl	_	_
+45	wa	wa	SCONJ	接続助詞	_	44	mark	_	_
+46	chi	ci=	PART	人称接辞	_	47	nsubj	_	SpaceAfter=No
+47	eramushinne	eramusinne	VERB	他動詞	_	58	advcl	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	47	punct	_	_
+49	Kamui	kamuy	NOUN	名詞	_	50	nmod	_	_
+50	Huchi	huci	NOUN	名詞	_	58	obj	_	_
+51	Chise	cise	PART	人称接辞	_	52	nsubj	_	SpaceAfter=No
+52	kor	kor	VERB	他動詞	_	53	acl	_	_
+53	Kamui	kamuy	NOUN	名詞	_	50	conj	_	_
+54	Nusa	nusa	NOUN	名詞	_	55	nsubj	_	SpaceAfter=No
+55	kor	kor	VERB	他動詞	_	56	acl	_	_
+56	Huchi	huci	NOUN	名詞	_	50	conj	_	_
+57	chi	ci=	PART	人称接辞	_	58	nsubj	_	SpaceAfter=No
+58	etutkopak	etutkopak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+59	.	.	PUNCT	記号	_	58	punct	_	_
+
+# sent_id = SYOS_1_207
+# text = Taporowa chiunchisehe chikohekomo.
+# text_ain = Taporowa chiunchisehe chikohekomo.
+# text_ja = それが濟むと私は自分の家へ歸りました。
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	chi	ci=	PART	人称接辞	_	6	nmod	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	chisehe	cise	NOUN	名詞	_	8	obj	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	kohekomo	kohekomo	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+
+# sent_id = SYOS_1_208-209
+# text = Unetokta chiunchisehe pirka inau pirka sake chieshikte.
+# text_ain = Unetokta chiunchisehe pirka inau
+# text_ain = pirka sake chieshikte.
+# text_ja = 私の來る前に、私の家は美しい御幣
+# text_ja = 美酒が一ぱいになつてゐました。
+1	Un	un=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	etok	etok	NOUN	名詞	_	12	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	chi	ci=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	chisehe	cise	NOUN	名詞	_	12	obj	_	_
+7	pirka	pirka	VERB	自動詞	_	8	amod	_	_
+8	inau	inaw	NOUN	名詞	_	12	iobj	_	_
+9	pirka	pirka	VERB	自動詞	_	10	amod	_	_
+10	sake	sake	NOUN	名詞	_	8	conj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eshikte	esikte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+
+# sent_id = SYOS_1_210-215
+# text = Shiran chiki hanke kamui tuima kamui chikosonkoanpa chitak wa shisak tonoto chiukoante, ikutuikata kamuiutar chikoisoitaka, ainukotan chihotanukar eneshirani eneshirkii chiomommomo ko, kamuiutar unkopuntek.
+# text_ain = Shiran chiki hanke kamui tuima kamui
+# text_ain = chikosonkoanpa chitak wa shisak tonoto
+# text_ain = chiukoante, ikutuikata kamuiutar
+# text_ain = chikoisoitaka, ainukotan chihotanukar
+# text_ain = eneshirani eneshirkii chiomommomo ko,
+# text_ain = kamuiutar unkopuntek.
+# text_ja = それで近い神遠い神に
+# text_ja = 使者をたてゝ招待し、盛な酒宴を
+# text_ja = 張りました、席上、神樣たちへ
+# text_ja = 私は物語り、人間の村を訪問した時の
+# text_ja = 其の村の状況、其の出來事を詳しく話しますと
+# text_ja = 神樣たちは大そう私をほめたてました。
+1	Shiran	siran	VERB	完全動詞	_	8	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	hanke	hanke	VERB	自動詞	_	4	amod	_	_
+4	kamui	kamuy	NOUN	名詞	_	8	obj	_	_
+5	tuima	tuyma	VERB	自動詞	_	6	amod	_	_
+6	kamui	kamuy	NOUN	名詞	_	4	conj	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	kosonkoanpa	ko-sonkoanpa	VERB	他動詞	_	15	advcl	_	_
+9	chi	ci=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	tak	tak	VERB	他動詞	_	15	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	shisak	sisak	VERB	自動詞	_	13	amod	_	_
+13	tonoto	tonoto	NOUN	名詞	_	15	obj	_	_
+14	chi	ci=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+15	ukoante	uko-ante	VERB	他動詞	_	37	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	15	punct	_	_
+17	iku	iku	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
+18	tuika	tuyka	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
+19	ta	ta	ADP	格助詞	_	18	case	_	_
+20	kamui	kamuy	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
+21	utar	utar	NOUN	名詞	_	23	obj	_	_
+22	chi	ci=	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
+23	koisoitak	ko-isoytak	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
+24	a	a	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	23	punct	_	_
+26	ainu	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
+27	kotan	kotan	NOUN	名詞	_	29	obj	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	hotanukar	hotanukar	VERB	他動詞	_	37	advcl	_	_
+30	ene	ene	ADV	副詞	_	31	advmod	_	SpaceAfter=No
+31	shiran	siran	VERB	完全動詞	_	32	acl	_	SpaceAfter=No
+32	i	-i	PART	接尾辞	_	37	obj	_	_
+33	ene	ene	ADV	副詞	_	34	advmod	_	SpaceAfter=No
+34	shirki	sirki	VERB	完全動詞	_	35	acl	_	SpaceAfter=No
+35	i	-i	PART	接尾辞	_	32	conj	_	_
+36	chi	ci=	PART	人称接辞	_	37	nsubj	_	SpaceAfter=No
+37	omommomo	omommomo	VERB	他動詞	_	43	advcl	_	_
+38	ko	kor	SCONJ	接続助詞	_	37	mark	_	SpaceAfter=No
+39	,	,	PUNCT	記号	_	37	punct	_	_
+40	kamui	kamuy	NOUN	名詞	_	41	nmod	_	SpaceAfter=No
+41	utar	utar	NOUN	名詞	_	43	nsubj	_	_
+42	un	un=	PART	人称接辞	_	43	obj	_	SpaceAfter=No
+43	kopuntek	kopuntek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+44	.	.	PUNCT	記号	_	43	punct	_	_
+
+# sent_id = SYOS_1_216-217
+# text = Kamuiutar hekompaita pirka inau tup chikore rep chikore.
+# text_ain = Kamuiutar hekompaita pirka inau
+# text_ain = tup chikore rep chikore.
+# text_ja = 神樣だちが歸る時に美しい御幣を
+# text_ja = 二つやり三つやりしました。
+1	Kamui	kamuy	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	utar	utar	NOUN	名詞	_	3	nsubj	_	_
+3	hekompa	hekomo	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	i	-i	PART	接尾辞	_	10	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	pirka	pirka	VERB	自動詞	_	7	amod	_	_
+7	inau	inaw	NOUN	名詞	_	10	obj	_	_
+8	tup	tup	NUM	数詞	_	10	nummod	_	_
+9	chi	ci=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	kore	kore	VERB	他動詞	_	0	root	_	_
+11	rep	rep	NUM	数詞	_	13	nummod	_	_
+12	chi	ci=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	kore	kore	VERB	他動詞	_	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+
+# sent_id = SYOS_1_218-229
+# text = Nea ainukotan orun inkarash ko tane anakne ratchitara ainupitoutar opittano uwekatairotke nea nishpa kotan esapane wa okai, nea hekachi tane anakne okkai pakno shikup wa, mat ka kor po ka kor, onaha ka, unuhu ka, nunuka kor okai, rammaramma sakekarichi ko ikiratpa ta usa inau usa sake unenomi, chiokai nakka ainuutar sermakaha hempara nakka chiehorari, ainumoshir chiepunkine wa okayash.
+# text_ain = Nea ainukotan orun inkarash ko
+# text_ain = tane anakne ratchitara ainupitoutar
+# text_ain = opittano uwekatairotke nea nishpa
+# text_ain = kotan esapane wa okai,
+# text_ain = nea hekachi tane anakne okkai pakno
+# text_ain = shikup wa, mat ka kor po ka kor,
+# text_ain = onaha ka, unuhu ka, nunuka kor okai,
+# text_ain = rammaramma sakekarichi ko
+# text_ain = ikiratpa ta usa inau usa sake unenomi,
+# text_ain = chiokai nakka ainuutar sermakaha
+# text_ain = hempara nakka chiehorari,
+# text_ain = ainumoshir chiepunkine wa okayash.
+# text_ja = 彼のアイヌ村の方を見ると、
+# text_ja = 今はもう平穩で、人間たちは
+# text_ja = みんな仲よく、彼のニシパが
+# text_ja = 村に頭になつてゐます、
+# text_ja = 彼の小供は、今はもう、成人
+# text_ja = して、妻ももち子も持つて
+# text_ja = 父や母に孝行をしてゐます、
+# text_ja = 何時でも何時でも、酒を造つた時は
+# text_ja = 酒宴のはじめに、御幣やお酒を私に送つてよこします。
+# text_ja = 私も人間たちの後に坐して
+# text_ja = 何時でも
+# text_ja = 人間の國を守護つてゐます。
+1	Nea	nea	DET	連体詞	_	3	det	_	_
+2	ainu	aynu	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	kotan	kotan	NOUN	名詞	_	4	nmod	_	_
+4	or	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	_
+6	inkar	inkar	VERB	自動詞	_	63	advcl	_	SpaceAfter=No
+7	ash	=as	PART	人称接辞	_	6	nsubj	_	_
+8	ko	ko	SCONJ	接続助詞	_	6	mark	_	_
+9	tane	tane	ADV	副詞	_	16	advmod	_	_
+10	anakne	anakne	ADP	副助詞	_	9	case	_	_
+11	ratchitara	ratcitara	ADV	副詞	_	16	advmod	_	_
+12	ainu	aynu	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
+13	pito	pito	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	utar	utar	NOUN	名詞	_	16	nsubj	_	_
+15	opittano	opittano	ADV	副詞	_	16	advmod	_	_
+16	uwekatairotke	uwekatayrotke	VERB	自動詞	_	22	advcl	_	_
+17	nea	nea	DET	連体詞	_	19	det	_	_
+18	nishpa	nispa	NOUN	名詞	_	19	nmod	_	_
+19	kotan	kotan	NOUN	名詞	_	20	nsubj	_	_
+20	esapane	esapane	VERB	他動詞	_	22	advcl	_	_
+21	wa	wa	SCONJ	接続助詞	_	20	mark	_	_
+22	okai	an	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	22	punct	_	_
+24	nea	nea	DET	連体詞	_	25	det	_	_
+25	hekachi	hekaci	NOUN	名詞	_	30	nsubj	_	_
+26	tane	tane	ADV	副詞	_	30	advmod	_	_
+27	anakne	anakne	ADP	副助詞	_	26	case	_	_
+28	okkai	okkay	NOUN	名詞	_	30	obl	_	_
+29	pakno	pakno	SCONJ	後置副詞	_	28	case	_	_
+30	shikup	sikup	VERB	自動詞	_	63	advcl	_	_
+31	wa	wa	SCONJ	接続助詞	_	30	mark	_	SpaceAfter=No
+32	,	,	PUNCT	記号	_	30	punct	_	_
+33	mat	mat	NOUN	名詞	_	35	obj	_	_
+34	ka	ka	ADP	副助詞	_	33	case	_	_
+35	kor	kor	VERB	他動詞	_	48	advcl	_	_
+36	po	po	NOUN	形式名詞	_	38	obj	_	_
+37	ka	ka	ADP	副助詞	_	36	case	_	_
+38	kor	kor	VERB	他動詞	_	35	conj	_	SpaceAfter=No
+39	,	,	PUNCT	記号	_	38	punct	_	_
+40	onaha	onaha	NOUN	名詞	_	46	obj	_	_
+41	ka	ka	ADP	副助詞	_	40	case	_	SpaceAfter=No
+42	,	,	PUNCT	記号	_	40	punct	_	_
+43	unuhu	unuhu	NOUN	名詞	_	40	conj	_	_
+44	ka	ka	ADP	副助詞	_	43	case	_	SpaceAfter=No
+45	,	,	PUNCT	記号	_	43	punct	_	_
+46	nunuka	nunuka	VERB	他動詞	_	48	advcl	_	_
+47	kor	kor	SCONJ	接続助詞	_	46	mark	_	_
+48	okai	an	VERB	自動詞	_	63	advcl	_	SpaceAfter=No
+49	,	,	PUNCT	記号	_	48	punct	_	_
+50	ramma	ramma	ADV	副詞	_	53	advmod	_	SpaceAfter=No
+51	ramma	ramma	ADV	副詞	_	53	advmod	_	_
+52	sake	sake	NOUN	名詞	_	53	obj	_	SpaceAfter=No
+53	karichi	karici	VERB	他動詞	_	63	case	_	SpaceAfter=No
+54	ko	ko	SCONJ	接続助詞	_	53	mark	_	_
+55	ikir	ikir	NOUN	名詞	_	56	nmod	_	SpaceAfter=No
+56	atpa	atpa	NOUN	位置名詞	_	63	obl	_	_
+57	ta	ta	ADP	格助詞	_	56	case	_	_
+58	usa	usa	ADV	副詞	_	59	amod	_	_
+59	inau	inaw	NOUN	名詞	_	63	iobj	_	_
+60	usa	usa	ADV	副詞	_	61	amod	_	_
+61	sake	sake	NOUN	名詞	_	59	conj	_	_
+62	un	un=	PART	人称接辞	_	63	obj	_	SpaceAfter=No
+63	enomi	e-nomi	VERB	他動詞	_	74	advcl	_	SpaceAfter=No
+64	,	,	PUNCT	記号	_	63	punct	_	_
+65	chi	ci=	PART	人称接辞	_	66	nsubj	_	SpaceAfter=No
+66	okai	an	VERB	自動詞	_	74	advcl	_	_
+67	nakka	yakka	SCONJ	接続助詞	_	66	mark	_	_
+68	ainu	aynu	NOUN	名詞	_	69	nmod	_	SpaceAfter=No
+69	utar	utar	NOUN	名詞	_	70	nmod	_	_
+70	sermakaha	sermakaha	NOUN	名詞	_	74	obl	_	_
+71	hempara	hempara	ADV	副詞	_	74	advmod	_	_
+72	nakka	yakka	SCONJ	接続助詞	_	71	case	_	_
+73	chi	ci=	PART	人称接辞	_	74	nsubj	_	SpaceAfter=No
+74	ehorari	ehorari	VERB	自動詞	_	81	advcl	_	SpaceAfter=No
+75	,	,	PUNCT	記号	_	74	punct	_	_
+76	ainu	aynu	NOUN	名詞	_	77	nmod	_	SpaceAfter=No
+77	moshir	mosir	NOUN	名詞	_	79	obj	_	_
+78	chi	ci=	PART	人称接辞	_	79	nsubj	_	SpaceAfter=No
+79	epunkine	epunkine	VERB	他動詞	_	81	advcl	_	_
+80	wa	wa	SCONJ	接続助詞	_	79	mark	_	_
+81	okay	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+82	ash	=as	PART	人称接辞	_	81	nsubj	_	SpaceAfter=No
+83	.	.	PUNCT	記号	_	81	punct	_	_
+
+# sent_id = SYOS_1_230
+# text = ari kamuichikap kamui isoitak.
+# text_ain = ari kamuichikap kamui isoitak.
+# text_ja = と、ふくらふの神樣が物語りました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	_
+2	kamui	kamuy	NOUN	名詞	_	3	compound	_	SpaceAfter=No
+3	chikap	cikap	NOUN	名詞	_	4	nmod	_	_
+4	kamui	kamuy	NOUN	名詞	_	5	nsubj	_	_
+5	isoitak	isoytak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+
+# sent_id = SYOS_6_1
+# text = Hotenao
+# text_ain = Hotenao
+# text_ja = ホテナオ
+1	Hotenao	hotenao	INTJ	間投詞	_	0	root	_	_
+
+# sent_id = SYOS_6_2-5
+# text = Shineantota nishmuash kusu pishta sapash, shinotash kor okayash awa, shine ponrupneainu ek koran wakusu, hepashi san ko hepashi chietushmak, heperai ek ko heperai chietushmak.
+# text_ain = Shineantota nishmuash kusu pishta sapash,
+# text_ain = shinotash kor okayash awa, shine ponrupneainu
+# text_ain = ek koran wakusu, hepashi san ko hepashi chietushmak,
+# text_ain = heperai ek ko heperai chietushmak.
+# text_ja = 或日に退屈なので濱邊へ出て
+# text_ja = 遊んでゐたら一人の小男が
+# text_ja = 來てゐたから、川下へ下ると私も川下へ
+# text_ja = 下り、川上へ來ると私も川上へ行き道をさへぎつた。
+1	Shine	sine	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	to	to	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	nishmu	nismu	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
+6	ash	=as	PART	人称接辞	_	5	nsubj	_	_
+7	kusu	kusu	SCONJ	接続詞	_	5	mark	_	_
+8	pish	pis	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	ta	ta	ADP	格助詞	_	8	case	_	_
+10	sap	san	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+11	ash	=as	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	10	punct	_	_
+13	shinot	sinot	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+14	ash	=as	PART	人称接辞	_	13	nsubj	_	_
+15	kor	kor	SCONJ	接続助詞	_	13	mark	_	_
+16	okay	an	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
+17	ash	=as	PART	人称接辞	_	16	nsubj	_	_
+18	awa	awa	CCONJ	接続詞	_	16	cc	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	16	punct	_	_
+20	shine	sine	NUM	数詞	_	23	nummod	_	_
+21	pon	pon	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+22	rupne	rupne	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+23	ainu	aynu	NOUN	名詞	_	24	nsubj	_	_
+24	ek	ek	VERB	自動詞	_	26	advcl	_	_
+25	kor	kor	SCONJ	接続助詞	_	24	mark	_	SpaceAfter=No
+26	an	an	VERB	自動詞	_	16	conj	_	_
+27	wakusu	wakusu	SCONJ	接続助詞	_	26	mark	_	SpaceAfter=No
+28	,	,	PUNCT	記号	_	26	punct	_	_
+29	hepashi	hepasi	ADV	副詞	_	30	advmod	_	_
+30	san	san	VERB	自動詞	_	0	root	_	_
+31	ko	kor	SCONJ	接続助詞	_	30	mark	_	SpaceAfter=No
+32	hepashi	hepasi	ADV	副詞	_	34	advmod	_	_
+33	chi	ci=	PART	人称接辞	_	34	nsubj	_	SpaceAfter=No
+34	etushmak	etusmak	VERB	他動詞	_	30	conj	_	SpaceAfter=No
+35	,	,	PUNCT	記号	_	30	punct	_	_
+36	heperai	heperay	ADV	副詞	_	37	advmod	_	_
+37	ek	ek	VERB	自動詞	_	30	parataxis	_	_
+38	ko	kor	SCONJ	接続助詞	_	37	mark	_	_
+39	heperai	heperay	ADV	副詞	_	41	advmod	_	_
+40	chi	ci=	PART	人称接辞	_	41	nsubj	_	SpaceAfter=No
+41	etushmak	etusmak	VERB	他動詞	_	37	conj	_	SpaceAfter=No
+42	.	.	PUNCT	記号	_	41	punct	_	_
+
+# sent_id = SYOS_6_6-8
+# text = Ikichiash awa, hepashi iwanshui heperai iwanshui ne ita ponrupneainu kor wenpuri enantuika eparsere, eneitaki : ―
+# text_ain = Ikichiash awa, hepashi iwanshui
+# text_ain = heperai iwanshui ne ita ponrupneainu
+# text_ain = kor wenpuri enantuika eparsere, eneitaki : ―
+# text_ja = すると川下へ六囘
+# text_ja = 川上へ六囘になつた時小男は
+# text_ja = 持前の癇癪を顏に表して言ふことには
+1	Ikichi	iki-ci	VERB	自動詞	_	26	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	cc	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	hepashi	hepasi	ADV	副詞	_	12	acl	_	_
+6	iwan	iwan	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+7	shui	suy	NOUN	名詞	_	6	clf	_	_
+8	heperai	heperay	ADV	副詞	_	5	conj	_	_
+9	iwan	iwan	NUM	数詞	_	8	nummod	_	SpaceAfter=No
+10	shui	suy	NOUN	名詞	_	9	clf	_	_
+11	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+12	i	-i	PART	接尾辞	_	22	obl	_	SpaceAfter=No
+13	ta	ta	ADP	格助詞	_	12	case	_	_
+14	pon	pon	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+15	rupne	rupne	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+16	ainu	aynu	NOUN	名詞	_	17	nsubj	_	_
+17	kor	kor	VERB	他動詞	_	19	acl	_	_
+18	wen	wen	VERB	自動詞	_	19	amod	_	_
+19	puri	puri	NOUN	名詞	_	22	obj	_	_
+20	enan	e-nan	NOUN	名詞	_	21	compound	_	_
+21	tuika	tuyka	NOUN	名詞	_	22	iobj	_	_
+22	eparsere	e-parse-re	VERB	他動詞	_	1	conj	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	22	punct	_	_
+24	ene	ene	ADV	副詞	_	25	advmod	_	SpaceAfter=No
+25	itak	itak	VERB	自動詞	_	26	acl	_	SpaceAfter=No
+26	i	-i	PART	接尾辞	_	0	root	_	_
+27	:	:	PUNCT	記号	_	26	punct	_	_
+28	―	―	PUNCT	記号	_	26	punct	_	_
+
+# sent_id = SYOS_6_9
+# text = “ Pii tuntun, pii tun tun !
+# text_ain = “ Pii tuntun, pii tun tun !
+# text_ja = 「ピイピイ
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Pii	piy	INTJ	間投詞	_	0	root	_	_
+3	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	2	punct	_	_
+6	pii	piy	INTJ	間投詞	_	2	conj	_	_
+7	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+8	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+9	!	!	PUNCT	記号	_	6	punct	_	_
+
+# sent_id = SYOS_6_10-12
+# text = tan hekachi wen hekachi eiki chiki, tan esannot teeta rehe tane rehe ukaepita eki kushnena ! ”
+# text_ain = tan hekachi wen hekachi eiki chiki,
+# text_ain = tan esannot teeta rehe tane rehe
+# text_ain = ukaepita eki kushnena ! ”
+# text_ja = 此の小憎め惡い小憎め、そんな事をするなら
+# text_ja = 此の岬の、昔の名と今の名を
+# text_ja = 言解いて見ろ」
+1	tan	tan	DET	連体詞	_	2	det	_	_
+2	hekachi	hekaci	NOUN	名詞	_	17	vocative	_	_
+3	wen	wen	VERB	自動詞	_	4	amod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	2	appos	_	_
+5	e	e=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	iki	iki	VERB	自動詞	_	17	advcl	_	_
+7	chiki	ciki	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	tan	tan	DET	連体詞	_	10	det	_	_
+10	esannot	esannot	NOUN	名詞	_	12	nmod	_	_
+11	teeta	teeta	ADV	副詞	_	12	amod	_	_
+12	rehe	re	NOUN	名詞	_	15	obj	_	_
+13	tane	tane	ADV	副詞	_	14	amod	_	_
+14	rehe	re	NOUN	名詞	_	12	conj	_	_
+15	ukaepita	ukaepita	VERB	他動詞	_	17	ccomp	_	_
+16	e	e=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	ki	ki	VERB	他動詞	_	0	root	_	_
+18	kush	kusu	SCONJ	接続詞	_	17	mark	_	SpaceAfter=No
+19	ne	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+20	na	na	PART	終助詞	_	17	discourse	_	_
+21	!	!	PUNCT	記号	_	17	punct	_	_
+22	”	”	PUNCT	記号	_	17	punct	_	_
+
+# sent_id = SYOS_6_13-14
+# text = Hawash chiki, chiemina kor itakash hawe ene okai : ―
+# text_ain = Hawash chiki, chiemina kor itakash hawe
+# text_ain = ene okai : ―
+# text_ja = 私は聞いて笑ひながらいふこと
+# text_ja = には‥‥
+1	Hawash	háwas	VERB	完全動詞	_	11	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	emina	emina	VERB	他動詞	_	11	advcl	_	_
+6	kor	kor	SCONJ	接続助詞	_	5	mark	_	_
+7	itak	itak	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	ash	=as	PART	人称接辞	_	7	nsubj	_	_
+9	hawe	hawe	NOUN	形式名詞	_	11	nsubj	_	_
+10	ene	ene	ADV	副詞	_	11	advmod	_	_
+11	okai	an	VERB	自動詞	_	0	root	_	_
+12	:	:	PUNCT	記号	_	11	punct	_	_
+13	―	―	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_6_15-16
+# text = “ Nennamora tan esannot teeta rehe Tane rehe erampeuteka !
+# text_ain = “ Nennamora tan esannot teeta rehe
+# text_ain = Tane rehe erampeuteka !
+# text_ja = 「誰が此の岬の昔の名と
+# text_ja = 今の名を知らないものか！
+1	“	“	PUNCT	記号	_	11	punct	_	_
+2	Nen	nen	PRON	代名詞	_	11	nsubj	_	SpaceAfter=No
+3	nam	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	ora	ora	SCONJ	接続詞	_	2	case	_	_
+5	tan	tan	DET	連体詞	_	6	det	_	_
+6	esannot	esannot	NOUN	名詞	_	8	nmod	_	_
+7	teeta	teeta	ADV	副詞	_	8	amod	_	_
+8	rehe	re	NOUN	名詞	_	11	obj	_	_
+9	Tane	tane	ADV	副詞	_	10	amod	_	_
+10	rehe	re	NOUN	名詞	_	8	conj	_	_
+11	erampeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	a	a	PART	終助詞	_	11	discourse	_	_
+13	!	!	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_6_17-20
+# text = Teeta anak shinnupur kusu tapan esannot ‘  Kamuiesannot ’ ari ayea korka tane anakne shirpan kusu ‘ Inauesannot ’ ari aye ruwe tashi anne ! ”
+# text_ain = Teeta anak shinnupur kusu
+# text_ain = tapan esannot ‘ Kamuiesannot ’ ari
+# text_ain = ayea korka tane anakne shirpan kusu
+# text_ain = ‘ Inauesannot ’ ari aye ruwe tashi anne ! ”
+# text_ja = 昔は、尊いえらい神樣や人間が居つたから
+# text_ja = 此の岬を神の岬と
+# text_ja = 言つたものだが、今は時代が衰へたから
+# text_ja = 御幣の岬とよんでゐるのさ！」
+1	Teeta	teeta	ADV	副詞	_	3	advmod	_	_
+2	anak	anak	ADP	副助詞	_	1	case	_	_
+3	shinnupur	sir-nupur	VERB	完全動詞	_	13	advcl	_	_
+4	kusu	kusu	SCONJ	接続詞	_	3	mark	_	_
+5	tapan	tapan	DET	連体詞	_	6	det	_	_
+6	esannot	esannot	NOUN	名詞	_	13	obj	_	_
+7	‘	‘	PUNCT	記号	_	9	punct	_	_
+8	Kamui	kamuy	NOUN	名詞	_	9	compound	_	SpaceAfter=No
+9	esannot	esannot	NOUN	名詞	_	13	obl	_	_
+10	’	’	PUNCT	記号	_	9	punct	_	_
+11	ari	ari	SCONJ	接続助詞	_	9	case	_	_
+12	a	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	ye	ye	VERB	他動詞	_	27	acl	_	SpaceAfter=No
+14	a	a	AUX	助動詞	_	13	aux	_	_
+15	korka	korka	CCONJ	接続詞	_	13	cc	_	_
+16	tane	tane	ADV	副詞	_	18	advmod	_	_
+17	anakne	anakne	ADP	副助詞	_	16	case	_	_
+18	shirpan	sir-pan	VERB	完全動詞	_	26	advcl	_	_
+19	kusu	kusu	SCONJ	接続詞	_	18	mark	_	_
+20	‘	‘	PUNCT	記号	_	22	punct	_	_
+21	Inau	inaw	NOUN	名詞	_	22	compound	_	SpaceAfter=No
+22	esannot	esannot	NOUN	名詞	_	26	obl	_	_
+23	’	’	PUNCT	記号	_	22	punct	_	_
+24	ari	ari	SCONJ	接続助詞	_	22	case	_	_
+25	a	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ye	ye	VERB	他動詞	_	13	conj	_	_
+27	ruwe	ruwe	NOUN	形式名詞	_	29	nsubj	_	_
+28	tashi	tasi	ADP	副助詞	_	27	case	_	_
+29	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+30	ne	ne	PART	終助詞	_	29	discourse	_	_
+31	!	!	PUNCT	記号	_	29	punct	_	_
+32	”	”	PUNCT	記号	_	29	punct	_	_
+
+# sent_id = SYOS_6_21
+# text = itakash awa ponrupneainu eneitaki : ―
+# text_ain = itakash awa ponrupneainu eneitaki : ―
+# text_ja = 云ふと、小男のいふことには
+1	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	cc	_	_
+4	pon	pon	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+5	rupne	rupne	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	ainu	aynu	NOUN	名詞	_	8	nsubj	_	_
+7	ene	ene	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+8	itak	itak	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+9	i	-i	PART	接尾辞	_	1	conj	_	_
+10	:	:	PUNCT	記号	_	9	punct	_	_
+11	―	―	PUNCT	記号	_	9	punct	_	_
+
+# sent_id = SYOS_6_22
+# text = “ Pii tuntun, pii tuntun !
+# text_ain = “ Pii tuntun, pii tuntun !
+# text_ja = 「ピイトンピイトン
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Pii	piy	INTJ	間投詞	_	0	root	_	_
+3	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	2	punct	_	_
+6	pii	piy	INTJ	間投詞	_	2	conj	_	_
+7	tun	tun	INTJ	間投詞	_	6	discourse	_	SpaceAfter=No
+8	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+9	!	!	PUNCT	記号	_	6	punct	_	_
+
+# sent_id = SYOS_6_23-25
+# text = Tan hekachi, sonnohetap ehawan chiki tapan petpo teeta rehe tane rehe ukaepita eki kushnena.”
+# text_ain = Tan hekachi, sonnohetap ehawan chiki
+# text_ain = tapan petpo teeta rehe tane rehe
+# text_ain = ukaepita eki kushnena.”
+# text_ja = 此小憎め本當にお前はさういふなら
+# text_ja = 此の川の前の名と今の名を
+# text_ja = 言つて見ろ。」
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	hekachi	hekaci	NOUN	名詞	_	17	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	sonno	sonno	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+5	hetap	hetap	INTJ	間投詞	_	4	discourse	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	hawan	hawean	VERB	自動詞	_	17	advcl	_	_
+8	chiki	ciki	SCONJ	接続助詞	_	7	mark	_	_
+9	tapan	tapan	DET	連体詞	_	10	det	_	_
+10	petpo	petpo	NOUN	名詞	_	12	nmod	_	_
+11	teeta	teeta	ADV	副詞	_	12	amod	_	_
+12	rehe	re	NOUN	名詞	_	15	obj	_	_
+13	tane	tane	ADV	副詞	_	14	amod	_	_
+14	rehe	re	NOUN	名詞	_	12	conj	_	_
+15	ukaepita	ukaepita	VERB	他動詞	_	17	ccomp	_	_
+16	e	e=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	ki	ki	VERB	他動詞	_	0	root	_	_
+18	kush	kusu	SCONJ	接続詞	_	17	mark	_	SpaceAfter=No
+19	ne	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+20	na	na	PART	終助詞	_	17	discourse	_	SpaceAfter=No
+21	.	.	PUNCT	記号	_	17	punct	_	SpaceAfter=No
+22	”	”	PUNCT	記号	_	17	punct	_	_
+
+# sent_id = SYOS_6_26
+# text = hawash chiki itakash hawe ene okai : ―
+# text_ain = hawash chiki itakash hawe ene okai : ―
+# text_ja = 聞くと、私の言ふことには
+1	hawash	háwas	VERB	完全動詞	_	7	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	itak	itak	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	ash	=as	PART	人称接辞	_	3	nsubj	_	_
+5	hawe	hawe	NOUN	形式名詞	_	7	nsubj	_	_
+6	ene	ene	ADV	副詞	_	7	advmod	_	_
+7	okai	an	VERB	自動詞	_	0	root	_	_
+8	:	:	PUNCT	記号	_	7	punct	_	_
+9	―	―	PUNCT	記号	_	7	punct	_	_
+
+# sent_id = SYOS_6_27-28
+# text = “ Nennamora tapan petpo teeta rehe tane rehe erampeuteka !
+# text_ain = “ Nennamora tapan petpo teeta rehe
+# text_ain = tane rehe erampeuteka !
+# text_ja = 「誰が此の川の前の名
+# text_ja = 今の名を知らないものか！
+1	“	“	PUNCT	記号	_	11	punct	_	_
+2	Nen	nen	PRON	代名詞	_	11	nsubj	_	SpaceAfter=No
+3	nam	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	ora	ora	SCONJ	接続詞	_	2	case	_	_
+5	tapan	tapan	DET	連体詞	_	6	det	_	_
+6	petpo	petpo	NOUN	名詞	_	8	nmod	_	_
+7	teeta	teeta	ADV	副詞	_	8	amod	_	_
+8	rehe	re	NOUN	名詞	_	11	obj	_	_
+9	tane	tane	ADV	副詞	_	10	amod	_	_
+10	rehe	re	NOUN	名詞	_	8	conj	_	_
+11	erampeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	a	a	PART	終助詞	_	11	discourse	_	_
+13	!	!	PUNCT	記号	_	11	punct	_	_
+
+# sent_id = SYOS_6_29-32
+# text = teeta kane shinnupurita tapan yetpo ‘ Kanchiwetunash ’ ari ayea korka tane shirpan kushu ‘ Kanchiwemoire ’ ari aye ruwe tashi anne ! ”
+# text_ain = teeta kane shinnupurita tapan yetpo
+# text_ain = ‘ Kanchiwetunash ’ ari ayea korka
+# text_ain = tane shirpan kushu ‘ Kanchiwemoire ’ ari
+# text_ain = aye ruwe tashi anne ! ”
+# text_ja = 昔、えらかつた時代には此の川を
+# text_ja = 流れの早い川と言つてゐたのだが
+# text_ja = 今は世が衰へてゐるので流れの遲い川と
+# text_ja = 言つてゐるのさ。」
+1	teeta	teeta	ADV	副詞	_	3	advmod	_	_
+2	kane	kane	ADP	副助詞	_	1	case	_	_
+3	shinnupur	sir-nupur	VERB	完全動詞	_	4	acl	_	SpaceAfter=No
+4	i	-i	PART	接尾辞	_	14	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	tapan	tapan	DET	連体詞	_	7	det	_	_
+7	yetpo	petpo	NOUN	名詞	_	14	obj	_	_
+8	‘	‘	PUNCT	記号	_	9	punct	_	_
+9	Kanchiwe	kanciw	NOUN	名詞	_	14	obl	_	SpaceAfter=No
+10	tunash	tunas	VERB	自動詞	_	9	amod	_	_
+11	’	’	PUNCT	記号	_	9	punct	_	_
+12	ari	ari	SCONJ	接続助詞	_	9	case	_	_
+13	a	a=	PART	人称接辞	_	14	nsubj	_	SpaceAfter=No
+14	ye	ye	VERB	他動詞	_	27	acl	_	SpaceAfter=No
+15	a	a	AUX	助動詞	_	14	aux	_	_
+16	korka	korka	CCONJ	接続詞	_	14	cc	_	_
+17	tane	tane	ADV	副詞	_	18	advmod	_	_
+18	shirpan	sir-pan	VERB	完全動詞	_	26	advcl	_	_
+19	kushu	kusu	SCONJ	接続詞	_	18	mark	_	_
+20	‘	‘	PUNCT	記号	_	21	punct	_	_
+21	Kanchiwe	kanciw	NOUN	名詞	_	26	obl	_	SpaceAfter=No
+22	moire	moyre	VERB	自動詞	_	21	amod	_	_
+23	’	’	PUNCT	記号	_	21	punct	_	_
+24	ari	ari	SCONJ	接続助詞	_	21	case	_	_
+25	a	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ye	ye	VERB	他動詞	_	14	conj	_	_
+27	ruwe	ruwe	NOUN	形式名詞	_	29	nsubj	_	_
+28	tashi	tasi	ADP	副助詞	_	27	case	_	_
+29	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+30	ne	ne	AUX	デアル動詞	_	29	cop	_	_
+31	!	!	PUNCT	記号	_	29	punct	_	_
+32	”	”	PUNCT	記号	_	29	punct	_	_
+
+# sent_id = SYOS_6_33
+# text = itskash awa ponrupneainu ene itaki : ―
+# text_ain = itskash awa ponrupneainu ene itaki : ―
+# text_ja = 云ふと小男の云ふことには
+1	itsk	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	cc	_	_
+4	pon	pon	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+5	rupne	rupne	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	ainu	aynu	NOUN	名詞	_	8	nsubj	_	_
+7	ene	ene	ADV	副詞	_	8	advmod	_	_
+8	itak	itak	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+9	i	-i	PART	接尾辞	_	1	conj	_	_
+10	:	:	PUNCT	記号	_	9	punct	_	_
+11	―	―	PUNCT	記号	_	9	punct	_	_
+
+# sent_id = SYOS_6_34
+# text = “ Pii tuntun, pii tun tun ! ”
+# text_ain = “ Pii tuntun, pii tun tun ! ”
+# text_ja = 「ピイトントンピイトントン
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Pii	piy	INTJ	間投詞	_	0	root	_	_
+3	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	2	punct	_	_
+6	pii	piy	INTJ	間投詞	_	2	conj	_	_
+7	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+8	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+9	!	!	PUNCT	記号	_	6	punct	_	_
+10	”	”	PUNCT	記号	_	2	punct	_	_
+
+# sent_id = SYOS_6_35-36
+# text = eonnohetapne ehawan chiki, ushinritpita aki kushnena ! ”
+# text_ain = eonnohetapne ehawan chiki,
+# text_ain = ushinritpita aki kushnena ! ”
+# text_ja = 本當にお前そんな事を云ふなら
+# text_ja = お互の素性の解合ひをやらう。」
+1	eonno	sonno	ADV	副詞	_	5	advcl	_	SpaceAfter=No
+2	hetap	hetap	INTJ	間投詞	_	1	discourse	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	hawan	hawean	VERB	自動詞	_	10	advcl	_	_
+6	chiki	ciki	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	ushinritpita	usinritpita	VERB	自動詞	_	10	ccomp	_	_
+9	a	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ki	ki	VERB	他動詞	_	0	root	_	_
+11	kush	kusu	SCONJ	接続詞	_	10	mark	_	SpaceAfter=No
+12	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+13	na	na	PART	終助詞	_	10	discourse	_	_
+14	!	!	PUNCT	記号	_	10	punct	_	_
+15	”	”	PUNCT	記号	_	10	punct	_	_
+
+# sent_id = SYOS_6_37
+# text = hawash chiki itakash hawe eneokai : ―
+# text_ain = hawash chiki itakash hawe eneokai : ―
+# text_ja = 聞いて私の云ふことには
+1	hawash	háwas	VERB	完全動詞	_	7	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	itak	itak	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	ash	=as	PART	人称接辞	_	3	nsubj	_	_
+5	hawe	hawe	NOUN	形式名詞	_	7	nsubj	_	_
+6	ene	ene	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+7	okai	an	VERB	自動詞	_	0	root	_	_
+8	:	:	PUNCT	記号	_	7	punct	_	_
+9	―	―	PUNCT	記号	_	7	punct	_	_
+
+# sent_id = SYOS_6_38
+# text = “ Nennamora eshinrichihi erampeuteka !
+# text_ain = “ Nennamora eshinrichihi erampeuteka !
+# text_ja = 「誰がお前の性素を知らないものか！
+1	“	“	PUNCT	記号	_	7	punct	_	_
+2	Nen	nen	PRON	代名詞	_	7	nsubj	_	SpaceAfter=No
+3	nam	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	ora	ora	SCONJ	接続詞	_	2	case	_	_
+5	e	e=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+6	shinrichihi	sinrit	NOUN	名詞	_	7	obj	_	_
+7	erampeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	a	a	PART	終助詞	_	7	discourse	_	_
+9	!	!	PUNCT	記号	_	7	punct	_	_
+
+# sent_id = SYOS_6_39-43
+# text = otteeta Okikirmui kimta oman wa, kucha karita keneinunpe kar aike ne inunpe apekar wa sattek okere, Okikirmui oararkehe oterke ko oarakehe hotari.
+# text_ain = otteeta Okikirmui kimta oman wa,
+# text_ain = kucha karita keneinunpe kar aike
+# text_ain = ne inunpe apekar wa sattek okere,
+# text_ain = Okikirmui oararkehe oterke ko oarakehe
+# text_ain = hotari.
+# text_ja = 大昔、オキヽリムイが山へ行つて
+# text_ja = 狩獵小舍を建てた時榛の木の爐緣を作つたら
+# text_ja = その爐緣が火に當つてらうからに乾いてしまつた。
+# text_ja = オキヽリムイが片方を蹈むと片一方が
+# text_ja = 上る、
+1	otteeta	otteeta	ADV	副詞	_	5	advmod	_	_
+2	Okikirmui	Okikirmuy	PROPN	固有名詞	_	5	nsubj	_	_
+3	kim	kim	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	oman	oman	VERB	自動詞	_	10	acl	_	_
+6	wa	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	kucha	kuca	NOUN	名詞	_	9	obj	_	_
+9	kar	kar	VERB	他動詞	_	5	conj	_	SpaceAfter=No
+10	i	-i	PART	接尾辞	_	14	obl	_	SpaceAfter=No
+11	ta	ta	ADP	格助詞	_	10	case	_	_
+12	kene	kene	NOUN	名詞	_	13	compound	_	SpaceAfter=No
+13	inunpe	inumpe	NOUN	名詞	_	14	obj	_	_
+14	kar	kar	VERB	他動詞	_	0	root	_	_
+15	aike	ayke	SCONJ	接続助詞	_	14	mark	_	_
+16	ne	ne	DET	連体詞	_	17	det	_	_
+17	inunpe	inumpe	NOUN	名詞	_	18	nsubj	_	_
+18	apekar	apekar	VERB	自動詞	_	14	conj	_	_
+19	wa	wa	SCONJ	接続助詞	_	18	mark	_	_
+20	sat	sat	VERB	自動詞	_	18	conj	_	SpaceAfter=No
+21	tek	tek	AUX	助動詞	_	20	aux	_	_
+22	okere	okere	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	14	punct	_	_
+24	Okikirmui	Okikirmuy	PROPN	固有名詞	_	27	nsubj	_	_
+25	oar	oar	DET	連体詞	_	26	det	_	SpaceAfter=No
+26	arkehe	arke	NOUN	位置名詞	_	27	obj	_	_
+27	oterke	oterke	VERB	他動詞	_	31	advcl	_	_
+28	ko	kor	SCONJ	接続助詞	_	27	mark	_	_
+29	oar	oar	DET	連体詞	_	30	det	_	SpaceAfter=No
+30	arkehe	arke	NOUN	位置名詞	_	31	nsubj	_	_
+31	hotari	hotari	VERB	自動詞	_	14	parataxis	_	SpaceAfter=No
+32	.	.	PUNCT	記号	_	31	punct	_	_
+
+# sent_id = SYOS_6_43-45
+# text = Newaanpe Okikirmui rushka kushu ne inunpe pet otta kor wa san wa, oshura wa isam ruwe ne.
+# text_ain = Newaanpe Okikirmui rushka kushu
+# text_ain = ne inunpe pet otta kor wa san wa,
+# text_ain = oshura wa isam ruwe ne.
+# text_ja = それをオキヽリムイが怒つて
+# text_ja = 其の爐緣を川へ持つて下り
+# text_ja = 捨ててしまつたのだ。
+1	Ne	ne	DET	連体詞	_	4	det	_	SpaceAfter=No
+2	wa	wa	SCONJ	接続助詞	_	1	case	_	SpaceAfter=No
+3	an	an	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+4	pe	pe	NOUN	形式名詞	_	6	obj	_	_
+5	Okikirmui	Okikirmuy	PROPN	固有名詞	_	6	nsubj	_	_
+6	rushka	ruska	VERB	他動詞	_	13	advcl	_	_
+7	kushu	kusu	SCONJ	接続詞	_	6	mark	_	_
+8	ne	ne	DET	連体詞	_	9	det	_	_
+9	inunpe	inumpe	NOUN	名詞	_	13	obj	_	_
+10	pet	pet	NOUN	名詞	_	11	nmod	_	_
+11	ot	or	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+12	ta	ta	ADP	格助詞	_	11	case	_	_
+13	kor	kor	VERB	他動詞	_	21	advcl	_	_
+14	wa	wa	SCONJ	接続助詞	_	13	mark	_	_
+15	san	san	VERB	自動詞	_	13	conj	_	_
+16	wa	wa	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+17	,	,	PUNCT	記号	_	13	punct	_	_
+18	oshura	osura	VERB	他動詞	_	21	acl	_	_
+19	wa	wa	SCONJ	接続助詞	_	18	mark	_	_
+20	isam	isam	VERB	自動詞	_	18	conj	_	_
+21	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+22	ne	ne	AUX	デアル動詞	_	21	cop	_	SpaceAfter=No
+23	.	.	PUNCT	記号	_	21	punct	_	_
+
+# sent_id = SYOS_6_46-53
+# text = Orowano ne inunbe petesoro mom aineno, atuioro oshma, tu atuipenrur re atuipenrur chieshirkik shiri kamuiutar nukar wa, aeoripak Okikirmui tekekarpe neeno yaierampeutek wa mom aineno atuikomunin aenunuke kusu, kamuiutar orowa ne inumbe cheppone akar wa ‘ Inumpepecheppo ’ ari arekore ruwe ne.
+# text_ain = Orowano ne inunbe petesoro mom aineno,
+# text_ain = atuioro oshma, tu atuipenrur re atuipenrur
+# text_ain = chieshirkik shiri kamuiutar nukar wa,
+# text_ain = aeoripak Okikirmui tekekarpe neeno
+# text_ain = yaierampeutek wa mom aineno atuikomunin
+# text_ain = aenunuke kusu, kamuiutar orowa
+# text_ain = ne inumbe cheppone akar wa ‘ Inumpepecheppo ’ ari
+# text_ain = arekore ruwe ne.
+# text_ja = それから其の爐緣を流れに沿ふて流れていつて
+# text_ja = 海へ出で、彼方の海此方の海波
+# text_ja = に打つけられる樣を神樣たちが御覽になつて、
+# text_ja = 敬ふべきえらいオキヽリムイの手作りの者が其の樣に
+# text_ja = 何の役にもたゝず迷ひ流れて海水と共に腐つてしまふのは
+# text_ja = 勿體ない事だから神樣たちから
+# text_ja = 其の爐緣は魚にされて、爐緣魚
+# text_ja = と名づけられたのだ。
+1	Oro	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ne	ne	DET	連体詞	_	4	det	_	_
+4	inunbe	inumpe	NOUN	名詞	_	7	nsubj	_	_
+5	pet	pet	NOUN	名詞	_	7	obl	_	_
+6	esoro	esoro	SCONJ	後置副詞	_	5	case	_	_
+7	mom	mom	VERB	自動詞	_	13	advcl	_	_
+8	aine	ayne	SCONJ	接続詞	_	7	mark	_	SpaceAfter=No
+9	no	-no	PART	接尾辞	_	7	fixed	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	7	punct	_	_
+11	atui	atuy	NOUN	名詞	_	12	nmod	_	SpaceAfter=No
+12	oro	or	NOUN	位置名詞	_	13	obj	_	_
+13	oshma	osma	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	記号	_	13	punct	_	_
+15	tu	tu	NUM	数詞	_	17	nummod	_	_
+16	atui	atuy	NOUN	名詞	_	17	compound	_	SpaceAfter=No
+17	penrur	pén-rur	NOUN	名詞	_	21	obj	_	_
+18	re	re	NUM	数詞	_	20	nummod	_	_
+19	atui	atuy	NOUN	名詞	_	20	compound	_	SpaceAfter=No
+20	penrur	pén-rur	NOUN	名詞	_	17	conj	_	_
+21	chieshirkik	ci-esirkik	VERB	他動詞	_	22	acl	_	_
+22	shiri	sir	NOUN	名詞	_	25	obj	_	_
+23	kamui	kamuy	NOUN	名詞	_	24	compound	_	SpaceAfter=No
+24	utar	utar	NOUN	名詞	_	25	nsubj	_	_
+25	nukar	nukar	VERB	他動詞	_	34	advcl	_	_
+26	wa	wa	SCONJ	接続助詞	_	25	mark	_	SpaceAfter=No
+27	,	,	PUNCT	記号	_	25	punct	_	_
+28	a	a=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	eoripak	eoripak	VERB	他動詞	_	30	acl	_	_
+30	Okikirmui	Okikirmuy	PROPN	固有名詞	_	31	nsubj	_	_
+31	tekekar	tekekar	VERB	他動詞	_	32	acl	_	SpaceAfter=No
+32	pe	pe	NOUN	形式名詞	_	34	nsubj	_	_
+33	neeno	néno	ADV	副詞	_	34	advmod	_	_
+34	yaierampeutek	yayerampewtek	VERB	自動詞	_	43	advcl	_	_
+35	wa	wa	SCONJ	接続助詞	_	34	mark	_	_
+36	mom	mom	VERB	自動詞	_	34	conj	_	_
+37	aine	ayne	SCONJ	接続詞	_	36	mark	_	SpaceAfter=No
+38	no	-no	PART	接尾辞	_	36	fixed	_	_
+39	atui	atuy	NOUN	名詞	_	41	obl	_	SpaceAfter=No
+40	ko	kor	SCONJ	接続助詞	_	39	case	_	SpaceAfter=No
+41	munin	munin	VERB	自動詞	_	43	ccomp	_	_
+42	a	a=	PART	人称接辞	_	43	nsubj	_	SpaceAfter=No
+43	enunuke	enunuke	VERB	他動詞	_	55	advcl	_	_
+44	kusu	kusu	SCONJ	接続詞	_	43	mark	_	SpaceAfter=No
+45	,	,	PUNCT	記号	_	43	punct	_	_
+46	kamui	kamuy	NOUN	名詞	_	47	compound	_	SpaceAfter=No
+47	utar	utar	NOUN	名詞	_	48	nmod	_	_
+48	oro	or	NOUN	位置名詞	_	55	obl	_	SpaceAfter=No
+49	wa	wa	ADP	格助詞	_	48	case	_	_
+50	ne	ne	DET	連体詞	_	51	det	_	_
+51	inumbe	inumpe	NOUN	名詞	_	55	obj	_	_
+52	cheppo	ceppo	NOUN	名詞	_	55	obl	_	SpaceAfter=No
+53	ne	ne	ADP	格助詞	_	52	case	_	_
+54	a	a=	PART	人称接辞	_	55	nsubj	_	SpaceAfter=No
+55	kar	kar	VERB	他動詞	_	63	acl	_	_
+56	wa	wa	SCONJ	接続助詞	_	55	mark	_	_
+57	‘	‘	PUNCT	記号	_	58	punct	_	_
+58	Inumpepecheppo	inumpepe-ceppo	NOUN	名詞	_	62	obl	_	_
+59	’	’	PUNCT	記号	_	58	punct	_	_
+60	ari	ari	SCONJ	接続助詞	_	58	case	_	_
+61	a	a=	PART	人称接辞	_	62	nsubj	_	SpaceAfter=No
+62	rekore	rékore	VERB	他動詞	_	55	conj	_	_
+63	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+64	ne	ne	AUX	デアル動詞	_	63	cop	_	SpaceAfter=No
+65	.	.	PUNCT	記号	_	63	punct	_	_
+
+# sent_id = SYOS_6_54-56
+# text = Awa, ne inumpepecheppo, yaishinrit erampeutek wa ainune yaikar wa iki koran, Ne inumpepecheppo ene ruwe tashi anne.”
+# text_ain = Awa, ne inumpepecheppo, yaishinrit
+# text_ain = erampeutek wa ainune yaikar wa iki koran,
+# text_ain = Ne inumpepecheppo ene ruwe tashi anne.”
+# text_ja = ところが其の爐緣魚は、自分の素性が
+# text_ja = わからないので、人にばけてうろついてゐる。
+# text_ja = その爐緣魚がお前なのさ。」
+1	Awa	awa	CCONJ	接続詞	_	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	記号	_	1	punct	_	_
+3	ne	ne	DET	連体詞	_	4	det	_	_
+4	inumpepecheppo	inumpepe-ceppo	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	4	punct	_	_
+6	yaishinrit	yaysinrit	NOUN	名詞	_	7	obj	_	_
+7	erampeutek	erampewtek	VERB	他動詞	_	15	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	ainu	aynu	NOUN	名詞	_	11	obl	_	SpaceAfter=No
+10	ne	ne	ADP	格助詞	_	9	case	_	_
+11	yaikar	yaykar	VERB	自動詞	_	7	conj	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	iki	iki	VERB	自動詞	_	7	conj	_	_
+14	kor	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	an	an	VERB	自動詞	_	23	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	15	punct	_	_
+17	Ne	ne	DET	連体詞	_	18	det	_	_
+18	inumpepecheppo	inumpepe-ceppo	NOUN	名詞	_	21	acl	_	_
+19	e	e=	PART	人称接辞	_	18	nsubj	_	SpaceAfter=No
+20	ne	ne	AUX	デアル動詞	_	18	cop	_	_
+21	ruwe	ruwe	NOUN	形式名詞	_	23	nsubj	_	_
+22	tashi	tasi	ADP	副助詞	_	21	case	_	_
+23	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+24	ne	ne	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
+25	.	.	PUNCT	記号	_	23	punct	_	SpaceAfter=No
+26	”	”	PUNCT	記号	_	23	punct	_	_
+
+# sent_id = SYOS_6_57-59
+# text = itakash awa, pon rupneainu iporohoka wenawena ikokanu wa an aine “ pii tun tun, pii tun tun !
+# text_ain = itakash awa, pon rupneainu iporohoka
+# text_ain = wenawena ikokanu wa an aine
+# text_ain = “ pii tun tun, pii tun tun !
+# text_ja = 云ふと、小男は顏色を
+# text_ja = 變へ變へ聞いてゐたが
+# text_ja = 「ピイトントン、ピイトントン！
+1	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	cc	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	pon	pon	VERB	自動詞	_	7	amod	_	_
+6	rupne	rupne	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+7	ainu	aynu	NOUN	名詞	_	10	nsubj	_	_
+8	iporoho	iporo	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	ka	ka	NOUN	位置名詞	_	10	obl	_	_
+10	wen	wen	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+11	a	a	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+12	wen	wen	VERB	自動詞	_	10	conj	_	SpaceAfter=No
+13	a	a	AUX	助動詞	_	12	aux	_	_
+14	ikokanu	ikokanu	VERB	自動詞	_	1	conj	_	_
+15	wa	wa	SCONJ	接続助詞	_	14	mark	_	_
+16	an	an	VERB	自動詞	_	14	conj	_	_
+17	aine	ayne	SCONJ	接続詞	_	16	mark	_	SpaceAfter=No
+18	“	“	PUNCT	記号	_	19	punct	_	_
+19	pii	piy	INTJ	間投詞	_	1	parataxis	_	_
+20	tun	tun	INTJ	間投詞	_	19	discourse	_	_
+21	tun	tun	INTJ	間投詞	_	19	discourse	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	19	punct	_	_
+23	pii	piy	INTJ	間投詞	_	19	conj	_	_
+24	tun	tun	INTJ	間投詞	_	23	discourse	_	_
+25	tun	tun	INTJ	間投詞	_	23	discourse	_	_
+26	!	!	PUNCT	記号	_	23	punct	_	_
+
+# sent_id = SYOS_6_60-61
+# text = eani anak Pon Horkeusani ene ruwe tashi anne.”
+# text_ain = eani anak Pon Horkeusani ene ruwe tashi
+# text_ain = anne.”
+# text_ja = お前は、小さい、狼の子なの
+# text_ja = さ。」
+1	eani	eani	PRON	代名詞	_	5	nsubj	_	_
+2	anak	anak	ADP	副助詞	_	1	case	_	_
+3	Pon	pon	VERB	自動詞	_	5	amod	_	_
+4	Horkeu	horkew	NOUN	名詞	_	5	compound	_	SpaceAfter=No
+5	sani	sani	NOUN	名詞	_	8	acl	_	_
+6	e	e=	PART	人称接辞	_	5	expl	_	SpaceAfter=No
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	tashi	tasi	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+13	”	”	PUNCT	記号	_	10	punct	_	_
+
+# sent_id = SYOS_6_62-65
+# text = itakkeseta atui orun terke humi chopkosanu, oshi inkarash awa, shine hure cheppo honoyanoya wa too herepashi oman wa isam.
+# text_ain = itakkeseta atui orun terke humi chopkosanu,
+# text_ain = oshi inkarash awa, shine hure cheppo
+# text_ain = honoyanoya wa too herepashi
+# text_ain = oman wa isam.
+# text_ja = 云ひ終ると直ぐに海へバチヤンと飛込んだ。
+# text_ja = あと見送ると一つの赤い魚が
+# text_ja = 尾鰭を動かしてすーつと沖へ
+# text_ja = 行つてしまつた。
+1	itak	itak	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	kese	kes	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	atui	atuy	NOUN	名詞	_	5	nmod	_	_
+5	or	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+6	un	un	ADP	格助詞	_	5	case	_	_
+7	terke	terke	VERB	自動詞	_	8	acl	_	_
+8	humi	humi	NOUN	名詞	_	9	nsubj	_	_
+9	chopkosanu	copkosanu	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	9	punct	_	_
+11	oshi	osi	NOUN	位置名詞	_	12	obl	_	_
+12	inkar	inkar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	ash	=as	PART	人称接辞	_	12	nsubj	_	_
+14	awa	awa	CCONJ	接続詞	_	12	cc	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	12	punct	_	_
+16	shine	sine	NUM	数詞	_	18	nummod	_	_
+17	hure	húre	VERB	自動詞	_	18	amod	_	_
+18	cheppo	ceppo	NOUN	名詞	_	19	nsubj	_	_
+19	honoyanoya	honoye	VERB	自動詞	_	12	conj	_	_
+20	wa	wa	SCONJ	接続助詞	_	19	mark	_	_
+21	too	too	ADV	副詞	_	23	advmod	_	_
+22	herepashi	herepasi	ADV	副詞	_	23	advmod	_	_
+23	oman	oman	VERB	自動詞	_	19	conj	_	_
+24	wa	wa	SCONJ	接続助詞	_	23	mark	_	_
+25	isam	isam	VERB	自動詞	_	19	conj	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	19	punct	_	_
+
+# sent_id = SYOS_6_66
+# text = ari pon horkeu kamui isoitak
+# text_ain = ari pon horkeu kamui isoitak
+# text_ja = と、幼い狼の神樣が物語りました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	_
+2	pon	pon	VERB	自動詞	_	4	amod	_	_
+3	horkeu	horkew	NOUN	名詞	_	4	compound	_	_
+4	kamuy	kamuy	NOUN	名詞	_	5	nsubj	_	_
+5	isoitak	isoytak	VERB	自動詞	_	0	root	_	_
+
+# sent_id = SYOS_10_1
+# text = Kutnisa kutunkutun
+# text_ain = Kutnisa kutunkutun
+# text_ja = クツニサクトンクトン
+1	Kutnisa	kutnisa	INTJ	間投詞	_	0	root	_	_
+2	kutunkutun	kutunkutun	INTJ	間投詞	_	1	discourse	_	_
+
+# sent_id = SYOS_10_2-6
+# text = Shineantota petetok un shinotash kushu payeash awa, petetokta shine ponrupnekur neshko urai kar kushu uraikik neap kosanikkeukan punashpunash.
+# text_ain = Shineantota petetok un shinotash kushu
+# text_ain = payeash awa, petetokta shine ponrupnekur
+# text_ain = neshko urai kar kushu uraikik neap
+# text_ain = kosanikkeukan punashpunash.
+# text_ja = 或日に水源の方へ遊びに
+# text_ja = 出かけたら、水源に一人の小男が
+# text_ja = 胡桃の木の簗をたてる爲め杭を打つのに
+# text_ja = 腰を曲げ曲げしてゐる。
+1	Shine	sine	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	to	to	NOUN	名詞	_	8	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	pet	pet	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	etok	etok	NOUN	位置名詞	_	8	obl	_	_
+7	un	un	ADP	格助詞	_	6	case	_	_
+8	shinot	sinot	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+9	ash	=as	PART	人称接辞	_	8	nsubj	_	_
+10	kushu	kusu	SCONJ	接続詞	_	8	mark	_	_
+11	paye	paye	VERB	自動詞	_	0	root	_	SpaceAfter=No
+12	ash	=as	PART	人称接辞	_	11	nsubj	_	_
+13	awa	awa	CCONJ	接続詞	_	11	cc	_	SpaceAfter=No
+14	,	,	PUNCT	記号	_	11	punct	_	_
+15	pet	pet	NOUN	名詞	_	16	nmod	_	SpaceAfter=No
+16	etok	etok	NOUN	位置名詞	_	24	obl	_	SpaceAfter=No
+17	ta	ta	ADP	格助詞	_	16	case	_	_
+18	shine	sine	NUM	数詞	_	21	nummod	_	_
+19	pon	pon	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+20	rupne	rupne	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+21	kur	kur	NOUN	名詞	_	24	nsubj	_	_
+22	neshko	nesko	NOUN	名詞	_	23	nmod	_	_
+23	urai	uray	NOUN	名詞	_	24	obj	_	_
+24	kar	kar	VERB	他動詞	_	11	conj	_	_
+25	kushu	kusu	SCONJ	接続詞	_	24	mark	_	_
+26	urai	uray	NOUN	名詞	_	27	obj	_	SpaceAfter=No
+27	kik	kik	VERB	他動詞	_	24	conj	_	_
+28	ne	ne	DET	連体詞	_	30	det	_	SpaceAfter=No
+29	a	a	AUX	助動詞	_	28	aux	_	SpaceAfter=No
+30	p	p	NOUN	形式名詞	_	31	obj	_	_
+31	kosan	ko-san	VERB	他動詞	_	32	acl	_	SpaceAfter=No
+32	ikkeu	ikkew	NOUN	名詞	_	34	obj	_	SpaceAfter=No
+33	kan	kan	INTJ	間投詞	_	34	discourse	_	_
+34	pun	puni	VERB	他動詞	_	11	parataxis	_	SpaceAfter=No
+35	ash	=as	PART	人称接辞	_	34	nsubj	_	SpaceAfter=No
+36	pun	puni	VERB	他動詞	_	34	conj	_	SpaceAfter=No
+37	ash	=as	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+38	.	.	PUNCT	記号	_	36	punct	_	_
+
+# sent_id = SYOS_10_7
+# text = “ Ehumna ?
+# text_ain = “ Ehumna ?
+# text_ja = 「誰だ?
+1	“	“	PUNCT	記号	_	3	punct	_	_
+2	E	e=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	humna	hunna	PRON	代名詞	_	0	root	_	_
+4	?	?	PUNCT	記号	_	3	punct	_	_
+
+# sent_id = SYOS_10_7-8
+# text = Chikarkunekur unkashuiyan ” ari hawean.
+# text_ain = Chikarkunekur unkashuiyan ”
+# text_ain = ari hawean.
+# text_ja = 私の甥よ、私に手傳つてお吳れ」
+# text_ja = といふ。
+1	Chi	ci=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	karku	karku	NOUN	名詞	_	4	acl	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	kur	kur	NOUN	名詞	_	6	vocative	_	_
+5	un	un=	PART	人称接辞	_	6	obj	_	SpaceAfter=No
+6	kashui	kasuy	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+7	yan	yan	PART	終助詞	_	6	mark	_	_
+8	”	”	PUNCT	記号	_	6	punct	_	_
+9	ari	ari	SCONJ	接続助詞	_	6	mark	_	_
+10	hawean	hawean	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+
+# sent_id = SYOS_10_8-12
+# text = Inkarash ko neshko urai nepne kushu neshko wakka nupki wakka chisanasanke, kamuicheputar hemeshpako neshko wakka kowen kushu chish kor hoshippa.
+# text_ain = Inkarash ko neshko urai
+# text_ain = nepne kushu neshko wakka nupki wakka
+# text_ain = chisanasanke, kamuicheputar
+# text_ain = hemeshpako neshko wakka kowen kushu
+# text_ain = chish kor hoshippa.
+# text_ja = 見ると、胡桃の簗
+# text_ja = なものだから、胡桃の水、濁つた水、
+# text_ja = が流れて來て鮭どもが
+# text_ja = 上つて來ると胡桃の水が嫌なので
+# text_ja = 泣きながら歸つてゆく。
+1	Inkar	inkar	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	ko	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	neshko	nesko	NOUN	名詞	_	5	nmod	_	_
+5	urai	uray	NOUN	名詞	_	7	acl	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	p	p	NOUN	形式名詞	_	14	advcl	_	SpaceAfter=No
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+9	kushu	kusu	SCONJ	接続詞	_	7	mark	_	_
+10	neshko	nesko	NOUN	名詞	_	11	nmod	_	_
+11	wakka	wakka	NOUN	名詞	_	14	obj	_	_
+12	nupki	nupki	NOUN	名詞	_	13	nmod	_	_
+13	wakka	wakka	NOUN	名詞	_	11	conj	_	_
+14	chisanasanke	ci-sanasanke	VERB	他動詞	_	19	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	kamui	kamuy	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	chep	cep	NOUN	名詞	_	18	compound	_	SpaceAfter=No
+18	utar	utar	NOUN	名詞	_	19	nsubj	_	_
+19	hemeshpa	hemesu	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+20	ko	kor	SCONJ	接続助詞	_	19	mark	_	_
+21	neshko	nesko	NOUN	名詞	_	22	nmod	_	_
+22	wakka	wakka	NOUN	名詞	_	23	obj	_	_
+23	kowen	kowen	VERB	他動詞	_	25	advcl	_	_
+24	kushu	kusu	SCONJ	接続詞	_	23	mark	_	_
+25	chish	cis	VERB	自動詞	_	0	root	_	_
+26	kor	kor	SCONJ	接続助詞	_	25	mark	_	_
+27	hoshippa	hosipi	VERB	自動詞	_	25	conj	_	SpaceAfter=No
+28	.	.	PUNCT	記号	_	27	punct	_	_
+
+# sent_id = SYOS_10_12-15
+# text = Chirushka kushu ponrupnekur kor uraikiktuchi chieshikari, ponrupnekur ikkeunoshki chikik humi tokkosanu.
+# text_ain = Chirushka kushu
+# text_ain = ponrupnekur kor uraikiktuchi
+# text_ain = chieshikari, ponrupnekur ikkeunoshki
+# text_ain = chikik humi tokkosanu.
+# text_ja = 私は腹が立つたので
+# text_ja = 小男の持つている杭を打つ槌を
+# text_ja = 引たくり小男の腰の央を
+# text_ja = 私がたゝく音がポンと響いた。
+1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	rushka	ruska	VERB	他動詞	_	12	advcl	_	_
+3	kushu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	pon	pon	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+5	rupne	rupne	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	kur	kur	NOUN	名詞	_	7	nsubj	_	_
+7	kor	kor	VERB	他動詞	_	10	acl	_	_
+8	urai	uray	NOUN	名詞	_	9	obj	_	SpaceAfter=No
+9	kik	kik	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	tuchi	tuci	NOUN	名詞	_	12	obj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eshikari	esikari	VERB	他動詞	_	22	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	記号	_	12	punct	_	_
+14	pon	pon	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+15	rupne	rupne	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+16	kur	kur	NOUN	名詞	_	17	nmod	_	_
+17	ikkeu	ikkew	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
+18	noshki	noski	NOUN	位置名詞	_	20	obj	_	_
+19	chi	ci=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+20	kik	kik	VERB	他動詞	_	21	acl	_	_
+21	humi	humi	NOUN	名詞	_	22	nsubj	_	_
+22	tokkosanu	tok-kosanu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	記号	_	22	punct	_	_
+
+# sent_id = SYOS_10_15-17
+# text = Ponrupnekur ikkeunoshki chioarkaye, chioanraike poknamoshir chikooterke.
+# text_ain = Ponrupnekur
+# text_ain = ikkeunoshki chioarkaye, chioanraike
+# text_ain = poknamoshir chikooterke.
+# text_ja = 小男の
+# text_ja = 腰の央を折つてしまつて殺してしまひ
+# text_ja = 地獄へ踏落してやつた。
+1	Pon	pon	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	rupne	rupne	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	kur	kur	NOUN	名詞	_	4	nmod	_	_
+4	ikkeu	ikkew	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	noshki	noski	NOUN	位置名詞	_	8	obj	_	_
+6	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+7	oar	oar	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+8	kaye	kaye	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	chi	chi	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+11	oan	oar	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+12	raike	rayke	VERB	他動詞	_	16	advcl	_	_
+13	pokna	pokna	DET	連体詞	_	14	det	_	SpaceAfter=No
+14	moshir	mosir	NOUN	名詞	_	16	iobj	_	_
+15	chi	ci=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+16	kooterke	kooterke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+
+# sent_id = SYOS_10_17-19
+# text = Nea neshko uraini chiosausawa inuash aike, iwan poknashir imakakehe chioushi humiash.
+# text_ain = Nea neshko uraini
+# text_ain = chiosausawa inuash aike, iwan poknashir
+# text_ain = imakakehe chioushi humiash.
+# text_ja = 彼の胡桃の杭を
+# text_ja = 搖り動かして見ると六つの地獄の
+# text_ja = 彼方まで屆いてゐる樣だ。
+1	Nea	nea	DET	連体詞	_	3	det	_	_
+2	neshko	nesko	NOUN	名詞	_	3	nmod	_	_
+3	uraini	urayni	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	osausa	o-sawsaw	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+6	wa	wa	SCONJ	接続助詞	_	5	mark	_	_
+7	inu	inu	VERB	自動詞	_	5	conj	_	SpaceAfter=No
+8	ash	=as	PART	人称接辞	_	7	nsubj	_	_
+9	aike	ayke	SCONJ	接続助詞	_	7	mark	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	7	punct	_	_
+11	iwan	iwan	NUM	数詞	_	13	nummod	_	_
+12	pokna	pokna	DET	連体詞	_	13	det	_	SpaceAfter=No
+13	shir	sir	NOUN	名詞	_	14	nmod	_	_
+14	imakakehe	imakake	NOUN	位置名詞	_	15	obj	_	_
+15	chioushi	ci-ousi	VERB	他動詞	_	16	acl	_	_
+16	humi	humi	NOUN	名詞	_	17	nsubj	_	SpaceAfter=No
+17	ash	as	VERB	自動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
+
+# sent_id = SYOS_10_20-22
+# text = Orowano ikkeukiror montumkiror chiyaikosanke, neuraini shinrichi wano chioarkaye, poknamoshir chikooterke.
+# text_ain = Orowano ikkeukiror montumkiror
+# text_ain = chiyaikosanke, neuraini shinrichi wano
+# text_ain = chioarkaye, poknamoshir chikooterke.
+# text_ja = それから、私は腰の力からだ中の力を
+# text_ja = 出して、その杭を根本から
+# text_ja = 折つてしまい、地獄へ踏落してしまつた。
+1	Oro	or	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ikkeu	ikkew	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	kiror	kiror	NOUN	名詞	_	8	obj	_	_
+5	montum	mon-tum	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	kiror	kiror	NOUN	名詞	_	4	conj	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	yaikosanke	yaykosanke	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	ne	ne	DET	連体詞	_	11	det	_	SpaceAfter=No
+11	uraini	urayni	NOUN	名詞	_	16	obj	_	_
+12	shinrichi	sinrit	NOUN	名詞	_	16	obl	_	_
+13	wano	wano	ADP	格助詞	_	12	case	_	_
+14	chi	ci=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+15	oar	oar	ADV	副詞	_	16	advmod	_	SpaceAfter=No
+16	kaye	kaye	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	記号	_	16	punct	_	_
+18	pokna	pokna	DET	連体詞	_	19	det	_	SpaceAfter=No
+19	moshir	mosir	NOUN	名詞	_	21	iobj	_	_
+20	chi	ci=	PART	人称接辞	_	21	nsubj	_	SpaceAfter=No
+21	kooterke	kooterke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	記号	_	21	punct	_	_
+
+# sent_id = SYOS_10_23-28
+# text = Petetoko wa pirka rera pirka wakka chisanasanke, chishkor hoshippa Kamuicheputar pirka rera pirka wakka eyaitemka wenminahau wenshinothau pepunitara kor hemeshpa shiri chopopatki.
+# text_ain = Petetoko wa pirka rera pirka wakka
+# text_ain = chisanasanke, chishkor hoshippa
+# text_ain = Kamuicheputar pirka rera pirka wakka
+# text_ain = eyaitemka wenminahau wenshinothau
+# text_ain = pepunitara kor hemeshpa shiri
+# text_ain = chopopatki.
+# text_ja = 水源から淸い風淸い水が
+# text_ja = 流れて來て、泣きながら歸つて行つた
+# text_ja = 鮭どもは淸い風淸い水に
+# text_ja = 氣を恢復して、大さわぎ大笑ひして遊び
+# text_ja = ながら、パチヤパチヤと
+# text_ja = 上つて來た、
+1	Pet	pet	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	etoko	etoko	NOUN	位置名詞	_	8	obl	_	_
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	pirka	pirka	VERB	自動詞	_	5	amod	_	_
+5	rera	rera	NOUN	名詞	_	8	obj	_	_
+6	pirka	pirka	VERB	自動詞	_	7	amod	_	_
+7	wakka	wakka	NOUN	名詞	_	5	conj	_	_
+8	chisanasanke	ci-sanasanke	VERB	他動詞	_	20	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	chish	cis	VERB	自動詞	_	15	acl	_	SpaceAfter=No
+11	kor	kor	SCONJ	接続助詞	_	10	mark	_	_
+12	hoshippa	hosipi	VERB	自動詞	_	10	conj	_	_
+13	Kamui	kamuy	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	chep	cep	NOUN	名詞	_	15	compound	_	SpaceAfter=No
+15	utar	utar	NOUN	名詞	_	20	nsubj	_	_
+16	pirka	pirka	VERB	自動詞	_	17	amod	_	_
+17	rera	rera	NOUN	名詞	_	20	obj	_	_
+18	pirka	pirka	VERB	自動詞	_	19	amod	_	_
+19	wakka	wakka	NOUN	名詞	_	17	conj	_	_
+20	eyaitemka	e-yay-temka	VERB	他動詞	_	31	advcl	_	_
+21	wen	wen	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+22	mina	mina	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+23	hau	haw	NOUN	名詞	_	27	nsubj	_	_
+24	wen	wen	VERB	自動詞	_	26	amod	_	SpaceAfter=No
+25	shinot	sinot	VERB	自動詞	_	26	amod	_	SpaceAfter=No
+26	hau	haw	NOUN	名詞	_	23	conj	_	_
+27	pepunitara	pepunitara	VERB	自動詞	_	31	advcl	_	_
+28	kor	kor	SCONJ	接続助詞	_	27	mark	_	_
+29	hemeshpa	hemesu	VERB	自動詞	_	30	amod	_	_
+30	shiri	siri	NOUN	形式名詞	_	31	obl	_	_
+31	chopopatki	copopatki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+32	.	.	PUNCT	記号	_	31	punct	_	_
+
+# text =
+
+# sent_id = SYOS_10_28-29
+# text = Chinukar wa chierameshinne petesoro hoshippaash.
+# text_ain = Chinukar wa chierameshinne
+# text_ain = petesoro hoshippaash.
+# text_ja = 私はそれを見て、安心をし
+# text_ja = 流れに沿うて歸つて來た。
+1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	nukar	nukar	VERB	他動詞	_	8	advcl	_	_
+3	wa	wa	SCONJ	接続助詞	_	2	mark	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	erameshinne	eramusinne	VERB	他動詞	_	2	conj	_	_
+6	pet	pet	NOUN	名詞	_	8	obl	_	SpaceAfter=No
+7	esoro	esoro	SCONJ	後置副詞	_	6	case	_	_
+8	hoshippa	hosipi	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	ash	=as	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+
+# sent_id = SYOS_10_29-30
+# text = ari Pon Okikirmui isoitak.
+# text_ain = ari
+# text_ain = Pon Okikirmui isoitak.
+# text_ja = と
+# text_ja = 小さいオキキリムイが物語つた。
+1	ari	ari	SCONJ	接続助詞	_	4	advmod	_	_
+2	Pon	pon	VERB	自動詞	_	3	amod	_	_
+3	Okikirmui	Okikirmuy	PROPN	固有名詞	_	4	nsubj	_	_
+4	isoitak	isoytak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+
