@@ -1,9 +1,9 @@
-# text = シユイヱヨコテ子クルウワエヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカトバテキコバケ子イタクカトカリソモタバン
+# text = シユイヱヨコテ子クルウワヱヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカトバテキコバケ子イタクカトカリソモタバン
 1	シユイ	suy	ADV	副詞	_	5	advmod	_	SpaceAfter=No
 2	ヱヨコテ	eyoko-te	VERB	他動詞	_	4	acl	_	SpaceAfter=No
 3	子	ne	AUX	助動詞	_	2	cop	_	SpaceAfter=No
 4	クル	kur	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
-5	ウワエヌコル	uwaynukor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+5	ウワヱヌコル	uwaynukor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
 6	カト	katu	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
 7	アナキ子	anakne	ADP	副助詞	_	6	case	_	SpaceAfter=No
 8	シリベケレ	sirpeker	VERB	完全動詞	_	11	advcl	_	SpaceAfter=No
@@ -13,10 +13,10 @@
 12	ノ	no	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
 13	子ブ	nep	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
 14	ヱキ	iki	VERB	自動詞	_	15	acl	_	SpaceAfter=No
-15	カト	katu	NOUN	形式名詞	_	17	nsubj	_	SpaceAfter=No
+15	カト	katu	NOUN	形式名詞	_	17	nmod	_	SpaceAfter=No
 16	バテキ	patek	SCONJ	後置副詞	_	15	case	_	SpaceAfter=No
-17	コバケ	kopak	NOUN	位置名詞	_	20	advcl	_	SpaceAfter=No
-18	子	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+17	コバケ	kopak	NOUN	位置名詞	_	19	obj	_	SpaceAfter=No
+18	子	ne	ADP	格助詞	_	17	case	_	SpaceAfter=No
 19	イタク	itak	VERB	自動詞	_	20	amod	_	SpaceAfter=No
 20	カト	katu	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 21	カリ	kari	SCONJ	後置副詞	_	20	case	_	SpaceAfter=No
