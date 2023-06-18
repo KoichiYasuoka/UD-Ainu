@@ -1,0 +1,22 @@
+# text = ケアンナクアチヤコバクイタク子ノハボヲロシヘ子ワ子ヤツカヱキヱラムヲカイタンヘ子ナ
+1	ケ	ke	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+2	アンナク	anak	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	アチヤ	áca	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	コバク	kopak	NOUN	位置名詞	_	5	nmod	_	SpaceAfter=No
+5	イタク	itak	NOUN	名詞	_	10	obl	_	SpaceAfter=No
+6	子ノ	néno	SCONJ	後置副詞	_	5	case	_	SpaceAfter=No
+7	ハボ	hápo	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+7-8	ヲロシ	_	_	_	_	_	_	_	SpaceAfter=No
+8	オㇿ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	オㇱ	os	SCONJ	後置副詞	_	8	case	_	SpaceAfter=No
+10	ヘ	pe	NOUN	形式名詞	_	15	advcl	_	SpaceAfter=No
+11	子	ne	ADP	格助詞	_	10	case	_	SpaceAfter=No
+12	ワ	wa	SCONJ	接続助詞	_	10	case	_	SpaceAfter=No
+13	子	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+14	ヤツカヱキ	yakkayki	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
+15	ヱラムヲカイ	eramuoka	VERB	他動詞	_	17	acl	_	SpaceAfter=No
+16	タン	tan	DET	連体詞	_	17	det	_	SpaceAfter=No
+17	ヘ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+18	子	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+19	ナ	na	PART	終助詞	_	17	discourse	_	SpaceAfter=No
+

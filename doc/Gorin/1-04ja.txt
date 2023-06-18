@@ -1,0 +1,18 @@
+# text = 其教を立て父には慈といひ子には孝といふ
+1	其	其の	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	教	教え	NOUN	名詞-普通名詞-一般	_	4	obj	_	SpaceAfter=No
+3	を	を	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	立て	立てる	VERB	動詞-一般	_	16	advcl	_	SpaceAfter=No
+5	父	父	NOUN	名詞-普通名詞-一般	_	10	obl	_	SpaceAfter=No
+6	に	に	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	は	は	ADP	助詞-係助詞	_	5	case	_	SpaceAfter=No
+8	慈	慈	NOUN	名詞-普通名詞-一般	_	10	obl	_	SpaceAfter=No
+9	と	と	ADP	助詞-格助詞	_	8	case	_	SpaceAfter=No
+10	いひ	言う	VERB	動詞-一般	_	16	advcl	_	SpaceAfter=No
+11	子	子	NOUN	名詞-普通名詞-一般	_	16	obl	_	SpaceAfter=No
+12	に	に	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	は	は	ADP	助詞-係助詞	_	11	case	_	SpaceAfter=No
+14	孝	孝	NOUN	名詞-普通名詞-一般	_	16	obl	_	SpaceAfter=No
+15	と	と	ADP	助詞-格助詞	_	14	case	_	SpaceAfter=No
+16	いふ	言う	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+

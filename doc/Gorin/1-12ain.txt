@@ -1,0 +1,27 @@
+# text = ルヱ子アナキ子ミチハボヲツタシユイウアチヤアンクニヱクタクブルセワ子イバクノウボコルレンカヱ子アンクニタバンナ
+1	ルヱ	ruwe	NOUN	形式名詞	_	10	advcl	_	SpaceAfter=No
+2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	アナキ子	anakne	ADP	副助詞	_	1	mark	_	SpaceAfter=No
+4	ミチ	mici	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+5	ハボ	hápo	NOUN	名詞	_	4	conj	_	SpaceAfter=No
+6	ヲツ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+7	タ	ta	ADP	格助詞	_	6	case	_	SpaceAfter=No
+8	シユイ	suy	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+9	ウアチヤ	Uaca	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+10	アン	an	VERB	自動詞	_	11	acl	_	SpaceAfter=No
+11	クニ	kuni	NOUN	形式名詞	_	12	nsubj	_	SpaceAfter=No
+12	ヱク	ek	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+13	タ	ta	ADP	格助詞	_	12	mark	_	SpaceAfter=No
+14	ク	ku=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+15	ブルセ	porse	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
+16	ワ	wa	ADP	格助詞	_	15	mark	_	SpaceAfter=No
+17	子イ	ney	NOUN	位置名詞	_	22	obl	_	SpaceAfter=No
+18	バクノ	pakno	SCONJ	後置副詞	_	17	case	_	SpaceAfter=No
+19	ウボコル	upokor	VERB	自動詞	_	20	amod	_	SpaceAfter=No
+20	レンカ	irenka	NOUN	名詞	_	22	nsubj	_	SpaceAfter=No
+21	ヱ子	ene	ADV	副詞	_	22	advmod	_	SpaceAfter=No
+22	アン	an	VERB	自動詞	_	23	acl	_	SpaceAfter=No
+23	クニ	kuni	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+24	タバン	tapan	DET	連体詞	_	23	cop	_	SpaceAfter=No
+25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
+

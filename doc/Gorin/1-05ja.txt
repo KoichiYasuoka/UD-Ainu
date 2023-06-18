@@ -1,0 +1,16 @@
+# text = 尤父をいへば母もその中に在と知るべし
+1	尤	尤も	CCONJ	接続詞	_	4	cc	_	SpaceAfter=No
+2	父	父	NOUN	名詞-普通名詞-一般	_	4	obj	_	SpaceAfter=No
+3	を	を	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	いへ	言う	VERB	動詞-一般	_	11	advcl	_	SpaceAfter=No
+5	ば	ば	CCONJ	助詞-接続助詞	_	4	mark	_	SpaceAfter=No
+6	母	母	NOUN	名詞-普通名詞-一般	_	11	nsubj	_	SpaceAfter=No
+7	も	も	ADP	助詞-係助詞	_	6	case	_	SpaceAfter=No
+8	その	其の	DET	連体詞	_	9	det	_	SpaceAfter=No
+9	中	中	NOUN	名詞-普通名詞-副詞可能	_	11	obl	_	SpaceAfter=No
+10	に	に	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	在	有る	VERB	動詞-非自立可能	_	13	advcl	_	SpaceAfter=No
+12	と	と	ADP	助詞-格助詞	_	11	mark	_	SpaceAfter=No
+13	知る	知る	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+14	べし	べし	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+

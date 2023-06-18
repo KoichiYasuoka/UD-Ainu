@@ -1,0 +1,14 @@
+# text = シヨモヱ子キワ子ヤキ子シアンノボウアヱノコロ子カトソモタバン
+1	シヨモ	somo	ADV	副詞	_	3	advmod	_	SpaceAfter=No
+2	ヱ子	ene	ADV	副詞	_	3	advmod	_	SpaceAfter=No
+3	キ	ki	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+4	ワ	wa	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	子	ne	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+6	ヤキ子	yakne	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+7	シアンノボ	siannopo	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+8	ウアヱノコロ	uwaynukor	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+9	子	ne	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	カト	katu	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+11	ソモ	somo	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+12	タバン	tapan	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+

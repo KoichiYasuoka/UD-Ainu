@@ -1,0 +1,19 @@
+# text = 天下にあらゆる人の品を分て五つにして五倫といふ
+1	天下	天下	NOUN	名詞-普通名詞-一般	_	8	obl	_	SpaceAfter=No
+2	に	に	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	あらゆる	あらゆる	DET	連体詞	_	4	det	_	SpaceAfter=No
+4	人	人	NOUN	名詞-普通名詞-一般	_	6	nmod	_	SpaceAfter=No
+5	の	の	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No
+6	品	品	NOUN	名詞-普通名詞-助数詞可能	_	8	obj	_	SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	分	分ける	VERB	動詞-一般	_	13	advcl	_	SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	SpaceAfter=No
+10	五	五	NUM	名詞-数詞	_	11	nummod	_	SpaceAfter=No
+11	つ	つ	NOUN	接尾辞-名詞的-助数詞	_	13	obl	_	SpaceAfter=No
+12	に	に	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	し	為る	VERB	動詞-非自立可能	_	17	advcl	_	SpaceAfter=No
+14	て	て	SCONJ	助詞-接続助詞	_	13	mark	_	SpaceAfter=No
+15	五倫	五倫	NOUN	名詞-普通名詞-一般	_	17	obl	_	SpaceAfter=No
+16	と	と	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	いふ	言う	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+

@@ -1,0 +1,19 @@
+# text = 人の分なければ人道も立ず故に君臣の倫を定るなり
+1	人	人	NOUN	名詞-普通名詞-一般	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	分	分	NOUN	名詞-普通名詞-副詞可能	_	4	nsubj	_	SpaceAfter=No
+4	なけれ	無い	ADJ	形容詞-非自立可能	_	8	advcl	_	SpaceAfter=No
+5	ば	ば	CCONJ	助詞-接続助詞	_	4	mark	_	SpaceAfter=No
+6	人道	人道	NOUN	名詞-普通名詞-一般	_	8	nsubj	_	SpaceAfter=No
+7	も	も	ADP	助詞-係助詞	_	6	case	_	SpaceAfter=No
+8	立	立つ	VERB	動詞-一般	_	16	advcl	_	SpaceAfter=No
+9	ず	ず	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	故	故	NOUN	名詞-普通名詞-副詞可能	_	16	obl	_	SpaceAfter=No
+11	に	に	ADP	助詞-格助詞	_	10	case	_	SpaceAfter=No
+12	君臣	君臣	NOUN	名詞-普通名詞-一般	_	14	nmod	_	SpaceAfter=No
+13	の	の	ADP	助詞-格助詞	_	12	case	_	SpaceAfter=No
+14	倫	倫	NOUN	名詞-普通名詞-一般	_	16	obj	_	SpaceAfter=No
+15	を	を	ADP	助詞-格助詞	_	14	case	_	SpaceAfter=No
+16	定る	決まる	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+17	なり	なり	AUX	助動詞	_	16	aux	_	SpaceAfter=No
+

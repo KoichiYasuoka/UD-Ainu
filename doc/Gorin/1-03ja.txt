@@ -1,0 +1,24 @@
+# text = その内父母の子を生るは天地の萬物を生ずる道理より出て父子の倫定るなり
+1	その	其の	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	内	内	NOUN	名詞-普通名詞-副詞可能	_	7	obl	_	SpaceAfter=No
+3	父母	父母	NOUN	名詞-普通名詞-一般	_	7	nsubj	_	SpaceAfter=No
+4	の	の	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	子	子	NOUN	名詞-普通名詞-一般	_	7	obj	_	SpaceAfter=No
+6	を	を	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	生る	生まれる	VERB	動詞-一般	_	21	csubj	_	SpaceAfter=No
+8	は	は	ADP	助詞-係助詞	_	7	mark	_	SpaceAfter=No
+9	天地	天地	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
+10	の	の	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	萬物	万物	NOUN	名詞-普通名詞-一般	_	13	obj	_	SpaceAfter=No
+12	を	を	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	生ずる	生ずる	VERB	動詞-一般	_	14	acl	_	SpaceAfter=No
+14	道理	道理	NOUN	名詞-普通名詞-一般	_	16	obl	_	SpaceAfter=No
+15	より	より	ADP	助詞-格助詞	_	14	case	_	SpaceAfter=No
+16	出	出る	VERB	動詞-一般	_	21	advcl	_	SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	16	mark	_	SpaceAfter=No
+18	父子	父子	NOUN	名詞-普通名詞-一般	_	20	nmod	_	SpaceAfter=No
+19	の	の	ADP	助詞-格助詞	_	18	case	_	SpaceAfter=No
+20	倫	倫	NOUN	名詞-普通名詞-一般	_	21	nsubj	_	SpaceAfter=No
+21	定る	定まる	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+22	なり	なり	AUX	助動詞	_	21	aux	_	SpaceAfter=No
+

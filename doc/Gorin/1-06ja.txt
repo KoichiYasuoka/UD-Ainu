@@ -1,0 +1,16 @@
+# text = 然るに父母たるもの子を愛するならば必教戒すべし
+1	然る	然る	VERB	動詞-一般	_	8	advcl	_	SpaceAfter=No
+2	に	に	CCONJ	助詞-接続助詞	_	1	cc	_	SpaceAfter=No
+3	父母	父母	NOUN	名詞-普通名詞-一般	_	5	acl	_	SpaceAfter=No
+4	たる	たり	AUX	助動詞	_	3	cop	_	SpaceAfter=No
+5	もの	者	NOUN	名詞-普通名詞-一般	_	8	nsubj	_	SpaceAfter=No
+6	子	子	NOUN	名詞-普通名詞-一般	_	8	obj	_	SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	愛する	愛する	VERB	動詞-一般	_	12	advcl	_	SpaceAfter=No
+9	なら	だ	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	ば	ば	CCONJ	助詞-接続助詞	_	8	mark	_	SpaceAfter=No
+11	必	必ず	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+12	教戒	教戒	VERB	名詞-普通名詞-サ変可能	_	0	root	_	SpaceAfter=No
+13	す	為る	AUX	動詞-非自立可能	_	12	aux	_	SpaceAfter=No
+14	べし	べし	AUX	助動詞	_	12	aux	_	SpaceAfter=No
+
