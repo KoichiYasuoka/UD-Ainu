@@ -1,0 +1,82 @@
+# doc = М. М. Добротворский: Аинско-русский словарь, приложенія, Казань: Университетская типография, 1875.
+# page = 90
+# text = Танъ кота̀нъ охта̀ ута́са―анъ кусу́ а́реги анъ.
+1	Танъ	tan	DET	連体詞	_	2	det	_	_
+2	кота̀нъ	kotan	NOUN	名詞	_	3	nmod	_	_
+3	ох	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	та̀	ta	ADP	格助詞	_	3	case	_	_
+5	ута́са	u-tasa	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+6	―	-	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+7	анъ	=an	PART	人称接辞	_	5	nsubj	_	_
+8	кусу́	kusu	SCONJ	接続助詞	_	5	mark	_	_
+9	а́рйги	areki	VERB	自動詞	_	0	root	_	_
+10	анъ	=an	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+
+# text = Охго́роно ока́й анъ тренька́йнэ, та́не танъ кота̀нъ та эх.
+1	Охго́роно	ohoro-no	ADV	副詞	_	2	advmod	_	_
+2	ока́й	okay	VERB	自動詞	_	10	advcl	_	_
+3	анъ	=an	PART	人称接辞	_	2	nsubj	_	_
+4	тренька́йнэ	renkayne	SCONJ	後置副詞	_	2	mark	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	2	punct	_	_
+6	та́не	tane	ADV	副詞	_	10	advmod	_	_
+7	танъ	tan	DET	連体詞	_	8	det	_	_
+8	кота̀нъ	kotan	NOUN	名詞	_	10	obl	_	_
+9	та	ta	ADP	格助詞	_	8	case	_	_
+10	эх	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+
+# text = Танъ кота́нъ та эх тренька́йнэ, ан ѐ ну́кара.
+1	Танъ	tan	DET	連体詞	_	2	det	_	_
+2	кота́нъ	kotan	NOUN	名詞	_	4	obl	_	_
+3	та	ta	ADP	格助詞	_	2	case	_	_
+4	эх	ek	VERB	自動詞	_	9	advcl	_	_
+5	тренька́йнэ	renkayne	SCONJ	後置副詞	_	4	mark	_	SpaceAfter=No
+6	,	,	PUNCT	記号	_	4	punct	_	_
+7	ан	an=	PART	人称接辞	_	9	nsubj	_	_
+8	ѐ	e=	PART	人称接辞	_	9	obj	_	_
+9	ну́кара	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+
+# text = Тре́коро иту―ясъкара, тре́коро анекояй ира́йки.
+1	Тре́коро	rékor	VERB	自動詞	_	3	advcl	_	_
+2	и	i=	PART	人称接辞	_	3	obj	_	SpaceAfter=No
+3	ту―ясъкара	tuyaskarap	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	3	punct	_	_
+5	тре́коро	rékor	VERB	自動詞	_	8	advcl	_	_
+6	ан	an=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+7	е	e=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+8	кояй ира́йки	koyayirayke	VERB	他動詞	_	3	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+
+# text = Тама̀ инько́нтэ.
+1	Тама̀	tama	NOUN	名詞	_	3	obj	_	_
+2	инь	in=	PART	人称接辞	_	3	iobj	_	SpaceAfter=No
+3	ко́нтэ	konte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+
+# text = Тре́коро яй ира́йкире анъ.
+1	Тре́коро	rékor	VERB	自動詞	_	2	advcl	_	_
+2	яй ира́йкире	yayiraike-re	VERB	自動詞	_	0	root	_	_
+3	анъ	=an	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+
+# text = Та́мбе кусу̀ пи́рика на ома́нчики―пи́рика.
+1	Та́мбе	tanpe	NOUN	名詞	_	4	obl	_	_
+2	кусу̀	kusu	SCONJ	接続助詞	_	1	case	_	_
+3	пи́рика на	pirkano	ADV	副詞	_	4	advmod	_	_
+4	ома́н	oman	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+5	чики	ciki	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	―	-	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+7	пи́рика	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+
+# text = Иго́хпа ома̀нъ кусу̀―кара̀
+1	И	i=	PART	人称接辞	_	2	obj	_	SpaceAfter=No
+2	го́хпа	korpa	VERB	他動詞	_	3	advcl	_	_
+3	ома̀нъ	oman	VERB	自動詞	_	6	advcl	_	_
+4	кусу̀	kusu	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	―	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+6	кар	kar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	а̀	ya	PART	終助詞	_	6	discourse	_	_
+
