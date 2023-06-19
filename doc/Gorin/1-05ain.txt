@@ -6,7 +6,7 @@
 5	イタク	itak	NOUN	名詞	_	10	obl	_	SpaceAfter=No
 6	子ノ	néno	SCONJ	後置副詞	_	5	case	_	SpaceAfter=No
 7	ハボ	hápo	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
-7-8	ヲロシ	_	_	_	_	_	_	_	SpaceAfter=No
+8-9	ヲロシ	_	_	_	_	_	_	_	SpaceAfter=No
 8	オㇿ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
 9	オㇱ	os	SCONJ	後置副詞	_	8	case	_	SpaceAfter=No
 10	ヘ	pe	NOUN	形式名詞	_	15	advcl	_	SpaceAfter=No
