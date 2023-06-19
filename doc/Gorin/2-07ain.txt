@@ -1,0 +1,18 @@
+# text = ケアンナク子ワノラマツカシカモイアナキ子コツトノ子ワヱヨコテウタレバウコヤヱレンカヲベカレワ
+1	ケ	ke	INTJ	間投詞	_	15	discourse	_	SpaceAfter=No
+2	アンナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+4	ラマツ	ramat	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	カシ	kasi	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
+6	カモイ	kamuy	NOUN	名詞	_	15	obl	_	SpaceAfter=No
+7	アナキ子	anakne	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	コツ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+9	トノ	tono	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+10	子	ne	ADP	格助詞	_	9	case	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	9	case	_	SpaceAfter=No
+12	ヱヨコテ	eyoko-te	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ウタレバ	utarpa	NOUN	名詞	_	9	conj	_	SpaceAfter=No
+14	ウコヤヱレンカ	ukoyayrenka	VERB	自動詞	_	15	ccomp	_	SpaceAfter=No
+15	ヲベカレ	owpekare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	ワ	wa	PART	終助詞	_	15	discourse	_	SpaceAfter=No
+

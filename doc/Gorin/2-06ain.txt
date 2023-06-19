@@ -1,0 +1,27 @@
+# text = 子フ子ヤツカシアンヲシケコテアコロカモイレンカコロワアンキブシヨヤフケリシヨモキクニヱキタンベヱ子ハウキタハン
+1	子フ	nep	NOUN	名詞	_	6	advcl	_	SpaceAfter=No
+2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	ヤツカ	yakka	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+4	シアンヲ	sianno	ADV	副詞	_	6	advmod	_	SpaceAfter=No
+5	シケ	sike	NOUN	名詞	_	6	obj	_	SpaceAfter=No
+6	コテ	kote	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+7	ア	a=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	コロ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+9	カモイ	kamuy	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	レンカ	irenka	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+11	コロ	kor	VERB	他動詞	_	13	advcl	_	SpaceAfter=No
+12	ワ	wa	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
+13	アン	an	VERB	自動詞	_	15	acl	_	SpaceAfter=No
+14	キ	ki	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	ブ	p	NOUN	形式名詞	_	16	nsubj	_	SpaceAfter=No
+16	シヨヤフケリ	si-eyapkir	VERB	自動詞	_	19	acl	_	SpaceAfter=No
+17	シヨモ	somo	ADV	副詞	_	18	advmod	_	SpaceAfter=No
+18	キ	ki	AUX	助動詞	_	16	aux	_	SpaceAfter=No
+19	クニ	kuni	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
+20	ヱキ	iki	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+21	タン	tan	DET	連体詞	_	22	det	_	SpaceAfter=No
+22	ベ	pe	NOUN	形式名詞	_	24	obl	_	SpaceAfter=No
+23	ヱ子	ene	ADV	副詞	_	24	advmod	_	SpaceAfter=No
+24	ハウキ	haw-ki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+25	タハン	tapan	AUX	助動詞	_	24	aux	_	SpaceAfter=No
+
