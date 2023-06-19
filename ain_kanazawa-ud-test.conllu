@@ -16638,17 +16638,17 @@
 # text_ja = 近い道を行かずに好い道を行う
 # text = Hange ru kari shomo arapa no pirika ru kari arapa.
 # text_kana = ハンケ ル カリ ソモ アㇻパ ノ ピㇼカ ル カリ アㇻパ.
-1	Hange	hanke	VERB	自動詞	_	_	_	_	_
-2	ru	ru	NOUN	名詞	_	_	_	_	_
-3	kari	kari	SCONJ	後置副詞	_	_	_	_	_
-4	shomo	somo	ADV	副詞	_	_	_	_	_
-5	arapa	arpa	VERB	自動詞	_	_	_	_	_
-6	no	no	SCONJ	接続助詞	_	_	_	_	_
-7	pirika	pirka	VERB	自動詞	_	_	_	_	_
-8	ru	ru	NOUN	名詞	_	_	_	_	_
-9	kari	kari	SCONJ	後置副詞	_	_	_	_	_
-10	arapa	arpa	VERB	自動詞	_	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	記号	_	_	_	_	_
+1	Hange	hanke	VERB	自動詞	_	2	amod	_	_
+2	ru	ru	NOUN	名詞	_	5	obl	_	_
+3	kari	kari	SCONJ	後置副詞	_	2	case	_	_
+4	shomo	somo	ADV	副詞	_	5	advmod	_	_
+5	arapa	arpa	VERB	自動詞	_	7	advcl	_	_
+6	no	no	SCONJ	接続助詞	_	5	mark	_	_
+7	pirika	pirka	VERB	自動詞	_	8	acl	_	_
+8	ru	ru	NOUN	名詞	_	10	obl	_	_
+9	kari	kari	SCONJ	後置副詞	_	8	case	_	_
+10	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
 
 # text_ja = よい道は遠いから此道を行う
 # text = Pirika ru tuima kusu tan ru kari paye an.
@@ -25043,17 +25043,17 @@
 # text_ja = ビンボーニン（貧乏人）
 # text = Wen-guru; Otek-sak guru; Shirun-guru.
 # text_kana = ウェン クㇽ; オテㇰサㇰ クㇽ; シルン クㇽ
-1	Wen	wen	VERB	自動詞	_	_	_	_	SpaceAfter=No
-2	-	-	PUNCT	記号	_	_	_	_	SpaceAfter=No
-3	guru	kur	NOUN	名詞	_	_	_	_	SpaceAfter=No
-4	;	;	PUNCT	記号	_	_	_	_	_
-5	Otek-sak	oteksak	VERB	自動詞	_	_	_	_	_
-6	guru	kur	NOUN	名詞	_	_	_	_	SpaceAfter=No
-7	;	;	PUNCT	記号	_	_	_	_	_
-8	Shirun	sirun	DET	連体詞	_	_	_	_	SpaceAfter=No
-9	-	-	PUNCT	記号	_	_	_	_	SpaceAfter=No
-10	guru	kur	NOUN	名詞	_	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	記号	_	_	_	_	_
+1	Wen	wen	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Otek-sak	oteksak	VERB	自動詞	_	6	amod	_	_
+6	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+7	;	;	PUNCT	記号	_	6	punct	_	_
+8	Shirun	sirun	DET	連体詞	_	10	amod	_	SpaceAfter=No
+9	-	-	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+10	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
 
 # text_ja = ヒッツク（付）
 # text = Kotuk.
@@ -27415,20 +27415,20 @@
 # text_ja = こう云ふと氣の毒だがお前の云ふ事は間違だ
 # text = Ene ku itak ka eoripak koroka e ki itak oheuge wa ku nu.
 # text_kana = エネ ク=イタㇰ カ エオリパㇰ コㇿカ エ=キ イタㇰ オヘウケ ワ, ク=ヌ.
-1	Ene	ene	ADV	副詞	_	_	_	_	_
-2	ku	ku=	PART	人称接辞	_	_	_	_	_
-3	itak	itak	VERB	自動詞	_	_	_	_	_
-4	ka	ka	ADP	副助詞	_	_	_	_	_
-5	eoripak	eoripak	VERB	他動詞	_	_	_	_	_
-6	koroka	korka	CCONJ	接続詞	_	_	_	_	_
-7	e	e=	PART	人称接辞	_	_	_	_	_
-8	ki	ki	VERB	他動詞	_	_	_	_	_
-9	itak	itak	NOUN	名詞	_	_	_	_	_
-10	oheuge	ohewke	VERB	自動詞	_	_	_	_	_
-11	wa	wa	SCONJ	接続助詞	_	_	_	_	_
-12	ku	ku=	PART	人称接辞	_	_	_	_	_
-13	nu	nu	VERB	他動詞	_	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	記号	_	_	_	_	_
+1	Ene	ene	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	itak	itak	VERB	自動詞	_	5	advcl	_	_
+4	ka	ka	ADP	副助詞	_	3	mark	_	_
+5	eoripak	eoripak	VERB	他動詞	_	13	advcl	_	_
+6	koroka	korka	CCONJ	接続詞	_	5	cc	_	_
+7	e	e=	PART	人称接辞	_	8	nsubj	_	_
+8	ki	ki	VERB	他動詞	_	9	acl	_	_
+9	itak	itak	NOUN	名詞	_	10	nsubj	_	_
+10	oheuge	ohewke	VERB	自動詞	_	13	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	ku	ku=	PART	人称接辞	_	13	nsubj	_	_
+13	nu	nu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
 
 # text_ja = 此後は氣を付けよ
 # text = Imakaketa pirikano ki yan.
@@ -31479,18 +31479,18 @@
 # text_ja = 立つ前に食事をしても宜しいか
 # text = Paye etokota ku ibe tek na, yakka pirika ya?
 # text_kana = パイェ エトコ タ ク=イペ テㇰ ナ, ヤッカ ピㇼカ ヤ?
-1	Paye	paye	VERB	自動詞	_	_	_	_	_
-2	etoko	etoko	NOUN	位置名詞	_	_	_	_	SpaceAfter=No
-3	ta	ta	ADP	格助詞	_	_	_	_	_
-4	ku	ku=	PART	人称接辞	_	_	_	_	_
-5	ibe	ipe	VERB	自動詞	_	_	_	_	_
-6	tek	tek	AUX	助動詞	_	_	_	_	_
-7	na	na	PART	終助詞	_	_	_	_	SpaceAfter=No
-8	,	,	PUNCT	記号	_	_	_	_	_
-9	yakka	yakka	SCONJ	接続助詞	_	_	_	_	_
-10	pirika	pirka	VERB	自動詞	_	_	_	_	_
-11	ya	ya	PART	終助詞	_	_	_	_	SpaceAfter=No
-12	?	?	PUNCT	記号	_	_	_	_	_
+1	Paye	paye	VERB	自動詞	_	2	amod	_	_
+2	etoko	etoko	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	ibe	ipe	VERB	自動詞	_	10	advcl	_	_
+6	tek	tek	AUX	助動詞	_	5	aux	_	_
+7	na	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	5	punct	_	_
+9	yakka	yakka	SCONJ	接続助詞	_	5	mark	_	_
+10	pirika	pirka	VERB	自動詞	_	0	root	_	_
+11	ya	ya	PART	終助詞	_	10	discourse	_	SpaceAfter=No
+12	?	?	PUNCT	記号	_	10	punct	_	_
 
 # text_ja = 飯を食つて直ぐ行きます
 # text = Amam ibe anak nani paye an.
@@ -32821,20 +32821,20 @@
 # text_ja = もー別れるから皆氣を付けて行け
 # text = Tane ukohoppa an na pirika no oka yan autari pirikano epungine yan.
 # text_kana = タネ ウコホッパ=アン ナ, ピㇼカ ノ オカ ヤン, ア=ウタリ ピㇼカノ エプンキネ ヤン.
-1	Tane	tane	ADV	副詞	_	_	_	_	_
-2	ukohoppa	ukohoppa	VERB	自動詞	_	_	_	_	_
-3	an	=an	PART	人称接辞	_	_	_	_	_
-4	na	na	PART	終助詞	_	_	_	_	_
-5	pirika	pirka	VERB	自動詞	_	_	_	_	_
-6	no	no	SCONJ	接続助詞	_	_	_	_	_
-7	oka	oka	VERB	自動詞	_	_	_	_	_
-8	yan	yan	PART	終助詞	_	_	_	_	_
-9	a	a=	PART	人称接辞	_	_	_	_	SpaceAfter=No
-10	utari	utari	NOUN	名詞	_	_	_	_	_
-11	pirikano	pirkano	ADV	副詞	_	_	_	_	_
-12	epungine	epunkine	VERB	他動詞	_	_	_	_	_
-13	yan	yan	PART	終助詞	_	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	記号	_	_	_	_	_
+1	Tane	tane	ADV	副詞	_	2	advmod	_	_
+2	ukohoppa	ukohoppa	VERB	自動詞	_	5	advcl	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	_
+4	na	na	PART	終助詞	_	2	mark	_	_
+5	pirika	pirka	VERB	自動詞	_	7	advcl	_	_
+6	no	no	SCONJ	接続助詞	_	5	mark	_	_
+7	oka	oka	VERB	自動詞	_	12	advcl	_	_
+8	yan	yan	PART	終助詞	_	7	discourse	_	_
+9	a	a=	PART	人称接辞	_	10	det	_	SpaceAfter=No
+10	utari	utari	NOUN	名詞	_	12	obj	_	_
+11	pirikano	pirkano	ADV	副詞	_	12	advmod	_	_
+12	epungine	epunkine	VERB	他動詞	_	0	root	_	_
+13	yan	yan	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	12	punct	_	_
 
 # text_ja = ワキノシタ（腋）
 # text = Yatu-pok.
