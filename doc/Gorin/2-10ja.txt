@@ -1,0 +1,13 @@
+# text = 上威勢にまかせてこの曲尺を破るべからず
+1	上	上	NOUN	名詞-普通名詞-一般	_	9	nsubj	_	SpaceAfter=No
+2	威勢	威勢	NOUN	名詞-普通名詞-一般	_	4	obl	_	SpaceAfter=No
+3	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	まかせ	任せる	VERB	動詞-一般	_	9	advcl	_	SpaceAfter=No
+5	て	て	SCONJ	助詞-接続助詞	_	4	mark	_	SpaceAfter=No
+6	この	此の	DET	連体詞	_	7	det	_	SpaceAfter=No
+7	曲尺	曲尺	NOUN	名詞-普通名詞-一般	_	9	obj	_	SpaceAfter=No
+8	を	を	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	破る	破る	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+10	べから	べし	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+11	ず	ず	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+
