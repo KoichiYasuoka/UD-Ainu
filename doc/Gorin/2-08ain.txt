@@ -8,7 +8,7 @@
 7	クニ	kuni	AUX	助動詞	_	6	aux	_	SpaceAfter=No
 8	ツイキブ	ceykip	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
 9	シリ	siri	NOUN	形式名詞	_	11	nsubj	_	SpaceAfter=No
-10	レウヱ	rewe	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+10	レウヱ	rewe	VERB	他動詞	_	11	acl	_	SpaceAfter=No
 11	カ子	kane	NOUN	名詞	_	13	advcl	_	SpaceAfter=No
 12	ヽ	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 13	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
