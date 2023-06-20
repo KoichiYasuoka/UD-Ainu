@@ -1,9 +1,9 @@
 # text = アワ子ワノトモケタミツハホ子クルアンテボウヘトクルヱアナキ子ニソロアンシリカタトヱアンクシユケライ子ブヱ子ヽヤツカイキヘトグルヱ子ナ子アビヤヱカトフシノヱキブ子クシユアチヤ子ワボウウカトコロルヱタバン
 1	アワ	awa	CCONJ	接続詞	_	12	cc	_	SpaceAfter=No
-2	子	ne	DET	連体詞	_	4	det	_	SpaceAfter=No
+2	子	ne	DET	連体詞	_	4	obl	_	SpaceAfter=No
 3	ワノ	wano	ADP	格助詞	_	2	case	_	SpaceAfter=No
-4	トモケ	tumu	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
-5	タ	ta	ADP	格助詞	_	4	case	_	SpaceAfter=No
+4	トモケ	tumu-ke	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
+5	タ	ta	ADP	格助詞	_	4	mark	_	SpaceAfter=No
 6	ミツ	mici	NOUN	名詞	_	9	acl	_	SpaceAfter=No
 7	ハホ	hápo	NOUN	名詞	_	6	conj	_	SpaceAfter=No
 8	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No

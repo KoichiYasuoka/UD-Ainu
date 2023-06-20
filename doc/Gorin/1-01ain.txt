@@ -9,8 +9,8 @@
 8	コロ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	子トバケ	netopake	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
 10	タ	ta	ADP	格助詞	_	9	case	_	SpaceAfter=No
-11	ヲロ	oro	NOUN	位置名詞	_	12	nmod	_	SpaceAfter=No
-12	ウシ	usi	NOUN	形式名詞	_	13	nmod	_	SpaceAfter=No
+11	ヲロ	oro	NOUN	位置名詞	_	12	iobj	_	SpaceAfter=No
+12	ウシ	usi	VERB	他動詞	_	13	acl	_	SpaceAfter=No
 13	テクンベ	tekunpe	NOUN	名詞	_	24	iobj	_	SpaceAfter=No
 14	アシキ子	asikne	NUM	数詞	_	15	nummod	_	SpaceAfter=No
 15	ヱキン	ikir	NOUN	名詞	_	17	acl	_	SpaceAfter=No
