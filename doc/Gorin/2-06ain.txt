@@ -8,7 +8,7 @@
 7	ア	a=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
 8	コロ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	カモイ	kamuy	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
-10	レンカ	irenka	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+10	レンカ	irenka	NOUN	名詞	_	11	obj	_	SpaceAfter=No
 11	コロ	kor	VERB	他動詞	_	13	advcl	_	SpaceAfter=No
 12	ワ	wa	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
 13	アン	an	VERB	自動詞	_	15	acl	_	SpaceAfter=No
