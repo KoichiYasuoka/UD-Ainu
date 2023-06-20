@@ -1,0 +1,10 @@
+# text = 義は道理の曲尺をいふ也
+1	義	義	NOUN	名詞-普通名詞-一般	_	7	nsubj	_	SpaceAfter=No
+2	は	は	ADP	助詞-係助詞	_	1	case	_	SpaceAfter=No
+3	道理	道理	NOUN	名詞-普通名詞-一般	_	5	nmod	_	SpaceAfter=No
+4	の	の	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	曲尺	曲尺	NOUN	名詞-普通名詞-一般	_	7	obj	_	SpaceAfter=No
+6	を	を	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	いふ	言う	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+8	也	なり	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+
