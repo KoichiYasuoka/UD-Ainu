@@ -35,7 +35,7 @@
 34	クシユ	kusu	SCONJ	接続詞	_	32	mark	_	SpaceAfter=No
 35	ランマ	ranma	ADV	副詞	_	37	advmod	_	SpaceAfter=No
 36	アレシカ	ar-askay	VERB	自動詞	_	37	amod	_	SpaceAfter=No
-37	シリ	sir	NOUN	形式名詞	_	39	acl	_	SpaceAfter=No
+37	シリ	siri	NOUN	形式名詞	_	39	acl	_	SpaceAfter=No
 38	子	ne	AUX	デアル動詞	_	37	cop	_	SpaceAfter=No
 39	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 40	タハン	tapan	AUX	デアル動詞	_	39	cop	_	SpaceAfter=No

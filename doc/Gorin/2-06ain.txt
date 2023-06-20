@@ -18,7 +18,7 @@
 17	シヨモ	somo	ADV	副詞	_	18	advmod	_	SpaceAfter=No
 18	キ	ki	AUX	助動詞	_	16	aux	_	SpaceAfter=No
 19	クニ	kuni	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
-20	ヱキ	iki	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+20	ヱキ	iki	VERB	自動詞	_	22	acl	_	SpaceAfter=No
 21	タン	tan	DET	連体詞	_	22	det	_	SpaceAfter=No
 22	ベ	pe	NOUN	形式名詞	_	24	obl	_	SpaceAfter=No
 23	ヱ子	ene	ADV	副詞	_	24	advmod	_	SpaceAfter=No
