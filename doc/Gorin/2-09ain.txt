@@ -1,0 +1,16 @@
+# text = クシユアレシカカモイタンレウケカ子アニヱヨコテウタレユワンケタンヘ子ナ
+1	クシユ	kusu	SCONJ	接続詞	_	10	advmod	_	SpaceAfter=No
+2	アレシカ	ar-askay	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	カモイ	kamuy	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+4	タン	tan	DET	連体詞	_	6	det	_	SpaceAfter=No
+5	レウケ	rewke	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	カ子	kane	NOUN	名詞	_	10	obl	_	SpaceAfter=No
+7	アニ	ani	SCONJ	後置副詞	_	6	case	_	SpaceAfter=No
+8	ヱヨコテ	eyoko-te	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+9	ウタレ	utar	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+10	ユワンケ	e-iwanke	VERB	他動詞	_	12	advcl	_	SpaceAfter=No
+11	タン	tan	DET	連体詞	_	12	det	_	SpaceAfter=No
+12	ヘ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+13	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+

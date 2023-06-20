@@ -1,0 +1,13 @@
+# text = 君も此曲尺を以て臣をつかふべし
+1	君	君	NOUN	名詞-普通名詞-一般	_	10	nsubj	_	SpaceAfter=No
+2	も	も	ADP	助詞-係助詞	_	1	case	_	SpaceAfter=No
+3	此	此の	DET	連体詞	_	4	det	_	SpaceAfter=No
+4	曲尺	曲尺	NOUN	名詞-普通名詞-一般	_	6	obj	_	SpaceAfter=No
+5	を	を	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No
+6	以	持つ	VERB	動詞-一般	_	10	advcl	_	SpaceAfter=No
+7	て	て	SCONJ	助詞-接続助詞	_	6	mark	_	SpaceAfter=No
+8	臣	臣	NOUN	名詞-普通名詞-一般	_	10	obj	_	SpaceAfter=No
+9	を	を	ADP	助詞-格助詞	_	8	case	_	SpaceAfter=No
+10	つかふ	使う	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+11	べし	べし	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+
