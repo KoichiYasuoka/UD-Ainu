@@ -1,7 +1,7 @@
-# text = アツテカモイカタヨロケタンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレチセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
+# text = アツテカモイカタヨロケタンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
 1	アツテ	atte	VERB	他動詞	_	2	amod	_	SpaceAfter=No
 2	カモイ	kamuy	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
-3	カ	ka	ADP	副助詞	_	5	obl	_	SpaceAfter=No
+3	カ	ka	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
 4	タ	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
 5	ヨロケ	iyorot-ke	VERB	他動詞	_	7	acl	_	SpaceAfter=No
 6	タン	tan	DET	連体詞	_	7	det	_	SpaceAfter=No
@@ -33,10 +33,10 @@
 32	ヲヤイケウトモ	yay-kewtumu	NOUN	名詞	_	33	obj	_	SpaceAfter=No
 33	シヤク	sak	VERB	他動詞	_	38	advcl	_	SpaceAfter=No
 34	ノ	no	SCONJ	接続助詞	_	33	mark	_	SpaceAfter=No
-35	ウワツテ	uwatte	VERB	自動詞	_	38	amod	_	SpaceAfter=No
+35	ウワツテ	uwatte	VERB	自動詞	_	36	amod	_	SpaceAfter=No
 36	シヤモ	sisam	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
 37	ウタレ	utar	NOUN	名詞	_	38	nmod	_	SpaceAfter=No
-38	チセ	cise	NOUN	名詞	_	46	advcl	_	SpaceAfter=No
+38	ケセ	kese	NOUN	位置名詞	_	46	advcl	_	SpaceAfter=No
 39	子	ne	ADP	格助詞	_	38	case	_	SpaceAfter=No
 40	ワ	wa	SCONJ	接続助詞	_	38	mark	_	SpaceAfter=No
 41	子	ne	AUX	デアル動詞	_	38	cop	_	SpaceAfter=No
