@@ -1,0 +1,35 @@
+# text = タンベクシユアワシノイカシウタレアレシカ子クルヱヨコテ子クルトモタウコヤヱニタタアリシ子カンビムシリカシケヲマイタカシカモイ子ウヲヤコテアンルヱ子ナ
+1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ベ	pe	NOUN	形式名詞	_	30	obl	_	SpaceAfter=No
+3	クシユ	kusu	SCONJ	接続詞	_	2	case	_	SpaceAfter=No
+4	アワ	awa	CCONJ	接続詞	_	30	cc	_	SpaceAfter=No
+5	シノ	sino	DET	連体詞	_	6	det	_	SpaceAfter=No
+6	イカシ	ekasi	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	ウタレ	utar	NOUN	名詞	_	29	dislocated	_	SpaceAfter=No
+8	アレシカ	ar-askay	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+9	子	ne	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	クル	kur	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+11	ヱヨコテ	eyoko-te	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+12	子	ne	AUX	助動詞	_	11	aux	_	SpaceAfter=No
+13	クル	kur	NOUN	名詞	_	10	conj	_	SpaceAfter=No
+14	トモ	tumu	NOUN	位置名詞	_	22	obl	_	SpaceAfter=No
+15	タ	ta	ADP	格助詞	_	14	case	_	SpaceAfter=No
+16	ウコヤヱニタタ	u-ko-yay-nitata	VERB	自動詞	_	19	amod	_	SpaceAfter=No
+17	アリ	ari	SCONJ	接続助詞	_	16	mark	_	SpaceAfter=No
+18	シ子	sine	NUM	数詞	_	19	nummod	_	SpaceAfter=No
+19	カンビ	kanpi	NOUN	名詞	_	22	nsubj	_	SpaceAfter=No
+20	ムシリ	mosir	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
+21	カシケ	kasike	NOUN	位置名詞	_	22	obj	_	SpaceAfter=No
+22	ヲマ	oma	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
+23-24	イタカシ	_	_	_	_	_	_	_	SpaceAfter=No
+23	イタㇰ	itak	VERB	自動詞	_	25	acl	_	SpaceAfter=No
+24	アㇱ	=as	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
+25	カモイ	kamuy	NOUN	名詞	_	29	nsubj	_	SpaceAfter=No
+26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
+27	ウヲヤコ	uwoyak	NOUN	位置名詞	_	29	obl	_	SpaceAfter=No
+28	テ	ta	ADP	格助詞	_	27	case	_	SpaceAfter=No
+29	アン	an	VERB	自動詞	_	30	acl	_	SpaceAfter=No
+30	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
+32	ナ	na	PART	終助詞	_	30	discourse	_	SpaceAfter=No
+

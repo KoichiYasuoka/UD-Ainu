@@ -1,0 +1,24 @@
+# text = 然る故に聖人君臣の間におゐては義の一字を不易の法と定め給ふ
+1	然る	然る	VERB	動詞-一般	_	2	acl	_	SpaceAfter=No
+2	故	故	NOUN	名詞-普通名詞-副詞可能	_	21	obl	_	SpaceAfter=No
+3	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	聖人	聖人	NOUN	名詞-普通名詞-一般	_	21	nsubj	_	SpaceAfter=No
+5	君臣	君臣	NOUN	名詞-普通名詞-一般	_	7	nmod	_	SpaceAfter=No
+6	の	の	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	間	間	NOUN	名詞-普通名詞-副詞可能	_	9	obl	_	SpaceAfter=No
+8	に	に	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	おゐ	於く	VERB	動詞-一般	_	21	advcl	_	SpaceAfter=No
+10	て	て	SCONJ	助詞-接続助詞	_	9	mark	_	SpaceAfter=No
+11	は	は	ADP	助詞-係助詞	_	9	mark	_	SpaceAfter=No
+12	義	義	NOUN	名詞-普通名詞-一般	_	15	nmod	_	SpaceAfter=No
+13	の	の	ADP	助詞-格助詞	_	12	case	_	SpaceAfter=No
+14	一	一	NUM	名詞-数詞	_	15	nummod	_	SpaceAfter=No
+15	字	字	NOUN	名詞-普通名詞-一般	_	21	obj	_	SpaceAfter=No
+16	を	を	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	不易	不易	NOUN	名詞-普通名詞-形状詞可能	_	19	nmod	_	SpaceAfter=No
+18	の	の	ADP	助詞-格助詞	_	17	case	_	SpaceAfter=No
+19	法	法	NOUN	名詞-普通名詞-一般	_	21	obl	_	SpaceAfter=No
+20	と	と	ADP	助詞-格助詞	_	19	case	_	SpaceAfter=No
+21	定め	定める	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+22	給ふ	給う	AUX	動詞-非自立可能	_	21	aux	_	SpaceAfter=No
+
