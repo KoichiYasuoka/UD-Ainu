@@ -8,7 +8,7 @@
 7	アニ	ani	SCONJ	後置副詞	_	6	case	_	SpaceAfter=No
 8	ヱヨコテ	eyoko-te	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	ウタレ	utar	NOUN	名詞	_	10	obj	_	SpaceAfter=No
-10	ユワンケ	e-iwanke	VERB	他動詞	_	12	advcl	_	SpaceAfter=No
+10	ユワンケ	e-iwanke	VERB	他動詞	_	12	acl	_	SpaceAfter=No
 11	タン	tan	DET	連体詞	_	12	det	_	SpaceAfter=No
 12	ヘ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 13	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No

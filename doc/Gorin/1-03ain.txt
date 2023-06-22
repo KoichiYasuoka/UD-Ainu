@@ -11,7 +11,7 @@
 10	アンテ	ante	VERB	他動詞	_	11	acl	_	SpaceAfter=No
 11	ボウ	po	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
 12	ヘトク	hetuku	VERB	自動詞	_	13	acl	_	SpaceAfter=No
-13	ルヱ	ruwe	NOUN	形式名詞	_	46	nsubj	_	SpaceAfter=No
+13	ルヱ	ruwe	NOUN	形式名詞	_	45	nsubj	_	SpaceAfter=No
 14	アナキ子	anakne	ADP	副助詞	_	13	case	_	SpaceAfter=No
 15	ニソロ	nisor	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
 16	アン	an	VERB	自動詞	_	17	acl	_	SpaceAfter=No
@@ -34,16 +34,15 @@
 33	フシノ	upsino	ADV	副詞	_	35	advmod	_	SpaceAfter=No
 34	ヱ	e=	PART	人称接辞	_	35	nsubj	_	SpaceAfter=No
 35	キ	ki	VERB	他動詞	_	36	acl	_	SpaceAfter=No
-36	ブ	p	NOUN	形式名詞	_	46	advcl	_	SpaceAfter=No
+36	ブ	p	NOUN	形式名詞	_	45	advcl	_	SpaceAfter=No
 37	子	ne	AUX	デアル動詞	_	36	cop	_	SpaceAfter=No
 38	クシユ	kusu	SCONJ	接続助詞	_	36	mark	_	SpaceAfter=No
-39	アチヤ	áca	NOUN	名詞	_	45	nsubj	_	SpaceAfter=No
+39	アチヤ	áca	NOUN	名詞	_	44	nsubj	_	SpaceAfter=No
 40	子	ne	ADP	格助詞	_	39	case	_	SpaceAfter=No
 41	ワ	wa	SCONJ	接続助詞	_	39	case	_	SpaceAfter=No
-42	ボウ	po	NOUN	名詞	_	45	obj	_	SpaceAfter=No
-43	ウカ	uka	NOUN	位置名詞	_	45	obl	_	SpaceAfter=No
-44	ト	to	ADP	副助詞	_	43	case	_	SpaceAfter=No
-45	コロ	kor	VERB	他動詞	_	46	acl	_	SpaceAfter=No
-46	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
-47	タバン	tapan	AUX	デアル動詞	_	46	cop	_	SpaceAfter=No
+42	ボウ	po	NOUN	名詞	_	39	conj	_	SpaceAfter=No
+43	ウカト	u-katu	NOUN	位置名詞	_	44	obj	_	SpaceAfter=No
+44	コロ	kor	VERB	他動詞	_	45	acl	_	SpaceAfter=No
+45	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+46	タバン	tapan	AUX	デアル動詞	_	45	cop	_	SpaceAfter=No
 

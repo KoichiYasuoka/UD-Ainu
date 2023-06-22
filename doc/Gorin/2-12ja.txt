@@ -1,5 +1,5 @@
 # text = おのれが追従によりて此かねを枉べからず
-1	おのれ	己	PRON	代名詞	_	5	nmod	_	SpaceAfter=No
+1	おのれ	己	PRON	代名詞	_	3	nmod	_	SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
 3	追従	追従	NOUN	名詞-普通名詞-一般	_	5	obl	_	SpaceAfter=No
 4	に	に	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
