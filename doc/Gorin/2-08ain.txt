@@ -1,13 +1,13 @@
 # text = ヤヱコニタタケウトモアナキ子ヲベカレンカセトクレクニツイキブシリレウヱカ子ヽルヱタバン
 1	ヤヱコニタタ	yay-konitata	VERB	他動詞	_	2	acl	_	SpaceAfter=No
-2	ケウトモ	kewtumu	NOUN	名詞	_	13	nsubj	_	SpaceAfter=No
+2	ケウトモ	kewtumu	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
 3	アナキ子	anakne	ADP	副助詞	_	2	case	_	SpaceAfter=No
 4	ヲベカ	owpeka	VERB	自動詞	_	5	amod	_	SpaceAfter=No
 5	レンカ	irenka	NOUN	名詞	_	6	nsubj	_	SpaceAfter=No
 6	セトクレ	hetuku-re	VERB	他動詞	_	8	acl	_	SpaceAfter=No
 7	クニ	kuni	AUX	助動詞	_	6	aux	_	SpaceAfter=No
 8	ツイキブ	ceykip	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
-9	シリ	siri	NOUN	形式名詞	_	11	nsubj	_	SpaceAfter=No
+9	シリ	siri	NOUN	形式名詞	_	10	nsubj	_	SpaceAfter=No
 10	レウヱ	rewe	VERB	他動詞	_	11	acl	_	SpaceAfter=No
 11	カ子	kane	NOUN	名詞	_	13	advcl	_	SpaceAfter=No
 12	ヽ	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No

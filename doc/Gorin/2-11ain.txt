@@ -6,12 +6,11 @@
 5	ヤツカ	yakka	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
 6	ランマ	ranma	ADV	副詞	_	8	advmod	_	SpaceAfter=No
 7	カ子	kane	NOUN	名詞	_	8	nsubj	_	SpaceAfter=No
-8	ケウトモコン	kewtumu-kor	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+8	ケウトモコン	kewtumu-kor	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
 9	ノ	no	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 10	コロ	kor	VERB	他動詞	_	11	acl	_	SpaceAfter=No
-11	カモイ	kamuy	NOUN	名詞	_	12	nmod	_	SpaceAfter=No
-12	レンカ	irenka	NOUN	名詞	_	13	obj	_	SpaceAfter=No
-13	コロ	kor	VERB	他動詞	_	0	root	_	SpaceAfter=No
-14	ナンコロ	nankor	AUX	助動詞	_	13	aux	_	SpaceAfter=No
-15	ナ	na	PART	終助詞	_	13	discourse	_	SpaceAfter=No
+11	カモイ	kamuy	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+12	レンカコロ	irenkakor	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	ナンコロ	nankor	AUX	助動詞	_	12	aux	_	SpaceAfter=No
+14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
 
