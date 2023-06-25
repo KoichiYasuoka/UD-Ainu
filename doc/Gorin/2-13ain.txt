@@ -14,7 +14,7 @@
 13	クル	kur	NOUN	名詞	_	10	conj	_	SpaceAfter=No
 14	トモ	tumu	NOUN	位置名詞	_	22	obl	_	SpaceAfter=No
 15	タ	ta	ADP	格助詞	_	14	case	_	SpaceAfter=No
-16	ウコヤヱニタタ	u-ko-yay-nitata	VERB	自動詞	_	19	amod	_	SpaceAfter=No
+16	ウコヤヱニタタ	uko-yay-nitata	VERB	自動詞	_	19	amod	_	SpaceAfter=No
 17	アリ	ari	SCONJ	接続助詞	_	16	mark	_	SpaceAfter=No
 18	シ子	sine	NUM	数詞	_	19	nummod	_	SpaceAfter=No
 19	カンビ	kanpi	NOUN	名詞	_	22	nsubj	_	SpaceAfter=No
