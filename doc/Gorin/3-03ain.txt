@@ -1,0 +1,16 @@
+# text = ウムレツクルウコケウトモヒリカヤキ子ホウ子ワミツホウタレセベンケルヱタバン
+1	ウムレツ	umurek	VERB	自動詞	_	2	amod	_	SpaceAfter=No
+2	クル	kur	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
+3	ウコケウトモ	uko-kewtumu	VERB	自動詞	_	4	advcl	_	SpaceAfter=No
+4	ヒリカ	pirka	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+5	ヤキ子	yakne	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	ホウ	po	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+7	子	ne	ADP	格助詞	_	6	case	_	SpaceAfter=No
+8	ワ	wa	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+9	ミツホ	mitpo	NOUN	名詞	_	6	conj	_	SpaceAfter=No
+10	ウタレ	utar	NOUN	名詞	_	11	obj	_	SpaceAfter=No
+11	セ	se	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+12	ベンケ	penke	NOUN	位置名詞	_	13	nsubj	_	SpaceAfter=No
+13	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+14	タバン	tapan	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
+

@@ -1,0 +1,10 @@
+# text = 夫婦和合して子孫を生育す
+1	夫婦	夫婦	NOUN	名詞-普通名詞-一般	_	2	nsubj	_	SpaceAfter=No
+2	和合	和合	VERB	名詞-普通名詞-サ変可能	_	7	advcl	_	SpaceAfter=No
+3	し	為る	AUX	動詞-非自立可能	_	2	aux	_	SpaceAfter=No
+4	て	て	SCONJ	助詞-接続助詞	_	2	mark	_	SpaceAfter=No
+5	子孫	子孫	NOUN	名詞-普通名詞-一般	_	7	obj	_	SpaceAfter=No
+6	を	を	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	生育	生育	VERB	名詞-普通名詞-サ変可能	_	0	root	_	SpaceAfter=No
+8	す	為る	AUX	動詞-非自立可能	_	7	aux	_	SpaceAfter=No
+
