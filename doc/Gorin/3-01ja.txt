@@ -1,0 +1,11 @@
+# text = 天に陰陽あれば人に夫婦あり
+1	天	天	NOUN	名詞-普通名詞-一般	_	4	obl	_	SpaceAfter=No
+2	に	に	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	陰陽	陰陽	NOUN	名詞-普通名詞-一般	_	4	nsubj	_	SpaceAfter=No
+4	あれ	有る	VERB	動詞-非自立可能	_	9	advcl	_	SpaceAfter=No
+5	ば	ば	CCONJ	助詞-接続助詞	_	4	mark	_	SpaceAfter=No
+6	人	人	NOUN	名詞-普通名詞-一般	_	9	obl	_	SpaceAfter=No
+7	に	に	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	夫婦	夫婦	NOUN	名詞-普通名詞-一般	_	9	nsubj	_	SpaceAfter=No
+9	あり	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+

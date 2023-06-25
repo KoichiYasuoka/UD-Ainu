@@ -1,0 +1,25 @@
+# text = ニソロタチウブカモイレクトコトカモイアンルヱ子クシユ子アビカトコンノシシヤモヲツタウムレツクルアン
+1	ニソロ	nisor	NOUN	名詞	_	9	obl	_	SpaceAfter=No
+2	タ	ta	NOUN	名詞	_	1	case	_	SpaceAfter=No
+3	チウブ	cup	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	カモイ	kamuy	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
+5	レク	rik	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
+6	ト	to	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	コト	kotor	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+8	カモイ	kamuy	NOUN	名詞	_	4	conj	_	SpaceAfter=No
+9	アン	an	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+10	ルヱ	ruwe	NOUN	形式名詞	_	23	advcl	_	SpaceAfter=No
+11	子	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	クシユ	kusu	SCONJ	接続詞	_	10	mark	_	SpaceAfter=No
+13	子ア	néa	DET	連体詞	_	14	det	_	SpaceAfter=No
+14	ビ	pe	NOUN	形式名詞	_	15	nmod	_	SpaceAfter=No
+15	カト	katu	NOUN	形式名詞	_	16	obj	_	SpaceAfter=No
+16	コン	kor	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
+17	ノ	no	SCONJ	接続助詞	_	16	mark	_	SpaceAfter=No
+18	シシヤモ	sisam	NOUN	名詞	_	19	nmod	_	SpaceAfter=No
+19	ヲツ	or	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
+20	タ	ta	ADP	格助詞	_	19	case	_	SpaceAfter=No
+21	ウムレツ	umurek	VERB	自動詞	_	22	amod	_	SpaceAfter=No
+22	クル	kur	NOUN	名詞	_	23	nsubj	_	SpaceAfter=No
+23	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+
