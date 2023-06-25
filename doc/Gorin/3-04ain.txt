@@ -1,0 +1,14 @@
+# text = タンベカントワノコバクンヲロシヘ子クニヱラムアンヤ
+1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ベ	pe	NOUN	名詞	_	10	obl	_	SpaceAfter=No
+3	カント	kanto	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+4	ワノ	wano	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5-6	コバクン	_	_	_	_	_	_	_	SpaceAfter=No
+5	コパㇰ	kopak	NOUN	位置名詞	_	7	nmod	_	SpaceAfter=No
+6	ウン	un	ADP	格助詞	_	5	case	_	SpaceAfter=No
+7	ヲロシヘ	oruspe	NOUN	名詞	_	9	acl	_	SpaceAfter=No
+8	子	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	クニ	kuni	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+10	ヱラムアン	eramuan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	ヤ	ya	PART	終助詞	_	10	discourse	_	SpaceAfter=No
+

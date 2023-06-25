@@ -1,0 +1,7 @@
+# text = 天人一理と知るべし
+1	天人	天人	NOUN	名詞-普通名詞-一般	_	2	nsubj	_	SpaceAfter=No
+2	一理	一理	NOUN	名詞-普通名詞-一般	_	4	advcl	_	SpaceAfter=No
+3	と	と	ADP	助詞-格助詞	_	2	mark	_	SpaceAfter=No
+4	知る	知る	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+5	べし	べし	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+
