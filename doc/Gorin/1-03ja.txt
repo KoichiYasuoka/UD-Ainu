@@ -19,6 +19,6 @@
 18	父子	父子	NOUN	名詞-普通名詞-一般	_	20	nmod	_	SpaceAfter=No
 19	の	の	ADP	助詞-格助詞	_	18	case	_	SpaceAfter=No
 20	倫	倫	NOUN	名詞-普通名詞-一般	_	21	nsubj	_	SpaceAfter=No
-21	定る	定まる	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+21	定る	決まる	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
 22	なり	なり	AUX	助動詞	_	21	aux	_	SpaceAfter=No
 
