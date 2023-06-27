@@ -9,7 +9,7 @@
 8	ヲヘカ	owpeka	VERB	自動詞	_	9	amod	_	SpaceAfter=No
 9	クル	kur	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
 10	アン	an	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
-11	ノ	no	SCONJ	接続助詞	_	12	advmod	_	SpaceAfter=No
+11	ノ	no	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
 12	レコレ	rékore	VERB	他動詞	_	13	ccomp	_	SpaceAfter=No
 13	アンテ	ante	VERB	他動詞	_	14	acl	_	SpaceAfter=No
 14	子フ	nep	NOUN	名詞	_	15	nmod	_	SpaceAfter=No
@@ -23,11 +23,11 @@
 22	コロ	kor	VERB	自動詞	_	27	advcl	_	SpaceAfter=No
 23	ワ	wa	SCONJ	接続助詞	_	22	mark	_	SpaceAfter=No
 24	ヤヱラムノ	yayramu-no	ADV	副詞	_	25	amod	_	SpaceAfter=No
-25	マツ	mat	VERB	自動詞	_	27	obj	_	SpaceAfter=No
+25	マツ	mat	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
 26	ウヱトレン	uweturen	ADV	副詞	_	27	advmod	_	SpaceAfter=No
-27	シノツ	sinot	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
-28	子	ne	AUX	助動詞	_	27	mark	_	SpaceAfter=No
-29	モシマ	mosma	SCONJ	後置副詞	_	30	amod	_	SpaceAfter=No
+27	シノツ	sinot	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
+28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
+29	モシマ	mosma	DET	連体詞	_	30	det	_	SpaceAfter=No
 30	ウタレ	utar	NOUN	名詞	_	31	nmod	_	SpaceAfter=No
 31	ヲツ	or	NOUN	位置名詞	_	33	obl	_	SpaceAfter=No
 32	タ	ta	ADP	格助詞	_	31	case	_	SpaceAfter=No
