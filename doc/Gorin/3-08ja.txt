@@ -1,0 +1,27 @@
+# text = 婦は貞静とて一筋に静なる徳を以て常に夫に随ひ聊寵愛にほこる事あるべからず
+1	婦	妻	NOUN	名詞-普通名詞-一般	_	3	nsubj	_	SpaceAfter=No
+2	は	は	ADP	助詞-係助詞	_	1	case	_	SpaceAfter=No
+3	貞静	貞静	NOUN	名詞-普通名詞-形状詞可能	_	11	advcl	_	SpaceAfter=No
+4	とて	とて	ADP	助詞-格助詞	_	3	mark	_	SpaceAfter=No
+5	一筋	一筋	NOUN	名詞-普通名詞-一般	_	11	obl	_	SpaceAfter=No
+6	に	に	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	静	静	ADJ	名詞-普通名詞-形状詞可能	_	9	acl	_	SpaceAfter=No
+8	なる	なり	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	徳	徳	NOUN	名詞-普通名詞-一般	_	11	obj	_	SpaceAfter=No
+10	を	を	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	以	持つ	VERB	動詞-一般	_	17	advcl	_	SpaceAfter=No
+12	て	て	SCONJ	助詞-接続助詞	_	11	mark	_	SpaceAfter=No
+13	常	常	NOUN	名詞-普通名詞-一般	_	17	obl	_	SpaceAfter=No
+14	に	に	ADP	助詞-格助詞	_	13	case	_	SpaceAfter=No
+15	夫	夫	NOUN	名詞-普通名詞-一般	_	17	obl	_	SpaceAfter=No
+16	に	に	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	随ひ	従う	VERB	動詞-一般	_	23	advcl	_	SpaceAfter=No
+18	聊	些か	ADV	副詞	_	21	advmod	_	SpaceAfter=No
+19	寵愛	寵愛	NOUN	名詞-普通名詞-サ変可能	_	21	obl	_	SpaceAfter=No
+20	に	に	ADP	助詞-格助詞	_	19	case	_	SpaceAfter=No
+21	ほこる	誇る	VERB	動詞-一般	_	22	acl	_	SpaceAfter=No
+22	事	事	NOUN	名詞-普通名詞-一般	_	23	nsubj	_	SpaceAfter=No
+23	ある	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+24	べから	べし	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	ず	ず	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+
