@@ -25,6 +25,6 @@
 24	ソモ	somo	ADV	副詞	_	25	advmod	_	SpaceAfter=No
 25	アン	an	VERB	自動詞	_	26	acl	_	SpaceAfter=No
 26	クニ	kuni	NOUN	形式名詞	_	27	nsubj	_	SpaceAfter=No
-27	ラムヲカイ	ramoka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+27	ラムヲカイ	ramuoka	VERB	自動詞	_	0	root	_	SpaceAfter=No
 28	ヤ	ya	PART	終助詞	_	27	discourse	_	SpaceAfter=No
 

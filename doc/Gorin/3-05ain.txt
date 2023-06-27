@@ -31,7 +31,7 @@
 30	カモイ	kamuy	NOUN	名詞	_	31	nsubj	_	SpaceAfter=No
 31	バイ	paye	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
 32	子ノ	néno	SCONJ	後置副詞	_	31	mark	_	SpaceAfter=No
-33	ヲマン	oman	VERB	自動詞	_	35	acl	_	SpaceAfter=No
+33	ヲマン	omanan	VERB	自動詞	_	35	acl	_	SpaceAfter=No
 34	タン	tan	DET	連体詞	_	35	det	_	SpaceAfter=No
 35	ベ	pe	NOUN	形式名詞	_	38	nsubj	_	SpaceAfter=No
 36	アナキ子	anakne	ADP	副助詞	_	35	case	_	SpaceAfter=No
