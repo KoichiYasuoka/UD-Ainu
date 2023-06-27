@@ -1,4 +1,4 @@
-# text = アニカツチヤマケウトモコロワノタンレウケカ子ヱデキシノヱレタンベタバンナ
+# text = アニカツチヤマケウトモコロワノタンレウケカ子ヱデキシノヱレクンベタバンナ
 1	アニ	ani	SCONJ	後置副詞	_	3	advmod	_	SpaceAfter=No
 2	カツチヤマ	katcama	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
 3	ケウトモコロ	kewtumu-kor	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
@@ -9,7 +9,7 @@
 8	カ子	kane	NOUN	名詞	_	10	obj	_	SpaceAfter=No
 9	ヱデキ	iteki	ADV	副詞	_	10	advmod	_	SpaceAfter=No
 10	シノヱレ	sinoye-re	VERB	他動詞	_	12	acl	_	SpaceAfter=No
-11	タン	tan	DET	連体詞	_	12	det	_	SpaceAfter=No
+11	クン	kuni	AUX	助動詞	_	10	aux	_	SpaceAfter=No
 12	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 13	タバン	tapan	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
 14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No

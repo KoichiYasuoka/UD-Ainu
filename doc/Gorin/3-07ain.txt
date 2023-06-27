@@ -35,7 +35,6 @@
 34	ビ	pe	NOUN	形式名詞	_	36	obj	_	SpaceAfter=No
 35	ソモ	somo	ADV	副詞	_	36	advmod	_	SpaceAfter=No
 36	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
-37	クニ	kuni	AUX	助動詞	_	36	aux	_	SpaceAfter=No
-38	子	ne	AUX	助動詞	_	36	aux	_	SpaceAfter=No
-39	ナ	na	PART	終助詞	_	36	discourse	_	SpaceAfter=No
+37	クニ子	kunine	SCONJ	接続助詞	_	36	mark	_	SpaceAfter=No
+38	ナ	na	PART	終助詞	_	36	discourse	_	SpaceAfter=No
 

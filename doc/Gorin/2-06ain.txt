@@ -1,4 +1,4 @@
-# text = 子フ子ヤツカシアンヲシケコテアコロカモイレンカコロワアンキブシヨヤフケリシヨモキクニヱキタンベヱ子ハウキタハン
+# text = 子フ子ヤツカシアンヲシケコテアコロカモイレンカコロワアンキブシヨヤフケリシヨモキクニヱキクンベヱ子ハウキタハン
 1	子フ	nep	NOUN	名詞	_	6	advcl	_	SpaceAfter=No
 2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
 3	ヤツカ	yakka	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
@@ -18,7 +18,7 @@
 17	キ	ki	AUX	助動詞	_	15	aux	_	SpaceAfter=No
 18	クニ	kuni	NOUN	形式名詞	_	19	nsubj	_	SpaceAfter=No
 19	ヱキ	iki	VERB	自動詞	_	21	acl	_	SpaceAfter=No
-20	タン	tan	DET	連体詞	_	21	det	_	SpaceAfter=No
+20	クン	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
 21	ベ	pe	NOUN	形式名詞	_	23	obl	_	SpaceAfter=No
 22	ヱ子	ene	ADV	副詞	_	23	advmod	_	SpaceAfter=No
 23	ハウキ	haw-ki	VERB	自動詞	_	0	root	_	SpaceAfter=No

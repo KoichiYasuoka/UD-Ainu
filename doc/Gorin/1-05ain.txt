@@ -12,7 +12,7 @@
 11	子	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
 12	ヤツカヱキ	yakkayki	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 13	ヱラムヲカイ	eramuoka	VERB	他動詞	_	15	acl	_	SpaceAfter=No
-14	タン	tan	DET	連体詞	_	15	det	_	SpaceAfter=No
+14	クン	kuni	AUX	助動詞	_	13	aux	_	SpaceAfter=No
 15	ヘ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 16	子	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
 17	ナ	na	PART	終助詞	_	15	discourse	_	SpaceAfter=No

@@ -1,4 +1,4 @@
-# text = ヱ子アンヘクシユミツハボ子クルホウイツコヱ子ヽキワ子ヤキ子ウカ子ベカイバカシイチヤコクイキタンベ子ナ
+# text = ヱ子アンヘクシユミツハボ子クルホウイツコヱ子ヽキワ子ヤキ子ウカ子ベカイバカシイチヤコクイキクンベ子ナ
 1	ヱ子	ene	ADV	副詞	_	2	advmod	_	_
 2	アン	an	VERB	自動詞	_	3	acl	_	_
 3	ヘ	pe	NOUN	形式名詞	_	12	obl	_	_
@@ -20,7 +20,7 @@
 19	イバカシ	epakasnu	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
 20	イチヤコク	ecakoko	VERB	他動詞	_	19	conj	_	_
 21	イキ	iki	VERB	自動詞	_	23	acl	_	_
-22	タン	tan	DET	連体詞	_	23	det	_	_
+22	クン	kuni	AUX	助動詞	_	21	aux	_	_
 23	ベ	pe	NOUN	形式名詞	_	0	root	_	_
 24	子	ne	AUX	デアル動詞	_	23	cop	_	_
 25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No

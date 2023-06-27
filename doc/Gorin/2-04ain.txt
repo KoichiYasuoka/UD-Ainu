@@ -1,10 +1,10 @@
-# text = アツテカモイカタヨロケタンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
+# text = アツテカモイカタヨロケクンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
 1	アツテ	atte	VERB	他動詞	_	2	amod	_	SpaceAfter=No
 2	カモイ	kamuy	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
 3	カ	ka	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
 4	タ	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
 5	ヨロケ	iyorot-ke	VERB	他動詞	_	7	acl	_	SpaceAfter=No
-6	タン	tan	DET	連体詞	_	7	det	_	SpaceAfter=No
+6	クン	kuni	AUX	助動詞	_	5	aux	_	SpaceAfter=No
 7	ベ	pe	NOUN	形式名詞	_	16	nsubj	_	SpaceAfter=No
 8	アナキ子	anakne	ADP	副助詞	_	7	case	_	SpaceAfter=No
 9	アツバケ	atpake	NOUN	位置名詞	_	14	obl	_	SpaceAfter=No

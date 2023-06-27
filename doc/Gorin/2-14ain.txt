@@ -1,4 +1,4 @@
-# text = ヱ子ヽアンベクシユニシハ子ワウタレケセウコヤヱラマツテケウトモ子イバクノカクンシンウコレンカコロクルケウトモカシア子ラツチケタンベタバンナ
+# text = ヱ子ヽアンベクシユニシハ子ワウタレケセウコヤヱラマツテケウトモ子イバクノカクンシンウコレンカコロクルケウトモカシア子ラツチケクンベタバンナ
 1	ヱ子ヽ	enene	ADV	副詞	_	2	advmod	_	SpaceAfter=N
 2	アン	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
 3	ベ	pe	NOUN	形式名詞	_	10	obl	_	SpaceAfter=No
@@ -20,7 +20,7 @@
 19	カシ	kasi	NOUN	位置名詞	_	21	obj	_	SpaceAfter=No
 20	ア子	ani	SCONJ	後置副詞	_	19	case	_	SpaceAfter=No
 21	ラツチケ	ratci-ke	VERB	他動詞	_	23	acl	_	SpaceAfter=No
-22	タン	tan	DET	連体詞	_	23	det	_	SpaceAfter=No
+22	クン	kuni	AUX	助動詞	_	21	aux	_	SpaceAfter=No
 23	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 24	タバン	tapan	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
 25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No

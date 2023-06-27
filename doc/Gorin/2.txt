@@ -13,8 +13,8 @@ nep enene yakkayki siko p ruwe ne kusu ranma ar-askay sir ne ruwe tapan  sisam r
 tan pe kusu ar-askay kamuy ne wa eyoko-te ne kur u-katkor ruwe tapan  suy ne wano epakasnu aste atte kamuy ne wa
 　
 仁といひ臣には忠といふ　君の仁といふはもとより
-コシラムシユイハヱヨコテ子クルアナキ子ウヌヽカラ　アツテカモイカタヨロケタンベアナキ子アツバケワノ
-kosiramsuypa eyoko-te ne kur anakne ununuke-ar  atte kamuy ka ta iyorot-ke tan pe anakne atpake wano
+コシラムシユイハヱヨコテ子クルアナキ子ウヌヽカラ　アツテカモイカタヨロケクンベアナキ子アツバケワノ
+kosiramsuypa eyoko-te ne kur anakne ununuke-ar  atte kamuy ka ta iyorot-ke kuni pe anakne atpake wano
 
 人をあはれむ事なれども一通りの慈悲とのみ
 シシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニ
@@ -33,8 +33,8 @@ raka kore kuni tan itak ne ruwe tapan na  suy eyoko-te ne kur uwaynukor katu ana
 patek kopak ne itak katu kari somo tapan  nep ne yakka si-an uske kote a=kor kamuy irenkakor wa
 
 奉公にうらおもてなきをいふなり　但其簡要
-アンキブシヨヤフケリシヨモキクニヱキタンベヱ子ハウキタハン　ケアンナク子ワノラマツ
-an ki p si-eyapkir somo ki kuni iki tan pe ene haw ki tapan  ke anakne wano ramat
+アンキブシヨヤフケリシヨモキクニヱキクンベヱ子ハウキタハン　ケアンナク子ワノラマツ
+an ki p si-eyapkir somo ki kuni iki kuni pe ene haw ki tapan  ke anakne wano ramat
 
 をいふに君臣はたがひに義を本道とすべし
 カシカモイアナキ子コツトノ子ワヱヨコテウタレバウコヤヱレンカヲベカレワ
@@ -45,16 +45,16 @@ kasi kamuy anakne kor tono ne wa eyoko-te utarpa ukoyayrenka owpekare wa
 yay-konitata kewtumu anakne owpeka irenka hetuku-re kuni ceykip siri rewe kane ne ruwe tapan  kusu ar-askay kamuy tan rewke kane ani
 
 臣をつかふべし　上威勢にまかせてこの曲尺を破
-ヱヨコテウタレユワンケタンヘ子ナ　シヤハ子クルコノブリヱツヽコヌヱ子タンレウケカ子
-eyoko-te utar e-iwanke tan pe ne na  sapanekur kor nupuri ecutkonno ene tan rewke kane
+ヱヨコテウタレユワンケクンヘ子ナ　シヤハ子クルコノブリヱツヽコヌヱ子タンレウケカ子
+eyoko-te utar e-iwanke kuni pe ne na  sapanekur kor nupuri ecutkonno ene tan rewke kane
 
 るべからず　臣も此かねを以て君に仕ふまつるべし
 ヱテキウヱンテレヤ　ウタレ子ワ子ヤツカランマカ子ケウトモコンノコロカモイレンカコロナンコロナ
 iteki wente-re ya  utar ne wa ne yakka ranma kane kewtumu-kor no kor kamuy irenkakor nankor na
 
 おのれが追従によりて此かねを枉べからず
-アニカツチヤマケウトモコロワノタンレウケカ子ヱデキシノヱレタンベタバンナ
-ani katcama kewtumu-kor wa no tan rewke kane iteki sinoye-re tan pe tapan na
+アニカツチヤマケウトモコロワノタンレウケカ子ヱデキシノヱレクンベタバンナ
+ani katcama kewtumu-kor wa no tan rewke kane iteki sinoye-re kuni pe tapan na
 
 然る故に聖人君臣の間におゐては義の一字を
 タンベクシユアワシノイカシウタレアレシカ子クルヱヨコテ子クルトモタウコヤヱニタタアリシ子カンビ
@@ -65,6 +65,6 @@ tan pe kusu awa sino ekasi utar ar-askay ne kur eyoko-te ne kur tumu ta uko-yay-
 mosir kasike oma itak=as kamuy ne uwoyak te an ruwe ne na  enene an pe kusu nispa ne wa utar kese
 
 いふ一句は長く君臣の掟たるべし
-ウコヤヱラマツテケウトモ子イバクノカクンシンウコレンカコロクルケウトモカシア子ラツチケタンベタバンナ
-uko-yay-ramat-te kewtumu ney pakno ka Kunsin ukoyrenka-kor kur kewtumu kasi ani ratci-ke tan pe tapan na
+ウコヤヱラマツテケウトモ子イバクノカクンシンウコレンカコロクルケウトモカシア子ラツチケクンベタバンナ
+uko-yay-ramat-te kewtumu ney pakno ka Kunsin ukoyrenka-kor kur kewtumu kasi ani ratci-ke kuni pe tapan na
 
