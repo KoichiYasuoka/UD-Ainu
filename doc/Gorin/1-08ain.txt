@@ -33,8 +33,9 @@
 32	ミチ	mici	NOUN	名詞	_	36	nsubj	_	SpaceAfter=No
 33	ハボ	hápo	NOUN	名詞	_	32	conj	_	SpaceAfter=No
 34	ワ	wa	SCONJ	接続助詞	_	32	case	_	SpaceAfter=No
-35	ア子	ani	SCONJ	後置副詞	_	32	case	_	SpaceAfter=No
-36	イバカシ	epakasnu	VERB	他動詞	_	38	acl	_	SpaceAfter=No
+35-36	ア子イバカシ	_	_	_	_	_	_	_	SpaceAfter=No
+35	アン	an=	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+36	エイパカㇱヌ	eypakasnu	VERB	他動詞	_	38	acl	_	SpaceAfter=No
 37	クン	kuni	AUX	助動詞	_	36	aux	_	SpaceAfter=No
 38	ヘ	pe	NOUN	形式名詞	_	40	obj	_	SpaceAfter=No
 39	ヱテキ	iteki	ADV	副詞	_	40	advmod	_	SpaceAfter=No

@@ -36,8 +36,9 @@
 35	クニ	kuni	NOUN	形式名詞	_	39	nsubj	_	SpaceAfter=No
 36	ケウトモ	kewtumu	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
 37	カシ	kasi	NOUN	位置名詞	_	39	obj	_	SpaceAfter=No
-38	ア子	ani	SCONJ	後置副詞	_	37	case	_	SpaceAfter=No
-39	ラツチケ	ratci-ke	VERB	他動詞	_	41	advmod	_	SpaceAfter=No
+38-39	ア子ラツチケ	_	_	_	_	_	_	_	SpaceAfter=No
+38	アン	an=	PART	人称接辞	_	39	nsubj	_	SpaceAfter=No
+39	エラチッケ	e-racitke	VERB	他動詞	_	41	acl	_	SpaceAfter=No
 40	クン	kuni	AUX	助動詞	_	39	aux	_	SpaceAfter=No
 41	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 42	タバン	tapan	DET	連体詞	_	41	cop	_	SpaceAfter=No

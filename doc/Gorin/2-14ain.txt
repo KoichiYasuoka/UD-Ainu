@@ -18,8 +18,9 @@
 17	クル	kur	NOUN	名詞	_	15	appos	_	SpaceAfter=No
 18	ケウトモ	kewtumu	NOUN	名詞	_	19	nmod	_	SpaceAfter=No
 19	カシ	kasi	NOUN	位置名詞	_	21	obj	_	SpaceAfter=No
-20	ア子	ani	SCONJ	後置副詞	_	19	case	_	SpaceAfter=No
-21	ラツチケ	ratci-ke	VERB	他動詞	_	23	acl	_	SpaceAfter=No
+20-21	ア子ラツチケ	_	_	_	_	_	_	_	SpaceAfter=No
+20	アン	an=	PART	人称接辞	_	21	nsubj	_	SpaceAfter=No
+21	エラチッケ	e-racitke	VERB	他動詞	_	23	acl	_	SpaceAfter=No
 22	クン	kuni	AUX	助動詞	_	21	aux	_	SpaceAfter=No
 23	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 24	タバン	tapan	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
