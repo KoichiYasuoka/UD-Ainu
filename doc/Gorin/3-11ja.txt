@@ -1,0 +1,13 @@
+# text = 只内外の差別みだりならざるを善とす
+1	只	唯	CCONJ	接続詞	_	11	cc	_	SpaceAfter=No
+2	内外	内外	NOUN	名詞-普通名詞-一般	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	差別	差別	NOUN	名詞-普通名詞-サ変可能	_	5	nsubj	_	SpaceAfter=No
+5	みだり	妄り	ADJ	形状詞-一般	_	11	ccomp	_	SpaceAfter=No
+6	なら	なり	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+7	ざる	ず	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+8	を	を	ADP	助詞-格助詞	_	5	mark	_	SpaceAfter=No
+9	善	善	NOUN	名詞-普通名詞-一般	_	11	obl	_	SpaceAfter=No
+10	と	と	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	す	為る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+

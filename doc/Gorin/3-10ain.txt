@@ -1,0 +1,19 @@
+# text = ヲツカイイラウケトハヲソンハイカイメノコツセシツカマヲツカイイテキヲヤメノココシライメノコイテキヲヤヲツカイウヱシカヒ
+1	ヲツカイ	okkayo	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
+2	イラウケトハ	irawketupa	VERB	自動詞	_	4	advcl	_	SpaceAfter=No
+3	ヲソン	osoyun	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ハイカイ	payoka	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+5	メノコ	menoko	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+6	ツセ	cise	NOUN	名詞	_	7	obj	_	SpaceAfter=No
+7	シツカマ	sikkasma	VERB	他動詞	_	12	advcl	_	SpaceAfter=No
+8	ヲツカイ	okkayo	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+9	イテキ	iteki	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+10	ヲヤ	oya	DET	連体詞	_	11	det	_	SpaceAfter=No
+11	メノコ	menoko	NOUN	名詞	_	12	obj	_	SpaceAfter=No
+12	コシライ	kosiraye	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+13	メノコ	menoko	NOUN	名詞	_	17	nsubj	_	SpaceAfter=No
+14	イテキ	iteki	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+15	ヲヤ	oya	DET	連体詞	_	16	det	_	SpaceAfter=No
+16	ヲツカイ	okkayo	NOUN	名詞	_	17	obj	_	SpaceAfter=No
+17	ウヱシカヒ	u-esikari	VERB	他動詞	_	0	root	_	SpaceAfter=No
+

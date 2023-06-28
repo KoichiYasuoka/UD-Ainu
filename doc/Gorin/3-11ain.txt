@@ -1,0 +1,21 @@
+# text = アリキン子ツセ子ワヲソンアンコロフリソモヱタラカイキクニアンヘアナキ子ヒリカルヱ子ナ
+1	アリキン子	earkinne	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+2	ツセ	cise	NOUN	名詞	_	6	advcl	_	SpaceAfter=No
+3	子	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	ワ	wa	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+5	ヲソン	osoyun	ADV	副詞	_	6	advmod	_	SpaceAfter=No
+6	アン	an	VERB	自動詞	_	8	acl	_	SpaceAfter=No
+7	コロ	kor	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	フリ	puri	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+9	ソモ	somo	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	ヱタラ	etara	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+11	カイキ	kayki	ADP	副助詞	_	10	mark	_	SpaceAfter=No
+12	クニ	kuni	NOUN	形式名詞	_	13	nsubj	_	SpaceAfter=No
+13	アン	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
+14	ヘ	pe	NOUN	形式名詞	_	16	nsubj	_	SpaceAfter=No
+15	アナキ子	anakne	ADP	副助詞	_	14	case	_	SpaceAfter=No
+16	ヒリカ	pirka	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+18	子	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+19	ナ	na	PART	終助詞	_	17	discourse	_	SpaceAfter=No
+
