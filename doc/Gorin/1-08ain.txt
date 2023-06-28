@@ -30,7 +30,7 @@
 29	ヤヱ子トバケ	yay-netopake	NOUN	名詞	_	30	obj	_	SpaceAfter=No
 30	コヤヱラマツテ	ko-yay-ramat-te	VERB	他動詞	_	31	advcl	_	SpaceAfter=No
 31	ヤヱラムレ	yayiramure	VERB	自動詞	_	40	advcl	_	SpaceAfter=No
-32	ミチ	mici	NOUN	名詞	_	36	nsubj	_	SpaceAfter=No
+32	ミチ	mici	NOUN	名詞	_	36	obl	_	SpaceAfter=No
 33	ハボ	hápo	NOUN	名詞	_	32	conj	_	SpaceAfter=No
 34	ワ	wa	SCONJ	接続助詞	_	32	case	_	SpaceAfter=No
 35-36	ア子イバカシ	_	_	_	_	_	_	_	SpaceAfter=No
