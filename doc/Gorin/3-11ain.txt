@@ -6,10 +6,10 @@
 5	ヲソン	osoyun	ADV	副詞	_	6	advmod	_	SpaceAfter=No
 6	アン	an	VERB	自動詞	_	8	acl	_	SpaceAfter=No
 7	コロ	kor	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
-8	フリ	puri	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
-9	ソモ	somo	ADV	副詞	_	10	advmod	_	SpaceAfter=No
-10	ヱタラ	etara	VERB	他動詞	_	12	acl	_	SpaceAfter=No
-11	カイキ	kayki	ADP	副助詞	_	10	mark	_	SpaceAfter=No
+8	フリ	puri	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+9	ソモ	somo	ADV	副詞	_	11	advmod	_	SpaceAfter=No
+10	ヱタラカ	etarka	ADV	副詞	_	11	advmod	_	SpaceAfter=No
+11	イキ	iki	VERB	自動詞	_	12	acl	_	SpaceAfter=No
 12	クニ	kuni	NOUN	形式名詞	_	13	nsubj	_	SpaceAfter=No
 13	アン	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
 14	ヘ	pe	NOUN	形式名詞	_	16	nsubj	_	SpaceAfter=No
