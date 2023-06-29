@@ -3,7 +3,7 @@
 2	カモイ	kamuy	NOUN	名詞	_	11	obl	_	SpaceAfter=No
 3	子	ne	ADP	格助詞	_	2	case	_	SpaceAfter=No
 4	ワ	wa	SCONJ	接続助詞	_	2	case	_	SpaceAfter=No
-5	ヱヲコテ	eyoko-te	VERB	他動詞	_	7	acl	_	SpaceAfter=No
+5	ヱヲコテ	iyokte	VERB	他動詞	_	7	acl	_	SpaceAfter=No
 6	子	ne	AUX	助動詞	_	5	aux	_	SpaceAfter=No
 7	クル	kur	NOUN	名詞	_	2	conj	_	SpaceAfter=No
 8	バセ	páse	VERB	自動詞	_	10	acl	_	SpaceAfter=No

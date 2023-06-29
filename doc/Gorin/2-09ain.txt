@@ -6,7 +6,7 @@
 5	レウケ	rewke	VERB	自動詞	_	6	amod	_	SpaceAfter=No
 6	カ子	kane	NOUN	名詞	_	10	obl	_	SpaceAfter=No
 7	アニ	ani	SCONJ	後置副詞	_	6	case	_	SpaceAfter=No
-8	ヱヨコテ	eyoko-te	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+8	ヱヨコテ	iyokte	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	ウタレ	utar	NOUN	名詞	_	10	obj	_	SpaceAfter=No
 10	ユワンケ	e-iwanke	VERB	他動詞	_	12	acl	_	SpaceAfter=No
 11	クン	kuni	AUX	助動詞	_	10	aux	_	SpaceAfter=No

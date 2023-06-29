@@ -23,7 +23,7 @@
 22	ワ	wa	ADP	格助詞	_	21	case	_	SpaceAfter=No
 23	ヱツコ	etoko	NOUN	位置名詞	_	25	obl	_	SpaceAfter=No
 24	ヱ子ヽ	enene	ADV	副詞	_	25	advmod	_	SpaceAfter=No
-25	ヱキテ	iki-te	VERB	自動詞	_	28	advcl	_	SpaceAfter=No
+25	ヱキテ	ekte	VERB	他動詞	_	28	advcl	_	SpaceAfter=No
 26	クシユ	kusu	SCONJ	接続詞	_	25	mark	_	SpaceAfter=No
 27	イテキ	iteki	ADV	副詞	_	28	advmod	_	SpaceAfter=No
 28	コヌブル	konupuru	VERB	他動詞	_	30	acl	_	SpaceAfter=No

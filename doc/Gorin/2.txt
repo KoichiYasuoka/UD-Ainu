@@ -2,7 +2,7 @@
 
 君臣上下の道は天の上に位し地の下に位する
 アレシカカモイ子ワヱヲコテ子クルバセコシ子クニアンヘアナキ子ニソロタレクトコカモイアンクシユケラヱシリカ子モシリカシタ
-ar-askay kamuy ne wa eyoko-te ne kur páse kosne kuni an pe anakne nisor ta rekut kor kamuy an kusu keray sirka ne mosir kasi ta
+ar-askay kamuy ne wa iyokte ne kur páse kosne kuni an pe anakne nisor ta rekut kor kamuy an kusu keray sirka ne mosir kasi ta
 
 道理より起れり　人の分なければ人道も立ず故
 子フヱ子ヽヤツカイキシコブルヱ子クシユランマアレシカシリ子ルヱタハン　シシヤモレコロベシヤバ子クルカアンアシクルカアンソモキワ子ヤキ子シシヤモブリランベテクアニコラツ
@@ -10,11 +10,11 @@ nep enene yakkayki siko p ruwe ne kusu ranma ar-askay sir ne ruwe tapan  sisam r
 
 に君臣の倫を定るなり　さて其教を立て君には
 タンベクシユアレシカカモイ子ワイヨコテ子クルウカトコロルヱタバン　シユイ子ワノヱバカシアシテアツテカモヱ子ワ
-tan pe kusu ar-askay kamuy ne wa eyoko-te ne kur u-katkor ruwe tapan  suy ne wano epakasnu aste atte kamuy ne wa
+tan pe kusu ar-askay kamuy ne wa iyokte ne kur u-katkor ruwe tapan  suy ne wano epakasnu aste atte kamuy ne wa
 　
 仁といひ臣には忠といふ　君の仁といふはもとより
 コシラムシユイハヱヨコテ子クルアナキ子ウヌヽカラ　アツテカモイカタヨロケクンベアナキ子アツバケワノ
-kosiramsuypa eyoko-te ne kur anakne ununuke-ar  atte kamuy ka ta iyorot-ke kuni pe anakne atpake wano
+kosiramsuypa iyokte ne kur anakne ununuke-ar  atte kamuy ka ta iyorot-ke kuni pe anakne atpake wano
 
 人をあはれむ事なれども一通りの慈悲とのみ
 シシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニ
@@ -26,7 +26,7 @@ iteki eramuan ya úse yay-kewtumu sak no uwatte sisam utar kese ne wa ne yakka r
 
 するをいふなり　又臣の忠といふも日夜勤労する
 ラカコレクニタンイタク子ルヱタハンナ　シユイヱヨコテ子クルウワヱヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカト　
-raka kore kuni tan itak ne ruwe tapan na  suy eyoko-te ne kur uwaynukor katu anakne sirpeker kari kunne rewsi no nep iki katu
+raka kore kuni tan itak ne ruwe tapan na  suy iyokte ne kur uwaynukor katu anakne sirpeker kari kunne rewsi no nep iki katu
 
 のみをいふにあらず　只真実以て君に仕ひて　　
 バテキコバケ子イタクカトカリソモタバン　子フ子ヤツカシアンヲシケコテアコロカモイレンカコロワ
@@ -38,7 +38,7 @@ an ki p si-eyapkir somo ki kuni iki kuni pe ene haw ki tapan  ke anakne wano ram
 
 をいふに君臣はたがひに義を本道とすべし
 カシカモイアナキ子コツトノ子ワヱヨコテウタレバウコヤヱレンカヲベカレワ
-kasi kamuy anakne kor tono ne wa eyoko-te utarpa ukoyayrenka owpekare wa
+kasi kamuy anakne kor tono ne wa iyokte utarpa ukoyayrenka owpekare wa
 
 義は道理の曲尺をいふ也　君も此曲尺を以て
 ヤヱコニタタケウトモアナキ子ヲベカレンカセトクレクニツイキブシリレウヱカ子ヽルヱタバン　クシユアレシカカモイタンレウケカ子アニ
@@ -46,7 +46,7 @@ yay-konitata kewtumu anakne owpeka irenka hetuku-re kuni ceykip siri rewe kane n
 
 臣をつかふべし　上威勢にまかせてこの曲尺を破
 ヱヨコテウタレユワンケクンヘ子ナ　シヤハ子クルコノブリヱツヽコヌヱ子タンレウケカ子
-eyoko-te utar e-iwanke kuni pe ne na  sapanekur kor nupuri ecutkonno ene tan rewke kane
+iyokte utar e-iwanke kuni pe ne na  sapanekur kor nupuri ecutkonno ene tan rewke kane
 
 るべからず　臣も此かねを以て君に仕ふまつるべし
 ヱテキウヱンテレヤ　ウタレ子ワ子ヤツカランマカ子ケウトモコンノコロカモイレンカコロナンコロナ
@@ -58,7 +58,7 @@ ani katcama kewtumu-kor wa no tan rewke kane iteki sinoye-re kuni pe tapan na
 
 然る故に聖人君臣の間におゐては義の一字を
 タンベクシユアワシノイカシウタレアレシカ子クルヱヨコテ子クルトモタウコヤヱニタタアリシ子カンビ
-tan pe kusu awa sino ekasi utar ar-askay ne kur eyoko-te ne kur tumu ta uko-yay-nitata ari sine kanpi
+tan pe kusu awa sino ekasi utar ar-askay ne kur iyokte ne kur tumu ta uko-yay-nitata ari sine kanpi
 
 不易の法と定め給ふ　所謂君臣に義ありと
 ムシリカシケヲマイタカシカモイ子ウヲヤコテアンルヱ子ナ　ヱ子ヽアンベクシユニシハ子ワウタレケセ

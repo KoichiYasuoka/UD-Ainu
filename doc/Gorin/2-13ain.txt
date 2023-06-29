@@ -9,7 +9,7 @@
 8	アレシカ	ar-askay	VERB	自動詞	_	10	acl	_	SpaceAfter=No
 9	子	ne	AUX	助動詞	_	8	aux	_	SpaceAfter=No
 10	クル	kur	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
-11	ヱヨコテ	eyoko-te	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+11	ヱヨコテ	iyokte	VERB	他動詞	_	13	acl	_	SpaceAfter=No
 12	子	ne	AUX	助動詞	_	11	aux	_	SpaceAfter=No
 13	クル	kur	NOUN	名詞	_	10	conj	_	SpaceAfter=No
 14	トモ	tumu	NOUN	位置名詞	_	22	obl	_	SpaceAfter=No

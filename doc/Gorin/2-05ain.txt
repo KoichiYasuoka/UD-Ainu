@@ -1,6 +1,6 @@
 # text = シユイヱヨコテ子クルウワヱヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカトバテキコバケ子イタクカトカリソモタバン
 1	シユイ	suy	ADV	副詞	_	5	advmod	_	SpaceAfter=No
-2	ヱヨコテ	eyoko-te	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+2	ヱヨコテ	iyokte	VERB	他動詞	_	4	acl	_	SpaceAfter=No
 3	子	ne	AUX	助動詞	_	2	cop	_	SpaceAfter=No
 4	クル	kur	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
 5	ウワヱヌコル	uwaynukor	VERB	他動詞	_	6	acl	_	SpaceAfter=No

@@ -9,7 +9,7 @@
 8	子	ne	ADP	格助詞	_	7	case	_	SpaceAfter=No
 9	ワ	wa	SCONJ	接続助詞	_	7	case	_	SpaceAfter=No
 10	コシラムシユイハ	kosiramsuypa	VERB	他動詞	_	15	advcl	_	SpaceAfter=No
-11	ヱヨコテ	eyoko-te	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+11	ヱヨコテ	iyokte	VERB	他動詞	_	13	acl	_	SpaceAfter=No
 12	子	ne	AUX	助動詞	_	11	aux	_	SpaceAfter=No
 13	クル	kur	NOUN	名詞	_	15	nsubj	_	SpaceAfter=No
 14	アナキ子	anakne	ADP	副助詞	_	13	case	_	SpaceAfter=No
