@@ -13,7 +13,7 @@
 12	ヱク	ek	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
 13	タ	ta	ADP	格助詞	_	12	mark	_	SpaceAfter=No
 14	ク	ku=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
-15	ブルセ	porse	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
+15	ブルセ	pórose	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
 16	ワ	wa	ADP	格助詞	_	15	mark	_	SpaceAfter=No
 17	子イ	ney	NOUN	位置名詞	_	22	obl	_	SpaceAfter=No
 18	バクノ	pakno	SCONJ	後置副詞	_	17	case	_	SpaceAfter=No

@@ -5,7 +5,7 @@
 4	アワ	awa	CCONJ	接続詞	_	30	cc	_	SpaceAfter=No
 5	シノ	sino	DET	連体詞	_	6	det	_	SpaceAfter=No
 6	イカシ	ekasi	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
-7	ウタレ	utar	NOUN	名詞	_	29	dislocated	_	SpaceAfter=No
+7	ウタレ	utar	NOUN	名詞	_	28	nsubj	_	SpaceAfter=No
 8	アレシカ	ar-askay	VERB	自動詞	_	10	acl	_	SpaceAfter=No
 9	子	ne	AUX	助動詞	_	8	aux	_	SpaceAfter=No
 10	クル	kur	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
@@ -24,11 +24,11 @@
 23-24	イタカシ	_	_	_	_	_	_	_	SpaceAfter=No
 23	イタㇰ	itak	VERB	自動詞	_	25	acl	_	SpaceAfter=No
 24	アㇱ	=as	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
-25	カモイ	kamuy	NOUN	名詞	_	29	nsubj	_	SpaceAfter=No
+25	カモイ	kamuy	NOUN	名詞	_	28	obj	_	SpaceAfter=No
 26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
-27	ウヲヤコ	uwoyak	NOUN	位置名詞	_	29	obl	_	SpaceAfter=No
-28	テ	ta	ADP	格助詞	_	27	case	_	SpaceAfter=No
-29	アン	an	VERB	自動詞	_	30	acl	_	SpaceAfter=No
+27	ウヲヤ	uwoyak	NOUN	位置名詞	_	28	iobj	_	SpaceAfter=No
+28	コテ	kote	VERB	他動詞	_	30	acl	_	SpaceAfter=No
+29	アン	=an	PART	人称接辞	_	28	expl	_	SpaceAfter=No
 30	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
 32	ナ	na	PART	終助詞	_	30	discourse	_	SpaceAfter=No

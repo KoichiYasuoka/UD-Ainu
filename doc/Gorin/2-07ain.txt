@@ -6,7 +6,7 @@
 5	カシ	kasi	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
 6	カモイ	kamuy	NOUN	名詞	_	15	obl	_	SpaceAfter=No
 7	アナキ子	anakne	ADP	副助詞	_	6	case	_	SpaceAfter=No
-8	コツ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+8	コツ	kot	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	トノ	tono	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
 10	子	ne	ADP	格助詞	_	9	case	_	SpaceAfter=No
 11	ワ	wa	SCONJ	接続助詞	_	9	case	_	SpaceAfter=No
