@@ -1,7 +1,7 @@
 # text = バクアンウムレツクルヲシケシンナイアリアンシ子イタク子イタハツクノウムレツコロカシウヲヤコツ子ナンコロルヱシアン子
 1	バク	pak	SCONJ	後置副詞	_	2	advmod	_	SpaceAfter=No
 2	アン	an	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
-3	ウムレツ	umurek	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+3	ウムレツ	umurek	VERB	自動詞	_	4	amod	_	SpaceAfter=No
 4	クル	kur	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
 5	ヲシケ	uske	NOUN	名詞	_	9	obl	_	SpaceAfter=No
 6	シンナ	sinna	VERB	自動詞	_	7	amod	_	_
