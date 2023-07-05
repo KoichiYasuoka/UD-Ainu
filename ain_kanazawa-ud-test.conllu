@@ -16726,9 +16726,10 @@
 # text_ja = あまり小さい
 # text = Pon kashui.
 # text_kana = ポン カスイ
-1	Pon	pon	VERB	自動詞	_	_	_	_	_
-2	kashui	kasuy	AUX	助動詞	_	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	記号	_	_	_	_	_
+1	Pon	pon	VERB	自動詞	_	3	acl	_	_
+2	kashu	kasu	AUX	助動詞	_	1	aux	_	SpaceAfter=No
+3	i	-i	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = 小さい物
 # text = Ane ambe.
@@ -24925,12 +24926,12 @@
 # text_ja = 今晝（正午）だ
 # text = Tane tokap-noshike ne.
 # text_kana = タネ トカㇷ゚ ノㇱキ ネ.
-1	Tane	tane	ADV	副詞	_	_	_	_	_
-2	tokap	tókap	NOUN	名詞	_	_	_	_	SpaceAfter=No
-3	-	-	PUNCT	記号	_	_	_	_	SpaceAfter=No
-4	noshike	noski	NOUN	位置名詞	_	_	_	_	_
-5	ne	ne	AUX	デアル動詞	_	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	記号	_	_	_	_	_
+1	Tane	tane	ADV	副詞	_	4	advmod	_	_
+2	tokap	tókap	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	noshike	noski	NOUN	位置名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = ヒルメシ（晝飯）
 # text = To-kap ibe.
@@ -26635,15 +26636,15 @@
 # text_ja = これより外に欲いものはないか
 # text = Tambe akkari nepka shomo e kon' rusui?
 # text_kana = タンペ アッカリ ネㇷ゚ カ ソモ エ=コン ルスイ?
-1	Tambe	tanpe	NOUN	名詞	_	_	_	_	_
-2	akkari	akkari	SCONJ	後置副詞	_	_	_	_	_
-3	nep	nep	NOUN	名詞	_	_	_	_	SpaceAfter=No
-4	ka	ka	ADP	副助詞	_	_	_	_	_
-5	shomo	somo	ADV	副詞	_	_	_	_	_
-6	e	e=	PART	人称接辞	_	_	_	_	_
-7	kon'	kon	VERB	他動詞	_	_	_	_	_
-8	rusui	rusuy	AUX	助動詞	_	_	_	_	SpaceAfter=No
-9	?	?	PUNCT	記号	_	_	_	_	_
+1	Tambe	tanpe	NOUN	名詞	_	7	obl	_	_
+2	akkari	akkari	SCONJ	後置副詞	_	1	case	_	_
+3	nep	nep	NOUN	名詞	_	7	obj	_	SpaceAfter=No
+4	ka	ka	ADP	副助詞	_	3	case	_	_
+5	shomo	somo	ADV	副詞	_	7	advmod	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	_
+7	kon'	kon	VERB	他動詞	_	0	root	_	_
+8	rusui	rusuy	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	7	punct	_	_
 
 # text_ja = どれ程欲いか
 # text = Makanak pakno e kon' rusui?
@@ -27675,13 +27676,13 @@
 # text_ja = 豆五俵持て來い
 # text = Mame ashikne tara koro wa ek.
 # text_kana = マメ アシㇰネ タラ コㇿ ワ エㇰ.
-1	Mame	mame	NOUN	名詞	_	_	_	_	_
-2	ashikne	asikne	NUM	数詞	_	_	_	_	_
-3	tara	tara	NOUN	名詞	_	_	_	_	_
-4	koro	kor	VERB	他動詞	_	_	_	_	_
-5	wa	wa	SCONJ	接続助詞	_	_	_	_	_
-6	ek	ek	VERB	自動詞	_	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	記号	_	_	_	_	_
+1	Mame	mame	NOUN	名詞	_	4	obj	_	_
+2	ashikne	asikne	NUM	数詞	_	3	nummod	_	_
+3	tara	tara	NOUN	名詞	_	4	obl	_	_
+4	koro	kor	VERB	他動詞	_	6	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = マメ（肉刺）
 # text = Pop.
