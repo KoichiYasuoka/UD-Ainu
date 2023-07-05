@@ -34,7 +34,7 @@
 33	シヤク	sak	VERB	他動詞	_	38	advcl	_	SpaceAfter=No
 34	ノ	no	SCONJ	接続助詞	_	33	mark	_	SpaceAfter=No
 35	ウワツテ	uwatte	VERB	自動詞	_	36	amod	_	SpaceAfter=No
-36	シヤモ	sisam	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
+36	シヤモ	sam	NOUN	位置名詞	_	37	nmod	_	SpaceAfter=No
 37	ウタレ	utar	NOUN	名詞	_	38	nmod	_	SpaceAfter=No
 38	ケセ	kese	NOUN	位置名詞	_	46	advcl	_	SpaceAfter=No
 39	子	ne	ADP	格助詞	_	38	case	_	SpaceAfter=No
