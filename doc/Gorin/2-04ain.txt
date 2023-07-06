@@ -24,7 +24,7 @@
 23	カ	ka	NOUN	位置名詞	_	25	obl	_	SpaceAfter=No
 24	タ	ta	ADP	格助詞	_	23	case	_	SpaceAfter=No
 25	ヨロツケ	iyorot-ke	VERB	他動詞	_	27	acl	_	SpaceAfter=No
-26	子	ne	AUX	助動詞	_	25	cop	_	SpaceAfter=No
+26	子	ne	AUX	助動詞	_	25	aux	_	SpaceAfter=No
 27	クニ	kuni	NOUN	形式名詞	_	29	obj	_	SpaceAfter=No
 28	ヱテキ	iteki	ADV	副詞	_	29	advmod	_	SpaceAfter=No
 29	ヱラムアン	eramuan	VERB	他動詞	_	33	advcl	_	SpaceAfter=No

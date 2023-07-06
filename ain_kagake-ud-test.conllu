@@ -513,7 +513,7 @@
 23	カ	ka	NOUN	位置名詞	_	25	obl	_	SpaceAfter=No
 24	タ	ta	ADP	格助詞	_	23	case	_	SpaceAfter=No
 25	ヨロツケ	iyorot-ke	VERB	他動詞	_	27	acl	_	SpaceAfter=No
-26	子	ne	AUX	助動詞	_	25	cop	_	SpaceAfter=No
+26	子	ne	AUX	助動詞	_	25	aux	_	SpaceAfter=No
 27	クニ	kuni	NOUN	形式名詞	_	29	obj	_	SpaceAfter=No
 28	ヱテキ	iteki	ADV	副詞	_	29	advmod	_	SpaceAfter=No
 29	ヱラムアン	eramuan	VERB	他動詞	_	33	advcl	_	SpaceAfter=No
@@ -546,7 +546,7 @@
 # text = シユイヱヨコテ子クルウワヱヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカトバテキコバケ子イタクカトカリソモタバン
 1	シユイ	suy	ADV	副詞	_	5	advmod	_	SpaceAfter=No
 2	ヱヨコテ	iyokte	VERB	他動詞	_	4	acl	_	SpaceAfter=No
-3	子	ne	AUX	助動詞	_	2	cop	_	SpaceAfter=No
+3	子	ne	AUX	助動詞	_	2	aux	_	SpaceAfter=No
 4	クル	kur	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
 5	ウワヱヌコル	uwaynukor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
 6	カト	katu	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
@@ -1056,7 +1056,7 @@
 3	ワ	wa	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
 4	クシユ	kusu	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
 5	アワ	awa	CCONJ	接続詞	_	29	cc	_	SpaceAfter=No
-6	シノ	sino	ADV	副詞	_	7	det	_	SpaceAfter=No
+6	シノ	sino	DET	連体詞	_	7	det	_	SpaceAfter=No
 7	ヱカシ	ekasi	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
 8	ウタレ	utar	NOUN	名詞	_	26	nsubj	_	SpaceAfter=No
 9	ウムレツ	umurek	VERB	自動詞	_	10	amod	_	SpaceAfter=No
