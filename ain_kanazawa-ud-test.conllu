@@ -1543,7 +1543,7 @@
 # text_kana = イヤイライケレ, コㇿカ カㇷ゚カㇱ（ㇰ=アㇷ゚カㇱ）ワ カㇻパ（ㇰ=アㇻパ） ヤッカ ピㇼカ.
 1	Yairaigere	iyayraykere	INTJ	間投詞	_	10	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	記号	_	1	punct	_	_
-3	korka	korka	CCONJ	接続詞	_	10	advmod	_	_
+3	korka	korka	CCONJ	接続詞	_	10	cc	_	_
 4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
 5	apkash	apkas	VERB	自動詞	_	8	advcl	_	_
 6	wa	wa	SCONJ	接続助詞	_	5	mark	_	_
@@ -13105,7 +13105,7 @@
 # text = ......sekoro aye machiya eraman?
 # text_kana = サッポロ セコㇿ ア=イェ マチヤ エ=エラマン?
 1	......	......	PUNCT	記号	_	4	obj	_	SpaceAfter=No
-2	sekoro	sekor	ADP	副助詞	_	1	case	_	_
+2	sekoro	sekor	SCONJ	接続詞	_	1	case	_	_
 3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
 4	ye	ye	VERB	他動詞	_	5	acl	_	_
 5	machiya	maciya	NOUN	名詞	_	7	obj	_	_
@@ -14791,7 +14791,7 @@
 6	yakka	yakka	SCONJ	接続助詞	_	5	mark	_	_
 7	pirika	pirka	VERB	自動詞	_	17	advcl	_	SpaceAfter=No
 8	;	;	PUNCT	記号	_	7	punct	_	_
-9	koroka	korka	CCONJ	接続詞	_	13	advmod	_	_
+9	koroka	korka	CCONJ	接続詞	_	13	cc	_	_
 10	shine	sine	NUM	数詞	_	12	nummod	_	_
 11	ichi	ici	NUM	数詞	_	12	nummod	_	_
 12	yen	yen	NOUN	名詞	_	13	obj	_	_
@@ -15615,7 +15615,7 @@
 # text_kana = ヤイライケレ, コㇿカ タント ケアイカㇷ゚（ㇰ=エアイカㇷ゚）.
 1	Yairaigere	yairaykere	INTJ	間投詞	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	記号	_	1	punct	_	_
-3	koroka	korka	CCONJ	接続詞	_	5	advmod	_	_
+3	koroka	korka	CCONJ	接続詞	_	5	cc	_	_
 4	tando	tanto	ADV	副詞	_	5	advmod	_	_
 5	eaikap	eaykap	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
@@ -15875,7 +15875,7 @@
 # text_kana = アフㇷ゚ ヤン セコㇿ イタㇰ.
 1	Ahup	ahup	VERB	自動詞	_	4	advcl	_	_
 2	yan	yan	PART	終助詞	_	1	discourse	_	_
-3	sekoro	sekor	ADP	副助詞	_	1	mark	_	_
+3	sekoro	sekor	SCONJ	接続詞	_	1	mark	_	_
 4	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
@@ -23192,7 +23192,7 @@
 # text_ja = つまらぬ談
 # text = Etaraka-itak.
 # text_kana = エタㇻカ イタㇰ
-1	Etaraka	etarka	VERB	自動詞	_	3	advmod	_	SpaceAfter=No
+1	Etaraka	etarka	VERB	自動詞	_	3	amod	_	SpaceAfter=No
 2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 3	itak	itak	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
@@ -23592,7 +23592,7 @@
 # text_ja = もー我慢が出來ぬ
 # text = Sekoro an koro orowa ku yaikeutum saurere shomoki nangon'na.
 # text_kana = セコㇿ アン コㇿ オロワ ク=ヤイケウトゥㇺサウレレ ソモ キ ナンコン ナ.
-1	Sekoro	sekor	ADP	副助詞	_	2	advmod	_	_
+1	Sekoro	sekor	SCONJ	接続詞	_	2	advmod	_	_
 2	an	an	VERB	自動詞	_	6	advcl	_	_
 3	koro	kor	SCONJ	接続助詞	_	2	mark	_	_
 4	orowa	orowa	SCONJ	接続助詞	_	2	mark	_	_
@@ -28346,7 +28346,7 @@
 # text_kana = ル ピㇼカ ソネ キ ヤ?
 1	Ru	ru	NOUN	名詞	_	2	nsubj	_	_
 2	pirika	pirka	VERB	自動詞	_	4	advcl	_	_
-3	shone	sóne	VERB	自動詞	_	4	advmod	_	_
+3	shone	sóne	VERB	自動詞	_	4	advcl	_	_
 4	ki	ki	VERB	他動詞	_	0	root	_	_
 5	ya	ya	PART	終助詞	_	4	discourse	_	SpaceAfter=No
 6	?	?	PUNCT	記号	_	4	punct	_	_
@@ -30953,7 +30953,7 @@
 # text_ja = 早く眞實の事を云へ
 # text = Tunash sonno orushpe ye.
 # text_kana = トゥナㇱ ソンノ オルㇱペ イェ.
-1	Tunash	túnas	VERB	自動詞	_	4	advmod	_	_
+1	Tunash	túnas	VERB	自動詞	_	4	advcl	_	_
 2	sonno	sonno	ADV	副詞	_	4	advmod	_	_
 3	orushpe	oruspe	NOUN	名詞	_	4	obj	_	_
 4	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
@@ -32793,7 +32793,7 @@
 4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
 5	eraman	eraman	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	記号	_	5	punct	_	_
-7	koroka	korka	CCONJ	接続詞	_	10	advmod	_	_
+7	koroka	korka	CCONJ	接続詞	_	10	cc	_	_
 8	itak	itak	NOUN	名詞	_	10	obj	_	_
 9	obitta	opitta	SCONJ	後置副詞	_	8	case	_	_
 10	eramushkare	eramiskari	VERB	他動詞	_	0	root	_	SpaceAfter=No
