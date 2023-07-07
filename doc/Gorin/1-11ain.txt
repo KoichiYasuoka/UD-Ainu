@@ -19,7 +19,7 @@
 18	アリ	ari	SCONJ	接続助詞	_	17	case	_	SpaceAfter=No
 19	ハアセ	páse	VERB	自動詞	_	20	amod	_	SpaceAfter=No
 20	カンビ	kanpi	NOUN	名詞	_	22	obj	_	SpaceAfter=No
-21	シ子	sine	DET	連体詞	_	22	advmod	_	SpaceAfter=No
+21	シ子	sine	NUM	数詞	_	22	nummod	_	SpaceAfter=No
 22	ノミ	nómi	VERB	他動詞	_	30	advcl	_	SpaceAfter=No
 23	モシリ	mosir	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
 24	カシ	kasi	NOUN	位置名詞	_	30	obl	_	SpaceAfter=No
