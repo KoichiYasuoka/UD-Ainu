@@ -1,7 +1,7 @@
 # text = アツテカモイカタヨロケクンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
 1	アツテ	atte	VERB	他動詞	_	2	amod	_	SpaceAfter=No
 2	カモイ	kamuy	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
-3	カタヨロケ	ekataiyrotke	VERB	他動詞	_	5	acl	_	SpaceAfter=No
+3	カタヨロケ	ekatayrotke	VERB	他動詞	_	5	acl	_	SpaceAfter=No
 4	クン	kuni	AUX	助動詞	_	3	aux	_	SpaceAfter=No
 5	ベ	pe	NOUN	形式名詞	_	14	nsubj	_	SpaceAfter=No
 6	アナキ子	anakne	ADP	副助詞	_	5	case	_	SpaceAfter=No
