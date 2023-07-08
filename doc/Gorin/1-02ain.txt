@@ -1,16 +1,14 @@
 # text = 子アビアシケタウバカシカトナアウコラツアシキ子ヱキリ子
 1	子ア	néa	DET	連体詞	_	2	det	_	SpaceAfter=No
 2	ビ	pe	NOUN	形式名詞	_	3	nmod	_	SpaceAfter=No
-3	アシケ	aske	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+3	アシケ	aske	NOUN	名詞	_	5	obl	_	SpaceAfter=No
 4	タ	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
-5-6	ウバカシ	_	_	_	_	_	_	_	SpaceAfter=No
-5	ウパㇰ	upak	ADV	副詞	_	6	advmod	_	SpaceAfter=No
-6	アシ	asi	VERB	他動詞	_	7	acl	_	SpaceAfter=No
-7	カト	katu	NOUN	形式名詞	_	12	nsubj	_	SpaceAfter=No
-8	ナ	na	SCONJ	接続助詞	_	7	case	_	SpaceAfter=No
-9	ア	a=	PART	人称接辞	_	12	obl	_	SpaceAfter=No
-10	ウコラツ	koraci	SCONJ	後置副詞	_	9	case	_	SpaceAfter=No
-11	アシキ子	asikne	NUM	数詞	_	12	nummod	_	SpaceAfter=No
-12	ヱキリ	ikir	NOUN	名詞	_	0	root	_	SpaceAfter=No
-13	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+5	ウバカシ	uwepakasnu	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	カト	katu	NOUN	形式名詞	_	11	nsubj	_	SpaceAfter=No
+7	ナ	na	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+8	ア	a=	PART	人称接辞	_	11	obl	_	SpaceAfter=No
+9	ウコラツ	koraci	SCONJ	後置副詞	_	8	case	_	SpaceAfter=No
+10	アシキ子	asikne	NUM	数詞	_	11	nummod	_	SpaceAfter=No
+11	ヱキリ	ikir	NOUN	名詞	_	0	root	_	SpaceAfter=No
+12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 

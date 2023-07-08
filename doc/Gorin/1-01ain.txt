@@ -13,10 +13,10 @@
 12	ウシ	usi	VERB	他動詞	_	13	acl	_	SpaceAfter=No
 13	テクンベ	tekunpe	NOUN	名詞	_	24	iobj	_	SpaceAfter=No
 14	アシキ子	asikne	NUM	数詞	_	15	nummod	_	SpaceAfter=No
-15	ヱキン	ikir	NOUN	名詞	_	17	acl	_	SpaceAfter=No
+15	ヱキン	ikir	NOUN	名詞	_	17	advcl	_	SpaceAfter=No
 16	子	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
-17	ウヱメキ	uwemko	NOUN	位置名詞	_	13	appos	_	SpaceAfter=No
-18	ワ	wa	ADP	格助詞	_	17	case	_	SpaceAfter=No
+17	ウヱメキ	u-eymek	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+18	ワ	wa	ADP	格助詞	_	17	mark	_	SpaceAfter=No
 19	五倫	Gorin	NOUN	名詞	_	24	obl	_	SpaceAfter=No
 20	アリ	ari	SCONJ	接続助詞	_	19	case	_	SpaceAfter=No
 21	バアセヱ	páse	VERB	自動詞	_	22	amod	_	SpaceAfter=No
