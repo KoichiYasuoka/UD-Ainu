@@ -884,15 +884,16 @@
 # text = 子アビレンカヱ子ウムレツクルウカトウヲヤコテルヱタバン
 1	子ア	néa	DET	連体詞	_	2	det	_	SpaceAfter=No
 2	ビ	pe	NOUN	形式名詞	_	3	nsubj	_	SpaceAfter=No
-3	レンカ	irenka	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
-4	ヱ子	ene	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+3	レンカ	irenka	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
+4	ヱ子	ene	ADV	副詞	_	10	advmod	_	SpaceAfter=No
 5	ウムレツ	umurek	VERB	自動詞	_	6	amod	_	SpaceAfter=No
-6	クル	kur	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
-7	ウカト	u-katu	NOUN	位置名詞	_	9	obj	_	SpaceAfter=No
-8	ウヲヤ	uwoyak	NOUN	位置名詞	_	9	iobj	_	SpaceAfter=No
-9	コテ	kote	VERB	他動詞	_	10	acl	_	SpaceAfter=No
-10	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
-11	タバン	tapan	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+6	クル	kur	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	ウ	o	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	カト	katu	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+9	ウヲヤ	uwoyak	NOUN	位置名詞	_	10	iobj	_	SpaceAfter=No
+10	コテ	kote	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	タバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 
 # text_ja = されば夫は剛正とてつよく正しき徳を以て常に婦を倡ひかりにも容色に迷ふ心あるべからず
 # text = ケアンナクホクレコロヘアナキ子ヨフケヲヘカクルアンノレコレアンテ子フヲロシヘ子ワ子ヤツカヱキヲヘカケウトモコロワヤヱラムノマツウヱトレンシノツ子モシマウタレヲツタウヱシカビソモキクニ子ナ
