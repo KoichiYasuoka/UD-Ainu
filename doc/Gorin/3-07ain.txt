@@ -31,7 +31,7 @@
 30	ウタレ	utar	NOUN	名詞	_	31	nmod	_	SpaceAfter=No
 31	ヲツ	or	NOUN	位置名詞	_	33	obl	_	SpaceAfter=No
 32	タ	ta	ADP	格助詞	_	31	case	_	SpaceAfter=No
-33	ウヱシカ	u-esikari	VERB	自動詞	_	34	acl	_	SpaceAfter=No
+33	ウヱシカ	u-esikari	VERB	他動詞	_	34	acl	_	SpaceAfter=No
 34	ビ	pe	NOUN	形式名詞	_	36	obj	_	SpaceAfter=No
 35	ソモ	somo	ADV	副詞	_	36	advmod	_	SpaceAfter=No
 36	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
