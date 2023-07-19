@@ -1,0 +1,40 @@
+<!DOCTYPE html><head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>アイヌ語訳『五倫名義解』Universal Dependencies並行コーパス</title>
+<script src="conllusvgview.js"></script>
+<script src="conllusvgedit.js"></script>
+<script src="conllusvgload.js"></script>
+<script>
+Gorin=new Object();
+Gorin.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FGorin";
+Gorin.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/Gorin/";
+Gorin.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/Gorin/";
+Gorin.gettree=function(){
+  if(Gorin.request==null){
+    Gorin.request=new XMLHttpRequest();
+    Gorin.request.onload=Gorin.ongettree;
+  }
+  Gorin.request.open("GET",Gorin.apiURL);
+  Gorin.request.send();
+}
+Gorin.ongettree=function(e){
+  if(Gorin.request.status==200){
+    Gorin.dirTree=Gorin.request.responseText;
+    alert(Gorin.dirTree);
+  }
+}
+Gorin.init=function(){
+  Gorin.gettree();
+}
+</script>
+<body onload="Gorin.init()">
+<div id="top" style="position:fixed; top:0px; left:0px; padding:10px; width:100%; background:white">
+<font size="+3"><b>アイヌ語訳『五倫名義解』</b></font>
+<select id="vol" onchange="Gorin.volchange()">
+<option value="1-..(ja|ain).txt" selected>父子有親</option>
+</select>
+<input type="button" value="GitHub" onclick="Gorin.github()" />
+<input type="button" value="Reload" onclick="Gorin.reload()" />
+</div>
+</body>
+
