@@ -1,10 +1,10 @@
-// CoNLL-U SVG Load & Save by Koichi Yasuoka, July 19, 2023.
+// CoNLL-U SVG Load & Save by Koichi Yasuoka, November 5, 2018.
 // "conllusvgview.js" is needed.
 "use strict";
 conllusvg.onLoadLocal=function(e){
   var textid,c;
   for(textid in conllusvg.main){
-    if(!conllusvg.main[textid].hasOwnProperty("files"))
+    if(conllusvg.main[textid].files==null)
       continue;
     else if(conllusvg.main[textid].files.load==e.currentTarget)
       break;
@@ -16,7 +16,7 @@ conllusvg.onLoadLocal=function(e){
 conllusvg.onLoadRemote=function(e){
   var textid,c;
   for(textid in conllusvg.main){
-    if(!conllusvg.main[textid].hasOwnProperty("files"))
+    if(conllusvg.main[textid].files==null)
       continue;
     else if(conllusvg.main[textid].files.request==e.currentTarget)
       break;
@@ -29,7 +29,7 @@ conllusvg.onLoadRemote=function(e){
 conllusvg.onLoadRemoteJSON=function(e){
   var textid,c,s;
   for(textid in conllusvg.main){
-    if(!conllusvg.main[textid].hasOwnProperty("files"))
+    if(conllusvg.main[textid].files==null)
       continue;
     else if(conllusvg.main[textid].files.request==e.currentTarget)
       break;
@@ -44,7 +44,7 @@ conllusvg.onLoadRemoteJSON=function(e){
 conllusvg.onChangeInput=function(e){
   var textid;
   for(textid in conllusvg.main){
-    if(!conllusvg.main[textid].hasOwnProperty("files"))
+    if(conllusvg.main[textid].files==null)
       continue;
     else if(conllusvg.main[textid].files.load==e.currentTarget)
       break;
@@ -59,7 +59,7 @@ conllusvg.loadLocal=function(textid,append){
   g.style.opacity=g.style.right=g.style.top=0;
   document.body.appendChild(g);
   g.addEventListener("change",conllusvg.onChangeInput);
-  if(!c.hasOwnProperty("files"))
+  if(c.files==null)
     c.files=new Object();
   c.files.inputBox=g;
   c.files.append=(append==null)?false:append;
@@ -104,7 +104,7 @@ conllusvg.loadText=function(textid,t){
 conllusvg.loadRemote=function(textid,url,append){
   var c=conllusvg.main[textid];
   var i;
-  if(!c.hasOwnProperty("files"))
+  if(c.files==null)
     c.files=new Object();
   c.files.append=(append==null)?false:append;
   i=url.lastIndexOf("/");
@@ -119,7 +119,7 @@ conllusvg.loadRemote=function(textid,url,append){
 }
 conllusvg.loadRemoteJSON=function(textid,url,jsonkey){
   var c=conllusvg.main[textid];
-  if(!c.hasOwnProperty("files"))
+  if(c.files==null)
     c.files=new Object();
   c.files.append=false;
   c.files.filename=jsonkey;
@@ -138,7 +138,7 @@ conllusvg.saveLocal=function(textid){
     s=tx.value;
   if(s.slice(-1)!="\n")
     s=s+"\n";
-  if(!c.hasOwnProperty("files"))
+  if(c.files==null)
     c.files=new Object();
   f=c.files.filename;
   if(f==null)
