@@ -133,8 +133,7 @@ Gorin.lemmatranslit=function(x){
       }
     }
   }
-  Gorin.pre[x].textContent=s.join("\n");
-  alert(Gorin.pre[x].textContent);
+  conllusvg.loadtext("pre"+x,s.join("\n"));
 }
 Gorin.volchange=function(){
   var s;
