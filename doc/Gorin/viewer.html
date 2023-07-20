@@ -166,6 +166,7 @@ Gorin.ongettree=function(e){
 Gorin.writeSVG=function(){
   var s=document.getElementById("vol");
   Gorin.txt=Gorin.dirTree.match(s.options[s.selectedIndex].value);
+  alert(Gorin.txt);
   Gorin.currmax=Gorin.txt.length-1;
   Gorin.curr=0;
   Gorin.lastTop=null;
@@ -232,6 +233,7 @@ Gorin.github=function(){
 <font size="+3"><b>アイヌ語訳『五倫名義解』</b></font>
 <select id="vol" onchange="Gorin.volchange()">
 <option value="1-..(ja|ain).txt" selected>父子有親</option>
+<option value="2-..(ja|ain).txt">君臣有義</option>
 </select>
 <input type="button" value="GitHub" onclick="Gorin.github()" />
 <input type="button" value="Reload" onclick="Gorin.reload()" />
