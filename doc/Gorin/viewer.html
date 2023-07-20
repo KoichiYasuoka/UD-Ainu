@@ -24,8 +24,10 @@ Gorin.checkview=function(){
   Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
   if(Gorin.curr==null)
     return;
-  if(Gorin.svg[Gorin.curr]==null||Gorin.pre[Gorin.curr]==null)
+  if(Gorin.svg[Gorin.curr]==null||Gorin.pre[Gorin.curr]==null){
     Gorin.buildup(Gorin.curr);
+    return;
+  }
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     Gorin.svg[Gorin.curr].style.positon="static";
     Gorin.svg[Gorin.curr].style.visibility="visible";
@@ -69,20 +71,6 @@ Gorin.checkview=function(){
       break;
     }
     if(Gorin.svg[i].style.position=="absolute"){
-      Gorin.svg[i].style.position="static";
-      Gorin.svg[i].style.visibility="visible";
-    }
-    conllusvg.rewrite("pre"+i);
-    r=Gorin.svg[i].getBoundingClientRect();
-    if(r.top-window.innerHeight-1000>0)
-      break;
-  }
-  for(i=Gorin.curr-1;i>=0;i--){
-    if(Gorin.svg[i]==null||Gorin.pre[i]==null){
-      Gorin.buildup(i);
-      break;
-    }
-    if(Gorin.svg[i].style.position=="absolute"){
       if(Gorin.pre[i].textContent>""){
         Gorin.svg[i].style.position="static";
         Gorin.svg[i].style.visibility="visible";
@@ -91,16 +79,8 @@ Gorin.checkview=function(){
         break;
     }
     conllusvg.rewrite("pre"+i);
-    r=Gorin.svg[Gorin.curr].getBoundingClientRect().top;
-    if(Math.abs(r-Gorin.lastTop)>5){
-      if(document.scrollingElement==null)
-        document.documentElement.scrollTop+=r-Gorin.lastTop;
-      else
-        document.scrollingElement.scrollTop+=r-Gorin.lastTop;
-      Gorin.lastTop=r;
-    }
     r=Gorin.svg[i].getBoundingClientRect();
-    if(parseInt(r.bottom,10)<-300)
+    if(r.top-window.innerHeight-1000>0)
       break;
   }
 }
