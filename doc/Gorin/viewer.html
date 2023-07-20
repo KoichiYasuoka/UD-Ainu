@@ -71,13 +71,9 @@ Gorin.checkview=function(){
       break;
     }
     if(Gorin.svg[i].style.position=="absolute"){
-      if(Gorin.pre[i].textContent>""){
-        Gorin.svg[i].style.position="static";
-        Gorin.svg[i].style.visibility="visible";
-        return;
-      }
-      else
-        break;
+      Gorin.svg[i].style.position="static";
+      Gorin.svg[i].style.visibility="visible";
+      break;
     }
     conllusvg.rewrite("pre"+i);
     r=Gorin.svg[i].getBoundingClientRect();
