@@ -144,8 +144,10 @@ Gorin.txtsort=function(a,b){
   return a.replace("ain","xx")<b.replace("ain","xx");
 }
 Gorin.writeSVG=function(){
-  var s=document.getElementById("vol");
-  var r=new RegExp(s.options[s.selectedIndex].value,"g");
+  var s,r;
+  Gorin.clearSVG();
+  s=document.getElementById("vol");
+  r=new RegExp(s.options[s.selectedIndex].value,"g");
   Gorin.txt=Gorin.dirTree.match(r);
   Gorin.txt.sort(Gorin.txtsort);
   alert(Gorin.txt)
