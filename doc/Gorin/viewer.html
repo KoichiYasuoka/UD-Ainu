@@ -141,10 +141,10 @@ Gorin.volchange=function(){
       document.body.removeChild(Gorin.pre[s]);
     Gorin.pre[s]=null;
   }
-  if(Gorin.dirTree==null){
+  if(Gorin.dirTree==null)
     Gorin.gettree();
-    return;
-  }
+  else
+    Gorin.writeSVG();
 }
 Gorin.gettree=function(){
   if(Gorin.request==null){
