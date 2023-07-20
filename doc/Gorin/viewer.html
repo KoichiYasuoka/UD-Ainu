@@ -30,7 +30,7 @@ Gorin.checkview=function(){
   }
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     if(Gorin.pre[Gorin.curr].textContent>""){
-      if(Gorin.txt[Gorin.curr].index("ain")>0)
+      if(Gorin.txt[Gorin.curr].indexOf("ain")>0)
         Gorin.lemmatranslit(Gorin.curr);
       Gorin.svg[Gorin.curr].style.position="static";
       Gorin.svg[Gorin.curr].style.visibility="visible";
@@ -75,7 +75,7 @@ Gorin.checkview=function(){
     }
     if(Gorin.svg[i].style.position=="absolute"){
       if(Gorin.pre[i].textContent>""){
-        if(Gorin.txt[i].index("ain")>0)
+        if(Gorin.txt[i].indexOf("ain")>0)
           Gorin.lemmatranslit(i);
         Gorin.svg[i].style.position="static";
         Gorin.svg[i].style.visibility="visible";
