@@ -20,7 +20,7 @@ Gorin.init=function(){
   Gorin.volchange();
 }
 Gorin.checkview=function(){
-  var t,r,b,i,x;
+  var t,r,b,i;
   Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
   if(Gorin.curr==null)
     return;
@@ -31,13 +31,13 @@ Gorin.checkview=function(){
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     Gorin.svg[Gorin.curr].style.positon="static";
     Gorin.svg[Gorin.curr].style.visibility="visible";
+alert(Gorin.curr,"into static");
   }
   conllusvg.rewrite("pre"+Gorin.curr);
   r=Gorin.svg[Gorin.curr].getBoundingClientRect();
   t=r.top;
   b=r.bottom;
   r=document.getElementById("top").getBoundingClientRect().bottom;
-  x=Gorin.curr;
   if(t-r>20){
     while(t-r>0){
       i=Gorin.svg[Gorin.curr-1];
@@ -72,6 +72,7 @@ Gorin.checkview=function(){
     }
     if(Gorin.svg[i].style.position=="absolute"){
       if(Gorin.pre[i].textContent>""){
+alert(i,"into static at down");
         Gorin.svg[i].style.position="static";
         Gorin.svg[i].style.visibility="visible";
       }
@@ -141,7 +142,7 @@ Gorin.ongettree=function(e){
   }
 }
 Gorin.txtsort=function(a,b){
-  return a.replace("ain","xx")<b.replace("ain","xx");
+  return a.replace("ain","xx")>b.replace("ain","xx");
 }
 Gorin.writeSVG=function(){
   var s,r;
