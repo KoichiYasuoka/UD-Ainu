@@ -163,11 +163,14 @@ Gorin.ongettree=function(e){
     Gorin.writeSVG();
   }
 }
+Gorin.txtsort=function(a,b){
+  return a.replace("ain","xx")<y=b.replace("ain","xx");
+}
 Gorin.writeSVG=function(){
   var s=document.getElementById("vol");
   var r=new RegExp(s.options[s.selectedIndex].value,"g");
   Gorin.txt=Gorin.dirTree.match(r);
-  alert(Gorin.txt);
+  Gorin.txt.sort(Gorin.txtsort);
   Gorin.currmax=Gorin.txt.length-1;
   Gorin.curr=0;
   Gorin.lastTop=null;
