@@ -24,11 +24,8 @@ Gorin.checkview=function(){
   Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
   if(Gorin.curr==null)
     return;
-  if(Gorin.svg[Gorin.curr]==null||Gorin.pre[Gorin.curr]==null){
+  if(Gorin.svg[Gorin.curr]==null||Gorin.pre[Gorin.curr]==null)
     Gorin.buildup(Gorin.curr);
-    Gorin.lastTop=null;
-    return;
-  }
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     Gorin.svg[Gorin.curr].style.positon="static";
     Gorin.svg[Gorin.curr].style.visibility="visible";
