@@ -165,7 +165,8 @@ Gorin.ongettree=function(e){
 }
 Gorin.writeSVG=function(){
   var s=document.getElementById("vol");
-  Gorin.txt=Gorin.dirTree.match(s.options[s.selectedIndex].value,"g");
+  var r=new RegExp(s.options[s.selectedIndex].value,"g");
+  Gorin.txt=Gorin.dirTree.match(r);
   alert(Gorin.txt);
   Gorin.currmax=Gorin.txt.length-1;
   Gorin.curr=0;
