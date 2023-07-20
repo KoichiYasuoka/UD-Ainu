@@ -1,14 +1,154 @@
 <!DOCTYPE html><head><meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <title>アイヌ語訳『五倫名義解』Universal Dependencies並行コーパス</title>
-<script src="conllusvgview.js"></script>
-<script src="conllusvgedit.js"></script>
-<script src="conllusvgload.js"></script>
+<script src="../../editor/conllusvgview.js"></script>
+<script src="../../editor/conllusvgedit.js"></script>
+<script src="../../editor/conllusvgload.js"></script>
 <script>
 Gorin=new Object();
 Gorin.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FGorin";
 Gorin.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/Gorin/";
 Gorin.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/Gorin/";
+Gorin.init=function(){
+  var t=document.getElementById("top").cloneNode(true);
+  t.style.position="static";
+  t.style.visibility="hidden";
+  document.body.appendChild(t);
+  Gorin.svg=new Array();
+  Gorin.pre=new Array();
+  Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
+  Gorin.volchange();
+}
+Gorin.checkview=function(){
+  var t,r,b,i,x;
+  Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
+  if(Gorin.curr==null)
+    return;
+  if(Gorin.svg[Gorin.curr]==null||Gorin.pre[Gorin.curr]==null){
+    Gorin.buildup(Gorin.curr);
+    Gorin.lastTop=null;
+    return;
+  }
+  if(Gorin.svg[Gorin.curr].style.position=="absolute"){
+    Gorin.svg[Gorin.curr].style.positon="static";
+    Gorin.svg[Gorin.curr].style.visibility="visible");
+  }
+  conllusvg.rewrite("pre"+Gorin.curr);
+  r=Gorin.svg[Gorin.curr].getBoundingClientRect();
+  t=r.top;
+  b=r.bottom;
+  r=document.getElementById("top").getBoundingClinetRect().bottom;
+  x=Gorin.curr;
+  if(t-r>20){
+    while(t-r>0){
+      i=Gorin.svg[Gorin.curr-1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      Gorin.curr--;
+      if(Gorin.curr==0)
+        break;
+      t=i.getBoundingClientRect().top;
+    }
+  }
+  else if(b<r){
+    while(b<r){
+      i=Gorin.svg[Gorin.curr+1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      Gorin.curr++;
+      if(Gorin.curr==Gorin.currmax)
+        break;
+      b=i.getBoundingClientRect().bottom;
+    }
+  }
+  Gorin.lastTop=Gorin.svg[Gorin.curr].getBoundingClientRect().top;
+  for(i=Gorin.curr+1;i<=Gorin.currmax;i++){
+    if(Gorin.svg[i]==null||Gorin.pre[i]==null){
+      Gorin.buildup(i);
+      break;
+    }
+    if(Gorin.svg[i].style.position=="absolute"){
+      Gorin.svg[i].style.position="static";
+      Gorin.svg[i].style.visibility="visible";
+    }
+    conllusvg.rewrite("pre"+i);
+    r=Gorin.svg[i].getBoundingClientRect();
+    if(r.top-window.innerHeight-1000>0)
+      break;
+  }
+  for(i=Gorin.curr-1;i>=0;i--){
+    if(Gorin.svg[i]==null||Gorin.pre[i]==null){
+      Gorin.buildup(i);
+      break;
+    }
+    if(Gorin.svg[i].style.position=="absolute"){
+      if(Gorin.pre[i].textContent>""){
+        Gorin.svg[i].style.position="static";
+        Gorin.svg[i].style.visibility="visible";
+      }
+      else
+        break;
+    }
+    conllusvg.rewrite("pre"+i);
+    r=Gorin.svg[Gorin.curr].getBoundingClientRect().top;
+    if(Math.abs(r-Gorin.lastTop)>5){
+      if(document.scrollingElement==null)
+        document.documentElement.scrollTop+=r-Gorin.lastTop;
+      else
+        document.scrollingElement.scrollTop+=r-Gorin.lastTop;
+      Gorin.lastTop=r;
+    }
+    r=Gorin.svg[i].getBoundingClientRect();
+    if(parseInt(r.bottom,10)<-300)
+      break;
+  }
+}
+Gorin.buildup=function(x){
+  var t,i;
+  if(Gorin.svg[x]==null){
+    t=document.createElementNS("http://www.w3.org/2000/svg","svg");
+    for(i=parseInt(x,10)+1;i<=Gorin.currmax;i++){
+      if(Gorin.svg[i]!=null)
+        break;
+    }
+    t.style.position="absolute";
+    t.style.visibility="hidden";
+    if(i>Gorin.currmax)
+      document.body.appendChild(t);
+    else
+      document.body.insertBefore(t,Gorin.svg[i]);
+    Gorin.svg[x]=t;
+    t.addEventListener("mousedown",Gorin.onmousedown);
+    t.addEventListener("touchstart",Gorin.onmousedown);
+  }
+  if(Gorin.pre[x]==null){
+    t=document.createElement("pre");
+    t.style.display="none";
+    t.setAttribute("id","pre"+x);
+    document.body.appendChild(t);
+    Gorin.pre[x]=t;
+    if(conllusvg.main["pre"+x]==null)
+      conllusvg.view(Gorin.svg[x],"pre"+x);
+    conllusvg.loadRemote("pre"+x,Gorin.rawURL+Gorin.txt[x]);
+  }
+}
+Gorin.volchange=function(){
+  var s;
+  Gorin.clearSVG();
+  for(s in Gorin.pre){
+    if(Gorin.pre[s]!=null)
+      document.body.removeChild(Gorin.pre[s]);
+    Gorin.pre[s]=null;
+  }
+  if(Gorin.dirTree==null){
+    Gorin.gettree();
+    return;
+  }
+}
 Gorin.gettree=function(){
   if(Gorin.request==null){
     Gorin.request=new XMLHttpRequest();
@@ -20,11 +160,71 @@ Gorin.gettree=function(){
 Gorin.ongettree=function(e){
   if(Gorin.request.status==200){
     Gorin.dirTree=Gorin.request.responseText;
-    alert(Gorin.dirTree);
+    Gorin.writeSVG();
   }
 }
-Gorin.init=function(){
-  Gorin.gettree();
+Gorin.writeSVG=function(){
+  var s=document.getElementById("vol");
+  Gorin.txt=Gorin.dirTree.match(s.options[s.selectedIndex].value);
+  Gorin.currmax=Gorin.txt.length-1;
+  Gorin.curr=0;
+  Gorin.lastTop=null;
+}
+Gorin.clearSVG=function(){
+  var x;
+  Gorin.curr=Gorin.lastTop=null;
+  if(Gorin.svg!=null){
+    for(x in Gorin.svg){
+      if(Gorin.svg[x]!=null){
+        Gorin.svg[x].style.position="absolute";
+        Gorin.svg[x].style.visibility="hidden";
+      }
+    }
+  }
+  if(document.scrollingElement==null)
+    document.documentElement.scrollTop=0;
+  else
+    document.scrollingElement.scrollTop=0;
+}
+Gorin.onmousedown=function(e){
+  var x,y;
+  if(Gorin.lastX==null){
+    Gorin.lastX=e.clientX;
+    Gorin.lastY=e.clientY;
+    return;
+  }
+  x=e.clientX-Gorin.lastX;
+  y=e.clientY-Gorin.lastY;
+  if(x*x+y*y>9){
+    Gorin.lastX=e.clientX;
+    Gorin.lastY=e.clientY;
+    return;
+  }
+  Gorin.lastX=null;
+  x=e.currentTarget;
+  for(y in Gorin.svg){
+    if(Gorin.svg[y]==x){
+      if(Gorin.txt[y].indexOf("ain")>0)
+        window.open("../../editor/editor-ain.html#url="+Gorin.rawURL+Gorin.txt[y]);
+      else
+        window.open("../../editor/editor-ja.html#url="+Gorin.rawURL+Gorin.txt[y]);
+      break;
+    }
+  }
+}
+Gorin.reload=function(){
+  var i,r;
+  for(i=Gorin.curr;i<=Gorin.currmax;i++){
+    if(Gorin.svg[i]==null||Gorin.pre[i]==null)
+      return;
+    r=Gorin.svg[i].getBoundingClientRect();
+    if(r.top>window.innerHeight||r.bottom<0)
+      return;
+    conllusvg.loadRemote("pre"+i,Gorin.rawURL+Gorin.txt[i]);
+  }
+}
+Gorin.github=function(){
+  window.open(Gorin.gitURL+Gorin.txt[Gorin.curr]);
 }
 </script>
 <body onload="Gorin.init()">
@@ -37,4 +237,3 @@ Gorin.init=function(){
 <input type="button" value="Reload" onclick="Gorin.reload()" />
 </div>
 </body>
-
