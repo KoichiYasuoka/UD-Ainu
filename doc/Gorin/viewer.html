@@ -133,7 +133,7 @@ Gorin.lemmatranslit=function(x){
       }
     }
   }
-  conllusvg.loadtext("pre"+x,s.join("\n"));
+  conllusvg.loadText("pre"+x,s.join("\n"));
 }
 Gorin.volchange=function(){
   var s;
@@ -233,6 +233,8 @@ Gorin.reload=function(){
     if(r.top>window.innerHeight||r.bottom<0)
       return;
     conllusvg.loadRemote("pre"+i,Gorin.rawURL+Gorin.txt[i]);
+    if(Gorin.txt[i].indexOf("ain")>0)
+      Gorin.lemmatranslit(i);
   }
 }
 Gorin.github=function(){
