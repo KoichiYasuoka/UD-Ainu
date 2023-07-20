@@ -31,7 +31,7 @@ Gorin.checkview=function(){
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     Gorin.svg[Gorin.curr].style.positon="static";
     Gorin.svg[Gorin.curr].style.visibility="visible";
-alert(Gorin.curr+" into static");
+    return;
   }
   conllusvg.rewrite("pre"+Gorin.curr);
   r=Gorin.svg[Gorin.curr].getBoundingClientRect();
@@ -72,9 +72,9 @@ alert(Gorin.curr+" into static");
     }
     if(Gorin.svg[i].style.position=="absolute"){
       if(Gorin.pre[i].textContent>""){
-alert(i+" into static at down");
         Gorin.svg[i].style.position="static";
         Gorin.svg[i].style.visibility="visible";
+        return;
       }
       else
         break;
@@ -142,7 +142,13 @@ Gorin.ongettree=function(e){
   }
 }
 Gorin.txtsort=function(a,b){
-  return a.replace("ain","xx")>b.replace("ain","xx");
+  var x=a.replace("ain","xx");
+  var y=b.replace("ain","xx");
+  if(x<y)
+    return -1;
+  if(x>y)
+    return 1;
+  return 0;
 }
 Gorin.writeSVG=function(){
   var s,r;
