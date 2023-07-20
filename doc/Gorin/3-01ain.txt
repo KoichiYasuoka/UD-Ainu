@@ -1,6 +1,6 @@
 # text = ニソロタチウブカモイレクトコトカモイアンルヱ子クシユ子アビカトコンノシシヤモヲツタウムレツクルアン
 1	ニソロ	nisor	NOUN	名詞	_	9	obl	_	SpaceAfter=No
-2	タ	ta	NOUN	名詞	_	1	case	_	SpaceAfter=No
+2	タ	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
 3	チウブ	cup	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
 4	カモイ	kamuy	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
 5	レク	rik	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
