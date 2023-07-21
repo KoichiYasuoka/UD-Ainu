@@ -468,6 +468,7 @@
 1	Poppe	poppe	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 5
 # text_ja = 汗をかく
 # text = Poppe ta ashin.
 # text_kana = ポッペタアシン
@@ -703,6 +704,7 @@
 6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 7
 # text_ja = アトカラ（後程）
 # text = Okaketa; Imakaketa.
 # text_kana = オカケ タ; イマカケ タ
@@ -1083,6 +1085,7 @@
 4	wa	wa	PART	終助詞	_	2	discourse	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 10
 # text_ja = 何時頃から降り始めましたか
 # text = Hembara wano apto ash oashi ruwe he an?
 # text_kana = ヘンパラ ワノ アㇷ゚ト アㇱ オアシ ルウェ アン?
@@ -1217,6 +1220,7 @@
 14	eaikap	eaykap	AUX	助動詞	_	13	aux	_	SpaceAfter=No
 15	.	.	PUNCT	記号	_	13	punct	_	_
 
+# page = 11
 # text_ja = アラシ（暴風）
 # text = Ruyampe.
 # text_kana = ルヤンペ
@@ -1328,6 +1332,7 @@
 1	An	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 12
 # text_ja = あるから
 # text = An gusu.
 # text_kana = アン クス
@@ -1694,6 +1699,7 @@
 2	erupushike	erupsike	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 15
 # text_ja = 家の壁
 # text = Chisei tumam.
 # text_kana = チセ トゥマㇺ
@@ -2221,6 +2227,7 @@
 2	pakita	pakita	ADV	副詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 19
 # text_ja = 何時頃船が港へ入りますか
 # text = Hembara pakita chip tomari otta ahun?
 # text_kana = ヘンパラ パキタ チㇷ゚ トマリ オッ タ アフン?
@@ -2467,6 +2474,7 @@
 1	Aheshuye	ahesuye	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 21
 # text_ja = イノル（祈）
 # text = inonno-itak.
 # text_kana = イノンノイタㇰ
@@ -2826,6 +2834,7 @@
 4	chisei	cise	NOUN	名詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 24
 # text_ja = 上にある者
 # text = Rikitambe.
 # text_kana = リㇰ タ アン ペ
@@ -3070,6 +3079,7 @@
 4	yan	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	3	punct	_	_
 
+# page = 26
 # text_ja = 子も歌ふから汝も歌へ
 # text = Kani ka shinotcha ku ki kusu ne na eani hem shinotcha ki yan.
 # text_kana = カニ カ シノッチャ ク=キ クㇱネ ナ. エアニ ヘㇺ シノッチャ キ ヤン.
@@ -3194,6 +3204,7 @@
 2	amunin	amunin	NOUN	名詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 27
 # text_ja = 下腕
 # text = Sange amunin.
 # text_kana = サンケ アムニン
@@ -3310,7 +3321,8 @@
 6	gore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	6	punct	_	_
 
-# text_ja = 馬に乗るが仕度はよか
+# page = 28
+# text_ja = 馬に乗るが仕度はよいか
 # text = Umma ao kuni ne tane pirika ya?
 # text_kana = ウンマ ア=オ クニネ タネ ピㇼカ ヤ?
 1	Umma	umma	NOUN	名詞	_	3	obj	_	_
@@ -3566,6 +3578,7 @@
 11	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 12	?	?	PUNCT	記号	_	11	punct	_	_
 
+# page = 30
 # text_ja = 少し計り賣らないか
 # text = Ponno patek shomo aeyok.
 # text_kana = ポンノ パテㇰ ソモ ア=エイヨㇰ.
@@ -3671,6 +3684,7 @@
 1	Hemesu	hemesu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 31
 # text_ja = 川より下る
 # text = Ha.
 # text_kana = ハ
@@ -3773,6 +3787,7 @@
 5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 32
 # text_ja = エ（畫）
 # text = Noka.
 # text_kana = ノカ
@@ -3903,13 +3918,14 @@
 6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 33
 # text_ja = エナ
 # text = Eha.
 # text_kana = エハ
 1	Eha	eha	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
-# text_ja = エビ ニ似タル動物
+# text_ja = エビニ似タル動物
 # text = Horokatereke.
 # text_kana = ホㇿカテㇾケ
 1	Horokatereke	horkaterke	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -4001,6 +4017,7 @@
 5	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page= 34
 # text_ja = オイダス（追出）
 # text = Shoinere.
 # text_kana = ソイネレ
@@ -4116,6 +4133,7 @@
 3	kush	kus	VERB	他動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# page = 35
 # text_ja = 岡の道
 # text = Mak-peka.
 # text_kana = マㇰ ペカ
@@ -4249,6 +4267,7 @@
 1	Monak	monak	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 36
 # text_ja = まだ寝るのか
 # text = Naa e mokon ruwe?
 # text_kana = ナア エ=モコン ルウェ?
@@ -4380,6 +4399,7 @@
 5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	記号	_	5	punct	_	_
 
+# page = 37
 # text_ja = 私はいつも早く起きます
 # text = Kuani anakne tunash ku hopuni range.
 # text_kana = カニ アナㇰネ トゥナㇱ ク=ホプニ ランケ.
@@ -4514,7 +4534,8 @@
 9	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	8	punct	_	_
 
-# text_ja = 急げ
+# page = 38
+# text_ja = 急げ、
 # text = Yaitunashka yan!
 # text_kana = ヤイトゥナㇱカ ヤン!
 1	Yaitunashka	yaytunaska	VERB	自動詞	_	0	root	_	_
@@ -4522,9 +4543,9 @@
 3	!	!	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 遅くれると惡いから
-# text = Moire anakne wen na.
+# text = moire anakne wen na.
 # text_kana = モイレ アナㇰネ ウェン ナ.
-1	Moire	Moyre	VERB	自動詞	_	3	advcl	_	_
+1	moire	Moyre	VERB	自動詞	_	3	advcl	_	_
 2	anakne	anakne	ADP	副助詞	_	1	mark	_	_
 3	wen	wen	VERB	自動詞	_	0	root	_	_
 4	na	na	PART	終助詞	_	3	discourse	_	SpaceAfter=No
@@ -4628,6 +4649,7 @@
 4	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	記号	_	4	punct	_	_
 
+# page = 39
 # text_ja = オコス（起）
 # text = Roshki.
 # text_kana = ロㇱキ
@@ -4747,6 +4769,7 @@
 5	gore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 40
 # text_ja = オシャヤペリ（饒舌）
 # text = Paro riten guru.
 # text_kana = パロ リテン クㇽ
@@ -4871,7 +4894,8 @@
 8	an	an	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	記号	_	8	punct	_	_
 
-# text_ja = 御汁を食いますか
+# page = 41
+# text_ja = 御汁を食ひますか
 # text = Ohau e e ruwe he an?
 # text_kana = オハウ エ=エ ルウェ アン?
 1	Ohau	ohaw	NOUN	名詞	_	3	obj	_	_
@@ -5358,6 +5382,7 @@
 3	ro	ro	PART	終助詞	_	1	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 45
 # text_ja = オル（居）
 # text = An.
 # text_kana = アン
@@ -5481,6 +5506,7 @@
 5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 46
 # text_ja = オワリ（終）
 # text = Iyoshino; Kesh; Okesh.
 # text_kana = イヨシノ; ケㇱ; オケㇱ
@@ -5702,6 +5728,7 @@
 8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	記号	_	8	punct	_	_
 
+# page = 48
 # text_ja = あまり高い
 # text = Eitasa ataye rui.
 # text_kana = エイタサ アタイェ ルイ.
@@ -5827,6 +5854,7 @@
 6	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	3	punct	_	_
 
+# page = 49
 # text_ja = カエル（蛙）
 # text = Terekeibe; Terekep.
 # text_kana = テㇾケイペ; テㇾケㇷ゚
@@ -6204,13 +6232,14 @@
 8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	記号	_	8	punct	_	_
 
+# page = 52
 # text_ja = カヽト
 # text = Keshup.
 # text_kana = ケスㇷ゚
 1	Keshup	kesup	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
-# text_ja = カガゞミ（鏡）
+# text_ja = カヾミ（鏡）
 # text = Kangami.
 # text_kana = カンカミ
 1	Kangami	kankami	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -6313,6 +6342,7 @@
 1	Nainak	nuynak	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 53
 # text_ja = カゲ（蔭）
 # text = Sembiri; Sembirike.
 # text_kana = センピㇼ; センピㇼケ
@@ -6428,6 +6458,7 @@
 5	Pawetok	páetok	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 54
 # text_ja = 賢人
 # text = Wayashnu guru.
 # text_kana = パエトㇰ クㇽ
@@ -6558,6 +6589,7 @@
 7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	記号	_	7	punct	_	_
 
+# page = 55
 # text_ja = 山から來る風
 # text = Omat; Omakun rera.
 # text_kana = オマッ;   オマㇰ ウン レラ
@@ -6678,6 +6710,7 @@
 9	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	8	punct	_	_
 
+# page = 56
 # text_ja = 風が變つても嵐にならなければよいが
 # text = Rera utasa yakka ruyambe ne shomo anak pirika na.
 # text_kana = レラ ウタサ ヤッカ ルヤンペ ネ ソモ ヤㇰ ピㇼカ ナ.
@@ -6792,6 +6825,7 @@
 1	Ashikne	asiknep	NUM	数詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 57
 # text_ja = 六
 # text = Iwan.
 # text_kana = イワン
@@ -7019,6 +7053,7 @@
 4	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 59
 # text_ja = カタムク（傾）
 # text = Horak.
 # text_kana = ホラㇰ
@@ -7152,6 +7187,7 @@
 13	na	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	記号	_	11	punct	_	_
 
+# page = 60
 # text_ja = カミ（神）
 # text = Kamui.
 # text_kana = カムイ
@@ -7274,6 +7310,7 @@
 2	kamui	kamuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 61
 # text_ja = 兎の神
 # text = Isepo kamui.
 # text_kana = イセポ カムイ
@@ -7392,6 +7429,7 @@
 1	Kuba	kupa	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 62
 # text_ja = 噛切る
 # text = Note tuiba.
 # text_kana = ノテトゥイパ
@@ -7511,6 +7549,7 @@
 1	Iramande	iramante	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 63
 # text_ja = カリウド（獵夫）
 # text = Iramande guru.
 # text_kana = イラマンテ クㇽ
@@ -7625,6 +7664,7 @@
 1	Rush	rus	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 64
 # text_ja = 毛皮
 # text = Numa.
 # text_kana = ヌマ
@@ -7763,6 +7803,7 @@
 2	ta	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 65
 # text_ja = 川の傍
 # text = Pet sama; Penaketa.
 # text_kana = ペッ サマ; ペナケ タ
@@ -7898,6 +7939,7 @@
 7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	記号	_	7	punct	_	_
 
+# page = 66
 # text_ja = あちらに川がありますか
 # text = Ikushta pet an ruwe he an?
 # text_kana = イクㇱ タ ペッ アン ルウェ アン?
@@ -8130,6 +8172,7 @@
 4	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 68
 # text_ja = ガン（鴈）
 # text = Kuitop.
 # text_kana = クイトㇷ゚
@@ -8242,6 +8285,7 @@
 7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	記号	_	7	punct	_	_
 
+# page = 69
 # text_ja = キイロ（黄色）
 # text = Shiunin.
 # text_kana = シウニン
@@ -8372,6 +8416,7 @@
 12	yan	yan	PART	終助詞	_	11	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	記号	_	11	punct	_	_
 
+# page = 70
 # text_ja = 聞く爲めに來た
 # text = Nu kuni gusu ek.
 # text_kana = ヌ クニ クス エㇰ.
@@ -8503,6 +8548,7 @@
 3	na	na	PART	終助詞	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	2	punct	_	_
 
+# page = 71
 # text_ja = キツイ（酷）
 # text = Iyeramnishte.
 # text_kana = イイェラㇺニㇱテ
@@ -8738,6 +8784,7 @@
 6	gore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	6	punct	_	_
 
+# page = 73
 # text_ja = 着物を干す
 # text = Miambe asatke ruwe ne.
 # text_kana = ミアンペ ア=サッケ ルウェ アン.
@@ -8862,6 +8909,7 @@
 1	Sakne	sakne	ADV	副詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 74
 # text_ja = キライ（厭）
 # text = Kopan.
 # text_kana = コパン
@@ -8969,6 +9017,7 @@
 5	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 75
 # text_ja = クイモノ（食物）
 # text = Aep.
 # text_kana = アエㇷ゚
@@ -9068,6 +9117,7 @@
 3	Horose	horse	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# page = 76
 # text_ja = クサムラ（叢）
 # text = Hash-tai.
 # text_kana = ハㇱタイ
@@ -9190,6 +9240,7 @@
 9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 10	?	?	PUNCT	記号	_	9	punct	_	_
 
+# page = 77
 # text_ja = 今年は菓實がよくなりました
 # text = Tamba nikaop pirika.
 # text_kana = タン パ ニカオㇷ゚ ピㇼカ.
@@ -9313,6 +9364,7 @@
 11	na	na	PART	終助詞	_	10	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	記号	_	10	punct	_	_
 
+# page = 78
 # text_ja = この靴はあまり小さい
 # text = Tan kere mashkinno pon.
 # text_kana = タン ケリ マㇱキンノ ポン.
@@ -9413,6 +9465,7 @@
 8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	記号	_	8	punct	_	_
 
+# page = 79
 # text_ja = 人を喰ひますか
 # text = Ainu e ruwe he an?
 # text_kana = アイヌ エ ルウェ アン?
@@ -9523,6 +9576,7 @@
 5	an	an	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 80
 # text_ja = クム（汲）
 # text = Ta.
 # text_kana = タ
@@ -9794,6 +9848,7 @@
 2	a	a	AUX	助動詞	_	1	aux	_	SpaceAfter=No
 3	?	?	PUNCT	記号	_	1	punct	_	_
 
+# page = 82
 # text_ja = 來たかまだ來ないか
 # text = Ek a? Naa shomo ek ruwe?
 # text_kana = エㇰ ア? ナア ソモ エㇰ ルウェ?
@@ -9923,6 +9978,7 @@
 7	wa	wa	PART	終助詞	_	6	discourse	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	6	punct	_	_
 
+# page = 83
 # text_ja = 晝飯後私の處へ來ますか
 # text = Tokap-ibe orowano en otta e ek ruwe?
 # text_kana = トカㇷ゚ イペ オロワノ エ=エㇰ ルウェ?
@@ -10257,6 +10313,7 @@
 3	Ni-ke-ta	níketa	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# page = 86
 # text_ja = ゲタ(下駄）
 # text = Pirakka.
 # text_kana = ピラッカ
@@ -10373,6 +10430,7 @@
 5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 87
 # text_ja = ケンカスル（喧嘩）
 # text = Sakayo kara.
 # text_kana = サカヨカㇻ
@@ -10472,6 +10530,7 @@
 6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	記号	_	6	punct	_	_
 
+# page = 88
 # text_ja = 二人あります
 # text = Po tup ku koro.
 # text_kana = ポ トゥン ク=コㇿ.
@@ -10606,6 +10665,7 @@
 6	na	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	5	punct	_	_
 
+# page = 89
 # text_ja = 御機嫌よろしゆー、さー御這入なさい
 # text = Pirika hi ne eci ariki na hetak ahup yan!
 # text_kana = ピㇼカ ヒ ネ エチ=アㇻキ ナ, ヘタㇰ アフㇷ゚ ヤン.
@@ -10732,6 +10792,7 @@
 3	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	記号	_	3	punct	_	_
 
+# page = 90
 # text_ja = 此處に居ります
 # text = Teda an.
 # text_kana = テ タ アン.
@@ -10990,6 +11051,7 @@
 7	yan	yan	PART	終助詞	_	6	discourse	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	6	punct	_	_
 
+# page = 92
 # text_ja = コブ（瘤）
 # text = Tokom.
 # text_kana = トコㇺ
@@ -11232,6 +11294,7 @@
 5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	4	punct	_	_
 
+# page = 94
 # text_ja = コロガス（轉）
 # text = Karakarase.
 # text_kana = カㇻカㇻセ
@@ -11360,6 +11423,7 @@
 1	Tanukuran	tanukuran	ADV	副詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 95
 # text_ja = 今夜は曇て居るから星が見えない
 # text = Tanukuran nishkuru an wa nochiw ka shomo nukara.
 # text_kana = タヌクラン ニㇱクㇽ アン ワ ノチウ カ ソモ ア= ヌカㇻ.
@@ -11463,6 +11527,7 @@
 1	Ehuru tasa	ehurtasa	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+$ page = 96
 # text_ja = これから先にまだ阪があるか
 # text = Tewa paye an kor shui huru an ruwe he an?
 # text_kana = テ ワ パイェ=アン コㇿ スイ フㇽ アン ルウェ アン?
@@ -11591,6 +11656,7 @@
 1	Chep	cep	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# page = 97
 # text_ja = 明日魚を取に行きませんか
 # text = Nishatta ukoiramno chep koyki e paye an ro.
 # text_kana = ニサッタ ウコイラㇺノ チェㇷ゚コイキエパイェ=アン ロ.
@@ -11845,6 +11911,7 @@
 9	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	9	punct	_	_
 
+# page = 99
 # text_ja = サケル（裂）
 # text = Pereke.
 # text_kana = ペㇾケ
