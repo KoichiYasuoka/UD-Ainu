@@ -4017,7 +4017,7 @@
 5	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
-# page= 34
+# page = 34
 # text_ja = オイダス（追出）
 # text = Shoinere.
 # text_kana = ソイネレ
@@ -11527,7 +11527,7 @@
 1	Ehuru tasa	ehurtasa	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
-$ page = 96
+# page = 96
 # text_ja = これから先にまだ阪があるか
 # text = Tewa paye an kor shui huru an ruwe he an?
 # text_kana = テ ワ パイェ=アン コㇿ スイ フㇽ アン ルウェ アン?
@@ -15566,7 +15566,7 @@ $ page = 96
 4	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
-# page = 180
+# page = 130
 # text_ja = 私は充分食ひました
 # text = Pakno ku ibe.
 # text_kana = パㇰノ ク=イペ.
@@ -27624,7 +27624,7 @@ $ page = 96
 5	yan	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	4	punct	_	_
 
-# page = 280
+# page = 230
 # text_ja = マチガエル（間違）
 # text = Ikopa.
 # text_kana = イコパ
@@ -27765,7 +27765,7 @@ $ page = 96
 3	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
-# page = 281
+# page = 231
 # text_ja = マデ（迄）
 # text = Pakno.
 # text_kana = パㇰノ
