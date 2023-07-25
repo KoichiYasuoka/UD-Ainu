@@ -1,0 +1,26 @@
+# text = ツワシフワヱリワクウタレナイシ子ミツハボワノ子トハケウシヤライワコレカト子クシユア子ヤムクンベ子ナ
+1	ツワシ	otuwasi	VERB	他動詞	_	2	acl	_	SpaceAfter=No
+2	フ	p	NOUN	形式名詞	_	12	advcl	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	2	case	_	SpaceAfter=No
+4	ヱリワク	irwak	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	ウタレ	utar	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+6	ナイ	na	SCONJ	接続助詞	_	5	case	_	SpaceAfter=No
+7	シ子	sine	NUM	数詞	_	8	nummod	_	SpaceAfter=No
+8	ミツ	mici	NOUN	名詞	_	12	obl	_	SpaceAfter=No
+9	ハボ	hápo	NOUN	名詞	_	8	conj	_	SpaceAfter=No
+10	ワノ	wano	ADP	格助詞	_	8	case	_	SpaceAfter=No
+11	子トハケ	netopake	NOUN	名詞	_	12	obj	_	SpaceAfter=No
+12	ウシヤライ	usaraye	VERB	他動詞	_	14	advcl	_	SpaceAfter=No
+13	ワ	wa	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	コレ	kore	VERB	他動詞	_	15	acl	_	SpaceAfter=No
+15	カト	katu	NOUN	形式名詞	_	19	advcl	_	SpaceAfter=No
+16	子	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
+17	クシユ	kusu	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+18-19	ア子ヤム	_	_	_	_	_	_	_	SpaceAfter=No
+18	アン	an=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	エヤㇺ	eyam	VERB	他動詞	_	21	acl	_	SpaceAfter=No
+20	クン	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+22	子	ne	AUX	デアル動詞	_	21	cop	_	SpaceAfter=No
+23	ナ	na	PART	終助詞	_	21	discourse	_	SpaceAfter=No
+

@@ -1,0 +1,16 @@
+# text = もとより兄弟は同じく父母の遺躰を分て大切なるもの也
+1	もとより	固より	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+2	兄弟	兄弟	NOUN	名詞-普通名詞-一般	_	9	nsubj	_	SpaceAfter=No
+3	は	は	ADP	助詞-係助詞	_	2	case	_	SpaceAfter=No
+4	同じく	同じい	ADJ	形容詞-一般	_	9	advcl	_	SpaceAfter=No
+5	父母	父母	NOUN	名詞-普通名詞-一般	_	7	nmod	_	SpaceAfter=No
+6	の	の	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	遺躰	遺体	NOUN	名詞-普通名詞-一般	_	9	obj	_	SpaceAfter=No
+8	を	を	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	分	分かつ	VERB	動詞-一般	_	11	advcl	_	SpaceAfter=No
+10	て	て	SCONJ	助詞-接続助詞	_	9	mark	_	SpaceAfter=No
+11	大切	大切	ADJ	形状詞-一般	_	13	acl	_	SpaceAfter=No
+12	なる	なり	AUX	助動詞	_	11	aux	_	SpaceAfter=No
+13	もの	物	NOUN	名詞-普通名詞-サ変可能	_	0	root	_	SpaceAfter=No
+14	也	なり	AUX	助動詞	_	13	cop	_	SpaceAfter=No
+
