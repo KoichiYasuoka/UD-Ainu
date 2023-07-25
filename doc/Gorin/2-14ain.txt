@@ -10,7 +10,7 @@
 9	ケセ	kese	NOUN	位置名詞	_	5	conj	_	SpaceAfter=No
 10	ウコヤヱラマツテ	uko-yay-ramat-te	VERB	自動詞	_	11	acl	_	SpaceAfter=No
 11	ケウトモ	kewtumu	NOUN	名詞	_	23	nsubj	_	SpaceAfter=No
-12	子イ	ney	NOUN	名詞	_	23	obl	_	SpaceAfter=No
+12	子イ	ney	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
 13	バクノ	pakno	SCONJ	後置副詞	_	12	case	_	SpaceAfter=No
 14	カ	ka	ADP	副助詞	_	12	case	_	SpaceAfter=No
 15	クンシン	Kunsin	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
