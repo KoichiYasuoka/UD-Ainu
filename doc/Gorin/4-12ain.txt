@@ -9,7 +9,7 @@
 8	カ	ka	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
 9	タ	ta	ADP	格助詞	_	8	case	_	SpaceAfter=No
 10	コレ	kore	VERB	他動詞	_	11	acl	_	SpaceAfter=No
-11	レイ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+11	レイ	re	NOUN	名詞	_	0	root	_	SpaceAfter=No
 12	タンバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 13	ナ	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
 
