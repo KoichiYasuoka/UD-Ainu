@@ -127,7 +127,7 @@ Gorin.lemmatranslit=function(x){
       if(t[2]!="_"){
         if(t[9]=="_")
           t[9]="Translit="+t[2];
-        else
+        else if(t[9].indexOf("Translit=")<0)
           t[9]=t[9]+"|Translit="+t[2];
         s[i]=t.join("\t");
       }
@@ -233,8 +233,6 @@ Gorin.reload=function(){
     if(r.top>window.innerHeight||r.bottom<0)
       return;
     conllusvg.loadRemote("pre"+i,Gorin.rawURL+Gorin.txt[i]);
-    if(Gorin.txt[i].indexOf("ain")>0)
-      Gorin.lemmatranslit(i);
   }
 }
 Gorin.github=function(){
