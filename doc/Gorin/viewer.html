@@ -30,12 +30,12 @@ Gorin.checkview=function(){
   }
   if(Gorin.svg[Gorin.curr].style.position=="absolute"){
     if(Gorin.pre[Gorin.curr].textContent>""){
-      if(Gorin.txt[Gorin.curr].indexOf("ain")>0)
-        Gorin.lemmatranslit(Gorin.curr);
       Gorin.svg[Gorin.curr].style.position="static";
       Gorin.svg[Gorin.curr].style.visibility="visible";
     }
   }
+  if(Gorin.txt[Gorin.curr].indexOf("ain")>0)
+    Gorin.lemmatranslit(Gorin.curr);
   conllusvg.rewrite("pre"+Gorin.curr);
   r=Gorin.svg[Gorin.curr].getBoundingClientRect();
   t=r.top;
@@ -75,12 +75,12 @@ Gorin.checkview=function(){
     }
     if(Gorin.svg[i].style.position=="absolute"){
       if(Gorin.pre[i].textContent>""){
-        if(Gorin.txt[i].indexOf("ain")>0)
-          Gorin.lemmatranslit(i);
         Gorin.svg[i].style.position="static";
         Gorin.svg[i].style.visibility="visible";
       }
     }
+    if(Gorin.txt[i].indexOf("ain")>0)
+      Gorin.lemmatranslit(i);
     conllusvg.rewrite("pre"+i);
     r=Gorin.svg[i].getBoundingClientRect();
     if(r.top-window.innerHeight-1000>0)
@@ -119,6 +119,8 @@ Gorin.buildup=function(x){
 Gorin.lemmatranslit=function(x){
   var s,t,i;
   if(Gorin.pre[x]==null)
+    return;
+  if(Gorin.pre[x].textContent.indexOf("Translit=")>0)
     return;
   s=Gorin.pre[x].textContent.split("\n");
   for(i=0;i<s.length;i++){
