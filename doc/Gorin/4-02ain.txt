@@ -1,0 +1,15 @@
+# text = ヱリヘ子クニアンコロカイナアウコラツ子ルヱタハンナ
+1	ヱリヘ	irpe	NOUN	名詞	_	3	acl	_	SpaceAfter=No
+2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	クニ	kuni	NOUN	形式名詞	_	4	nsubj	_	SpaceAfter=No
+4	アン	an	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+5	コロ	kor	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	カイ	okay	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+7	ナ	na	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	ア	a=	PART	人称接辞	_	11	advcl	_	SpaceAfter=No
+9	ウコラツ	koraci	SCONJ	後置副詞	_	8	case	_	SpaceAfter=No
+10	子	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	タハン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	ナ	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+

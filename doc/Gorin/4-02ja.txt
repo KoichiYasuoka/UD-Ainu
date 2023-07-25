@@ -1,0 +1,9 @@
+# text = 兄弟といふも同事なるべし
+1	兄弟	兄弟	NOUN	名詞-普通名詞-一般	_	3	obl	_	SpaceAfter=No
+2	と	と	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	いふ	言う	VERB	動詞-一般	_	5	advcl	_	SpaceAfter=No
+4	も	も	ADP	助詞-係助詞	_	3	mark	_	SpaceAfter=No
+5	同事	同事	NOUN	名詞-普通名詞-一般	_	0	root	_	SpaceAfter=No
+6	なる	なり	AUX	助動詞	_	5	cop	_	SpaceAfter=No
+7	べし	べし	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+
