@@ -1,0 +1,22 @@
+# text = 右鳩巣先生の選所にして童蒙を教るの道是より深切なるはなし
+1	右	右	NOUN	名詞-普通名詞-一般	_	6	nsubj	_	SpaceAfter=No
+2	鳩巣	キュウソウ	PROPN	名詞-固有名詞-人名-名	_	3	compound	_	SpaceAfter=No
+3	先生	先生	NOUN	名詞-普通名詞-一般	_	6	nmod	_	SpaceAfter=No
+4	の	の	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	選	選	NOUN	名詞-普通名詞-一般	_	6	compound	_	SpaceAfter=No
+6	所	所	NOUN	接尾辞-名詞的-一般	_	12	advcl	_	SpaceAfter=No
+7	に	なり	AUX	助動詞	_	6	cop	_	SpaceAfter=No
+8	し	為る	AUX	動詞-非自立可能	_	6	aux	_	SpaceAfter=No
+9	て	て	SCONJ	助詞-接続助詞	_	6	mark	_	SpaceAfter=No
+10	童蒙	童蒙	NOUN	名詞-普通名詞-一般	_	12	obj	_	SpaceAfter=No
+11	を	を	ADP	助詞-格助詞	_	10	case	_	SpaceAfter=No
+12	教る	教える	VERB	動詞-一般	_	14	acl	_	SpaceAfter=No
+13	の	の	ADP	助詞-格助詞	_	12	case	_	SpaceAfter=No
+14	道	道	NOUN	名詞-普通名詞-一般	_	20	nsubj	_	SpaceAfter=No
+15	是	此れ	PRON	代名詞	_	17	obl	_	SpaceAfter=No
+16	より	より	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	深切	親切	ADJ	名詞-普通名詞-形状詞可能	_	20	advcl	_	SpaceAfter=No
+18	なる	なり	AUX	助動詞	_	17	aux	_	SpaceAfter=No
+19	は	は	ADP	助詞-係助詞	_	17	mark	_	SpaceAfter=No
+20	なし	無い	ADJ	形容詞-非自立可能	_	0	root	_	SpaceAfter=No
+
