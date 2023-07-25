@@ -1,0 +1,22 @@
+# text = 然る故聖人長幼の間におゐて序の一字を不易の法と定めたまふ
+1	然る	然る	VERB	動詞-一般	_	2	acl	_	SpaceAfter=No|Translit=シカル
+2	故	故	NOUN	名詞-普通名詞-副詞可能	_	19	obl	_	SpaceAfter=No|Translit=ユエ
+3	聖人	聖人	NOUN	名詞-普通名詞-一般	_	19	nsubj	_	SpaceAfter=No|Translit=セイジン
+4	長幼	長幼	NOUN	名詞-普通名詞-一般	_	6	nmod	_	SpaceAfter=No|Translit=チョウヨウ
+5	の	の	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No|Translit=ノ
+6	間	間	NOUN	名詞-普通名詞-副詞可能	_	8	obl	_	SpaceAfter=No|Translit=アイダ
+7	に	に	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No|Translit=ニ
+8	おゐ	於く	VERB	動詞-一般	_	19	advcl	_	SpaceAfter=No|Translit=オイ
+9	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	SpaceAfter=No|Translit=テ
+10	序	序	NOUN	名詞-普通名詞-一般	_	13	nmod	_	SpaceAfter=No|Translit=ジョ
+11	の	の	ADP	助詞-格助詞	_	10	case	_	SpaceAfter=No|Translit=ノ
+12	一	一	NUM	名詞-数詞	_	13	nummod	_	SpaceAfter=No|Translit=イチ
+13	字	字	NOUN	名詞-普通名詞-一般	_	19	obj	_	SpaceAfter=No|Translit=ジ
+14	を	を	ADP	助詞-格助詞	_	13	case	_	SpaceAfter=No|Translit=ヲ
+15	不易	不易	NOUN	名詞-普通名詞-形状詞可能	_	17	nmod	_	SpaceAfter=No|Translit=フエキ
+16	の	の	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No|Translit=ノ
+17	法	法	NOUN	名詞-普通名詞-一般	_	19	obl	_	SpaceAfter=No|Translit=ホウ
+18	と	と	ADP	助詞-格助詞	_	17	case	_	SpaceAfter=No|Translit=ト
+19	定め	定める	VERB	動詞-一般	_	0	root	_	SpaceAfter=No|Translit=サダメ
+20	たまふ	給う	AUX	動詞-非自立可能	_	19	aux	_	SpaceAfter=No|Translit=タマフ
+

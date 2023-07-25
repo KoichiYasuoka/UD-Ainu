@@ -1,0 +1,26 @@
+# text = 子アンヘクシユノブルシサモウタレキアン子ベウレウトツタシヨアリアンシ子カンビマウヱシヨモベ子クニヱタクマコツアンルヱ子
+1	子	ne	DET	連体詞	_	2	nsubj	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	ヘ	pe	NOUN	形式名詞	_	23	obl	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	3	case	_	SpaceAfter=No
+5	ノブル	nupur	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	シサモ	sisam	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	ウタレ	utar	NOUN	名詞	_	21	nsubj	_	SpaceAfter=No
+8	キアン子	kiyanne	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+9	ベウレ	pewre	VERB	自動詞	_	8	conj	_	SpaceAfter=No
+10	ウトツ	uturu	NOUN	位置名詞	_	21	obl	_	SpaceAfter=No
+11	タ	ta	ADP	格助詞	_	10	case	_	SpaceAfter=No
+12	シヨ	Jo	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+13	アリ	ari	SCONJ	接続助詞	_	12	case	_	SpaceAfter=No
+14	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+15	シ子	sine	NUM	数詞	_	16	nummod	_	SpaceAfter=No
+16	カンビ	kanpi	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	マウヱ	mawe	NOUN	名詞	_	19	nsubj	_	SpaceAfter=No
+18	シヨモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	ベ子	péne	VERB	自動詞	_	21	advcl	_	SpaceAfter=No
+20	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ヱタクマコツ	itakmakkuste	VERB	自動詞	_	23	acl	_	SpaceAfter=No
+22	アン	=an	PART	人称接辞	_	21	expl	_	SpaceAfter=No
+23	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+24	子	ne	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
+

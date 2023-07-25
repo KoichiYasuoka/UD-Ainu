@@ -1,0 +1,11 @@
+# text = 序は次序とて次弟の事なり
+1	序	序	NOUN	名詞-普通名詞-一般	_	8	nsubj	_	SpaceAfter=No
+2	は	は	ADP	助詞-係助詞	_	1	case	_	SpaceAfter=No
+3	次序	次序	NOUN	名詞-普通名詞-一般	_	8	obl	_	SpaceAfter=No
+4	と	と	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	て	て	SCONJ	助詞-接続助詞	_	3	case	_	SpaceAfter=No
+6	次弟	次弟	NOUN	名詞-普通名詞-一般	_	8	nmod	_	SpaceAfter=No
+7	の	の	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	事	事	NOUN	名詞-普通名詞-一般	_	0	root	_	SpaceAfter=No
+9	なり	なり	AUX	助動詞	_	8	cop	_	SpaceAfter=No
+

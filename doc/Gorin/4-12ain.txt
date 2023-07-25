@@ -1,0 +1,15 @@
+# text = シヨアナキ子ヲトタンシヨレコレトタンノブカカタコレレイタンバンナ
+1	シヨ	Jo	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
+2	アナキ子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ヲトタン	uwotutanu	ADV	副詞	_	10	advcl	_	SpaceAfter=No
+4	シヨ	Jo	NOUN	名詞	_	5	obj	_	SpaceAfter=No
+5	レコレ	rékore	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+6	トタンノ	tutanuno	SCONJ	後置副詞	_	8	advmod	_	SpaceAfter=No
+7	ブカ	póka	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	カ	ka	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	タ	ta	ADP	格助詞	_	8	case	_	SpaceAfter=No
+10	コレ	kore	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	レイ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	タンバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	ナ	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+
