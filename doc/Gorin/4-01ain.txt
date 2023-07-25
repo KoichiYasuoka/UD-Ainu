@@ -1,0 +1,22 @@
+# text = ミチハボアンクシユヘトクルヱ子クシユホシケセベンケキアン子クルヨヲシセヘンケヘウレクル子ナ
+1	ミチ	mici	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
+2	ハボ	hapo	NOUN	名詞	_	1	conj	_	SpaceAfter=No
+3	アン	an	VERB	自動詞	_	5	advcl	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	ヘトク	hetuku	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+6	ルヱ	ruwe	NOUN	形式名詞	_	18	advcl	_	SpaceAfter=No
+7	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	クシユ	kusu	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+9	ホシケ	hoski	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	セ	se	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	ベンケ	penke	NOUN	位置名詞	_	13	nsubj	_	SpaceAfter=No
+12	キアン子	kiyanne	VERB	自動詞	_	13	amod	_	SpaceAfter=No
+13	クル	kur	NOUN	名詞	_	18	advcl	_	SpaceAfter=No
+14	ヨヲシ	iyos	ADV	副詞	_	15	advmod	_	SpaceAfter=No
+15	セ	se	VERB	他動詞	_	16	acl	_	SpaceAfter=No
+16	ヘンケ	penke	NOUN	位置名詞	_	18	nsubj	_	SpaceAfter=No
+17	ヘウレ	pewre	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	クル	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+19	子	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	ナ	na	PART	終助詞	_	18	discourse	_	SpaceAfter=No
+
