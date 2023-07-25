@@ -1,0 +1,18 @@
+# text = また何程才智ある弟にても兄に先立事あるべからず
+1	また	又	CCONJ	接続詞	_	14	cc	_	SpaceAfter=No
+2	何	何	PRON	代名詞	_	5	obl	_	SpaceAfter=No
+3	程	ほど	ADP	助詞-副助詞	_	2	case	_	SpaceAfter=No
+4	才智	才知	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	SpaceAfter=No
+5	ある	有る	VERB	動詞-非自立可能	_	6	acl	_	SpaceAfter=No
+6	弟	弟	NOUN	名詞-普通名詞-一般	_	14	advcl	_	SpaceAfter=No
+7	に	なり	AUX	助動詞	_	6	cop	_	SpaceAfter=No
+8	て	て	SCONJ	助詞-接続助詞	_	6	mark	_	SpaceAfter=No
+9	も	も	ADP	助詞-係助詞	_	6	mark	_	SpaceAfter=No
+10	兄	兄	NOUN	名詞-普通名詞-一般	_	12	obl	_	SpaceAfter=No
+11	に	に	ADP	助詞-格助詞	_	10	case	_	SpaceAfter=No
+12	先立	先立つ	VERB	動詞-一般	_	13	acl	_	SpaceAfter=No
+13	事	事	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	SpaceAfter=No
+14	ある	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+15	べから	べし	AUX	助動詞	_	14	aux	_	SpaceAfter=No
+16	ず	ず	AUX	助動詞	_	14	aux	_	SpaceAfter=No
+

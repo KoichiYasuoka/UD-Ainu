@@ -1,0 +1,24 @@
+# text = シユイ子コナ子フアシカヱベアキ子ワ子ヤツカユビ子クルヱトコウシクニアナキ子ソモアンベ子ナ
+1	シユイ	suy	ADV	副詞	_	20	advmod	_	SpaceAfter=No
+2	子コナ	nékona	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+3	子フ	nep	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	アシカヱ	askay	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+5	ベ	pe	NOUN	形式名詞	_	6	nmod	_	SpaceAfter=No
+6	アキ	aki	NOUN	名詞	_	15	advcl	_	SpaceAfter=No
+7	子	ne	ADP	格助詞	_	6	case	_	SpaceAfter=No
+8	ワ	wa	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+9	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+10	ヤツカ	yakka	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+11	ユビ	yupi	NOUN	名詞	_	13	acl	_	SpaceAfter=No
+12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	クル	kur	NOUN	名詞	_	15	iobj	_	SpaceAfter=No
+14	ヱトコ	etoko	NOUN	位置名詞	_	15	obj	_	SpaceAfter=No
+15	ウシ	usi	VERB	他動詞	_	16	acl	_	SpaceAfter=No
+16	クニ	kuni	NOUN	形式名詞	_	19	nsubj	_	SpaceAfter=No
+17	アナキ子	anakne	ADP	副助詞	_	16	case	_	SpaceAfter=No
+18	ソモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	アン	an	VERB	自動詞	_	20	acl	_	SpaceAfter=No
+20	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+22	ナ	na	PART	終助詞	_	20	discourse	_	SpaceAfter=No
+
