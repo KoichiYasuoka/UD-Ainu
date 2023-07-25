@@ -1,0 +1,19 @@
+# text = ヤヱラムノウヱシヤマアヌワソモヲビツクニラコラムワウタシバウシヤヲシケヱテキコロ
+1	ヤヱラムノ	yayramu-no	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	ウヱ	uye	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	シヤマ	sama	NOUN	位置名詞	_	4	obj	_	SpaceAfter=No
+4	アヌ	anu	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+5	ワ	wa	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	ソモ	somo	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+7	ヲビツ	opitta	SCONJ	後置副詞	_	8	acl	_	SpaceAfter=No
+8	クニ	kuni	NOUN	形式名詞	_	10	nsubj	_	SpaceAfter=No
+9	ラ	ra	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+10	コ	kor	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+11	ラム	ramu	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+12	ワ	wa	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
+13	ウタシバ	utaspa	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+14	ウシヤ	usa	ADV	副詞	_	15	amod	_	SpaceAfter=No
+15	ヲシケ	uske	NOUN	形式名詞	_	17	obj	_	SpaceAfter=No
+16	ヱテキ	iteki	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	コロ	kor	VERB	他動詞	_	0	root	_	SpaceAfter=No
+

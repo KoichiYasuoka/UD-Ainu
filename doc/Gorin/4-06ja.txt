@@ -1,0 +1,19 @@
+# text = 常に形顥のはなれざる如く思ひかはしてたがひに疎略にすべからず
+1	常	常	NOUN	名詞-普通名詞-一般	_	8	obl	_	SpaceAfter=No
+2	に	に	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	形顥	形影	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	SpaceAfter=No
+4	の	の	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	はなれ	離れる	VERB	動詞-一般	_	8	advcl	_	SpaceAfter=No
+6	ざる	ず	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+7	如く	ごとし	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+8	思ひ	思う	VERB	動詞-一般	_	13	advcl	_	SpaceAfter=No
+9	かはし	交わす	AUX	動詞-非自立可能	_	8	aux	_	SpaceAfter=No
+10	て	て	SCONJ	助詞-接続助詞	_	8	mark	_	SpaceAfter=No
+11	たがひ	互い	NOUN	名詞-普通名詞-一般	_	13	obl	_	SpaceAfter=No
+12	に	に	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	疎略	粗略	ADJ	名詞-普通名詞-形状詞可能	_	0	root	_	SpaceAfter=No
+14	に	なり	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	す	為る	AUX	動詞-非自立可能	_	13	aux	_	SpaceAfter=No
+16	べから	べし	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+17	ず	ず	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+
