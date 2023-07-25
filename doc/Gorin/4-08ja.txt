@@ -1,0 +1,21 @@
+# text = 譬ば寵愛の子たりといへとも同腹の兄を差置て家督を傳ふべからず
+1	譬ば	例えば	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+2	寵愛	寵愛	NOUN	名詞-普通名詞-サ変可能	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	子	子	NOUN	名詞-普通名詞-一般	_	7	advcl	_	SpaceAfter=No
+5	たり	たり	AUX	助動詞	_	4	cop	_	SpaceAfter=No
+6	と	と	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No
+7	いへ	言う	VERB	動詞-一般	_	17	advcl	_	SpaceAfter=No
+8	とも	とも	CCONJ	助詞-接続助詞	_	7	mark	_	SpaceAfter=No
+9	同腹	同腹	NOUN	名詞-普通名詞-一般	_	11	nmod	_	SpaceAfter=No
+10	の	の	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	兄	兄	NOUN	名詞-普通名詞-一般	_	13	obj	_	SpaceAfter=No
+12	を	を	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	差置	差し置く	VERB	動詞-一般	_	17	advcl	_	SpaceAfter=No
+14	て	て	SCONJ	助詞-接続助詞	_	13	mark	_	SpaceAfter=No
+15	家督	家督	NOUN	名詞-普通名詞-一般	_	17	obj	_	SpaceAfter=No
+16	を	を	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	傳ふ	伝う	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+18	べから	べし	AUX	助動詞	_	17	aux	_	SpaceAfter=No
+19	ず	ず	AUX	助動詞	_	17	aux	_	SpaceAfter=No
+
