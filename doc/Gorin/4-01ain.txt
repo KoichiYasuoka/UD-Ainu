@@ -1,6 +1,6 @@
 # text = ミチハボアンクシユヘトクルヱ子クシユホシケセベンケキアン子クルヨヲシセヘンケヘウレクル子ナ
 1	ミチ	mici	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
-2	ハボ	hapo	NOUN	名詞	_	1	conj	_	SpaceAfter=No
+2	ハボ	hápo	NOUN	名詞	_	1	conj	_	SpaceAfter=No
 3	アン	an	VERB	自動詞	_	5	advcl	_	SpaceAfter=No
 4	クシユ	kusu	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
 5	ヘトク	hetuku	VERB	自動詞	_	6	acl	_	SpaceAfter=No
