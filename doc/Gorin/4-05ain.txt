@@ -1,0 +1,25 @@
+# text = ケアンナクミツハボラヱワヲカケタミツハボシリ子ウヌカラコトマンベアナキ子ヱルイリワクウタレバテキタバン
+1	ケ	ke	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+2	アンナク	anak	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ミツ	mici	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+4	ハボ	hápo	NOUN	名詞	_	3	conj	_	SpaceAfter=No
+5	ラヱ	ray	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+6	ワ	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	ヲカケ	okake	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	ミツ	mici	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+10	ハボ	hápo	NOUN	名詞	_	9	conj	_	SpaceAfter=No
+11	シリ	sir	NOUN	形式名詞	_	13	nsubj	_	SpaceAfter=No
+12	子	ne	ADP	格助詞	_	11	case	_	SpaceAfter=No
+13	ウヌカラ	unukar	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+14-15	コトマン	_	_	_	_	_	_	_	SpaceAfter=No
+14	コトㇺ	kotom	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+16	ベ	pe	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
+17	アナキ子	anakne	ADP	副助詞	_	16	case	_	SpaceAfter=No
+18	ヱル	ir	NOUN	名詞	_	20	nmod	_	SpaceAfter=No
+19	イリワク	irwak	NOUN	名詞	_	18	conj	_	SpaceAfter=No
+20	ウタレ	utar	NOUN	名詞	_	0	root	_	SpaceAfter=No
+21	バテキ	patek	SCONJ	後置副詞	_	20	case	_	SpaceAfter=No
+22	タバン	tapan	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+
