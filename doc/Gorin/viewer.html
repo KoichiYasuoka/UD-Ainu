@@ -151,10 +151,10 @@ Gorin.lemmatranslit=function(x){
 Gorin.volchange=function(){
   var s;
   Gorin.clearSVG();
-  for(s in Gorin.txt){
-    if(Gorin.txt[s]!=null)
-      document.body.removeChild(Gorin.txt[s]);
-    Gorin.txt[s]=null;
+  for(s in Gorin.idx){
+    if(Gorin.idx[s]!=null)
+      document.body.removeChild(Gorin.idx[s]);
+    Gorin.idx[s]=null;
   }
   for(s in Gorin.pre){
     if(Gorin.pre[s]!=null)
