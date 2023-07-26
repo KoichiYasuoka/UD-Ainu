@@ -16,6 +16,7 @@ Gorin.init=function(){
   document.body.appendChild(t);
   Gorin.svg=new Array();
   Gorin.pre=new Array();
+  Gorin.idx=new Array();
   Gorin.timer=setTimeout("clearTimeout(Gorin.timer);Gorin.checkview()",200);
   Gorin.volchange();
 }
@@ -115,6 +116,16 @@ Gorin.buildup=function(x){
       conllusvg.view(Gorin.svg[x],"pre"+x);
     conllusvg.loadRemote("pre"+x,Gorin.rawURL+Gorin.txt[x]);
   }
+  if(Gorin.txt[x].indexOf("ja")>0){
+    if(Gorin.idx[x]==null){
+      t=document.createElement("pre");
+      t.style.position="static";
+      t.style.visibility="visible";
+      document.body.insertBefore(t,Gorin.svg[x]);
+      Gorin.idx[x]=t;
+    }
+    Gorin.idx[x].textContent=Gorin.txt[x].substring(0,4).replace("-0","-");
+  }
 }
 Gorin.lemmatranslit=function(x){
   var s,t,i;
@@ -140,6 +151,11 @@ Gorin.lemmatranslit=function(x){
 Gorin.volchange=function(){
   var s;
   Gorin.clearSVG();
+  for(s in Gorin.txt){
+    if(Gorin.txt[s]!=null)
+      document.body.removeChild(Gorin.txt[s]);
+    Gorin.txt[s]=null;
+  }
   for(s in Gorin.pre){
     if(Gorin.pre[s]!=null)
       document.body.removeChild(Gorin.pre[s]);
