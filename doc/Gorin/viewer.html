@@ -118,7 +118,7 @@ Gorin.buildup=function(x){
   }
   if(Gorin.txt[x].indexOf("ja")>0){
     if(Gorin.idx[x]==null){
-      t=document.createElement("pre");
+      t=document.createElement("div");
       t.style.position="static";
       t.style.visibility="visible";
       document.body.insertBefore(t,Gorin.svg[x]);
