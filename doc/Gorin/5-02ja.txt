@@ -1,0 +1,27 @@
+# text = 是によりて朋友の倫を立置て仁をたすけ善をせむるを朋友の道とす
+1	是	此れ	PRON	代名詞	_	3	obl	_	SpaceAfter=No
+2	に	に	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	より	因る	VERB	動詞-一般	_	9	advcl	_	SpaceAfter=No
+4	て	て	SCONJ	助詞-接続助詞	_	3	mark	_	SpaceAfter=No
+5	朋友	朋友	NOUN	名詞-普通名詞-一般	_	7	nmod	_	SpaceAfter=No
+6	の	の	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	倫	倫	NOUN	名詞-普通名詞-一般	_	9	obj	_	SpaceAfter=No
+8	を	を	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	立	立てる	VERB	動詞-一般	_	25	advcl	_	SpaceAfter=No
+10	置	置く	AUX	動詞-非自立可能	_	9	aux	_	SpaceAfter=No
+11	て	て	SCONJ	助詞-接続助詞	_	9	mark	_	SpaceAfter=No
+12	仁	仁	NOUN	名詞-普通名詞-一般	_	14	obj	_	SpaceAfter=No
+13	を	を	ADP	助詞-格助詞	_	12	case	_	SpaceAfter=No
+14	たすけ	助ける	VERB	動詞-一般	_	17	advcl	_	SpaceAfter=No
+15	善	善	NOUN	名詞-普通名詞-一般	_	17	obj	_	SpaceAfter=No
+16	を	を	ADP	助詞-格助詞	_	15	case	_	SpaceAfter=No
+17	せ	為る	VERB	動詞-非自立可能	_	25	ccomp	_	SpaceAfter=No
+18	む	む	AUX	助動詞	_	17	aux	_	SpaceAfter=No
+19	る	り	AUX	助動詞	_	17	aux	_	SpaceAfter=No
+20	を	を	ADP	助詞-格助詞	_	17	mark	_	SpaceAfter=No
+21	朋友	朋友	NOUN	名詞-普通名詞-一般	_	23	nmod	_	SpaceAfter=No
+22	の	の	ADP	助詞-格助詞	_	21	case	_	SpaceAfter=No
+23	道	道	NOUN	名詞-普通名詞-一般	_	25	obl	_	SpaceAfter=No
+24	と	と	ADP	助詞-格助詞	_	23	case	_	SpaceAfter=No
+25	す	為る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+
