@@ -1,0 +1,20 @@
+# text = カタヨロツケアリアンヘアナキ子アニ子トバケタヤヱコツバケウトモイサマノイキロキ子イキカトタバン
+1	カタヨロツケ	ekatayrotke	VERB	他動詞	_	3	advcl	_	SpaceAfter=No
+2	アリ	ari	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	アン	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	ヘ	pe	NOUN	形式名詞	_	17	nsubj	_	SpaceAfter=No
+5	アナキ子	anakne	ADP	副助詞	_	4	case	_	SpaceAfter=No
+6	アニ	ani	SCONJ	後置副詞	_	4	case	_	SpaceAfter=No
+7	子トバケ	netopake	NOUN	名詞	_	9	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	ヤヱコツバ	yayko-turpa	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	ケウトモ	kewtumu	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+11	イサマ	isam	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+12	ノ	no	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
+13	イキ	iki	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+14	ロキ	rok	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	子	ne	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+16	イキ	iki	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	カト	katu	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+18	タバン	tapan	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+
