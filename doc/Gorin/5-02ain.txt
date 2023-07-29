@@ -25,7 +25,7 @@
 22	エイメㇰカㇻ	eymekkar	VERB	他動詞	_	23	acl	_	SpaceAfter=No
 23	クン	kuni	NOUN	形式名詞	_	18	conj	_	SpaceAfter=No
 24	アナキ子	anakne	ADP	副助詞	_	23	case	_	SpaceAfter=No
-25	ウコシコフ	ukosukup	VERB	自動詞	_	26	acl	_	SpaceAfter=No
+25	ウコシコフ	ukosukup	VERB	自動詞	_	26	amod	_	SpaceAfter=No
 26	クル	kur	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
 27	ウヱレンカ	u-irenka	VERB	自動詞	_	29	acl	_	SpaceAfter=No
 28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
