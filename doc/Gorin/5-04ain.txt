@@ -12,7 +12,7 @@
 11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
 12	子	ne	AUX	助動詞	_	10	aux	_	SpaceAfter=No
 13	ヤキ子	yakne	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
-14	ウヱシコフ	ukosukup	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+14	ウヱシコフ	u-e-sukup	VERB	自動詞	_	15	amod	_	SpaceAfter=No
 15	ウタレ	utar	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
 16	ウコニタヽレ	u-konitata-re	VERB	自動詞	_	17	acl	_	SpaceAfter=No
 17	ルヱ	ruwe	NOUN	形式名詞	_	24	advcl	_	SpaceAfter=No
