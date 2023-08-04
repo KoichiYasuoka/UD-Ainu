@@ -1,0 +1,22 @@
+# text = ヒリカクンシユイイバカシアナキ子子フカイホトイヲタワケレボコノウタシハヒリカレンカウコウルシユツケクニ子ナ
+1	ヒリカ	pirka	VERB	自動詞	_	2	amod	_	SpaceAfter=No
+2	クン	kuni	NOUN	形式名詞	_	4	obj	_	SpaceAfter=No
+3	シユイ	suy	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	イバカシ	epakasnu	VERB	他動詞	_	18	advcl	_	SpaceAfter=No
+5	アナキ子	anakne	ADP	副助詞	_	4	mark	_	SpaceAfter=No
+6	子フ	nep	NOUN	名詞	_	8	nsubj	_	SpaceAfter=No
+7	カイ	ka	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	ホトイ	hotuye	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+9	ヲ	or	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+10	タ	ta	ADP	格助詞	_	9	case	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	9	case	_	SpaceAfter=No
+12	ケレ	kere	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ボコ	pok	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+14	ノ	no	SCONJ	後置副詞	_	13	case	_	SpaceAfter=No
+15	ウタシハ	utaspa	ADV	副詞	_	18	advmod	_	SpaceAfter=No
+16	ヒリカ	pirka	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	レンカ	irenka	NOUN	名詞	_	18	obj	_	SpaceAfter=No
+18	ウコウルシユツケ	u-koorsutke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+19	クニ子	kunine	SCONJ	接続助詞	_	18	mark	_	SpaceAfter=No
+20	ナ	na	PART	終助詞	_	18	discourse	_	SpaceAfter=No
+
