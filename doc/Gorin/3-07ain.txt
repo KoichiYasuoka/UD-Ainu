@@ -20,11 +20,11 @@
 19	ヤツカヱキ	yakkayki	SCONJ	接続詞	_	15	mark	_	SpaceAfter=No
 20	ヲヘカ	owpeka	VERB	自動詞	_	21	amod	_	SpaceAfter=No
 21	ケウトモ	kewtumu	NOUN	名詞	_	22	obj	_	SpaceAfter=No
-22	コロ	kor	VERB	自動詞	_	27	advcl	_	SpaceAfter=No
+22	コロ	kor	VERB	自動詞	_	26	advcl	_	SpaceAfter=No
 23	ワ	wa	SCONJ	接続助詞	_	22	mark	_	SpaceAfter=No
-24	ヤヱラムノ	yayramu-no	ADV	副詞	_	25	amod	_	SpaceAfter=No
-25	マツ	mat	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
-26	ウヱトレン	uweturen	ADV	副詞	_	27	advmod	_	SpaceAfter=No
+24	ヤヱラムノ	yayramu-no	ADV	副詞	_	26	advmod	_	SpaceAfter=No
+25	マツ	mat	NOUN	名詞	_	26	nsubj	_	SpaceAfter=No
+26	ウヱトレン	uweturen	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
 27	シノツ	sinot	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
 28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
 29	モシマ	mosma	DET	連体詞	_	30	det	_	SpaceAfter=No
@@ -37,4 +37,3 @@
 36	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
 37	クニ子	kunine	SCONJ	接続助詞	_	36	mark	_	SpaceAfter=No
 38	ナ	na	PART	終助詞	_	36	discourse	_	SpaceAfter=No
-
