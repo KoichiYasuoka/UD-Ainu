@@ -1,0 +1,8 @@
+# text = されば朋友のみにあらず
+1	されば	されば	CCONJ	接続詞	_	5	cc	_	SpaceAfter=No
+2	朋友	朋友	NOUN	名詞-普通名詞-一般	_	5	obl	_	SpaceAfter=No
+3	のみ	のみ	ADP	助詞-副助詞	_	2	case	_	SpaceAfter=No
+4	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+5	あら	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+6	ず	ず	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+
