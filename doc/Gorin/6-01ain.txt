@@ -1,0 +1,33 @@
+# text = ヱ子トヱタツカフセツアワシノクルアヌンケフ子アワシヨンタク子ワラムシヤクウタレイバカシクニヱレンカブリタンベモシマウワイノベリノクンベイサマルヱ子
+1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	トヱタ	toyta	VERB	他動詞	_	9	advcl	_	SpaceAfter=No
+3	ツカフ	cikap	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	セツ	set	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
+5	アワ	awa	CCONJ	接続詞	_	7	cc	_	SpaceAfter=No
+6	シノ	sino	DET	連体詞	_	7	det	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	4	appos	_	SpaceAfter=No
+8	ア	a=	PART	人称接辞	_	9	expl	_	SpaceAfter=No
+9	ヌンケ	nunuke	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	フ	p	NOUN	形式名詞	_	30	advcl	_	SpaceAfter=No
+11	子	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	アワ	awa	CCONJ	接続詞	_	19	cc	_	SpaceAfter=No
+13	シヨン	sion	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	タク	tak	NOUN	名詞	_	19	obj	_	SpaceAfter=No
+15	子	ne	ADP	格助詞	_	14	case	_	SpaceAfter=No
+16	ワ	wa	SCONJ	接続助詞	_	14	case	_	SpaceAfter=No
+17	ラムシヤク	eramusarak	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	ウタレ	utar	NOUN	名詞	_	14	conj	_	SpaceAfter=No
+19	イバカシ	ipakasnu	VERB	他動詞	_	22	acl	_	SpaceAfter=No
+20	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ヱレンカ	irenka	NOUN	名詞	_	22	nmod	_	SpaceAfter=No
+22	ブリ	puri	NOUN	名詞	_	30	nsubj	_	SpaceAfter=No
+23	タン	tan	DET	連体詞	_	24	det	_	SpaceAfter=No
+24	ベ	pe	NOUN	形式名詞	_	26	obl	_	SpaceAfter=No
+25	モシマ	mosma	SCONJ	後置副詞	_	24	case	_	SpaceAfter=No
+26	ウワイノベリノ	uwaynupuri-nu	VERB	自動詞	_	28	acl	_	SpaceAfter=No
+27	クン	kuni	AUX	助動詞	_	26	aux	_	SpaceAfter=No
+28	ベ	pe	NOUN	形式名詞	_	29	nsubj	_	SpaceAfter=No
+29	イサマ	isam	VERB	自動詞	_	30	acl	_	SpaceAfter=No
+30	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
+
