@@ -1,4 +1,4 @@
-# text = ルヱ子アナキ子ミチハボヲツタシユイウアヲヤアンクニヱクタクブルセワ子イバクノウボコルレンカヱ子アンクニタバンナ
+# text = ルヱ子アナキ子ミチハボヲツタシユイウアチヤアンクニヱクタクブルセワ子イバクノウボコルレンカヱ子アンクニタバンナ
 1	ルヱ	ruwe	NOUN	形式名詞	_	10	advcl	_	SpaceAfter=No
 2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
 3	アナキ子	anakne	ADP	副助詞	_	1	mark	_	SpaceAfter=No
@@ -7,7 +7,7 @@
 6	ヲツ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
 7	タ	ta	ADP	格助詞	_	6	case	_	SpaceAfter=No
 8	シユイ	suy	ADV	副詞	_	10	advmod	_	SpaceAfter=No
-9	ウアヲヤ	Uaoya	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+9	ウアチヤ	u-aca	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
 10	アン	an	VERB	自動詞	_	11	acl	_	SpaceAfter=No
 11	クニ	kuni	NOUN	形式名詞	_	12	nsubj	_	SpaceAfter=No
 12	ヱク	ek	VERB	自動詞	_	15	advcl	_	SpaceAfter=No

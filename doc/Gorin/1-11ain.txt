@@ -1,4 +1,4 @@
-# text = ヱ子キレルシユイクシユシシヤモイカシヤワシノウタレウボコロヘヱ子ヽウレシカクニ子クシユウアヲヤアリハアセカンビシ子ノミモシリカシタヱヨマレラマツ子シトモヌヒタバンナ
+# text = ヱ子キレルシユイクシユシシヤモイカシヤワシノウタレウボコロヘヱ子ヽウレシカクニ子クシユウアチヤアリハアセカンビシ子ノミモシリカシタヱヨマレラマツ子シトモヌヒタバンナ
 1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
 2	キレ	kire	VERB	他動詞	_	31	advcl	_	SpaceAfter=No
 3	ルシユイ	rusuy	AUX	助動詞	_	2	aux	_	SpaceAfter=No
@@ -15,7 +15,7 @@
 14	ウレシカ	u-resu-ka	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
 15	クニ子	kunine	SCONJ	接続助詞	_	14	mark	_	SpaceAfter=No
 16	クシユ	kusu	SCONJ	接続詞	_	14	mark	_	SpaceAfter=No
-17	ウアヲヤ	Uaoya	NOUN	名詞	_	22	obl	_	SpaceAfter=No
+17	ウアチヤ	u-aca	NOUN	名詞	_	22	obl	_	SpaceAfter=No
 18	アリ	ari	SCONJ	接続助詞	_	17	case	_	SpaceAfter=No
 19	ハアセ	páse	VERB	自動詞	_	20	amod	_	SpaceAfter=No
 20	カンビ	kanpi	NOUN	名詞	_	22	obj	_	SpaceAfter=No
