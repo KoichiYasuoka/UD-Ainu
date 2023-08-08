@@ -8,7 +8,7 @@
 7	いふ	言う	VERB	動詞-一般	_	8	acl	_	SpaceAfter=No
 8	一句	一句	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
 9	は	は	ADP	助詞-係助詞	_	8	case	_	SpaceAfter=No
-10	長く	長い	ADJ	形容詞-一般	_	13	advcl	_	SpaceAfter=No
+10	長く	長い	ADV	形容詞-一般	_	13	advmod	_	SpaceAfter=No
 11	夫婦	夫婦	NOUN	名詞-普通名詞-一般	_	13	nmod	_	SpaceAfter=No
 12	の	の	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
 13	掟	掟	NOUN	名詞-普通名詞-一般	_	0	root	_	SpaceAfter=No
