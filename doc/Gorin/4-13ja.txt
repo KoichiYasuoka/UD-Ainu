@@ -4,7 +4,7 @@
 3	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
 4	序	序	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	SpaceAfter=No
 5	あり	有る	VERB	動詞-非自立可能	_	7	advcl	_	SpaceAfter=No
-6	と	と	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+6	と	と	ADP	助詞-格助詞	_	5	mark	_	SpaceAfter=No
 7	いふ	言う	VERB	動詞-一般	_	8	acl	_	SpaceAfter=No
 8	一句	一句	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
 9	は	は	ADP	助詞-係助詞	_	8	case	_	SpaceAfter=No
