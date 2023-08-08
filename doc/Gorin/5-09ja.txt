@@ -1,0 +1,23 @@
+# text = しかる故に聖人朋友の間におゐて信の一字を不易の法と定めたまふ
+1	しかる	然る	VERB	動詞-一般	_	2	acl	_	SpaceAfter=No
+2	故	故	NOUN	名詞-普通名詞-副詞可能	_	20	obl	_	SpaceAfter=No
+3	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	聖人	聖人	NOUN	名詞-普通名詞-一般	_	20	nsubj	_	SpaceAfter=No
+5	朋友	朋友	NOUN	名詞-普通名詞-一般	_	7	nmod	_	SpaceAfter=No
+6	の	の	ADP	助詞-格助詞	_	5	case	_	SpaceAfter=No
+7	間	間	NOUN	名詞-普通名詞-副詞可能	_	9	obl	_	SpaceAfter=No
+8	に	に	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	おゐ	於く	VERB	動詞-一般	_	20	advcl	_	SpaceAfter=No
+10	て	て	SCONJ	助詞-接続助詞	_	9	mark	_	SpaceAfter=No
+11	信	信	NOUN	名詞-普通名詞-一般	_	14	nmod	_	SpaceAfter=No
+12	の	の	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	一	一	NUM	名詞-数詞	_	14	nummod	_	SpaceAfter=No
+14	字	字	NOUN	名詞-普通名詞-一般	_	20	obj	_	SpaceAfter=No
+15	を	を	ADP	助詞-格助詞	_	14	case	_	SpaceAfter=No
+16	不易	不易	NOUN	名詞-普通名詞-形状詞可能	_	18	nmod	_	SpaceAfter=No
+17	の	の	ADP	助詞-格助詞	_	16	case	_	SpaceAfter=No
+18	法	法	NOUN	名詞-普通名詞-一般	_	20	obl	_	SpaceAfter=No
+19	と	と	ADP	助詞-格助詞	_	18	case	_	SpaceAfter=No
+20	定め	定める	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+21	たまふ	給う	AUX	動詞-非自立可能	_	20	aux	_	SpaceAfter=No
+
