@@ -1,0 +1,22 @@
+# text = しかれば益友をもとめ損友を遠ざけ幾度も礼義正しく殷懃にして相交るべし
+1	しかれ	然る	VERB	動詞-一般	_	5	advcl	_	SpaceAfter=No
+2	ば	ば	CCONJ	助詞-接続助詞	_	1	cc	_	SpaceAfter=No
+3	益友	益友	NOUN	名詞-普通名詞-一般	_	5	obj	_	SpaceAfter=No
+4	を	を	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	もとめ	求める	VERB	動詞-一般	_	8	advcl	_	SpaceAfter=No
+6	損友	損友	NOUN	名詞-普通名詞-一般	_	8	obj	_	SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	遠ざけ	遠ざける	VERB	動詞-一般	_	19	advcl	_	SpaceAfter=No
+9	幾	幾	NUM	名詞-数詞	_	10	nummod	_	SpaceAfter=No
+10	度	度	NOUN	名詞-普通名詞-助数詞可能	_	19	obl	_	SpaceAfter=No
+11	も	も	ADP	助詞-係助詞	_	10	case	_	SpaceAfter=No
+12	礼義	礼義	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
+13	正しく	正しい	ADJ	形容詞-一般	_	14	advcl	_	SpaceAfter=No
+14	殷懃	慇懃	ADJ	名詞-普通名詞-形状詞可能	_	19	advcl	_	SpaceAfter=No
+15	に	なり	AUX	助動詞	_	14	aux	_	SpaceAfter=No
+16	し	為る	AUX	動詞-非自立可能	_	14	aux	_	SpaceAfter=No
+17	て	て	SCONJ	助詞-接続助詞	_	14	mark	_	SpaceAfter=No
+18	相	相	NOUN	接頭辞	_	19	compound	_	SpaceAfter=No
+19	交る	交わる	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+20	べし	べし	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+
