@@ -1,0 +1,17 @@
+# text = 所謂朋友に信ありといふ一句は長く朋友の掟たるべし
+1	所謂	所謂	DET	連体詞	_	8	det	_	SpaceAfter=No
+2	朋友	朋友	NOUN	名詞-普通名詞-一般	_	5	obl	_	SpaceAfter=No
+3	に	に	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	信	信	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	SpaceAfter=No
+5	あり	有る	VERB	動詞-非自立可能	_	7	advcl	_	SpaceAfter=No
+6	と	と	ADP	助詞-格助詞	_	5	mark	_	SpaceAfter=No
+7	いふ	言う	VERB	動詞-一般	_	8	acl	_	SpaceAfter=No
+8	一句	一句	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
+9	は	は	ADP	助詞-係助詞	_	8	case	_	SpaceAfter=No
+10	長く	長い	ADV	形容詞-一般	_	13	advmod	_	SpaceAfter=No
+11	朋友	朋友	NOUN	名詞-普通名詞-一般	_	13	nmod	_	SpaceAfter=No
+12	の	の	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	掟	掟	NOUN	名詞-普通名詞-一般	_	0	root	_	SpaceAfter=No
+14	たる	たり	AUX	助動詞	_	13	cop	_	SpaceAfter=No
+15	べし	べし	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+
