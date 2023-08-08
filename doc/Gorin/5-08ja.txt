@@ -4,7 +4,7 @@
 3	簡要	簡要	NOUN	名詞-普通名詞-一般	_	5	obj	_	SpaceAfter=No
 4	を	を	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
 5	いは	言う	VERB	動詞-一般	_	14	advcl	_	SpaceAfter=No
-6	ゞ	ば	CCONJ	助詞-接続助詞	_	5	cc	_	SpaceAfter=No
+6	ゞ	ば	CCONJ	助詞-接続助詞	_	5	mark	_	SpaceAfter=No
 7	朋友	朋友	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	SpaceAfter=No
 8	は	は	ADP	助詞-係助詞	_	7	case	_	SpaceAfter=No
 9	親疎	親疎	NOUN	名詞-普通名詞-一般	_	10	compound	_	SpaceAfter=No

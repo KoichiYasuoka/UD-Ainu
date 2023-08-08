@@ -1,6 +1,6 @@
 # text = しかれば益友をもとめ損友を遠ざけ幾度も礼義正しく殷懃にして相交るべし
 1	しかれ	然る	VERB	動詞-一般	_	5	advcl	_	SpaceAfter=No
-2	ば	ば	CCONJ	助詞-接続助詞	_	1	cc	_	SpaceAfter=No
+2	ば	ば	CCONJ	助詞-接続助詞	_	1	mark	_	SpaceAfter=No
 3	益友	益友	NOUN	名詞-普通名詞-一般	_	5	obj	_	SpaceAfter=No
 4	を	を	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
 5	もとめ	求める	VERB	動詞-一般	_	8	advcl	_	SpaceAfter=No
