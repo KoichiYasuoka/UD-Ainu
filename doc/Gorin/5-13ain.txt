@@ -1,0 +1,22 @@
+# text = ミツ子ワボウアチヤ子ワアレシカカモイヱヨコテウコヤヱニタヽクンシユイヲヒツタシアンヲシケアンクニヱラムヲカイテヤ
+1	ミツ	mici	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+2	子	ne	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	1	case	_	SpaceAfter=No
+4	ボ	po	NOUN	名詞	_	1	conj	_	SpaceAfter=No
+5	ウアチヤ	u-aca	NOUN	名詞	_	17	advcl	_	SpaceAfter=No
+6	子	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	ワ	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+8	アレシカ	ar-askay	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	カモイ	kamuy	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+10	ヱヨコテ	iyokte	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+11	ウコヤヱニタヽ	uko-yay-nitata	VERB	自動詞	_	17	advcl	_	SpaceAfter=No
+12	クン	kuni	AUX	助動詞	_	11	aux	_	SpaceAfter=No
+13	シユイ	suy	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+14	ヲヒツタ	opitta	SCONJ	後置副詞	_	17	advmod	_	SpaceAfter=No
+15	シアン	si-an	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+16	ヲシケ	uske	NOUN	形式名詞	_	17	nsubj	_	SpaceAfter=No
+17	アン	an	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+18	クニ	kuni	NOUN	形式名詞	_	19	obj	_	SpaceAfter=No
+19	ヱラムヲカイテ	eramuoka-te	VERB	他動詞	_	0	root	_	SpaceAfter=No
+20	ヤ	ya	PART	終助詞	_	19	discourse	_	SpaceAfter=No
+
