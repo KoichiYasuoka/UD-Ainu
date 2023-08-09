@@ -1,0 +1,8 @@
+# text = タブ子アンヱヌヽカシケシヨモ子ヤ
+1	タブ子	tapne	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	3	advcl	_	SpaceAfter=No
+3	ヱヌヽカシケ	inunukaski	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	シヨモ	somo	ADV	副詞	_	5	advmod	_	SpaceAfter=No
+5	子	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+6	ヤ	ya	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+

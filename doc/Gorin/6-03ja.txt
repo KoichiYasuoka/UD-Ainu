@@ -1,0 +1,6 @@
+# text = またかなしからずや
+1	また	又	CCONJ	接続詞	_	2	cc	_	SpaceAfter=No
+2	かなしから	悲しい	ADJ	形容詞-一般	_	0	root	_	SpaceAfter=No
+3	ず	ず	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	や	や	PART	助詞-終助詞	_	2	mark	_	SpaceAfter=No
+
