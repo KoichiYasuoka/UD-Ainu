@@ -1,9 +1,9 @@
 # text = レンカフリアナキ子アシキ子ヱキン子ウヱメキテ
 1	レンカ	irenka	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
-2	フリ	puri	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+2	フリ	puri	NOUN	名詞	_	7	obl	_	SpaceAfter=No
 3	アナキ子	anakne	ADP	副助詞	_	2	case	_	SpaceAfter=No
 4	アシキ子	asikne	NUM	数詞	_	5	nummod	_	SpaceAfter=No
-5	ヱキン	ikir	NOUN	名詞	_	7	obl	_	SpaceAfter=No
+5	ヱキン	ikir	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
 6	子	ne	ADP	格助詞	_	5	case	_	SpaceAfter=No
 7	ウヱメキテ	u-eymek-te	VERB	自動詞	_	0	root	_	SpaceAfter=No
 
