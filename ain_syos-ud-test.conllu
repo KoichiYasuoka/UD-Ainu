@@ -763,7 +763,7 @@
 14	tapne	tapne	ADV	副詞	_	13	conj	_	_
 15	ne	ne	DET	連体詞	_	16	det	_	SpaceAfter=No
 16	katuhu	katu	NOUN	名詞	_	17	obj	_	_
-17	eisoitak	e-isoitak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	eisoitak	eysoytak	VERB	他動詞	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	記号	_	17	punct	_	_
 
 # sent_id = SYOS_1_74-78
@@ -2154,7 +2154,7 @@
 20	kamui	kamuy	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
 21	utar	utar	NOUN	名詞	_	23	obj	_	_
 22	chi	ci=	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
-23	koisoitak	ko-isoytak	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
+23	koisoitak	koysoytak	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
 24	a	a	AUX	助動詞	_	23	aux	_	SpaceAfter=No
 25	,	,	PUNCT	記号	_	23	punct	_	_
 26	ainu	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
