@@ -1092,7 +1092,7 @@
 28	ㇷ゚	p	NOUN	形式名詞	_	0	root	_	_
 29	ネ	ne	AUX	デアル動詞	_	28	cop	_	_
 30	ナ	na	PART	終助詞	_	28	discourse	_	SpaceAfter=No
-31	.	.	PUNCT	記号	_	28	punct	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	28	punct	_	_
 
 # text = チセ オㇱケタ ウロㇰロッキ シオイナネ イレスキ カムイ オレン トゥキリキンテ アンキ カネ エコテカムイ コオンカミ アンキ ルウェタパンナ.
 
