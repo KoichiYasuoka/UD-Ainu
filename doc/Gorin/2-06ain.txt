@@ -12,7 +12,7 @@
 11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
 12	アン	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
 13	キ	ki	AUX	助動詞	_	12	aux	_	SpaceAfter=No
-14	ブ	p	NOUN	形式名詞	_	15	nsubj	_	SpaceAfter=No
+14	ブ	-p	PART	接尾辞	_	15	nsubj	_	SpaceAfter=No
 15	シヨヤフケリ	si-eyapkir	VERB	自動詞	_	18	acl	_	SpaceAfter=No
 16	シヨモ	somo	ADV	副詞	_	17	advmod	_	SpaceAfter=No
 17	キ	ki	AUX	助動詞	_	15	aux	_	SpaceAfter=No

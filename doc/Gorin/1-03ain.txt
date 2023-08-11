@@ -33,7 +33,7 @@
 32	ヤヱカト	yaykata	ADV	副詞	_	34	advmod	_	SpaceAfter=No
 33	フシノ	upsino	ADV	副詞	_	34	advmod	_	SpaceAfter=No
 34	ヱキ	iki	VERB	自動詞	_	35	acl	_	SpaceAfter=No
-35	ブ	p	NOUN	形式名詞	_	43	advcl	_	SpaceAfter=No
+35	ブ	-p	PART	接尾辞	_	43	advcl	_	SpaceAfter=No
 36	子	ne	AUX	デアル動詞	_	35	cop	_	SpaceAfter=No
 37	クシユ	kusu	SCONJ	接続助詞	_	35	mark	_	SpaceAfter=No
 38	アチヤ	áca	NOUN	名詞	_	42	nsubj	_	SpaceAfter=No

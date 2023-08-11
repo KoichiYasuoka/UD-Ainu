@@ -8,7 +8,7 @@
 7	クル	kur	NOUN	名詞	_	4	appos	_	SpaceAfter=No
 8	ア	a=	PART	人称接辞	_	9	expl	_	SpaceAfter=No
 9	ヌンケ	nunuke	VERB	他動詞	_	10	acl	_	SpaceAfter=No
-10	フ	p	NOUN	形式名詞	_	30	advcl	_	SpaceAfter=No
+10	フ	-p	PART	接尾辞	_	30	advcl	_	SpaceAfter=No
 11	子	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
 12	アワ	awa	CCONJ	接続詞	_	19	cc	_	SpaceAfter=No
 13	シヨン	sion	NOUN	名詞	_	14	nmod	_	SpaceAfter=No

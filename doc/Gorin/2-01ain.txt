@@ -30,7 +30,7 @@
 29	ヱ子ヽ	enene	ADV	副詞	_	31	advmod	_	SpaceAfter=No
 30	ヤツカイキ	yakkayki	SCONJ	接続詞	_	31	advmod	_	SpaceAfter=No
 31	シコ	siko	VERB	自動詞	_	32	acl	_	SpaceAfter=No
-32	ブ	p	NOUN	形式名詞	_	33	nsubj	_	SpaceAfter=No
+32	ブ	-p	PART	接尾辞	_	33	nsubj	_	SpaceAfter=No
 33	ルヱ	ruwe	NOUN	形式名詞	_	40	advcl	_	SpaceAfter=No
 34	子	ne	AUX	デアル動詞	_	33	cop	_	SpaceAfter=No
 35	クシユ	kusu	SCONJ	接続詞	_	33	mark	_	SpaceAfter=No

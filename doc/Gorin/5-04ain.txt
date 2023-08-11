@@ -4,7 +4,7 @@
 3	アナキ子	anakne	ADP	副助詞	_	2	mark	_	SpaceAfter=No
 4	アニ	ani	SCONJ	後置副詞	_	2	mark	_	SpaceAfter=No
 5	ヱキ	iki	VERB	自動詞	_	6	amod	_	SpaceAfter=No
-6	フ	p	NOUN	形式名詞	_	7	nmod	_	SpaceAfter=No
+6	フ	-p	PART	接尾辞	_	7	nmod	_	SpaceAfter=No
 7	カ	ka	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
 8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
 9	シヨアフケリ	si-eyapkir	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
