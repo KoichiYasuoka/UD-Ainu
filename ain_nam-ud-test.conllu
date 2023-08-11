@@ -53,7 +53,7 @@
 2	アリ	ari	SCONJ	接続助詞	_	1	case	_	_
 3	ア	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
 4	イェ	ye	VERB	他動詞	_	5	acl	_	_
-5	ㇷ゚	p	NOUN	形式名詞	_	0	root	_	_
+5	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
 6	アナㇰネ	anakne	ADP	副助詞	_	5	case	_	_
 
 # text = 「アイヌ」アリ アン イポロセ イッケウェ アナㇰネ シサㇺ オッタ 「人間」アリ アイェ ㇷ゚ ネ ワ アイヌ ウタㇻ アレコ ヒ タ カ アエイワンケ.
@@ -74,7 +74,7 @@
 15	アリ	ari	SCONJ	接続助詞	_	13	case	_	_
 16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
 17	イェ	ye	VERB	他動詞	_	18	acl	_	_
-18	ㇷ゚	p	NOUN	形式名詞	_	29	advcl	_	_
+18	ㇷ゚	-p	PART	接尾辞	_	29	advcl	_	_
 19	ネ	ne	AUX	デアル動詞	_	18	cop	_	_
 20	ワ	wa	SCONJ	接続助詞	_	18	mark	_	_
 21	アイヌ	aynu	NOUN	名詞	_	22	compound	_	_
@@ -445,7 +445,7 @@
 7	ア	a=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
 8	イ	i=	PART	人称接辞	_	9	iobj	_	SpaceAfter=No
 9	コレ	kore	VERB	他動詞	_	10	acl	_	_
-10	ㇷ゚	p	NOUN	形式名詞	_	18	advcl	_	_
+10	ㇷ゚	-p	PART	接尾辞	_	18	advcl	_	_
 11	ネ	ne	AUX	デアル動詞	_	10	cop	_	_
 12	ワ	wa	SCONJ	接続助詞	_	10	mark	_	_
 13	イ	i=	PART	人称接辞	_	14	det	_	SpaceAfter=No
@@ -645,7 +645,7 @@
 4	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
 5	イ	i=	PART	人称接辞	_	6	obj	_	SpaceAfter=No
 6	イェ	ye	VERB	他動詞	_	7	acl	_	_
-7	ㇷ゚	p	NOUN	形式名詞	_	16	nsubj	_	_
+7	ㇷ゚	-p	PART	接尾辞	_	16	nsubj	_	_
 8	アナㇰネ	anakne	ADP	副助詞	_	7	case	_	_
 9	シオホㇿマニウ	siohormaniw	NOUN	名詞	_	13	obl	_	_
 10	パㇰノ	pakno	SCONJ	後置副詞	_	9	case	_	_
@@ -682,7 +682,7 @@
 18	ㇰ	k=	PART	人称接辞	_	19	nsubj	_	_
 19	オリワㇰ	oriwak	VERB	他動詞	_	21	acl	_	_
 20	キ	ki	AUX	助動詞	_	19	aux	_	_
-21	ㇷ゚	p	NOUN	形式名詞	_	0	root	_	_
+21	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
 22	ネ	ne	AUX	デアル動詞	_	21	cop	_	SpaceAfter=No
 23	.	.	PUNCT	記号	_	21	punct	_	SpaceAfter=No
 
@@ -741,7 +741,7 @@
 22	ウシ	usi	NOUN	形式名詞	_	23	nsubj	_	_
 23	アン	an	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
 24	キ	ki	VERB	他動詞	_	25	acl	_	_
-25	ㇷ゚	p	NOUN	形式名詞	_	27	nsubj	_	_
+25	ㇷ゚	-p	PART	接尾辞	_	27	nsubj	_	_
 26	カ	ka	ADP	副助詞	_	25	case	_	_
 27	ソモ	somo	ADV	副詞	_	0	root	_	_
 28	ネ	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
@@ -810,7 +810,7 @@
 3	タ	ta	ADP	格助詞	_	2	case	_	_
 4	ア	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
 5	エイワンケ	eywanke	VERB	他動詞	_	6	acl	_	SpaceAfter=No
-6	ㇷ゚	p	NOUN	形式名詞	_	7	nmod	_	_
+6	ㇷ゚	-p	PART	接尾辞	_	7	nmod	_	_
 7	オッ	or	NOUN	位置名詞	_	19	obl	_	SpaceAfter=No
 8	タ	ta	ADP	格助詞	_	7	case	_	_
 9	カ	ka	ADP	副助詞	_	7	case	_	_
@@ -1049,7 +1049,7 @@
 6	イサㇺ	isam	VERB	自動詞	_	9	acl	_	_
 7	ア	a	AUX	助動詞	_	6	aux	_	SpaceAfter=No
 8	ネ	ne	AUX	助動詞	_	6	aux	_	SpaceAfter=No
-9	ㇷ゚	p	NOUN	形式名詞	_	11	obj	_	_
+9	ㇷ゚	-p	PART	接尾辞	_	11	obj	_	_
 10	チ	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
 11	カㇻ	kar	VERB	他動詞	_	12	acl	_	_
 12	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
@@ -1089,7 +1089,7 @@
 25	アン	an=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
 26	キ	ki	VERB	他動詞	_	28	acl	_	SpaceAfter=No
 27	クニ	kuni	AUX	助動詞	_	26	aux	_	SpaceAfter=No
-28	ㇷ゚	p	NOUN	形式名詞	_	0	root	_	_
+28	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
 29	ネ	ne	AUX	デアル動詞	_	28	cop	_	_
 30	ナ	na	PART	終助詞	_	28	discourse	_	SpaceAfter=No
 31	.	.	PUNCT	記号	_	28	punct	_	_

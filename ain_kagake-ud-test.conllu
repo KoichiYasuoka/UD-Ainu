@@ -83,7 +83,7 @@
 32	ヤヱカト	yaykata	ADV	副詞	_	34	advmod	_	SpaceAfter=No
 33	フシノ	upsino	ADV	副詞	_	34	advmod	_	SpaceAfter=No
 34	ヱキ	iki	VERB	自動詞	_	35	acl	_	SpaceAfter=No
-35	ブ	p	NOUN	形式名詞	_	43	advcl	_	SpaceAfter=No
+35	ブ	-p	PART	接尾辞	_	43	advcl	_	SpaceAfter=No
 36	子	ne	AUX	デアル動詞	_	35	cop	_	SpaceAfter=No
 37	クシユ	kusu	SCONJ	接続助詞	_	35	mark	_	SpaceAfter=No
 38	アチヤ	áca	NOUN	名詞	_	42	nsubj	_	SpaceAfter=No
@@ -419,7 +419,7 @@
 29	ヱ子ヽ	enene	ADV	副詞	_	31	advmod	_	SpaceAfter=No
 30	ヤツカイキ	yakkayki	SCONJ	接続詞	_	31	advmod	_	SpaceAfter=No
 31	シコ	siko	VERB	自動詞	_	32	acl	_	SpaceAfter=No
-32	ブ	p	NOUN	形式名詞	_	33	nsubj	_	SpaceAfter=No
+32	ブ	-p	PART	接尾辞	_	33	nsubj	_	SpaceAfter=No
 33	ルヱ	ruwe	NOUN	形式名詞	_	40	advcl	_	SpaceAfter=No
 34	子	ne	AUX	デアル動詞	_	33	cop	_	SpaceAfter=No
 35	クシユ	kusu	SCONJ	接続詞	_	33	mark	_	SpaceAfter=No
@@ -577,7 +577,7 @@
 11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
 12	アン	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
 13	キ	ki	AUX	助動詞	_	12	aux	_	SpaceAfter=No
-14	ブ	p	NOUN	形式名詞	_	15	nsubj	_	SpaceAfter=No
+14	ブ	-p	PART	接尾辞	_	15	nsubj	_	SpaceAfter=No
 15	シヨヤフケリ	si-eyapkir	VERB	自動詞	_	18	acl	_	SpaceAfter=No
 16	シヨモ	somo	ADV	副詞	_	17	advmod	_	SpaceAfter=No
 17	キ	ki	AUX	助動詞	_	15	aux	_	SpaceAfter=No
