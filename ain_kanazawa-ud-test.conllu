@@ -2597,12 +2597,13 @@
 # text_ja = これはもーいらない
 # text = Tambeta ne shomo k'eiwange.
 # text_kana = タンペ タネ ソモ ケイワンケ（ㇰ=エイワンケ）.
-1	Tambe	tanpe	NOUN	名詞	_	5	obj	_	SpaceAfter=No
-2	ta ne	tane	ADV	副詞	_	5	advmod	_	_
-3	shomo	somo	ADV	副詞	_	5	advmod	_	_
-4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
-5	eiwange	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	記号	_	5	punct	_	_
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	be	pe	NOUN	形式名詞	_	6	obj	_	SpaceAfter=No
+3	ta ne	tane	ADV	副詞	_	6	advmod	_	_
+4	shomo	somo	ADV	副詞	_	6	advmod	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	eiwange	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = イル（射）
 # text = Tukan; ak.
@@ -3710,15 +3711,14 @@
 # text_ja = 明日一處に魚を取りに行こー
 # text = Nishatta ukoiramno chep koiki e paye an ro.
 # text_kana = ニサッタ チェㇷ゚コイキエパイェ=アン ロ.
-1	Nishatta	nisatta	ADV	副詞	_	2	advmod	_	_
-2	ukoiram	ukoiram	ADV	副詞	_	5	advcl	_	SpaceAfter=No
-3	no	no	SCONJ	接続助詞	_	2	mark	_	_
-4	chep	cep	NOUN	名詞	_	5	obj	_	_
-5	koiki	koyki	VERB	他動詞	_	6	advcl	_	_
-6	e paye	epaye	VERB	他動詞	_	0	root	_	_
-7	an	=an	PART	人称接辞	_	6	nsubj	_	_
-8	ro	ro	PART	終助詞	_	6	discourse	_	SpaceAfter=No
-9	.	.	PUNCT	記号	_	6	punct	_	_
+1	Nishatta	nisatta	ADV	副詞	_	4	advmod	_	_
+2	ukoiramno	uko-iram-no	ADV	副詞	_	4	advmod	_	_
+3	chep	cep	NOUN	名詞	_	4	obj	_	_
+4	koiki	koyki	VERB	他動詞	_	5	ccomp	_	_
+5	e paye	epaye	VERB	他動詞	_	0	root	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	ro	ro	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
 
 # text_ja = 何處が一番よろしかろーか
 # text = Hinakoro iyotta pirika ruwe an?
@@ -3756,7 +3756,7 @@
 6	eashiri	easir	ADV	副詞	_	7	advmod	_	_
 7	oka	oka	VERB	自動詞	_	8	acl	_	_
 8	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
-9	ne	ne 	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+9	ne	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	8	punct	_	_
 
 # text_ja = 網はありますか
@@ -5007,14 +5007,14 @@
 # text_ja = オトナシイ（柔順）
 # text = Itak nu no.
 # text_kana = イタㇰヌノ
-1	Itak nu no	itaknuno	ADV	副詞	_	0	root	_	SpaceAfter=No
+1	Itak nu no	itak-nu-no	ADV	副詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # page = 42
 # text_ja = 温柔志くして予の云ふ事をせよ
 # text = Itak nu no wa ku yep ne no ki.
 # text_kana = イタㇰヌノ ワ ク=イェ ㇷ゚ ネ ノ キ.
-1	Itak nu no	itaknuno	ADV	副詞	_	4	advmod	_	_
+1	Itak nu no	itak-nu-no	ADV	副詞	_	4	advmod	_	_
 2	wa	wa	SCONJ	接続助詞	_	1	case	_	_
 3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
 4	ye	ye	VERB	他動詞	_	5	acl	_	SpaceAfter=No
@@ -5073,7 +5073,7 @@
 # text_ja = オナジ（同）
 # text = Ukorachi no an; Uneno an.
 # text_kana = ウコラチノ アン; ウネノ アン
-1	Ukorachi no	ukoracino	ADV	副詞	_	2	advmod	_	_
+1	Ukorachi no	koraci-no	ADV	副詞	_	2	advmod	_	_
 2	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 3	;	;	PUNCT	記号	_	2	punct	_	_
 4	Uneno	uneno	ADV	副詞	_	5	advmod	_	_
@@ -5467,7 +5467,7 @@
 # text_ja = オル（織）
 # text = Atush kara.
 # text_kana = アットゥㇱカㇻ
-1	Atush kara	attuskar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Atush kara	attus-kar	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = オル
@@ -7082,7 +7082,7 @@
 # text_ja = カナシイ（悲）
 # text = Yaisambe pokash.
 # text_kana = ヤイサンペポカㇱ
-1	Yaisambe pokash	yaysampepokas	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Yaisambe pokash	yay-sanpe-pokas	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = カニ（蟹）
@@ -7172,7 +7172,7 @@
 # text_ja = ガマンスル（我慢）
 # text = Yaikeutum saurere.
 # text_kana = ヤイケウトゥㇺサウレレ
-1	Yaikeutum saurere	yaykewtumsawrere	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Yaikeutum saurere	yaykewtum-sawrere	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = もー我慢が出來ぬ
@@ -7186,7 +7186,7 @@
 6	ponno	ponno	ADV	副詞	_	9	advmod	_	_
 7	ka	ka	ADP	副助詞	_	6	case	_	_
 8	ku	ku=	PART	人称接辞	_	9	nsubj	_	_
-9	yaikeutum saurere	yaykewtumsawrere	VERB	自動詞	_	11	ccomp	_	_
+9	yaikeutum saurere	yaykewtum-sawrere	VERB	自動詞	_	11	ccomp	_	_
 10	shomo	somo	ADV	副詞	_	11	advmod	_	_
 11	ki	ki	VERB	他動詞	_	0	root	_	_
 12	nangon	nankor	AUX	助動詞	_	11	aux	_	SpaceAfter=No
@@ -7439,7 +7439,7 @@
 # text_ja = 噛切る
 # text = Note tuiba.
 # text_kana = ノテトゥイパ
-1	Note tuiba	notetuypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+1	Note tuiba	not-etuypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 其犬は惡い犬故氣を付けなければ噛まれるぞ
@@ -7610,7 +7610,7 @@
 # text_ja = 輕くする
 # text = Koshne no kara.
 # text_kana = コㇱネノ カㇻ
-1	Koshne no	kosneno	ADV	副詞	_	2	advmod	_	_
+1	Koshne no	kosne-no	ADV	副詞	_	2	advmod	_	_
 2	kara	kar	VERB	他動詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
@@ -7725,8 +7725,9 @@
 1	Pet	pet	NOUN	名詞	_	2	nmod	_	_
 2	put	put	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 3	;	;	PUNCT	記号	_	2	punct	_	_
-4	Pet oshoro	pet'osoro	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
-5	.	.	PUNCT	記号	_	4	punct	_	_
+4	Pet	pet	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+5	oshoro	osoro	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = 川向
 # text = Pet-kushta; Pet-ikushta.
@@ -7848,7 +7849,7 @@
 # text_ja = 川を越る
 # text = Pet kashui; Pet turash.
 # text_kana = ペッカスイ; ペットゥラシ
-1	Pet kashui	petkasuy	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Pet kashui	petkasu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	;	;	PUNCT	記号	_	1	punct	_	_
 3	Pet turash	petturasi	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
@@ -8704,8 +8705,10 @@
 2	;	;	PUNCT	記号	_	1	punct	_	_
 3	Ikakushtep	ikakustep	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 4	;	;	PUNCT	記号	_	3	punct	_	_
-5	Ishoshuturu kushtep	isoseturukustep	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
-6	.	.	PUNCT	記号	_	5	punct	_	_
+5	Ishoshuturu	sosuturu	NOUN	位置名詞	_	6	obj	_	_
+6	kushtep	kuste	VERB	他動詞	_	7	acl	_	SpaceAfter=No
+7	p	-p	PART	接尾辞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
 
 # text_ja = 下着
 # text = Pokna-mip.
@@ -8832,7 +8835,7 @@
 # text = Tando shiri me an.
 # text_kana = タント シㇼメアン.
 1	Tando	tanto	ADV	副詞	_	2	advmod	_	_
-2	shiri me an	sirmean	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+2	shiri me an	sir-mean	VERB	完全動詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 今日は實に好天氣だ
@@ -8877,8 +8880,9 @@
 # text_ja = キョーダイ（兄弟）
 # text = Iriwak utari.
 # text_kana = イㇼワㇰウタリ
-1	Iriwak utari	irwak'utari	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Iriwak	irwak	NOUN	名詞	_	2	nmod	_	_
+2	utari	utari	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 私は兄弟に遇ひ度思ふ
 # text = K'utari k'eshikarun.
@@ -8960,7 +8964,7 @@
 # text_ja = 噛切
 # text = Note tuyba.
 # text_kana = ノテトゥイパ
-1	Note tuyba	notetuypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+1	Note tuyba	not-etuypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = キレーナ（奇麗）
@@ -8976,7 +8980,7 @@
 # text_ja = 奇麗にする
 # text = Ashkanne no kara.
 # text_kana = アㇱカンネノ カㇻ
-1	Ashkanne no	askanneno	ADV	副詞	_	2	advmod	_	_
+1	Ashkanne no	askanne-no	ADV	副詞	_	2	advmod	_	_
 2	kara	kar	VERB	他動詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
@@ -9071,10 +9075,12 @@
 # text_ja = 草を苅り始た
 # text = Shirotuye mose oashi an.
 # text_kana = シㇼオトゥイェ モセオアシ=アン
-1	Shirotuye	sir'otuye	VERB	自動詞	_	2	advcl	_	_
-2	mose oashi	móseoasi	VERB	自動詞	_	0	root	_	_
-3	an	=an	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	記号	_	2	punct	_	_
+1	Shir	sir	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	otuye	otuye	VERB	他動詞	_	3	advcl	_	_
+3	mose	móse	VERB	自動詞	_	4	ccomp	_	_
+4	oashi	oasi	VERB	他動詞	_	0	root	_	_
+5	an	=an	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = 毎日天氣がよいからだろー
 # text = Kesto kesto shukus pirika wa kusu nangoro.
@@ -9358,17 +9364,18 @@
 # text = Tan kere ku kema eush eaikap yakun ataye shomo ku kar na.
 # text_kana = タン ケㇾ ク=ケマエウㇱ エアイカㇷ゚ ヤクン アタイェ ソモ ク=カㇻ ナ.
 1	Tan	tan	DET	連体詞	_	2	det	_	_
-2	kere	ker	NOUN	名詞	_	4	obj	_	_
-3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
-4	kema eush	kemaeus	VERB	自動詞	_	10	advcl	_	_
-5	eaikap	eaykap	AUX	助動詞	_	4	aux	_	_
-6	yakun	yakun	SCONJ	接続助詞	_	4	mark	_	_
-7	ataye	ataye	NOUN	名詞	_	10	obj	_	_
-8	shomo	somo	ADV	副詞	_	10	advmod	_	_
-9	ku	ku=	PART	人称接辞	_	10	nsubj	_	_
-10	kar	kar	VERB	他動詞	_	0	root	_	_
-11	na	na	PART	終助詞	_	10	discourse	_	SpaceAfter=No
-12	.	.	PUNCT	記号	_	10	punct	_	_
+2	kere	ker	NOUN	名詞	_	5	nsubj	_	_
+3	ku	ku=	PART	人称接辞	_	4	det	_	_
+4	kema	kema	NOUN	名詞	_	5	obj	_	_
+5	eush	eus	VERB	他動詞	_	11	advcl	_	_
+6	eaikap	eaykap	AUX	助動詞	_	5	aux	_	_
+7	yakun	yakun	SCONJ	接続助詞	_	5	mark	_	_
+8	ataye	ataye	NOUN	名詞	_	11	obj	_	_
+9	shomo	somo	ADV	副詞	_	11	advmod	_	_
+10	ku	ku=	PART	人称接辞	_	11	nsubj	_	_
+11	kar	kar	VERB	他動詞	_	0	root	_	_
+12	na	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
 
 # page = 78
 # text_ja = この靴はあまり小さい
@@ -10250,10 +10257,11 @@
 # text_ja = 腋毛
 # text = Yatupok numa; Yatu-ush-numa.
 # text_kana = ヤトゥポㇰヌマ; ヤトゥウㇱヌマ
-1	Yatupok numa	yatupoknuma	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	;	;	PUNCT	記号	_	1	punct	_	_
-3	Yatu-ush-numa	yatuusnuma	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
-4	.	.	PUNCT	記号	_	1	punct	_	_
+1	Yatupok	yátupok	NOUN	名詞	_	2	nmod	_	_
+2	numa	numa	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Yatu-ush-numa	yatuusnuma	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = 陰毛
 # text = Honuma.
@@ -10337,10 +10345,10 @@
 # text_ja = ケチンボ（吝人）
 # text = Ibe hunara guru; Yaiotupekare; Wen sambe koro guru.
 # text_kana = イペウナラ クㇽ
-1	Ibe hunara	ipeunara	VERB	自動詞	_	2	amod	_	_
+1	Ibe hunara	ipewnara	VERB	自動詞	_	2	amod	_	_
 2	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
 3	;	;	PUNCT	記号	_	2	punct	_	_
-4	Yaiotupekare	yay'otupekare	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+4	Yaiotupekare	yay-otupekare	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
 5	;	;	PUNCT	記号	_	4	punct	_	_
 6	Wen	wen	VERB	自動詞	_	7	amod	_	_
 7	sambe	sanpe	NOUN	名詞	_	8	obj	_	_
@@ -10440,7 +10448,7 @@
 # text_ja = ケンカスル（喧嘩）
 # text = Sakayo kara.
 # text_kana = サカヨカㇻ
-1	Sakayo kara	sakayokar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Sakayo kara	sákayokar	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 何故に喧嘩するか
@@ -10449,7 +10457,7 @@
 1	Hemanda	hemanta	NOUN	名詞	_	4	obl	_	_
 2	gusu	kusu	SCONJ	後置副詞	_	1	case	_	_
 3	e	e=	PART	人称接辞	_	4	nsubj	_	_
-4	sakayo kara	sakayokar	VERB	自動詞	_	5	acl	_	_
+4	sakayo kara	sákayokar	VERB	自動詞	_	5	acl	_	_
 5	hawe	hawe	NOUN	形式名詞	_	6	nsubj	_	_
 6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	記号	_	6	punct	_	_
@@ -11665,13 +11673,14 @@
 # page = 97
 # text_ja = 明日魚を取に行きませんか
 # text = Nishatta ukoiramno chep koyki e paye an ro.
-# text_kana = ニサッタ ウコイラㇺノ チェㇷ゚コイキエパイェ=アン ロ.
-1	Nishatta	nisatta	ADV	副詞	_	3	advmod	_	_
-2	ukoiramno	ukoyramno	ADV	副詞	_	3	advmod	_	_
-3	chep koyki e paye	cepkoykiepaye	VERB	自動詞	_	0	root	_	_
-4	an	=an	PART	人称接辞	_	3	nsubj	_	_
-5	ro	ro	PART	終助詞	_	3	discourse	_	SpaceAfter=No
-6	.	.	PUNCT	記号	_	3	punct	_	_
+1	Nishatta	nisatta	ADV	副詞	_	4	advmod	_	_
+2	ukoiramno	uko-iram-no	ADV	副詞	_	4	advmod	_	_
+3	chep	cep	NOUN	名詞	_	4	obj	_	_
+4	koiki	koyki	VERB	他動詞	_	5	ccomp	_	_
+5	e paye	epaye	VERB	他動詞	_	0	root	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	ro	ro	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
 
 # text_ja = 行きましよー
 # text = K'arapa kusu ne.
@@ -11988,7 +11997,7 @@
 # text_kana = タント クネイワ シㇼメアン.
 1	Tando	tanto	ADV	副詞	_	3	advmod	_	_
 2	kunneiwa	kuneywa	ADV	副詞	_	3	advmod	_	_
-3	shiri me an	sirmean	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+3	shiri me an	sir-mean	VERB	完全動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = 寒いから火の傍へ御座りください
@@ -13543,7 +13552,7 @@
 # text = Uweepakita shiri mem an, onuman anak sambe-shituri an nangoro.
 # text_kana = ウウェエパキタ シㇼメアン, オヌマン アナㇰ サンペシトゥリ=アン ナンコㇿ.
 1	Uweepakita	uweepakita	ADV	副詞	_	2	advmod	_	_
-2	shiri mem an	sirmean	VERB	完全動詞	_	6	advcl	_	SpaceAfter=No
+2	shiri mem an	sir-mean	VERB	完全動詞	_	6	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	記号	_	2	punct	_	_
 4	onuman	onuman	NOUN	名詞	_	6	obl	_	_
 5	anak	anak	ADP	副助詞	_	4	case	_	_
@@ -31666,7 +31675,7 @@
 # text = Yakun ukoiramno paye an.
 # text_kana = ヤクン, ウトゥラノ パイェ=アン.
 1	Yakun	yakun	SCONJ	接続助詞	_	3	advmod	_	_
-2	ukoiramno	uturano	ADV	副詞	_	3	advmod	_	_
+2	ukoiramno	uko-iram-no	ADV	副詞	_	3	advmod	_	_
 3	paye	paye	VERB	自動詞	_	0	root	_	_
 4	an	=an	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	3	punct	_	_
