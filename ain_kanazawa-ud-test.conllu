@@ -6667,7 +6667,7 @@
 6	nangoro	nankor	AUX	助動詞	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	5	punct	_	_
 
-# text_ja = れ前はろー云ふけども雲は濃くなつて來る
+# text_ja = お前はそー云ふけども雲は濃くなつて來る
 # text = Tap ne e itak koroka nishkuru ironne wa ek wa.
 # text_kana = タㇷ゚ネ エ=イタㇰ コㇿカ ニㇱクㇽ イロンネ ワ エㇰ ワ.
 1	Tap ne	tapne	ADV	副詞	_	3	advmod	_	_
@@ -32514,7 +32514,7 @@
 3	kari	kari	SCONJ	後置副詞	_	2	case	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	2	punct	_	_
 
-# text_ja = 私よりれ前は大きい
+# text_ja = 私よりお前は大きい
 # text = En akkari e poro ruwe ne.
 # text_kana = エン=アッカリ エ=ポロ ルウェ ネ.
 1	En	en=	PART	人称接辞	_	4	obl	_	_
