@@ -6866,8 +6866,9 @@
 # text_ja = 卅
 # text = Wan e hotne.
 # text_kana = ワンエトゥホッネ
-1	Wan e hotne	wan'etuhotne	NUM	数詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Wan	wan	NUM	数詞	_	2	nummod	_	_
+2	e hotne	e-tuhotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 四十
 # text = Tu hotne.
