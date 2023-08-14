@@ -6895,8 +6895,9 @@
 # text_ja = 七十
 # text = Wan e ine hotne.
 # text_kana = ワンエイネホッネ
-1	Wan e ine hotne	wan'einehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Wan	wan	NUM	数詞	_	2	nummod	_	_
+2	e ine hotne	e-inehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 八十
 # text = Ine hotne.
@@ -6908,8 +6909,9 @@
 # text_ja = 九十
 # text = Wan e ashikne hotne.
 # text_kana = ワンエアシㇰネホッネ
-1	Wan e ashikne hotne	wan'easiknehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Wan	wan	NUM	数詞	_	2	nummod	_	_
+2	e ashikne hotne	e-asikne-hotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 百
 # text = Asikne hotne.
