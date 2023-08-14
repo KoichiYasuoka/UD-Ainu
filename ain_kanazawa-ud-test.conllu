@@ -1272,14 +1272,15 @@
 # text = Aeuko ese ap akannakara eaikap na.
 # text_kana = ア=エウコヘセ ア ㇷ゚ ア=カンナカㇻ エアイカㇷ゚ ナ.
 1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
-2	euko ese	eukohese	VERB	他動詞	_	4	acl	_	_
+2	euko ese	e-uko-hese	VERB	他動詞	_	4	acl	_	_
 3	a	a	AUX	助動詞	_	2	aux	_	SpaceAfter=No
-4	p	-p	PART	接尾辞	_	6	obj	_	_
-5	a	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
-6	kannakara	kannakar	VERB	他動詞	_	0	root	_	_
-7	eaikap	eaykap	AUX	助動詞	_	6	aux	_	_
-8	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
-9	.	.	PUNCT	記号	_	6	punct	_	_
+4	p	-p	PART	接尾辞	_	7	obj	_	_
+5	a	a=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+6	kanna	kanna	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+7	kara	kar	VERB	他動詞	_	0	root	_	_
+8	eaikap	eaykap	AUX	助動詞	_	7	aux	_	_
+9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
 
 # text_ja = アラレ（霰）
 # text = Kaukau.
