@@ -5797,14 +5797,13 @@
 # text = Wan chomba e rehotne chomba oma ruwe ne.
 # text_kana = ワン チョンパ オマ ルウェ ネ.
 1	Wan	wan	NUM	数詞	_	2	nummod	_	_
-2	chomba	compa	NOUN	名詞	_	6	nsubj	_	_
-3	e	e-	PART	接頭辞	_	4	fixed	_	_
-4	rehotne	rehotne	NUM	数詞	_	5	nummod	_	_
-5	chomba	compa	NOUN	名詞	_	2	conj	_	_
-6	oma	oma	VERB	他動詞	_	7	acl	_	_
-7	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
-8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	記号	_	7	punct	_	_
+2	chomba	compa	NOUN	名詞	_	4	nmod	_	_
+3	e rehotne	e-rehotne	NUM	数詞	_	4	nummod	_	_
+4	chomba	compa	NOUN	名詞	_	5	nsubj	_	_
+5	oma	oma	VERB	他動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = これは何ですか
 # text = Tambe nepta an?
@@ -6880,16 +6879,18 @@
 # text_ja = 五十
 # text = Wan e re hotne.
 # text_kana = ワンエレホッネ
-1	Wan e re hotne	wan'erehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Wan	wan	NUM	数詞	_	2	nummod	_	_
+2	e re hotne	e-rehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 五十二
 # text = Tu ikashma wan e re hotne.
 # text_kana = トゥ イカㇱマ ワンエレホッネ
 1	Tu	tu	NUM	数詞	_	2	nummod	_	_
-2	ikashma	ikasma	VERB	自動詞	_	3	amod	_	_
-3	wan e re hotne	wan'erehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	記号	_	3	punct	_	_
+2	ikashma	ikasma	VERB	自動詞	_	4	amod	_	_
+3	wan	wan	NUM	数詞	_	4	nummod	_	_
+4	e re hotne	e-rehotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = 七十
 # text = Wan e ine hotne.
@@ -7911,9 +7912,9 @@
 # text_ja = 三十艘あります
 # text = Wambe e tuhot chip an ruwe ne.
 # text_kana = ワンペ エトゥホッ チㇷ゚ アン ルウェ ネ.
-1	Wambe	wampe	NUM	数詞	_	4	nummod	_	_
-2	e	e-	PART	接頭辞	_	3	fixed	_	_
-3	tuhot	tuhot	NUM	数詞	_	1	conj	_	_
+1	Wam	wan	NUM	数詞	_	2	nummod	_	SpaceAfter=No
+2	be	pe	NOUN	形式名詞	_	4	nmod	_	_
+3	e tuhot	e-tuhot	NUM	数詞	_	4	nummod	_	_
 4	chip	cip	NOUN	名詞	_	5	nsubj	_	_
 5	an	an	VERB	自動詞	_	6	acl	_	_
 6	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
@@ -23991,14 +23992,14 @@
 # text = Hontomo e rep.
 # text_kana = ホントㇺ エレㇷ゚
 1	Hontomo	hontom	NOUN	位置名詞	_	2	nmod	_	_
-2	e rep	erep	NUM	数詞	_	0	root	_	SpaceAfter=No
+2	e rep	e-rep	NUM	数詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 一ッ半
 # text = Hontomo e tup.
 # text_kana = ホントㇺ エトゥㇷ゚
 1	Hontomo	hontom	NOUN	位置名詞	_	2	nmod	_	_
-2	e tup	etup	NUM	数詞	_	0	root	_	SpaceAfter=No
+2	e tup	e-tup	NUM	数詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 肴半分
