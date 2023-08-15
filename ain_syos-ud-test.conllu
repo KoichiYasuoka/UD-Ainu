@@ -232,7 +232,7 @@
 53	chorpok	corpok	NOUN	位置名詞	_	55	obl	_	_
 54	chi	ci=	PART	人称接辞	_	55	nsubj	_	SpaceAfter=No
 55	kushte	kuste	VERB	他動詞	_	61	acl	_	_
-56	shi	si-	PART	人称接辞	_	59	iobj	_	SpaceAfter=No
+56	shi	si-	PART	接頭辞	_	59	iobj	_	SpaceAfter=No
 57	enka	enka	NOUN	位置名詞	_	59	obl	_	_
 58	chi	ci=	PART	人称接辞	_	59	nsubj	_	SpaceAfter=No
 59	kushte	kuste	VERB	他動詞	_	55	conj	_	SpaceAfter=No
