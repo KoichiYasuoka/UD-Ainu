@@ -1,0 +1,18 @@
+# text = 即天下の大路にして貴賤共に世をわたるの海道なり
+1	即	即ち	CCONJ	接続詞	_	15	cc	_	SpaceAfter=No
+2	天下	天下	NOUN	名詞-普通名詞-一般	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	大路	大路	NOUN	名詞-普通名詞-一般	_	15	advcl	_	SpaceAfter=No
+5	に	なり	AUX	助動詞	_	4	cop	_	SpaceAfter=No
+6	し	為る	AUX	動詞-非自立可能	_	4	aux	_	SpaceAfter=No
+7	て	て	SCONJ	助詞-接続助詞	_	4	mark	_	SpaceAfter=No
+8	貴賤	貴賎	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	SpaceAfter=No
+9	共	共	NOUN	名詞-普通名詞-一般	_	13	obl	_	SpaceAfter=No
+10	に	に	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	世	世	NOUN	名詞-普通名詞-一般	_	13	obj	_	SpaceAfter=No
+12	を	を	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	わたる	渡る	VERB	動詞-非自立可能	_	15	acl	_	SpaceAfter=No
+14	の	の	ADP	助詞-格助詞	_	13	mark	_	SpaceAfter=No
+15	海道	海道	NOUN	名詞-普通名詞-一般	_	0	root	_	SpaceAfter=No
+16	なり	なり	AUX	助動詞	_	15	cop	_	SpaceAfter=No
+
