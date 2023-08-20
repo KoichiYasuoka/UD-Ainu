@@ -1,0 +1,14 @@
+# text = [ ] アナク子アニケウトモワヤヱコヘヘケレカキアシカルヱ子
+1	[ ]	Gorin	NOUN	名詞	_	6	obj	_	_
+2	アナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	アニ	ani	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+4	ケウトモ	kewtumu	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+5	ワ	wa	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	ヤヱコヘヘケレ	eyaykopepka-re	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+7	カ	ka	ADP	副助詞	_	6	mark	_	SpaceAfter=No
+8	キ	ku=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	アシ	as	VERB	自動詞	_	6	conj	_	SpaceAfter=No
+10	カ	ka	ADP	副助詞	_	9	mark	_	SpaceAfter=No
+11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+

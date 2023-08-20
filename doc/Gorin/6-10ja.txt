@@ -1,0 +1,11 @@
+# text = 五倫の我が心に根ざす事知るべし
+1	五倫	五倫	NOUN	名詞-普通名詞-一般	_	6	nsubj	_	SpaceAfter=No
+2	の	の	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	我が	我が	DET	連体詞	_	4	det	_	SpaceAfter=No
+4	心	心	NOUN	名詞-普通名詞-サ変可能	_	6	obl	_	SpaceAfter=No
+5	に	に	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No
+6	根ざす	根差す	VERB	動詞-一般	_	7	acl	_	SpaceAfter=No
+7	事	事	NOUN	名詞-普通名詞-一般	_	8	obj	_	SpaceAfter=No
+8	知る	知る	VERB	動詞-一般	_	0	root	_	SpaceAfter=No
+9	べし	べし	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+

@@ -1,0 +1,26 @@
+# text = 鄙野の小民をして輟耕のいとまにこれを讀しめば十に一二も興起する者あらむん
+1	鄙野	鄙野	NOUN	名詞-普通名詞-形状詞可能	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
+3	小民	小民	NOUN	名詞-普通名詞-一般	_	5	obj	_	SpaceAfter=No
+4	を	を	ADP	助詞-格助詞	_	3	case	_	SpaceAfter=No
+5	し	為る	VERB	動詞-非自立可能	_	13	advcl	_	SpaceAfter=No
+6	て	て	SCONJ	助詞-接続助詞	_	5	mark	_	SpaceAfter=No
+7	輟耕	輟耕	PROPN	名詞-固有名詞-一般	_	9	nmod	_	SpaceAfter=No
+8	の	の	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	いとま	暇	NOUN	名詞-普通名詞-一般	_	13	obl	_	SpaceAfter=No
+10	に	に	ADP	助詞-格助詞	_	9	case	_	SpaceAfter=No
+11	これ	此れ	PRON	代名詞	_	13	obj	_	SpaceAfter=No
+12	を	を	ADP	助詞-格助詞	_	11	case	_	SpaceAfter=No
+13	讀	読む	VERB	動詞-一般	_	23	advcl	_	SpaceAfter=No
+14	しめ	しめる	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	ば	ば	CCONJ	助詞-接続助詞	_	13	mark	_	SpaceAfter=No
+16	十	十	NUM	名詞-数詞	_	18	nummod	_	SpaceAfter=No
+17	に	に	ADP	助詞-格助詞	_	16	case	_	SpaceAfter=No
+18	一二	一二	NUM	名詞-数詞	_	20	obl	_	SpaceAfter=No
+19	も	も	ADP	助詞-係助詞	_	18	case	_	SpaceAfter=No
+20	興起	興起	VERB	名詞-普通名詞-サ変可能	_	22	acl	_	SpaceAfter=No
+21	する	為る	AUX	動詞-非自立可能	_	20	aux	_	SpaceAfter=No
+22	者	者	NOUN	名詞-普通名詞-一般	_	23	nsubj	_	SpaceAfter=No
+23	あら	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+24	むん	む	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+
