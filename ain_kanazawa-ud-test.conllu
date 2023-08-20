@@ -8706,7 +8706,7 @@
 3	Ikakushtep	ikakustep	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 4	;	;	PUNCT	記号	_	3	punct	_	_
 5	Ishoshuturu	sosuturu	NOUN	位置名詞	_	6	obj	_	_
-6	kushtep	kuste	VERB	他動詞	_	7	acl	_	SpaceAfter=No
+6	kushte	kuste	VERB	他動詞	_	7	acl	_	SpaceAfter=No
 7	p	-p	PART	接尾辞	_	1	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	7	punct	_	_
 

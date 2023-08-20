@@ -949,7 +949,7 @@
 7	onkami	onkami	VERB	自動詞	_	11	ccomp	_	_
 8	rewan	re-wan	NUM	数詞	_	9	nummod	_	_
 9	onkami	onkami	VERB	自動詞	_	7	conj	_	_
-10	uka	uka	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+10	uka	uka	NOUN	位置名詞	_	11	iobj	_	SpaceAfter=No
 11	kushte	kuste	VERB	他動詞	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	記号	_	11	punct	_	_
 
