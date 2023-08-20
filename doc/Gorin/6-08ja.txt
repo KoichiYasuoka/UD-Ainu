@@ -1,0 +1,16 @@
+# text = もとより人のよくしがたき事を強て学ばしむるにあらず
+1	もとより	固より	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+2	人	人	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	よく	良く	ADV	副詞	_	5	advmod	_	SpaceAfter=No
+5	し	為る	VERB	動詞-非自立可能	_	7	acl	_	SpaceAfter=No
+6	がたき	難い	PART	接尾辞-形容詞的	_	5	aux	_	SpaceAfter=No
+7	事	事	NOUN	名詞-普通名詞-一般	_	10	obj	_	SpaceAfter=No
+8	を	を	ADP	助詞-格助詞	_	7	case	_	SpaceAfter=No
+9	強て	強いて	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	学ば	学ぶ	VERB	動詞-一般	_	13	advcl	_	SpaceAfter=No
+11	しむる	しめる	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+12	に	なり	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+13	あら	有る	VERB	動詞-非自立可能	_	0	root	_	SpaceAfter=No
+14	ず	ず	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+

@@ -1,0 +1,12 @@
+# text = 有親有義の有の字を翫味せず
+1	有親	有親	NOUN	名詞-普通名詞-一般	_	2	compound	_	SpaceAfter=No
+2	有義	有義	NOUN	名詞-普通名詞-一般	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	助詞-格助詞	_	2	case	_	SpaceAfter=No
+4	有	有	NOUN	名詞-普通名詞-一般	_	6	nmod	_	SpaceAfter=No
+5	の	の	ADP	助詞-格助詞	_	4	case	_	SpaceAfter=No
+6	字	字	NOUN	名詞-普通名詞-一般	_	8	obj	_	SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
+8	翫味	玩味	VERB	名詞-普通名詞-サ変可能	_	0	root	_	SpaceAfter=No
+9	せ	為る	AUX	動詞-非自立可能	_	8	aux	_	SpaceAfter=No
+10	ず	ず	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+

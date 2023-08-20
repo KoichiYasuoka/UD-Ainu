@@ -1,0 +1,18 @@
+# text = アチヤアンウコヤヱニタヽクンベカアンアンアリアンカンビヱランマカヽシカルンワ子ヤキ子
+1	アチヤ	áca	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+3	ウコヤヱニタヽ	uko-yay-nitata	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	クン	kuni	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	ベ	pe	NOUN	形式名詞	_	7	nsubj	_	SpaceAfter=No
+6	カ	ka	ADP	副助詞	_	5	case	_	SpaceAfter=No
+7	アン	an	VERB	自動詞	_	2	conj	_	SpaceAfter=No
+8	アン	an	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+9	アリ	ari	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
+10	アン	an	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+11	カンビ	kanpi	NOUN	名詞	_	13	obj	_	SpaceAfter=No
+12	ヱランマカヽ	irammakaka	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+13	シカルン	esikarun	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	ワ	wa	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	子	ne	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+16	ヤキ子	yakne	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+

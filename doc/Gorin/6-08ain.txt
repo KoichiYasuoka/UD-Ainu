@@ -1,0 +1,17 @@
+# text = アツハケワノシサモキアヱカブクンベアツカリノヱバカシクンベカソモ子
+1	アツハケ	atpake	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+2	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	シサモ	sisam	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	キ	ki	VERB	他動詞	_	6	ccomp	_	SpaceAfter=No
+5	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ヱカブ	ekap	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+7	クン	kuni	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	ベ	pe	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+9	アツカリノ	akkari-no	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	ヱバカシ	epakasnu	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+11	クン	kuni	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+12	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+13	カ	ka	ADP	副助詞	_	12	case	_	SpaceAfter=No
+14	ソモ	somo	ADV	副詞	_	15	advmod	_	SpaceAfter=No
+15	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+
