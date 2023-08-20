@@ -13,7 +13,7 @@
 12	ボウ	po	NOUN	名詞	_	18	iobj	_	SpaceAfter=No
 13	子	ne	ADP	格助詞	_	12	case	_	SpaceAfter=No
 14	ワ	wa	SCONJ	接続助詞	_	12	case	_	SpaceAfter=No
-15	ウワヱノコロ	uwaynukor	VERB	他動詞	_	16	amod	_	SpaceAfter=No
+15	ウワヱノコロ	uwaynukor	VERB	他動詞	_	16	acl	_	SpaceAfter=No
 16	クル	kur	NOUN	名詞	_	18	obj	_	SpaceAfter=No
 17	子	ne	DET	連体詞	_	18	nsubj	_	SpaceAfter=No
 18	レコレ	rékore	VERB	他動詞	_	0	root	_	SpaceAfter=No
