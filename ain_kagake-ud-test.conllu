@@ -1,6 +1,8 @@
 # doc = 五倫名義解(アイヌ語訳), 加賀家文書館, K3-21.
-# text_ja = 五倫名義解　
+# text_ja = 五倫名義解
 # text_ja = 父子有親
+
+# sent_id = Gorin1-01
 # text_ja = 天下にあらゆる人の品を分て五つにして五倫といふ
 # text = ベケレモシリクルカタアルシヤナシシヤモヱキリコロ子トバケタヲロウシテクンベアシキ子ヱキン子ウヱメキワ五倫アリバアセヱラマツヱツケウヱコロレクニルヱタハンナ
 1	ベケレ	peker	VERB	自動詞	_	2	amod	_	SpaceAfter=No
@@ -32,6 +34,7 @@
 27	タハン	tapan	AUX	デアル動詞	_	26	cop	_	SpaceAfter=No
 28	ナ	na	PART	終助詞	_	26	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-02
 # text_ja = 其上に教をつけて五教ともいふ也
 # text = 子アビアシケタウバカシカトナアウコラツアシキ子ヱキリ子
 1	子ア	néa	DET	連体詞	_	2	det	_	SpaceAfter=No
@@ -47,6 +50,7 @@
 11	ヱキリ	ikir	NOUN	名詞	_	0	root	_	SpaceAfter=No
 12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 
+# sent_id = Gorin1-03
 # text_ja = その内父母の子を生るは天地の萬物を生ずる道理より出て父子の倫定るなり
 # text = アワ子ワノトモケタミツハホ子クルアンテボウヘトクルヱアナキ子ニソロアンシリカタトヱアンクシユケライ子ブヱ子ヽヤツカイキヘトグルヱ子ナ子アビヤヱカトフシノヱキブ子クシユアチヤ子ワボウウカトコロルヱタバン
 1	アワ	awa	CCONJ	接続詞	_	12	cc	_	SpaceAfter=No
@@ -94,6 +98,7 @@
 43	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 44	タバン	tapan	AUX	デアル動詞	_	43	cop	_	SpaceAfter=No
 
+# sent_id = Gorin1-04
 # text_ja = 其教を立て父には慈といひ子には孝といふ
 # text = 子ワノヱバカシアンクシユアチヤ子ワヱシンヌヽカクルボウ子ワウワヱノコロクル子レコレ
 1	子	ne	DET	連体詞	_	3	obl	_	SpaceAfter=No
@@ -110,11 +115,12 @@
 12	ボウ	po	NOUN	名詞	_	18	iobj	_	SpaceAfter=No
 13	子	ne	ADP	格助詞	_	12	case	_	SpaceAfter=No
 14	ワ	wa	SCONJ	接続助詞	_	12	case	_	SpaceAfter=No
-15	ウワヱノコロ	uwaynukor	VERB	他動詞	_	16	amod	_	SpaceAfter=No
+15	ウワヱノコロ	uwaynukor	VERB	他動詞	_	16	acl	_	SpaceAfter=No
 16	クル	kur	NOUN	名詞	_	18	obj	_	SpaceAfter=No
 17	子	ne	DET	連体詞	_	18	nsubj	_	SpaceAfter=No
 18	レコレ	rékore	VERB	他動詞	_	0	root	_	SpaceAfter=No
 
+# sent_id = Gorin1-05
 # text_ja = 尤父をいへば母もその中に在と知るべし
 # text = ケアンナクアチヤコバクイタク子ノハボヲロシヘ子ワ子ヤツカヱキヱラムヲカイタンヘ子ナ
 1	ケ	ke	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
@@ -135,6 +141,7 @@
 16	子	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
 17	ナ	na	PART	終助詞	_	15	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-06
 # text_ja = 然るに父母たるもの子を愛するならば必教戒すべし
 # text = ヱ子アンヘクシユミツハボ子クルホウイツコヱ子ヽキワ子ヤキ子ウカ子ベカイバカシイチヤコクイキクンベ子ナ
 1	ヱ子	ene	ADV	副詞	_	2	advmod	_	_
@@ -163,6 +170,7 @@
 24	子	ne	AUX	デアル動詞	_	23	cop	_	_
 25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-07
 # text_ja = もし目前の愛におぼれて子を不義におちいらしむるは是禽犢の愛とて鳥獸の子を愛するには誠の愛にあらず
 # text = ヤツカヱキヤヱコヘヽケレシヤクノアリキン子コシラムシユイハヱ子ボウレシカカトヱコカツチヤマレイキカトアナキ子タンベウシヤチリウシユクウタレアニボヱレシユカト子ノアンテツカフヱ子ケマウシベウタレボウレシユカトシヤンノヱツコヱイキカトソモタバンナ
 1	ヤツカヱキ	yakkayki	SCONJ	接続助詞	_	3	advmod	_	SpaceAfter=No
@@ -214,6 +222,7 @@
 47	タバン	tapan	AUX	デアル動詞	_	45	cop	_	SpaceAfter=No
 48	ナ	na	PART	終助詞	_	45	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-08
 # text_ja = 又子たるものも衣食の養ひ朝夕の勤はいふに及ばずすべて身をつゝしみ父母の志にそむかざる様にすべし
 # text = シヤマタシシヤモボウ子ワアンヘイミヱベヤヱコアバフクン子ワヲノマンコロレンカイキカトシヨモヱヤツカラムアンナンコロルヱ子アワ子ブヲビツタヤヱ子トバケコヤヱラマツテヤヱラムレミチハボワア子イバカシタンヘヱテキカシバレクニ子ナ
 1	シヤマ	sama	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
@@ -260,6 +269,7 @@
 41	クニ子	kunine	SCONJ	接続助詞	_	40	mark	_	SpaceAfter=No
 42	ナ	na	PART	終助詞	_	40	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-09
 # text_ja = しからざれば誠の孝にあらず
 # text = シヨモヱ子キワ子ヤキ子シアンノボウアヱノコロ子カトソモタバン
 1	シヨモ	somo	ADV	副詞	_	3	advmod	_	SpaceAfter=No
@@ -275,6 +285,7 @@
 11	ソモ	somo	ADV	副詞	_	12	advmod	_	SpaceAfter=No
 12	タバン	tapan	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
 
+# sent_id = Gorin1-10
 # text_ja = 但其簡要をいふに父子は同氣一躰のものなればたがひに毛頭もへだてなく兔角に天性の親みを失はざるを本意とすべし
 # text = ケアンナク子ワノキワニノケウトモアナキ子ウボコロベアナキ子シ子サンヘトモシ子子トハケシリ子クシユウタシバ子フヲヤヲシケシヤクアリヱキン子ニソロワノランヱコヱンカラシヨモ子クシユヲヱラクニケウトモカシア子ラツチケクンベタバン
 1	ケ	ke	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
@@ -321,8 +332,9 @@
 41	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 42	タバン	tapan	DET	連体詞	_	41	cop	_	SpaceAfter=No
 
+# sent_id = Gorin1-11
 # text_ja = 然る故に聖人父子の間において親の一字を不易の法と定め給ふ
-# text = ヱ子キレルシユイクシユシシヤモイカシヤワシノウタレウボコロヘヱ子ヽウレシカクニ子クシユウアヲヤアリハアセカンビシ子ノミモシリカシタヱヨマレラマツ子シトモヌヒタバンナ
+# text = ヱ子キレルシユイクシユシシヤモイカシヤワシノウタレウボコロヘヱ子ヽウレシカクニ子クシユウアチヤアリハアセカンビシ子ノミモシリカシタヱヨマレラマツ子シトモヌヒタバンナ
 1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
 2	キレ	kire	VERB	他動詞	_	31	advcl	_	SpaceAfter=No
 3	ルシユイ	rusuy	AUX	助動詞	_	2	aux	_	SpaceAfter=No
@@ -339,7 +351,7 @@
 14	ウレシカ	u-resu-ka	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
 15	クニ子	kunine	SCONJ	接続助詞	_	14	mark	_	SpaceAfter=No
 16	クシユ	kusu	SCONJ	接続詞	_	14	mark	_	SpaceAfter=No
-17	ウアヲヤ	Uaoya	NOUN	名詞	_	22	obl	_	SpaceAfter=No
+17	ウアチヤ	u-aca	NOUN	名詞	_	22	obl	_	SpaceAfter=No
 18	アリ	ari	SCONJ	接続助詞	_	17	case	_	SpaceAfter=No
 19	ハアセ	páse	VERB	自動詞	_	20	amod	_	SpaceAfter=No
 20	カンビ	kanpi	NOUN	名詞	_	22	obj	_	SpaceAfter=No
@@ -357,8 +369,9 @@
 32	タバン	tapan	AUX	デアル動詞	_	31	cop	_	SpaceAfter=No
 33	ナ	na	PART	終助詞	_	31	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin1-12
 # text_ja = 所謂父母に親ありといふ一句は長く父子の掟たるべし
-# text = ルヱ子アナキ子ミチハボヲツタシユイウアヲヤアンクニヱクタクブルセワ子イバクノウボコルレンカヱ子アンクニタバンナ
+# text = ルヱ子アナキ子ミチハボヲツタシユイウアチヤアンクニヱクタクブルセワ子イバクノウボコルレンカヱ子アンクニタバンナ
 1	ルヱ	ruwe	NOUN	形式名詞	_	10	advcl	_	SpaceAfter=No
 2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
 3	アナキ子	anakne	ADP	副助詞	_	1	mark	_	SpaceAfter=No
@@ -367,7 +380,7 @@
 6	ヲツ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
 7	タ	ta	ADP	格助詞	_	6	case	_	SpaceAfter=No
 8	シユイ	suy	ADV	副詞	_	10	advmod	_	SpaceAfter=No
-9	ウアヲヤ	Uaoya	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+9	ウアチヤ	u-aca	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
 10	アン	an	VERB	自動詞	_	11	acl	_	SpaceAfter=No
 11	クニ	kuni	NOUN	形式名詞	_	12	nsubj	_	SpaceAfter=No
 12	ヱク	ek	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
@@ -386,6 +399,8 @@
 25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
 
 # text_ja = 君臣有義
+
+# sent_id = Gorin2-01
 # text_ja = 君臣上下の道は天の上に位し地の下に位する道理より起れり
 # text = アレシカカモイ子ワヱヲコテ子クルバセコシ子クニアンヘアナキ子ニソロタレクトコカモイアンクシユケラヱシリカ子モシリカシタ子フヱ子ヽヤツカイキシコブルヱ子クシユランマアレシカシリ子ルヱタハン
 1	アレシカ	ar-askay	VERB	自動詞	_	2	amod	_	SpaceAfter=No
@@ -430,6 +445,7 @@
 40	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 41	タハン	tapan	AUX	デアル動詞	_	40	cop	_	SpaceAfter=No
 
+# sent_id = Gorin2-02
 # text_ja = 人の分なければ人道も立ず故に君臣の倫を定るなり
 # text = シシヤモレコロベシヤバ子クルカアンアシクルカアンソモキワ子ヤキ子シシヤモブリランベテクアニコラツタンベクシユアレシカカモイ子ワイヨコテ子クルウカトコロルヱタバン
 1	シシヤモ	sisam	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
@@ -466,6 +482,7 @@
 32	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 33	タバン	tapan	DET	連体詞	_	32	cop	_	SpaceAfter=No
 
+# sent_id = Gorin2-03
 # text_ja = さて其教を立て君には仁といひ臣には忠といふ
 # text = シユイ子ワノヱバカシアシテアツテカモヱ子ワコシラムシユイハヱヨコテ子クルアナキ子ウヌヽカラ
 1	シユイ	suy	ADV	副詞	_	5	advmod	_	SpaceAfter=No
@@ -484,6 +501,7 @@
 14	アナキ子	anakne	ADP	副助詞	_	13	case	_	SpaceAfter=No
 15	ウヌヽカラ	ununuke-ar	VERB	自動詞	_	0	root	_	SpaceAfter=No
 
+# sent_id = Gorin2-04
 # text_ja = 君の仁といふはもとより人をあはれむ事なれども一通りの慈悲とのみ心得べからば只私なくしてあまねく下を利益するをいふなり
 # text = アツテカモイカタヨロケクンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
 1	アツテ	atte	VERB	他動詞	_	2	amod	_	SpaceAfter=No
@@ -536,6 +554,7 @@
 48	タハン	tapan	AUX	デアル動詞	_	47	cop	_	SpaceAfter=No
 49	ナ	na	PART	終助詞	_	47	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-05
 # text_ja = 又臣の忠といふも日夜勤労するのみをいふにあらず
 # text = シユイヱヨコテ子クルウワヱヌコルカトアナキ子シリベケレカリクン子レウシノ子ブヱキカトバテキコバケ子イタクカトカリソモタバン
 1	シユイ	suy	ADV	副詞	_	5	advmod	_	SpaceAfter=No
@@ -562,6 +581,7 @@
 22	ソモ	somo	ADV	副詞	_	23	advmod	_	SpaceAfter=No
 23	タバン	tapan	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
 
+# sent_id = Gorin2-06
 # text_ja = 只真実以て君に仕ひて奉公にうらおもてなきをいふなり
 # text = 子フ子ヤツカシアンヲシケコテアコロカモイレンカコロワアンキブシヨヤフケリシヨモキクニヱキクンベヱ子ハウキタハン
 1	子フ	nep	NOUN	名詞	_	6	advcl	_	SpaceAfter=No
@@ -589,6 +609,7 @@
 23	ハウキ	haw-ki	VERB	自動詞	_	0	root	_	SpaceAfter=No
 24	タハン	tapan	AUX	助動詞	_	23	aux	_	SpaceAfter=No
 
+# sent_id = Gorin2-07
 # text_ja = 但其簡要をいふに君臣はたがひに義を本道とすべし
 # text = ケアンナク子ワノラマツカシカモイアナキ子コツトノ子ワヱヨコテウタレバウコヤヱレンカヲベカレワ
 1	ケ	ke	INTJ	間投詞	_	15	discourse	_	SpaceAfter=No
@@ -608,6 +629,7 @@
 15	ヲベカレ	owpekare	VERB	他動詞	_	0	root	_	SpaceAfter=No
 16	ワ	wa	PART	終助詞	_	15	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-08
 # text_ja = 義は道理の曲尺をいふ也
 # text = ヤヱコニタタケウトモアナキ子ヲベカレンカセトクレクニツイキブシリレウヱカ子ヽルヱタバン
 1	ヤヱコニタタ	yay-konitata	VERB	他動詞	_	2	acl	_	SpaceAfter=No
@@ -625,6 +647,7 @@
 13	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 14	タバン	tapan	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
 
+# sent_id = Gorin2-09
 # text_ja = 君も此曲尺を以て臣をつかふべし
 # text = クシユアレシカカモイタンレウケカ子アニヱヨコテウタレユワンケクンヘ子ナ
 1	クシユ	kusu	SCONJ	接続詞	_	10	advmod	_	SpaceAfter=No
@@ -642,6 +665,7 @@
 13	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
 14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-10
 # text_ja = 上威勢にまかせてこの曲尺を破るべからず
 # text = シヤハ子クルコノブリヱツヽコヌヱ子タンレウケカ子ヱテキウヱンテレヤ
 1	 シヤハ子クル	sapanekur	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
@@ -656,6 +680,7 @@
 10	ウヱンテレ	wente-re	VERB	他動詞	_	0	root	_	SpaceAfter=No
 11	ヤ	ya	PART	終助詞	_	10	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-11
 # text_ja = 臣も此かねを以て君に仕ふまつるべし
 # text = ウタレ子ワ子ヤツカランマカ子ケウトモコンノコロカモイレンカコロナンコロナ
 1	ウタレ	utar	NOUN	名詞	_	8	advcl	_	SpaceAfter=No
@@ -673,6 +698,7 @@
 13	ナンコロ	nankor	AUX	助動詞	_	12	aux	_	SpaceAfter=No
 14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-12
 # text_ja = おのれが追従によりて此かねを枉べからず
 # text = アニカツチヤマケウトモコロワノタンレウケカ子ヱデキシノヱレクンベタバンナ
 1	アニ	ani	SCONJ	後置副詞	_	3	advmod	_	SpaceAfter=No
@@ -690,6 +716,7 @@
 13	タバン	tapan	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
 14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-13
 # text_ja = 然る故に聖人君臣の間におゐては義の一字を不易の法と定め給ふ
 # text = タンベクシユアワシノイカシウタレアレシカ子クルヱヨコテ子クルトモタウコヤヱニタタアリシ子カンビムシリカシケヲマイタカシカモイ子ウヲヤコテアンルヱ子ナ
 1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
@@ -726,6 +753,7 @@
 31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
 32	ナ	na	PART	終助詞	_	30	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin2-14
 # text_ja = 所謂君臣に義ありといふ一句は長く君臣の掟たるべし
 # text = ヱ子ヽアンベクシユニシハ子ワウタレケセウコヤヱラマツテケウトモ子イバクノカクンシンウコレンカコロクルケウトモカシア子ラツチケクンベタバンナ
 1	ヱ子ヽ	enene	ADV	副詞	_	2	advmod	_	SpaceAfter=N
@@ -739,7 +767,7 @@
 9	ケセ	kese	NOUN	位置名詞	_	5	conj	_	SpaceAfter=No
 10	ウコヤヱラマツテ	uko-yay-ramat-te	VERB	自動詞	_	11	acl	_	SpaceAfter=No
 11	ケウトモ	kewtumu	NOUN	名詞	_	23	nsubj	_	SpaceAfter=No
-12	子イ	ney	NOUN	名詞	_	23	obl	_	SpaceAfter=No
+12	子イ	ney	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
 13	バクノ	pakno	SCONJ	後置副詞	_	12	case	_	SpaceAfter=No
 14	カ	ka	ADP	副助詞	_	12	case	_	SpaceAfter=No
 15	クンシン	Kunsin	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
@@ -756,10 +784,12 @@
 25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
 
 # text_ja = 夫婦有別
+
+# sent_id = Gorin3-01
 # text_ja = 天に陰陽あれば人に夫婦あり
 # text = ニソロタチウブカモイレクトコトカモイアンルヱ子クシユ子アビカトコンノシシヤモヲツタウムレツクルアン
 1	ニソロ	nisor	NOUN	名詞	_	9	obl	_	SpaceAfter=No
-2	タ	ta	NOUN	名詞	_	1	case	_	SpaceAfter=No
+2	タ	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
 3	チウブ	cup	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
 4	カモイ	kamuy	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
 5	レク	rik	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
@@ -782,6 +812,7 @@
 22	クル	kur	NOUN	名詞	_	23	nsubj	_	SpaceAfter=No
 23	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 
+# sent_id = Gorin3-02
 # text_ja = 陰陽和合して萬物を生育すべし
 # text = メウンヲカケシリボフケクシユ子フ子ヤツカイキセトクワシコフナンコロルヱ子
 1	メ	me	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
@@ -799,6 +830,7 @@
 13	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 14	子	ne	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
 
+# sent_id = Gorin3-03
 # text_ja = 夫婦和合して子孫を生育す
 # text = ウムレツクルウコケウトモヒリカヤキ子ホウ子ワミツホウタレセベンケルヱタバン
 1	ウムレツ	umurek	VERB	自動詞	_	2	amod	_	SpaceAfter=No
@@ -816,6 +848,7 @@
 13	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 14	タバン	tapan	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
 
+# sent_id = Gorin3-04
 # text_ja = 天人一理と知るべし
 # text = タンベカントワノコバクンヲロシヘ子クニヱラムアンヤ
 1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
@@ -831,6 +864,7 @@
 10	ヱラムアン	eramuan	VERB	他動詞	_	0	root	_	SpaceAfter=No
 11	ヤ	ya	PART	終助詞	_	10	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin3-05
 # text_ja = 然るに陰陽は倡随とて陽は先立て陰を倡ひ陰はおくれて陽にしたがふ是又自然の道理也
 # text = タンベクシユメイ子ワホブケヨシトラアリレコロレワホブケチウブヲシケノアンテメウンチウブウトラアンチウブカモイモヱレカ子レクトコカモイバイ子ノヲマンタンベアナキ子ヱ子ヽアンコトマンヘ子ワ
 1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
@@ -878,6 +912,7 @@
 42	子	ne	AUX	デアル動詞	_	41	cop	_	SpaceAfter=No
 43	ワ	wa	PART	終助詞	_	41	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin3-06
 # text_ja = 其理に因て夫婦の倫を定るなり
 # text = 子アビレンカヱ子ウムレツクルウカトウヲヤコテルヱタバン
 1	子ア	néa	DET	連体詞	_	2	det	_	SpaceAfter=No
@@ -893,6 +928,7 @@
 11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 12	タバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 
+# sent_id = Gorin3-07
 # text_ja = されば夫は剛正とてつよく正しき徳を以て常に婦を倡ひかりにも容色に迷ふ心あるべからず
 # text = ケアンナクホクレコロヘアナキ子ヨフケヲヘカクルアンノレコレアンテ子フヲロシヘ子ワ子ヤツカヱキヲヘカケウトモコロワヤヱラムノマツウヱトレンシノツ子モシマウタレヲツタウヱシカビソモキクニ子ナ
 1	ケ	ke	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
@@ -916,11 +952,11 @@
 19	ヤツカヱキ	yakkayki	SCONJ	接続詞	_	15	mark	_	SpaceAfter=No
 20	ヲヘカ	owpeka	VERB	自動詞	_	21	amod	_	SpaceAfter=No
 21	ケウトモ	kewtumu	NOUN	名詞	_	22	obj	_	SpaceAfter=No
-22	コロ	kor	VERB	自動詞	_	27	advcl	_	SpaceAfter=No
+22	コロ	kor	VERB	自動詞	_	26	advcl	_	SpaceAfter=No
 23	ワ	wa	SCONJ	接続助詞	_	22	mark	_	SpaceAfter=No
-24	ヤヱラムノ	yayramu-no	ADV	副詞	_	25	amod	_	SpaceAfter=No
-25	マツ	mat	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
-26	ウヱトレン	uweturen	ADV	副詞	_	27	advmod	_	SpaceAfter=No
+24	ヤヱラムノ	yayramu-no	ADV	副詞	_	26	advmod	_	SpaceAfter=No
+25	マツ	mat	NOUN	名詞	_	26	nsubj	_	SpaceAfter=No
+26	ウヱトレン	uweturen	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
 27	シノツ	sinot	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
 28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
 29	モシマ	mosma	DET	連体詞	_	30	det	_	SpaceAfter=No
@@ -933,7 +969,7 @@
 36	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
 37	クニ子	kunine	SCONJ	接続助詞	_	36	mark	_	SpaceAfter=No
 38	ナ	na	PART	終助詞	_	36	discourse	_	SpaceAfter=No
-
+# sent_id = Gorin3-08
 # text_ja = 婦は貞静とて一筋に静なる徳を以て常に夫に随ひ聊寵愛にほこる事あるべからず
 # text = マツ子クルアナキ子キロヽラツチアワレコロワアリヱキン子ケウトモヲシロマレヤヱラムノホクレンカコロシユイホク子クルワヱツコヱ子ヽヱキテクシユイテキコヌブルクンヘ子ナ
 1	マツ	mat	NOUN	名詞	_	3	acl	_	SpaceAfter=No
@@ -969,6 +1005,7 @@
 31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
 32	ナ	na	PART	終助詞	_	30	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin3-09
 # text_ja = 但其簡要をいふに夫婦は和らきむつましきうちに男女の差別あるを本道とすべし
 # text = ケアンナク子ワラマツアナキ子ウムレツクルヱウコヒリカヤツカヱキブリアナキ子マカナンタコタツカヲツカイメノコヲビツカ子カアンルヱ子クシユヱ子ソモアンクニラムヲカイヤ
 1	ケ	ke	INTJ	間投詞	_	29	discourse	_	SpaceAfter=No
@@ -1002,6 +1039,7 @@
 29	ラムヲカイ	ramuoka	VERB	自動詞	_	0	root	_	SpaceAfter=No
 30	ヤ	ya	PART	終助詞	_	29	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin3-10
 # text_ja = 男は外を治め女は内を治め男は内ざまの遊びをこのまず女は男向の事いろはず
 # text = ヲツカイイラウケトハヲソンハイカイメノコツセシツカマヲツカイイテキヲヤメノココシライメノコイテキヲヤヲツカイウヱシカヒ
 1	ヲツカイ	okkayo	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
@@ -1022,6 +1060,7 @@
 16	ヲツカイ	okkayo	NOUN	名詞	_	17	obj	_	SpaceAfter=No
 17	ウヱシカヒ	u-esikari	VERB	他動詞	_	0	root	_	SpaceAfter=No
 
+# sent_id = Gorin3-11
 # text_ja = 只内外の差別みだりならざるを善とす
 # text = アリキン子ツセ子ワヲソンアンコロフリソモヱタラカイキクニアンヘアナキ子ヒリカルヱ子ナ
 1	アリキン子	earkinne	ADV	副詞	_	17	advmod	_	SpaceAfter=No
@@ -1044,6 +1083,7 @@
 18	子	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
 19	ナ	na	PART	終助詞	_	17	discourse	_	SpaceAfter=No
 
+# sent_id = Gorin3-12
 # text_ja = 然る故に聖人夫婦の間においては別の一字を不易の法と定め給ふ
 # text = ヱ子ヱキワクシユアワシノヱカシウタレウムレツクルウトソカイシンナイアリアンシ子カンビ子イバツクノイタツカシソモヲビツタカムイ子アヌウコアンテアンルヱタハン
 1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
@@ -1077,6 +1117,7 @@
 29	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 30	タハン	tapan	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
 
+# sent_id = Gorin3-13
 # text_ja = 所謂夫婦に別ありといふ一句は長く夫婦の掟たるべし
 # text = バクアンウムレツクルヲシケシンナイアリアンシ子イタク子イタハツクノウムレツコロカシウヲヤコツ子ナンコロルヱシアン子
 1	バク	pak	SCONJ	後置副詞	_	2	advmod	_	SpaceAfter=No
@@ -1103,4 +1144,1045 @@
 22	ルヱ	ruwe	NOUN	形式名詞	_	23	nsubj	_	SpaceAfter=No
 23	シアン	si-an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 24	子	ne	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+
+# text_ja = 長幼有序
+
+# sent_id = Gorin4-01
+# text_ja = 父母ありて子を生すれば先に生れたるを長とし後に生れたるを幼とす
+# text = ミチハボアンクシユヘトクルヱ子クシユホシケセベンケキアン子クルヨヲシセヘンケヘウレクル子ナ
+1	ミチ	mici	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
+2	ハボ	hápo	NOUN	名詞	_	1	conj	_	SpaceAfter=No
+3	アン	an	VERB	自動詞	_	5	advcl	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	ヘトク	hetuku	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+6	ルヱ	ruwe	NOUN	形式名詞	_	18	advcl	_	SpaceAfter=No
+7	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	クシユ	kusu	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+9	ホシケ	hoski	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	セ	se	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	ベンケ	penke	NOUN	位置名詞	_	13	nsubj	_	SpaceAfter=No
+12	キアン子	kiyanne	VERB	自動詞	_	13	amod	_	SpaceAfter=No
+13	クル	kur	NOUN	名詞	_	18	advcl	_	SpaceAfter=No
+14	ヨヲシ	iyos	ADV	副詞	_	15	advmod	_	SpaceAfter=No
+15	セ	se	VERB	他動詞	_	16	acl	_	SpaceAfter=No
+16	ヘンケ	penke	NOUN	位置名詞	_	18	nsubj	_	SpaceAfter=No
+17	ヘウレ	pewre	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	クル	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+19	子	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	ナ	na	PART	終助詞	_	18	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-02
+# text_ja = 兄弟といふも同事なるべし
+# text = ヱリヘ子クニアンコロカイナアウコラツ子ルヱタハンナ
+1	ヱリヘ	irpe	NOUN	名詞	_	3	acl	_	SpaceAfter=No
+2	子	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	クニ	kuni	NOUN	形式名詞	_	4	nsubj	_	SpaceAfter=No
+4	アン	an	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+5	コロ	kor	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	カイ	okay	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+7	ナ	na	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	ア	a=	PART	人称接辞	_	11	advcl	_	SpaceAfter=No
+9	ウコラツ	koraci	SCONJ	後置副詞	_	8	case	_	SpaceAfter=No
+10	子	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	タハン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	ナ	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-03
+# text_ja = もとより兄弟は同じく父母の遺躰を分て大切なるもの也
+# text = ツワシフワヱリワクウタレナイシ子ミツハボワノ子トハケウシヤライワコレカト子クシユア子ヤムクンベ子ナ
+1	ツワシ	otuwasi	VERB	他動詞	_	2	acl	_	SpaceAfter=No
+2	フ	-p	PART	接尾辞	_	12	advcl	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	2	case	_	SpaceAfter=No
+4	ヱリワク	irwak	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	ウタレ	utar	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+6	ナイ	na	SCONJ	接続助詞	_	5	case	_	SpaceAfter=No
+7	シ子	sine	NUM	数詞	_	8	nummod	_	SpaceAfter=No
+8	ミツ	mici	NOUN	名詞	_	12	obl	_	SpaceAfter=No
+9	ハボ	hápo	NOUN	名詞	_	8	conj	_	SpaceAfter=No
+10	ワノ	wano	ADP	格助詞	_	8	case	_	SpaceAfter=No
+11	子トハケ	netopake	NOUN	名詞	_	12	obj	_	SpaceAfter=No
+12	ウシヤライ	usaraye	VERB	他動詞	_	14	advcl	_	SpaceAfter=No
+13	ワ	wa	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	コレ	kore	VERB	他動詞	_	15	acl	_	SpaceAfter=No
+15	カト	katu	NOUN	形式名詞	_	19	advcl	_	SpaceAfter=No
+16	子	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
+17	クシユ	kusu	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+18-19	ア子ヤム	_	_	_	_	_	_	_	SpaceAfter=No
+18	アン	an=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	エヤㇺ	eyam	VERB	他動詞	_	21	acl	_	SpaceAfter=No
+20	クン	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+22	子	ne	AUX	デアル動詞	_	21	cop	_	SpaceAfter=No
+23	ナ	na	PART	終助詞	_	21	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-04
+# text_ja = 是によりて長幼の倫を立置て兄は弟を愛し弟は兄を敬ふを道とす
+# text = タンヘクシユキアン子クルヘウレクルアリウカトア子ウコアンテユボ子ワアキヲツタコシラムシユイバアキ子クルユビヲツタアヱノフリコロアナキ子シノボアンクニブリ子ナ
+1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ヘ	pe	NOUN	形式名詞	_	9	obl	_	SpaceAfter=No
+3	クシユ	kusu	SCONJ	接続詞	_	2	case	_	SpaceAfter=No
+4	キアン子	kiyanne	VERB	自動詞	_	5	amod	_	SpaceAfter=No
+5	クル	kur	NOUN	名詞	_	9	obj	_	SpaceAfter=No
+6	ヘウレ	pewre	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	5	conj	_	SpaceAfter=No
+8	アリ	ari	SCONJ	接続助詞	_	7	case	_	SpaceAfter=No
+9	ウ	o	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	カト	katu	NOUN	形式名詞	_	12	obj	_	SpaceAfter=No
+11-12	ア子ウコアンテ	_	_	_	_	_	_	_	SpaceAfter=No
+11	アン	an=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	エウコアンテ	e-uko-ante	VERB	他動詞	_	34	advcl	_	SpaceAfter=No
+13	ユボ	yupo	NOUN	名詞	_	19	nsubj	_	SpaceAfter=No
+14	子	ne	ADP	格助詞	_	13	case	_	SpaceAfter=No
+15	ワ	wa	SCONJ	接続助詞	_	13	case	_	SpaceAfter=No
+16	アキ	aki	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	ヲツ	or	NOUN	位置名詞	_	19	obj	_	SpaceAfter=No
+18	タ	ta	ADP	格助詞	_	17	case	_	SpaceAfter=No
+19	コシラムシユイバ	kosiramsuypa	VERB	他動詞	_	27	advcl	_	SpaceAfter=No
+20	アキ	aki	NOUN	名詞	_	22	acl	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	aux	_	SpaceAfter=No
+22	クル	kur	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
+23	ユビ	yup	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
+24	ヲツ	or	NOUN	位置名詞	_	27	obj	_	SpaceAfter=No
+25	タ	ta	ADP	格助詞	_	24	case	_	SpaceAfter=No
+26	ア	a=	PART	人称接辞	_	27	expl	_	SpaceAfter=No
+27	ヱノフリ	enupur	VERB	他動詞	_	34	csubj	_	SpaceAfter=No
+28	コロ	kor	SCONJ	接続助詞	_	27	mark	_	SpaceAfter=No
+29	アナキ子	anakne	ADP	副助詞	_	27	mark	_	SpaceAfter=No
+30	シノ	sino	DET	連体詞	_	31	det	_	SpaceAfter=No
+31	ボ	po	NOUN	名詞	_	32	nsubj	_	SpaceAfter=No
+32	アン	an	VERB	自動詞	_	34	acl	_	SpaceAfter=No
+33	クニ	kuni	AUX	助動詞	_	32	aux	_	SpaceAfter=No
+34	ブリ	puri	NOUN	名詞	_	0	root	_	SpaceAfter=No
+35	子	ne	AUX	デアル動詞	_	34	cop	_	SpaceAfter=No
+36	ナ	na	PART	終助詞	_	34	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-05
+# text_ja = 殊に父母死して後は父母のかたみとも見るべきは兄弟なり
+# text = ケアンナクミツハボラヱワヲカケタミツハボシリ子ウヌカラコトマンベアナキ子ヱルイリワクウタレバテキタバン
+1	ケ	ke	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+2	アンナク	anak	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ミツ	mici	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+4	ハボ	hápo	NOUN	名詞	_	3	conj	_	SpaceAfter=No
+5	ラヱ	ray	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+6	ワ	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	ヲカケ	okake	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	ミツ	mici	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+10	ハボ	hápo	NOUN	名詞	_	9	conj	_	SpaceAfter=No
+11	シリ	sir	NOUN	形式名詞	_	13	nsubj	_	SpaceAfter=No
+12	子	ne	ADP	格助詞	_	11	case	_	SpaceAfter=No
+13	ウヌカラ	unukar	VERB	自動詞	_	15	advcl	_	SpaceAfter=No
+14-15	コトマン	_	_	_	_	_	_	_	SpaceAfter=No
+14	コトㇺ	kotom	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+16	ベ	pe	NOUN	形式名詞	_	20	nsubj	_	SpaceAfter=No
+17	アナキ子	anakne	ADP	副助詞	_	16	case	_	SpaceAfter=No
+18	ヱル	ir	NOUN	名詞	_	20	nmod	_	SpaceAfter=No
+19	イリワク	irwak	NOUN	名詞	_	18	conj	_	SpaceAfter=No
+20	ウタレ	utar	NOUN	名詞	_	0	root	_	SpaceAfter=No
+21	バテキ	patek	SCONJ	後置副詞	_	20	case	_	SpaceAfter=No
+22	タバン	tapan	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+
+# sent_id = Gorin4-06
+# text_ja = 常に形顥のはなれざる如く思ひかはしてたがひに疎略にすべからず
+# text = ヤヱラムノウヱシヤマアヌワソモヲビツクニラコラムワウタシバウシヤヲシケヱテキコロ
+1	ヤヱラムノ	yayramu-no	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	ウヱ	uye	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	シヤマ	sama	NOUN	位置名詞	_	4	obj	_	SpaceAfter=No
+4	アヌ	anu	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+5	ワ	wa	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+6	ソモ	somo	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+7	ヲビツ	opitta	SCONJ	後置副詞	_	8	acl	_	SpaceAfter=No
+8	クニ	kuni	NOUN	形式名詞	_	10	nsubj	_	SpaceAfter=No
+9	ラ	ra	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+10	コ	kor	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+11	ラム	ramu	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+12	ワ	wa	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
+13	ウタシバ	utaspa	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+14	ウシヤ	usa	ADV	副詞	_	15	amod	_	SpaceAfter=No
+15	ヲシケ	uske	NOUN	形式名詞	_	17	obj	_	SpaceAfter=No
+16	ヱテキ	iteki	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	コロ	kor	VERB	他動詞	_	0	root	_	SpaceAfter=No
+
+# sent_id = Gorin4-07
+# text_ja = 但し其簡要をいはゞ兄弟は天倫とて始めて生れたるより天の定たる次第なればかりにも此次第をみだすべからず
+# text = ケアンナク子ワノシケウトモヱ子バツテアニヱリワクアナキ子ニシヨロワノコバクンテクシユアツハケタセベンケアヌヲロワノカントワノア子コアンテルヱ子クシユヱルカボカイタバンヱキリヱタラカイキノソモアンクニ子ナ
+1	ケ	ke	INTJ	間投詞	_	6	discourse	_	SpaceAfter=No
+2	アンナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+4	シケウトモ	si-kewtumu	NOUN	名詞	_	6	obj	_	SpaceAfter=No
+5	ヱ子	ene	ADV	副詞	_	6	advmod	_	SpaceAfter=No
+6	バツテ	pakte	VERB	他動詞	_	14	advcl	_	SpaceAfter=No
+7	アニ	ani	SCONJ	後置副詞	_	6	mark	_	SpaceAfter=No
+8	ヱリワク	irwak	NOUN	名詞	_	14	obj	_	SpaceAfter=No
+9	アナキ子	anakne	ADP	副助詞	_	8	case	_	SpaceAfter=No
+10	ニシヨロ	nisor	NOUN	名詞	_	12	nmod	_	SpaceAfter=No
+11	ワノ	wano	ADP	格助詞	_	10	case	_	SpaceAfter=No
+12-13	コバクン	_	_	_	_	_	_	_	SpaceAfter=No
+12	コパㇰ	kopak	NOUN	位置名詞	_	14	obl	_	SpaceAfter=No
+13	ウン	un	ADP	格助詞	_	12	case	_	SpaceAfter=No
+14	テ	te	VERB	他動詞	_	26	advcl	_	SpaceAfter=No
+15	クシユ	kusu	SCONJ	接続詞	_	14	mark	_	SpaceAfter=No
+16	アツハケ	atpake	NOUN	名詞	_	18	obl	_	SpaceAfter=No
+17	タ	ta	ADP	格助詞	_	16	case	_	SpaceAfter=No
+18	セ	se	VERB	他動詞	_	19	acl	_	SpaceAfter=No
+19	ベンケ	penke	NOUN	位置名詞	_	20	obj	_	SpaceAfter=No
+20	アヌ	anu	VERB	他動詞	_	21	acl	_	SpaceAfter=No
+21	ヲロ	oro	NOUN	位置名詞	_	26	obl	_	SpaceAfter=No
+22	ワノ	wano	ADP	格助詞	_	21	case	_	SpaceAfter=No
+23	カント	kanto	NOUN	名詞	_	26	obl	_	SpaceAfter=No
+24	ワノ	wano	ADP	格助詞	_	23	case	_	SpaceAfter=No
+25-26	ア子コアンテ	_	_	_	_	_	_	_	SpaceAfter=No
+25	アン	an=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	エコアンテ	e-ko-ante	VERB	他動詞	_	27	acl	_	SpaceAfter=No
+27	ルヱ	ruwe	NOUN	形式名詞	_	38	advcl	_	SpaceAfter=No
+28	子	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
+29	クシユ	kusu	SCONJ	接続詞	_	27	mark	_	SpaceAfter=No
+30	ヱルカ	iruka	ADV	副詞	_	35	advmod	_	SpaceAfter=No
+31	ボカイ	póka	ADP	副助詞	_	30	case	_	SpaceAfter=No
+32	タバン	tapan	DET	連体詞	_	33	det	_	SpaceAfter=No
+33	ヱキリ	ikir	NOUN	名詞	_	35	nsubj	_	SpaceAfter=No
+34	ヱタラカ	etarka	ADV	副詞	_	35	advmod	_	SpaceAfter=No
+35	イキ	iki	VERB	自動詞	_	38	advcl	_	SpaceAfter=No
+36	ノ	no	SCONJ	接続助詞	_	35	mark	_	SpaceAfter=No
+37	ソモ	somo	ADV	副詞	_	38	advmod	_	SpaceAfter=No
+38	アン	an	VERB	自動詞	_	39	acl	_	SpaceAfter=No
+39	クニ	kuni	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+40	子	ne	AUX	デアル動詞	_	39	cop	_	SpaceAfter=No
+41	ナ	na	PART	終助詞	_	39	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-08
+# text_ja = 譬ば寵愛の子たりといへとも同腹の兄を差置て家督を傳ふべからず
+# text = ケアンナクヱツコヱ子ヽボウ子ワ子ヤツカヱキシ子ハボコロユビ子アンベアリヱマカワツセシツカマレソモキクンベタバン
+1	ケ	ke	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+2	アンナク	anak	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ヱツコ	etoko	NOUN	位置名詞	_	5	nmod	_	SpaceAfter=No
+4	ヱ子ヽ	enene	ADV	副詞	_	5	advmod	_	SpaceAfter=No
+5	ボウ	po	NOUN	名詞	_	21	advcl	_	SpaceAfter=No
+6	子	ne	ADP	格助詞	_	5	case	_	SpaceAfter=No
+7	ワ	wa	SCONJ	接続助詞	_	5	case	_	SpaceAfter=No
+8	子	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+9	ヤツカヱキ	yakkayki	SCONJ	接続詞	_	5	mark	_	SpaceAfter=No
+10	シ子	sine	NUM	数詞	_	11	nummod	_	SpaceAfter=No
+11	ハボ	hápo	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+12	コロ	kor	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ユビ	yupi	NOUN	名詞	_	15	nsubj	_	SpaceAfter=No
+14	子	ne	ADP	格助詞	_	13	case	_	SpaceAfter=No
+15	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+16	ベ	pe	NOUN	形式名詞	_	18	obj	_	SpaceAfter=No
+17	アリ	ari	SCONJ	接続助詞	_	16	case	_	SpaceAfter=No
+18	ヱマカ	emaka	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+19	ワ	wa	SCONJ	接続助詞	_	18	mark	_	SpaceAfter=No
+20	ツセ	cise	NOUN	名詞	_	21	obj	_	SpaceAfter=No
+21	シツカマレ	sikkasmare	VERB	他動詞	_	23	ccomp	_	SpaceAfter=No
+22	ソモ	somo	ADV	副詞	_	23	advmod	_	SpaceAfter=No
+23	キ	ki	VERB	他動詞	_	25	acl	_	SpaceAfter=No
+24	クン	kuni	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+26	タバン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
+
+# sent_id = Gorin4-09
+# text_ja = また何程才智ある弟にても兄に先立事あるべからず
+# text = シユイ子コナ子フアシカヱベアキ子ワ子ヤツカユビ子クルヱトコウシクニアナキ子ソモアンベ子ナ
+1	シユイ	suy	ADV	副詞	_	20	advmod	_	SpaceAfter=No
+2	子コナ	nékona	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+3	子フ	nep	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	アシカヱ	askay	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+5	ベ	pe	NOUN	形式名詞	_	6	nmod	_	SpaceAfter=No
+6	アキ	aki	NOUN	名詞	_	15	advcl	_	SpaceAfter=No
+7	子	ne	ADP	格助詞	_	6	case	_	SpaceAfter=No
+8	ワ	wa	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+9	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+10	ヤツカ	yakka	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+11	ユビ	yupi	NOUN	名詞	_	13	acl	_	SpaceAfter=No
+12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	クル	kur	NOUN	名詞	_	15	iobj	_	SpaceAfter=No
+14	ヱトコ	etoko	NOUN	位置名詞	_	15	obj	_	SpaceAfter=No
+15	ウシ	usi	VERB	他動詞	_	16	acl	_	SpaceAfter=No
+16	クニ	kuni	NOUN	形式名詞	_	19	nsubj	_	SpaceAfter=No
+17	アナキ子	anakne	ADP	副助詞	_	16	case	_	SpaceAfter=No
+18	ソモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	アン	an	VERB	自動詞	_	20	acl	_	SpaceAfter=No
+20	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+22	ナ	na	PART	終助詞	_	20	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-10
+# text_ja = 此次第正しからずしては家の禍ともなるべし
+# text = タバンヲロシベラムシヤクワ子ヤキ子チセカツチヤマクニカイイアンルヱタハンナ
+1	タバン	tapan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ヲロシベ	oruspe	NOUN	名詞	_	3	obj	_	SpaceAfter=No
+3	ラムシヤク	eramusarak	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+4	ワ	wa	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	子	ne	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+6	ヤキ子	yakne	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+7	チセ	cise	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+8	カツチヤマ	katcama	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	クニ	kuni	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+10	カイイ	kaye	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+11	アン	=an	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+12	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+13	タハン	tapan	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-11
+# text_ja = 然る故聖人長幼の間におゐて序の一字を不易の法と定めたまふ
+# text = 子アンヘクシユノブルシサモウタレキアン子ベウレウトツタシヨアリアンシ子カンビマウヱシヨモベ子クニヱタクマコツアンルヱ子
+1	子	ne	DET	連体詞	_	2	nsubj	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	ヘ	pe	NOUN	形式名詞	_	23	obl	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	3	case	_	SpaceAfter=No
+5	ノブル	nupur	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	シサモ	sisam	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	ウタレ	utar	NOUN	名詞	_	21	nsubj	_	SpaceAfter=No
+8	キアン子	kiyanne	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+9	ベウレ	pewre	VERB	自動詞	_	8	conj	_	SpaceAfter=No
+10	ウトツ	uturu	NOUN	位置名詞	_	21	obl	_	SpaceAfter=No
+11	タ	ta	ADP	格助詞	_	10	case	_	SpaceAfter=No
+12	シヨ	Jo	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+13	アリ	ari	SCONJ	接続助詞	_	12	case	_	SpaceAfter=No
+14	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+15	シ子	sine	NUM	数詞	_	16	nummod	_	SpaceAfter=No
+16	カンビ	kanpi	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	マウヱ	mawe	NOUN	名詞	_	19	nsubj	_	SpaceAfter=No
+18	シヨモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	ベ子	péne	VERB	自動詞	_	21	advcl	_	SpaceAfter=No
+20	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ヱタクマコツ	itakmakkuste	VERB	自動詞	_	23	acl	_	SpaceAfter=No
+22	アン	=an	PART	人称接辞	_	21	expl	_	SpaceAfter=No
+23	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+24	子	ne	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
+
+# sent_id = Gorin4-12
+# text_ja = 序は次序とて次弟の事なり
+# text = シヨアナキ子ヲトタンシヨレコレトタンノブカカタコレレイタンバンナ
+1	シヨ	Jo	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+2	アナキ子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ヲトタン	uwotutanu	ADV	副詞	_	4	amod	_	SpaceAfter=No
+4	シヨ	Jo	NOUN	名詞	_	5	obj	_	SpaceAfter=No
+5	レコレ	rékore	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+6	トタンノ	tutanuno	SCONJ	後置副詞	_	8	acl	_	SpaceAfter=No
+7	ブカ	póka	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	カ	ka	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	タ	ta	ADP	格助詞	_	8	case	_	SpaceAfter=No
+10	コレ	kore	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	レイ	re	NOUN	名詞	_	0	root	_	SpaceAfter=No
+12	タンバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	ナ	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin4-13
+# text_ja = 所謂長幼に序ありといふ一句は長く長幼の掟たるべし
+# text = ヱ子イキマノクシユキア子ブベウレクルカタシヨアンクニイリワクブルセ子イバクノキアン子ベウレヲロケ子ウヲヤトモコテ子イルヱシアン子
+1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	イキ	iki	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+3	マノ	manu	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	2	mark	_	SpaceAfter=No
+5	キア子ブ	kiyannepo	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+6	ベウレ	pewre	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	5	conj	_	SpaceAfter=No
+8	カ	ka	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+9	タ	ta	ADP	格助詞	_	8	case	_	SpaceAfter=No
+10	シヨ	Jo	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+11	アン	an	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+12	クニ	kuni	NOUN	形式名詞	_	14	obj	_	SpaceAfter=No
+13	イリワク	irwak	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+14	ブルセ	pórose	VERB	他動詞	_	23	advcl	_	SpaceAfter=No
+15	子イ	ney	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
+16	バクノ	pakno	SCONJ	後置副詞	_	15	case	_	SpaceAfter=No
+17	キアン子	kiyanne	VERB	自動詞	_	19	acl	_	SpaceAfter=No
+18	ベウレ	pewre	VERB	自動詞	_	17	conj	_	SpaceAfter=No
+19	ヲロケ	orke	NOUN	位置名詞	_	23	iobj	_	SpaceAfter=No
+20	子	ne	ADP	格助詞	_	19	case	_	SpaceAfter=No
+21	ウヲヤ	uwoya	DET	連体詞	_	22	det	_	SpaceAfter=No
+22	トモ	tumu	NOUN	位置名詞	_	23	obj	_	SpaceAfter=No
+23	コテ	kote	VERB	他動詞	_	25	acl	_	SpaceAfter=No
+24	子イ	ney	NOUN	位置名詞	_	25	nmod	_	SpaceAfter=No
+25	ルヱ	ruwe	NOUN	形式名詞	_	26	nsubj	_	SpaceAfter=No
+26	シアン	si-an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+27	子	ne	AUX	助動詞	_	26	aux	_	SpaceAfter=No
+
+# text_ja = 朋友有信
+
+# sent_id = Gorin5-01
+# text_ja = 天下の人は同じく天地の氣をうけて生すれば相友として交るべき道理あり
+# text = ニソロクロボキタバクアンシサモアナキ子ウコラツカント子ワシリカタマヲイコロクシユヘトクルヱ子アワウコシコフカ子ウヱキン子アンクニラムシコロアン
+1	ニソロ	nisor	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	クロボキ	kurpok	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	バク	pak	SCONJ	後置副詞	_	2	case	_	SpaceAfter=No
+5	アン	an	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+6	シサモ	sisam	NOUN	名詞	_	15	nsubj	_	SpaceAfter=No
+7	アナキ子	anakne	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	ウコラツ	koraci	SCONJ	後置副詞	_	6	case	_	SpaceAfter=No
+9	カント	kanto	NOUN	名詞	_	12	acl	_	SpaceAfter=No
+10	子	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	9	mark	_	SpaceAfter=No
+12	シリカ	sirka	NOUN	名詞	_	15	obl	_	SpaceAfter=No
+13	タ	ta	ADP	格助詞	_	12	case	_	SpaceAfter=No
+14	マヲイ	mawe	NOUN	名詞	_	15	obj	_	SpaceAfter=No
+15	コロ	kor	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+16	クシユ	kusu	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+17	ヘトク	hetuku	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+18	ルヱ	ruwe	NOUN	形式名詞	_	29	advcl	_	SpaceAfter=No
+19	子	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	アワ	awa	CCONJ	接続詞	_	29	cc	_	SpaceAfter=No
+21	ウコシコフ	ukosukup	VERB	自動詞	_	23	advcl	_	SpaceAfter=No
+22	カ子	kane	SCONJ	接続助詞	_	21	mark	_	SpaceAfter=No
+23	ウ	o	VERB	他動詞	_	24	acl	_	SpaceAfter=No
+24	ヱキン	ikir	NOUN	名詞	_	26	nsubj	_	SpaceAfter=No
+25	子	ne	ADP	格助詞	_	24	case	_	SpaceAfter=No
+26	アン	an	VERB	自動詞	_	27	acl	_	SpaceAfter=No
+27	クニ	kuni	NOUN	形式名詞	_	29	nsubj	_	SpaceAfter=No
+28	ラムシ	ramossi	NOUN	名詞	_	29	obj	_	SpaceAfter=No
+29	コロ	kor	VERB	他動詞	_	0	root	_	SpaceAfter=No
+30	アン	an	PART	終助詞	_	29	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin5-02
+# text_ja = 是によりて朋友の倫を立置て仁をたすけ善をせむるを朋友の道とす
+# text = タンヘクシユウコシコフカタウカトアノコアンテワウヱカタヨロツアリアンベシヨモヲヱラクニビリカヲロシベキメツケレクンアナキ子ウコシコフクルウヱレンカ子ルヱタバン
+1	タン	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ヘ	pe	NOUN	形式名詞	_	7	obl	_	SpaceAfter=No
+3	クシユ	kusu	SCONJ	接続詞	_	2	case	_	SpaceAfter=No
+4	ウコシコフ	ukosukup	VERB	自動詞	_	5	amod	_	SpaceAfter=No
+5	カ	ka	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+6	タ	ta	ADP	格助詞	_	5	case	_	SpaceAfter=No
+7	ウ	o	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	カト	katu	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+9-10	アノコアンテ	_	_	_	_	_	_	_	SpaceAfter=No
+9	アン	an=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ウコアンテ	uko-ante	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
+12	ウヱカタヨロツ	uwekatayerotke	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+13	アリ	ari	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	アン	an	VERB	自動詞	_	15	acl	_	SpaceAfter=No
+15	ベ	pe	NOUN	形式名詞	_	17	obj	_	SpaceAfter=No
+16	シヨモ	somo	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	ヲヱラ	oyra	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	クニ	kuni	NOUN	形式名詞	_	29	nsubj	_	SpaceAfter=No
+19	ビリカ	pirka	VERB	自動詞	_	20	amod	_	SpaceAfter=No
+20	ヲロシベ	oruspe	NOUN	名詞	_	22	obj	_	SpaceAfter=No
+21-22	キメツケレ	_	_	_	_	_	_	_	SpaceAfter=No
+21	ㇰ	k=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+22	エイメㇰカㇻ	eymekkar	VERB	他動詞	_	23	acl	_	SpaceAfter=No
+23	クン	kuni	NOUN	形式名詞	_	18	conj	_	SpaceAfter=No
+24	アナキ子	anakne	ADP	副助詞	_	23	case	_	SpaceAfter=No
+25	ウコシコフ	ukosukup	VERB	自動詞	_	26	amod	_	SpaceAfter=No
+26	クル	kur	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
+27	ウヱレンカ	u-irenka	VERB	自動詞	_	29	acl	_	SpaceAfter=No
+28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
+29	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+30	タバン	tapan	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-03
+# text_ja = 仁とはおのれが行に私なき事なり
+# text = カタヨロツケアリアンヘアナキ子アニ子トバケタヤヱコツバケウトモイサマノイキロキ子イキカトタバン
+1	カタヨロツケ	ekatayrotke	VERB	他動詞	_	3	advcl	_	SpaceAfter=No
+2	アリ	ari	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	アン	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	ヘ	pe	NOUN	形式名詞	_	17	nsubj	_	SpaceAfter=No
+5	アナキ子	anakne	ADP	副助詞	_	4	case	_	SpaceAfter=No
+6	アニ	ani	SCONJ	後置副詞	_	4	case	_	SpaceAfter=No
+7	子トバケ	netopake	NOUN	名詞	_	9	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	ヤヱコツバ	yayko-turpa	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	ケウトモ	kewtumu	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+11	イサマ	isam	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+12	ノ	no	SCONJ	接続助詞	_	11	mark	_	SpaceAfter=No
+13	イキ	iki	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+14	ロキ	rok	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	子	ne	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+16	イキ	iki	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	カト	katu	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+18	タバン	tapan	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-04
+# text_ja = 仁をたすくるとはおのれが修行におこたりあれば朋友の相たすくるによりて仁にすゝむをいふ
+# text = カタヨロツケヲシツチウレアナキ子アニヱキフカタシヨアフケリキワ子ヤキ子ウヱシコフウタレウコニタヽレルヱ子クシユカタヨロツケカタコハケウヌウ
+1	カタヨロツケ	ekatayrotke	VERB	他動詞	_	2	ccomp	_	SpaceAfter=No
+2	ヲシツチウレ	ositciwre	VERB	他動詞	_	24	advcl	_	SpaceAfter=No
+3	アナキ子	anakne	ADP	副助詞	_	2	mark	_	SpaceAfter=No
+4	アニ	ani	SCONJ	後置副詞	_	2	mark	_	SpaceAfter=No
+5	ヱキ	iki	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	フ	-p	PART	接尾辞	_	7	nmod	_	SpaceAfter=No
+7	カ	ka	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	シヨアフケリ	si-eyapkir	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
+10	キ	ki	VERB	他動詞	_	24	advcl	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
+12	子	ne	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+13	ヤキ子	yakne	SCONJ	接続助詞	_	10	mark	_	SpaceAfter=No
+14	ウヱシコフ	u-e-sukup	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+15	ウタレ	utar	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
+16	ウコニタヽレ	u-konitata-re	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	ルヱ	ruwe	NOUN	形式名詞	_	24	advcl	_	SpaceAfter=No
+18	子	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+19	クシユ	kusu	SCONJ	接続詞	_	17	mark	_	SpaceAfter=No
+20	カタヨロツケ	ekatayrotke	VERB	他動詞	_	21	acl	_	SpaceAfter=No
+21	カ	ka	NOUN	位置名詞	_	23	nmod	_	SpaceAfter=No
+22	タ	ta	ADP	格助詞	_	21	case	_	SpaceAfter=No
+23	コハケ	kopak	NOUN	位置名詞	_	24	obj	_	SpaceAfter=No
+24	ウヌウ	unu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+
+# sent_id = Gorin5-05
+# text_ja = 善をせむるとは物を催促する如くに互に善をつとめはげますをいふ
+# text = ヒリカクンシユイイバカシアナキ子子フカイホトイヲタワケレボコノウタシハヒリカレンカウコウルシユツケクニ子ナ
+1	ヒリカ	pirka	VERB	自動詞	_	2	amod	_	SpaceAfter=No
+2	クン	kuni	NOUN	形式名詞	_	4	obj	_	SpaceAfter=No
+3	シユイ	suy	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	イバカシ	epakasnu	VERB	他動詞	_	18	advcl	_	SpaceAfter=No
+5	アナキ子	anakne	ADP	副助詞	_	4	mark	_	SpaceAfter=No
+6	子フ	nep	NOUN	名詞	_	8	nsubj	_	SpaceAfter=No
+7	カイ	ka	ADP	副助詞	_	6	case	_	SpaceAfter=No
+8	ホトイ	hotuye	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+9	ヲ	or	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+10	タ	ta	ADP	格助詞	_	9	case	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	9	case	_	SpaceAfter=No
+12	ケレ	kere	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ボコ	pok	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+14	ノ	no	SCONJ	後置副詞	_	13	case	_	SpaceAfter=No
+15	ウタシハ	utaspa	ADV	副詞	_	18	advmod	_	SpaceAfter=No
+16	ヒリカ	pirka	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	レンカ	irenka	NOUN	名詞	_	18	obj	_	SpaceAfter=No
+18	ウコウルシユツケ	u-koorsutke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+19	クニ子	kunine	SCONJ	接続助詞	_	18	mark	_	SpaceAfter=No
+20	ナ	na	PART	終助詞	_	18	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin5-06
+# text_ja = 正しく直なる人または物知れる人に交るを益友とし柔弱にしていつはる人または軽薄なる人にまじはるをば損友とす
+# text = 子フコビシヲヘカヲシケコロシサモシユイ子フ子ヤツカヱキヱラマンシサモヲツタウヱトレンウタレアナキ子カトアンクル子ルヱタバンラムサツカベ子アシケタイコカンタマシサモシユイイランビレカレシサモヲツタウヱトレンアナキ子シヨンノキクル子ルヱタハン
+1	子フ	nep	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	コビシ	kopisi	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+3	ヲヘカ	owpeka	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+4	ヲシケ	uske	NOUN	形式名詞	_	5	obj	_	SpaceAfter=No
+5	コロ	kor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	シサモ	sisam	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
+7	シユイ	suy	ADV	副詞	_	11	advmod	_	SpaceAfter=No
+8	子フ	nep	NOUN	名詞	_	11	obj	_	SpaceAfter=No
+9	子	ne	ADP	格助詞	_	8	case	_	SpaceAfter=No
+10	ヤツカヱキ	yakkayki	SCONJ	接続助詞	_	11	advmod	_	SpaceAfter=No
+11	ヱラマン	eramuan	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+12	シサモ	sisam	NOUN	名詞	_	6	conj	_	SpaceAfter=No
+13	ヲツ	or	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+14	タ	ta	ADP	格助詞	_	13	case	_	SpaceAfter=No
+15	ウヱトレン	uweturen	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+16	ウタレ	utar	NOUN	名詞	_	20	nsubj	_	SpaceAfter=No
+17	アナキ子	anakne	ADP	副助詞	_	16	case	_	SpaceAfter=No
+18	カト	katu	NOUN	形式名詞	_	19	nsubj	_	SpaceAfter=No
+19	アン	an	VERB	自動詞	_	20	acl	_	SpaceAfter=No
+20	クル	kur	NOUN	名詞	_	22	acl	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+22	ルヱ	ruwe	NOUN	形式名詞	_	43	advcl	_	SpaceAfter=No
+23	タバン	tapan	AUX	デアル動詞	_	22	cop	_	SpaceAfter=No
+24	ラムサツカ	eramusarak	VERB	他動詞	_	25	acl	_	SpaceAfter=No
+25	ベ	pe	NOUN	形式名詞	_	27	acl	_	SpaceAfter=No
+26	子	ne	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
+27	アシケ	aske	NOUN	位置名詞	_	29	obl	_	SpaceAfter=No
+28	タ	ta	ADP	格助詞	_	27	case	_	SpaceAfter=No
+29	イコカンタマ	ikokantama	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
+30	シサモ	sisam	NOUN	名詞	_	35	nmod	_	SpaceAfter=No
+31	シユイ	suy	ADV	副詞	_	33	advmod	_	SpaceAfter=No
+32	イラン	eramu	NOUN	名詞	_	33	obj	_	SpaceAfter=No
+33	ビレカレ	pirkare	VERB	他動詞	_	34	acl	_	SpaceAfter=No
+34	シサモ	sisam	NOUN	名詞	_	30	conj	_	SpaceAfter=No
+35	ヲツ	or	NOUN	位置名詞	_	37	obl	_	SpaceAfter=No
+36	タ	ta	ADP	格助詞	_	35	case	_	SpaceAfter=No
+37	ウヱトレン	uweturen	VERB	自動詞	_	41	csubj	_	SpaceAfter=No
+38	アナキ子	anakne	ADP	副助詞	_	37	mark	_	SpaceAfter=No
+39	シヨンノ	sonno	ADV	副詞	_	40	advmod	_	SpaceAfter=No
+40	キ	ki	VERB	他動詞	_	41	acl	_	SpaceAfter=No
+41	クル	kur	NOUN	名詞	_	43	acl	_	SpaceAfter=No
+42	子	ne	AUX	デアル動詞	_	41	cop	_	SpaceAfter=No
+43	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+44	タハン	tapan	AUX	デアル動詞	_	43	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-07
+# text_ja = しかれば益友をもとめ損友を遠ざけ幾度も礼義正しく殷懃にして相交るべし
+# text = ヱ子キマノクシユカトアンクルコハケウヌソノキクルヲヤヱカラ子ンバクシユイカウワヱヌブリヲベカレケウトモラツチノウコイレンカコロクンベタバンナ
+1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	キ	ki	VERB	他動詞	_	9	advcl	_	SpaceAfter=No
+3	マノ	manu	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	2	mark	_	SpaceAfter=No
+5	カト	katu	NOUN	形式名詞	_	6	nsubj	_	SpaceAfter=No
+6	アン	an	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+8	コハケ	kopak	NOUN	位置名詞	_	9	obj	_	SpaceAfter=No
+9	ウヌ	unu	VERB	他動詞	_	13	advcl	_	SpaceAfter=No
+10	ソノ	sonno	ADV	副詞	_	11	advmod	_	SpaceAfter=No
+11	キ	ki	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+12	クル	kur	NOUN	名詞	_	13	obj	_	SpaceAfter=No
+13	ヲヤヱカラ	o-yaykar	VERB	他動詞	_	20	advcl	_	SpaceAfter=No
+14	子ンバクシユイ	hempaksuy	ADV	副詞	_	20	advmod	_	SpaceAfter=No
+15	カ	ka	ADP	副助詞	_	14	case	_	SpaceAfter=No
+16	ウワヱヌブリ	uwaynupuri	NOUN	名詞	_	17	obj	_	SpaceAfter=No
+17	ヲベカレ	owpekare	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	ケウトモ	kewtumu	NOUN	名詞	_	20	obl	_	SpaceAfter=No
+19	ラツチノ	ratci-no	ADV	副詞	_	20	advmod	_	SpaceAfter=No
+20	ウコイレンカコロ	uko-irenkakor	VERB	自動詞	_	22	acl	_	SpaceAfter=No
+21	クン	kuni	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+22	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+23	タバン	tapan	AUX	デアル動詞	_	22	cop	_	SpaceAfter=No
+24	ナ	na	PART	終助詞	_	22	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin5-08
+# text_ja = 但其簡要をいはゞ朋友は親疎ともにものをいひかはし頼み合ふものなれば第一貞信にして相あさむかざるを本道とすべし
+# text = ケアンナク子ワノラマツカシカモイイタクアナキ子ウヱシコフウタレウアバウコラツノウビリマイタツカイシヤラレカ子ウタシハカシヲヱキクル子アナキ子タンベマシキノシアンケウトモ子クシユソモヱラムシユイクニアナキ子ラマツイツケウヱ子ルヱタバン
+1	ケ	ke	NOUN	位置名詞	_	39	discourse	_	SpaceAfter=No
+2	アンナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+4	ラマツ	ramat	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	カシ	kasi	NOUN	位置名詞	_	6	nmod	_	SpaceAfter=No
+6	カモイ	kamuy	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	イタク	itak	NOUN	名詞	_	39	nsubj	_	SpaceAfter=No
+8	アナキ子	anakne	ADP	副助詞	_	7	case	_	SpaceAfter=No
+9	ウヱシコフ	u-e-sukup	VERB	自動詞	_	10	amod	_	SpaceAfter=No
+10	ウタレ	utar	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+11	ウアバ	apa	NOUN	名詞	_	14	obl	_	SpaceAfter=No
+12	ウコラツ	koraci	SCONJ	後置副詞	_	11	case	_	SpaceAfter=No
+13	ノ	no	SCONJ	接続助詞	_	11	case	_	SpaceAfter=No
+14	ウビリマ	u-pirma	VERB	他動詞	_	15	acl	_	SpaceAfter=No
+15	イタツ	itak	NOUN	名詞	_	17	obj	_	SpaceAfter=No
+16	カイ	ka	ADP	副助詞	_	15	case	_	SpaceAfter=No
+17	シヤラレ	sarare	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+18	カ子	kane	SCONJ	接続助詞	_	17	mark	_	SpaceAfter=No
+19	ウタシハ	utaspa	VERB	自動詞	_	20	amod	_	SpaceAfter=No
+20	カシ	kasi	NOUN	位置名詞	_	21	obj	_	SpaceAfter=No
+21	ヲヱキ	oyki	VERB	他動詞	_	22	acl	_	SpaceAfter=No
+22	クル	kur	NOUN	名詞	_	39	advcl	_	SpaceAfter=No
+23	子	ne	AUX	デアル動詞	_	22	cop	_	SpaceAfter=No
+24	アナキ子	anakne	ADP	副助詞	_	22	mark	_	SpaceAfter=No
+25	タン	tan	DET	連体詞	_	26	det	_	SpaceAfter=No
+26	ベ	pe	NOUN	形式名詞	_	28	obl	_	SpaceAfter=No
+27	マシキノ	maskin-no	ADV	副詞	_	28	advmod	_	SpaceAfter=No
+28	シアン	si-an	VERB	自動詞	_	29	acl	_	SpaceAfter=No
+29	ケウトモ	kewtumu	NOUN	名詞	_	39	advcl	_	SpaceAfter=No
+30	子	ne	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
+31	クシユ	kusu	SCONJ	接続詞	_	29	mark	_	SpaceAfter=No
+32	ソモ	somo	ADV	副詞	_	33	advmod	_	SpaceAfter=No
+33	ヱラムシユイ	eramasu	VERB	他動詞	_	34	acl	_	SpaceAfter=No
+34	クニ	kuni	NOUN	形式名詞	_	37	nsubj	_	SpaceAfter=No
+35	アナキ子	anakne	ADP	副助詞	_	34	case	_	SpaceAfter=No
+36	ラマツ	ramat	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
+37	イツケウヱ	ikkewe	NOUN	名詞	_	39	acl	_	SpaceAfter=No
+38	子	ne	AUX	デアル動詞	_	37	cop	_	SpaceAfter=No
+39	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+40	タバン	tapan	AUX	デアル動詞	_	39	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-09
+# text_ja = しかる故に聖人朋友の間におゐて信の一字を不易の法と定めたまふ
+# text = ヱ子ヱキワクシユノホルシサモウタレウヱシコフイキリウトルタシアンケウトモアリシ子カンヒ子イタバツクノソモベイ子クニイタクマコツアンルヱタバン
+1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	ヱキ	iki	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	2	mark	_	SpaceAfter=No
+5	ノホル	nupur	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	シサモ	sisam	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	ウタレ	utar	NOUN	名詞	_	23	nsubj	_	SpaceAfter=No
+8	ウヱシコフ	u-e-sukup	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	イキリ	ikir	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	ウトル	uturu	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+11	タ	ta	ADP	格助詞	_	10	case	_	SpaceAfter=No
+12	シアン	si-an	VERB	自動詞	_	13	acl	_	SpaceAfter=No
+13	ケウトモ	kewtumu	NOUN	名詞	_	16	nmod	_	SpaceAfter=No
+14	アリ	ari	SCONJ	接続助詞	_	13	case	_	SpaceAfter=No
+15	シ子	sine	NUM	数詞	_	16	nummod	_	SpaceAfter=No
+16	カンヒ	kanpi	NOUN	名詞	_	23	obl	_	SpaceAfter=No
+17	子イ	ney	NOUN	位置名詞	_	21	obl	_	SpaceAfter=No
+18	タ	ta	ADP	格助詞	_	17	case	_	SpaceAfter=No
+19	バツクノ	pakno	SCONJ	後置副詞	_	17	case	_	SpaceAfter=No
+20	ソモ	somo	ADV	副詞	_	21	advmod	_	SpaceAfter=No
+21	ベイ子	péne	VERB	自動詞	_	23	advcl	_	SpaceAfter=No
+22	クニ	kuni	AUX	助動詞	_	21	aux	_	SpaceAfter=No
+23	イタクマコツ	itakmakkuste	VERB	自動詞	_	25	acl	_	SpaceAfter=No
+24	アン	=an	PART	人称接辞	_	23	expl	_	SpaceAfter=No
+25	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+26	タバン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-10
+# text_ja = 所謂朋友に信ありといふ一句は長く朋友の掟たるべし
+# text = アルシヤナウコシコフカタシアンケウトモアンクニイタツフルセタン子ノホウコシコフヱキリクルカシウヲヤトモコテ子ナンコロルヱタハンナ
+1	アルシヤナ	earsayne	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+2	ウコシコフ	ukosukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	カ	ka	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+4	タ	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	シアン	si-an	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	ケウトモ	kewtumu	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	アン	an	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	クニ	kuni	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	イタツ	itak	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+10	フルセ	pórose	VERB	他動詞	_	20	advcl	_	SpaceAfter=No
+11	タン	tan	DET	連体詞	_	20	obl	_	SpaceAfter=No
+12	子ノ	néno	SCONJ	後置副詞	_	11	case	_	SpaceAfter=No
+13	ホ	po	ADV	副詞	_	20	advmod	_	SpaceAfter=No
+14	ウコシコフ	ukosukup	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+15	ヱキリ	ikir	NOUN	名詞	_	16	nmod	_	SpaceAfter=No
+16	クル	kur	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	カシ	kasi	NOUN	位置名詞	_	20	obj	_	SpaceAfter=No
+18	ウヲヤ	uwoya	DET	連体詞	_	19	det	_	SpaceAfter=No
+19	トモ	tumu	NOUN	位置名詞	_	20	iobj	_	SpaceAfter=No
+20	コテ	kote	VERB	他動詞	_	23	acl	_	SpaceAfter=No
+21	子	ne	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+22	ナンコロ	nankor	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+23	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+24	タハン	tapan	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
+25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin5-11
+# text_ja = 或云信とは氷のひやゝかに火のあつきが如くいつはりなきの謂なり
+# text = アヌウヲヤシコフシアンケウトモレコロヘアナキ子コンルコラツナムカシアヘセヽクコラツシユンケソモキリ子クニイタツフルセ子ルヱタハン
+1	ア	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	ヌ	nu	VERB	他動詞	_	4	advcl	_	SpaceAfter=No
+3	ウヲヤ	uwoya	DET	連体詞	_	4	advmod	_	SpaceAfter=No
+4	シコフ	sukup	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+5	シアン	si-an	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	ケウトモ	kewtumu	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	レコロ	rékor	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	ヘ	pe	NOUN	形式名詞	_	24	nsubj	_	SpaceAfter=No
+9	アナキ子	anakne	ADP	副助詞	_	8	case	_	SpaceAfter=No
+10	コンル	konru	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
+11	コラツ	koraci	SCONJ	後置副詞	_	10	case	_	SpaceAfter=No
+12	ナム	nam	VERB	自動詞	_	13	acl	_	SpaceAfter=No
+13	カシ	kasi	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+14	アヘ	ape	NOUN	名詞	_	15	nsubj	_	SpaceAfter=No
+15	セヽク	sések	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+16	コラツ	koraci	SCONJ	後置副詞	_	15	mark	_	SpaceAfter=No
+17	シユンケ	sunke	NOUN	名詞	_	19	obj	_	SpaceAfter=No
+18	ソモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	キリ	kir	VERB	他動詞	_	22	acl	_	SpaceAfter=No
+20	子	ne	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+22	イタツ	itak	NOUN	名詞	_	23	obj	_	SpaceAfter=No
+23	フルセ	pórose	VERB	自動詞	_	25	acl	_	SpaceAfter=No
+24	子	ne	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+26	タハン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-12
+# text_ja = されば朋友のみにあらず
+# text = イ子キマノクシユウコシコフバテキソモ子
+1	イ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	キ	ki	VERB	他動詞	_	5	advcl	_	SpaceAfter=No
+3	マノ	manu	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	クシユ	kusu	SCONJ	接続詞	_	2	mark	_	SpaceAfter=No
+5	ウコシコフ	ukosukup	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	バテキ	patek	SCONJ	後置副詞	_	5	mark	_	SpaceAfter=No
+7	ソモ	somo	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+8	子	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+
+# sent_id = Gorin5-13
+# text_ja = 父子の親君臣の義またみな信ありと知るべし
+# text = ミツ子ワボウアチヤ子ワアレシカカモイヱヨコテウコヤヱニタヽクンシユイヲヒツタシアンヲシケアンクニヱラムヲカイテヤ
+1	ミツ	mici	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+2	子	ne	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	1	case	_	SpaceAfter=No
+4	ボ	po	NOUN	名詞	_	1	conj	_	SpaceAfter=No
+5	ウアチヤ	u-aca	NOUN	名詞	_	17	advcl	_	SpaceAfter=No
+6	子	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	ワ	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+8	アレシカ	ar-askay	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	カモイ	kamuy	NOUN	名詞	_	11	nsubj	_	SpaceAfter=No
+10	ヱヨコテ	iyokte	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+11	ウコヤヱニタヽ	uko-yay-nitata	VERB	自動詞	_	17	advcl	_	SpaceAfter=No
+12	クン	kuni	AUX	助動詞	_	11	aux	_	SpaceAfter=No
+13	シユイ	suy	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+14	ヲヒツタ	opitta	SCONJ	後置副詞	_	17	advmod	_	SpaceAfter=No
+15	シアン	si-an	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+16	ヲシケ	uske	NOUN	形式名詞	_	17	nsubj	_	SpaceAfter=No
+17	アン	an	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+18	クニ	kuni	NOUN	形式名詞	_	19	obj	_	SpaceAfter=No
+19	ヱラムヲカイテ	eramuoka-te	VERB	他動詞	_	0	root	_	SpaceAfter=No
+20	ヤ	ya	PART	終助詞	_	19	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin6-01
+# text_ja = 右鳩巣先生の選所にして童蒙を教るの道是より深切なるはなし
+# text = ヱ子トヱタツカフセツアワシノクルアヌンケフ子アワシヨンタク子ワラムシヤクウタレイバカシクニヱレンカブリタンベモシマウワイノベリノクンベイサマルヱ子
+1	ヱ子	ene	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	トヱタ	toyta	VERB	他動詞	_	9	advcl	_	SpaceAfter=No
+3	ツカフ	cikap	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	セツ	set	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
+5	アワ	awa	CCONJ	接続詞	_	7	cc	_	SpaceAfter=No
+6	シノ	sino	DET	連体詞	_	7	det	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	4	appos	_	SpaceAfter=No
+8	ア	a=	PART	人称接辞	_	9	expl	_	SpaceAfter=No
+9	ヌンケ	nunuke	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	フ	-p	PART	接尾辞	_	30	advcl	_	SpaceAfter=No
+11	子	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	アワ	awa	CCONJ	接続詞	_	19	cc	_	SpaceAfter=No
+13	シヨン	sion	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	タク	tak	NOUN	名詞	_	19	obj	_	SpaceAfter=No
+15	子	ne	ADP	格助詞	_	14	case	_	SpaceAfter=No
+16	ワ	wa	SCONJ	接続助詞	_	14	case	_	SpaceAfter=No
+17	ラムシヤク	eramusarak	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	ウタレ	utar	NOUN	名詞	_	14	conj	_	SpaceAfter=No
+19	イバカシ	ipakasnu	VERB	他動詞	_	22	acl	_	SpaceAfter=No
+20	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	ヱレンカ	irenka	NOUN	名詞	_	22	nmod	_	SpaceAfter=No
+22	ブリ	puri	NOUN	名詞	_	30	nsubj	_	SpaceAfter=No
+23	タン	tan	DET	連体詞	_	24	det	_	SpaceAfter=No
+24	ベ	pe	NOUN	形式名詞	_	26	obl	_	SpaceAfter=No
+25	モシマ	mosma	SCONJ	後置副詞	_	24	case	_	SpaceAfter=No
+26	ウワイノベリノ	uwaynupuri-nu	VERB	自動詞	_	28	acl	_	SpaceAfter=No
+27	クン	kuni	AUX	助動詞	_	26	aux	_	SpaceAfter=No
+28	ベ	pe	NOUN	形式名詞	_	29	nsubj	_	SpaceAfter=No
+29	イサマ	isam	VERB	自動詞	_	30	acl	_	SpaceAfter=No
+30	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
+
+# sent_id = Gorin6-02
+# text_ja = 人は萬物の霊と称すといへどもあくまて食ひあたゝかにきるのみにして人の人たる道を知らざれば禽獸をさる事遠からず
+# text = シサモレコロベアナキ子アルシヤナリコツベクルカシシヤハ子クニアンレコレルヱ子コロカヱベウシトラン子バツクノヱベボブノウコミバテキラムシカルナヱ子シサモ子コロカシサモレンカラムシヤクワ子ヤキ子チリヱ子ケマウシベウコラツシンナイシサモ子クニイタクアヱカブ
+1	シサモ	sisam	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
+2	レコロ	rékor	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	ベ	pe	NOUN	形式名詞	_	12	nsubj	_	SpaceAfter=No
+4	アナキ子	anakne	ADP	副助詞	_	3	case	_	SpaceAfter=No
+5	アルシヤナ	earsayne	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+6	リコツベ	ritkotpe	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	クル	kur	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+8	カシ	kasi	NOUN	位置名詞	_	9	nsubj	_	SpaceAfter=No
+9	シヤハ子	sapane	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+10	クニ	kuni	NOUN	形式名詞	_	12	obj	_	SpaceAfter=No
+11	アン	an=	PART	人称接辞	_	12	expl	_	SpaceAfter=No
+12	レコレ	rékore	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ルヱ	ruwe	NOUN	形式名詞	_	24	advcl	_	SpaceAfter=No
+14	子	ne	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
+15	コロカ	korka	CCONJ	接続詞	_	24	cc	_	SpaceAfter=No
+16	ヱベ	ipe	VERB	自動詞	_	17	amod	_	SpaceAfter=No
+17	ウシ	usi	NOUN	形式名詞	_	18	nsubj	_	SpaceAfter=No
+18	トラン子	toranne	VERB	自動詞	_	20	advcl	_	SpaceAfter=No
+19	バツクノ	pakno	SCONJ	後置副詞	_	18	mark	_	SpaceAfter=No
+20	ヱベ	ipe	VERB	自動詞	_	22	advcl	_	SpaceAfter=No
+21	ボブノ	pop-no	ADV	副詞	_	22	advmod	_	SpaceAfter=No
+22	ウコミ	uko-mi	VERB	他動詞	_	24	advcl	_	SpaceAfter=No
+23	バテキ	patek	SCONJ	後置副詞	_	22	mark	_	SpaceAfter=No
+24	ラムシカル	eramuskari	VERB	他動詞	_	27	advcl	_	SpaceAfter=No
+25	ナ	na	PART	終助詞	_	24	mark	_	SpaceAfter=No
+26	ヱ子	ene	ADV	副詞	_	27	amod	_	SpaceAfter=No
+27	シサモ	sisam	NOUN	名詞	_	50	advcl	_	SpaceAfter=No
+28	子	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
+29	コロカ	korka	CCONJ	接続詞	_	32	cc	_	SpaceAfter=No
+30	シサモ	sisam	NOUN	名詞	_	31	nmod	_	SpaceAfter=No
+31	レンカ	irenka	NOUN	名詞	_	32	obj	_	SpaceAfter=No
+32	ラムシヤク	eramusarak	VERB	他動詞	_	40	advcl	_	SpaceAfter=No
+33	ワ	wa	SCONJ	接続助詞	_	32	mark	_	SpaceAfter=No
+34	子	ne	AUX	助動詞	_	32	aux	_	SpaceAfter=No
+35	ヤキ子	yakne	SCONJ	接続助詞	_	32	mark	_	SpaceAfter=No
+36	チリ	cir	NOUN	名詞	_	40	advcl	_	SpaceAfter=No
+37	ヱ	e=	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+38	子	ne	AUX	デアル動詞	_	36	cop	_	SpaceAfter=No
+39	ケマ	kema	NOUN	名詞	_	40	nsubj	_	SpaceAfter=No
+40	ウシ	us	VERB	他動詞	_	41	acl	_	SpaceAfter=No
+41	ベ	pe	NOUN	形式名詞	_	43	obl	_	SpaceAfter=No
+42	ウコラツ	koraci	SCONJ	接続助詞	_	41	case	_	SpaceAfter=No
+43	シンナ	sinna	VERB	自動詞	_	44	amod	_	SpaceAfter=No
+44	イ	-i	PART	接尾辞	_	45	nsubj	_	SpaceAfter=No
+45	シサモ	sisam	NOUN	名詞	_	48	acl	_	SpaceAfter=No
+46	子	ne	AUX	デアル動詞	_	45	cop	_	SpaceAfter=No
+47	クニ	kuni	AUX	助動詞	_	45	aux	_	SpaceAfter=No
+48	イタク	itak	NOUN	名詞	_	50	obj	_	SpaceAfter=No
+49	ア	a=	PART	人称接辞	_	50	nsubj	_	SpaceAfter=No
+50	ヱカブ	ekap	VERB	他動詞	_	0	root	_	SpaceAfter=No
+
+# sent_id = Gorin6-03
+# text_ja = またかなしからずや
+# text = タブ子アンヱヌヽカシケシヨモ子ヤ
+1	タブ子	tapne	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	3	advcl	_	SpaceAfter=No
+3	ヱヌヽカシケ	inunukaski	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	シヨモ	somo	ADV	副詞	_	5	advmod	_	SpaceAfter=No
+5	子	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+6	ヤ	ya	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+
+# sent_id = Gorin6-04
+# text_ja = 道とは五倫をいふ
+# text = レンカフリアナキ子アシキ子ヱキン子ウヱメキテ
+1	レンカ	irenka	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	フリ	puri	NOUN	名詞	_	7	obl	_	SpaceAfter=No
+3	アナキ子	anakne	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	アシキ子	asikne	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+5	ヱキン	ikir	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+6	子	ne	ADP	格助詞	_	5	case	_	SpaceAfter=No
+7	ウヱメキテ	u-eymek-te	VERB	自動詞	_	0	root	_	SpaceAfter=No
+
+# sent_id = Gorin6-05
+# text_ja = 即天下の大路にして貴賤共に世をわたるの海道なり
+# text = ナヲコラツベケレモシリクルカタヲン子ルウ子クシユニシハ子クルかしんウタレ子ワ子ヤツカモシリクルカタイラウケトバキクニルウタバン
+1	ナ	na	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+2	ヲコラツ	koraci	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+3	ベケレ	peker	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+4	モシリ	mosir	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	クルカ	kurka	NOUN	位置名詞	_	8	nmod	_	SpaceAfter=No
+6	タ	ta	ADP	格助詞	_	5	case	_	SpaceAfter=No
+7	ヲン子	onne	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ルウ	ru	NOUN	名詞	_	25	advcl	_	SpaceAfter=No
+9	子	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	クシユ	kusu	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
+11	ニシハ子	nispane	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	クル	kur	NOUN	名詞	_	23	advcl	_	SpaceAfter=No
+13	かしん	Kashin	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	ウタレ	utar	NOUN	名詞	_	12	conj	_	SpaceAfter=No
+15	子	ne	ADP	格助詞	_	14	case	_	SpaceAfter=No
+16	ワ	wa	SCONJ	接続助詞	_	14	case	_	SpaceAfter=No
+17	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+18	ヤツカ	yakka	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+19	モシリ	mosir	NOUN	名詞	_	20	nmod	_	SpaceAfter=No
+20	クルカ	kurka	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
+21	タ	ta	ADP	格助詞	_	20	case	_	SpaceAfter=No
+22	イラウケトバ	irawketupa	NOUN	名詞	_	23	obj	_	SpaceAfter=No
+23	キ	ki	VERB	他動詞	_	25	acl	_	SpaceAfter=No
+24	クニ	kuni	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	ルウ	ru	NOUN	名詞	_	0	root	_	SpaceAfter=No
+26	タバン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
+
+# sent_id = Gorin6-06
+# text_ja = 人々天より是理をうくといへども鏡にちりのかゝるがごとく人欲のためにくもりて明ならず
+# text = シサモウタレニソロワノタンヲロウシヘコロアンルヱ子コロカヤヱヌカラカ子カシケバナウカモレコラツシサモレコロベ子ナイコンルヽヱケウトモ子ヤカ子コロテクシユカシケニシクシテヌカラヤヱカブ
+1	シサモ	sisam	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	ウタレ	utar	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+3	ニソロ	nisor	NOUN	名詞	_	7	obl	_	SpaceAfter=No
+4	ワノ	wano	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	タン	tan	DET	連体詞	_	6	det	_	SpaceAfter=No
+6	ヲロウシヘ	oruspe	NOUN	名詞	_	7	obj	_	SpaceAfter=No
+7	コロ	kor	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+8	アン	an	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	ルヱ	ruwe	NOUN	形式名詞	_	36	advcl	_	SpaceAfter=No
+10	子	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	コロカ	korka	CCONJ	接続詞	_	16	cc	_	SpaceAfter=No
+12	ヤヱヌカラ	yay-nukar	VERB	自動詞	_	14	acl	_	SpaceAfter=No
+13	カ子	kane	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	カシケ	kasike	NOUN	位置名詞	_	16	obl	_	SpaceAfter=No
+15	バナ	pana	NOUN	名詞	_	16	obj	_	SpaceAfter=No
+16	ウカモレ	ukamure	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+17	コラツ	koraci	SCONJ	後置副詞	_	16	mark	_	SpaceAfter=No
+18	シサモ	sisam	NOUN	名詞	_	19	nsubj	_	SpaceAfter=No
+19	レコロ	rékor	VERB	自動詞	_	20	acl	_	SpaceAfter=No
+20	ベ	pé	NOUN	形式名詞	_	25	advcl	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
+22	ナイ	na	PART	終助詞	_	20	mark	_	SpaceAfter=No
+23	コンル	konru	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
+24	ヽヱ	ruwe	NOUN	形式名詞	_	25	nmod	_	SpaceAfter=No
+25	ケウトモ	kewtumu	NOUN	名詞	_	36	advcl	_	SpaceAfter=No
+26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
+27	ヤカ	yakka	SCONJ	接続助詞	_	25	case	_	SpaceAfter=No
+28	子	ne	AUX	助動詞	_	25	cop	_	SpaceAfter=No
+29	コロ	kor	VERB	他動詞	_	32	acl	_	SpaceAfter=No
+30	テ	te	SCONJ	接続助詞	_	29	mark	_	SpaceAfter=No
+31	クシユ	kusu	SCONJ	接続詞	_	29	mark	_	SpaceAfter=No
+32	カシケ	kasike	NOUN	位置名詞	_	34	obj	_	SpaceAfter=No
+33	ニシ	nis	NOUN	名詞	_	34	iobj	_	SpaceAfter=No
+34	クシテ	kuste	VERB	他動詞	_	35	ccomp	_	SpaceAfter=No
+35	ヌカラ	nukar	VERB	他動詞	_	36	advcl	_	SpaceAfter=No
+36	ヤヱカブ	yay-ekap	VERB	自動詞	_	0	root	_	SpaceAfter=No
+
+# sent_id = Gorin6-07
+# text_ja = 学問とは其理をあきらかにせん事をもとむる也
+# text = カンビヤヱバカシアナキ子子ワノヲロシベヱランマカヽラマンテクニキレクンタバン
+1	カンビ	kanpi	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	ヤヱバカシ	eyaypakasnu	VERB	他動詞	_	8	csubj	_	SpaceAfter=No
+3	アナキ子	anakne	ADP	副助詞	_	2	mark	_	SpaceAfter=No
+4	子	ne	DET	連体詞	_	8	obl	_	SpaceAfter=No
+5	ワノ	wano	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	ヲロシベ	oruspe	NOUN	名詞	_	8	obj	_	SpaceAfter=No
+7	ヱランマカヽ	irammakaka	ADV	副詞	_	8	advmod	_	SpaceAfter=No
+8	ラマンテ	ramante	VERB	他動詞	_	9	acl	_	SpaceAfter=No
+9	クニ	kuni	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+10	キレ	kire	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	クン	kuni	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	タバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+
+# sent_id = Gorin6-08
+# text_ja = もとより人のよくしがたき事を強て学ばしむるにあらず
+# text = アツハケワノシサモキアヱカブクンベアツカリノヱバカシクンベカソモ子
+1	アツハケ	atpake	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+2	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	シサモ	sisam	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	キ	ki	VERB	他動詞	_	6	ccomp	_	SpaceAfter=No
+5	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ヱカブ	ekap	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+7	クン	kuni	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	ベ	pe	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
+9	アツカリノ	akkari-no	ADV	副詞	_	10	advmod	_	SpaceAfter=No
+10	ヱバカシ	epakasnu	VERB	他動詞	_	12	acl	_	SpaceAfter=No
+11	クン	kuni	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+12	ベ	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+13	カ	ka	ADP	副助詞	_	12	case	_	SpaceAfter=No
+14	ソモ	somo	ADV	副詞	_	15	advmod	_	SpaceAfter=No
+15	子	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+
+# sent_id = Gorin6-09
+# text_ja = 有親有義の有の字を翫味せず
+# text = アチヤアンウコヤヱニタヽクンベカアンアンアリアンカンビヱランマカヽシカルンワ子ヤキ子
+1	アチヤ	áca	NOUN	名詞	_	2	nsubj	_	SpaceAfter=No
+2	アン	an	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+3	ウコヤヱニタヽ	uko-yay-nitata	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	クン	kuni	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	ベ	pe	NOUN	形式名詞	_	7	nsubj	_	SpaceAfter=No
+6	カ	ka	ADP	副助詞	_	5	case	_	SpaceAfter=No
+7	アン	an	VERB	自動詞	_	2	conj	_	SpaceAfter=No
+8	アン	an	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+9	アリ	ari	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
+10	アン	an	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+11	カンビ	kanpi	NOUN	名詞	_	13	obj	_	SpaceAfter=No
+12	ヱランマカヽ	irammakaka	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+13	シカルン	esikarun	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	ワ	wa	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	子	ne	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+16	ヤキ子	yakne	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+
+# sent_id = Gorin6-10
+# text_ja = 五倫の我が心に根ざす事知るべし
+# text = [ ] アナク子アニケウトモワヤヱコヘヘケレカキアシカルヱ子
+1	[ ]	Gorin	NOUN	名詞	_	6	obj	_	_
+2	アナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	アニ	ani	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+4	ケウトモ	kewtumu	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+5	ワ	wa	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	ヤヱコヘヘケレ	eyaykopepka-re	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+7	カ	ka	ADP	副助詞	_	6	mark	_	SpaceAfter=No
+8	キ	ku=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	アシ	as	VERB	自動詞	_	6	conj	_	SpaceAfter=No
+10	カ	ka	ADP	副助詞	_	9	mark	_	SpaceAfter=No
+11	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	子	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+
+# sent_id = Gorin6-11
+# text_ja = 鄙野の小民をして輟耕のいとまにこれを讀しめば十に一二も興起する者あらむん
+# text = 子コナカツチヤマコタンコロラムイサマウタレ子ヤツカ子フイトヱタウトロタタンカンビイウカラレワワンベイバカシワ子ヤキ子シ子イタクトイタクヲシケウヌヤヱコヘヾケレクルカアンコトマンナ
+1	子コナ	nékona	ADV	副詞	_	15	advmod	_	SpaceAfter=No
+2	カツチヤマ	katcama	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	コタン	kotan	NOUN	名詞	_	4	obj	_	SpaceAfter=No
+4	コロ	kor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+5	ラムイサマ	ramuysam	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	ウタレ	utar	NOUN	名詞	_	15	advcl	_	SpaceAfter=No
+7	子	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	ヤツカ	yakka	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+9	子フ	nep	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+10	イトヱタ	etoyta	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+11	ウトロ	utur	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+12	タ	ta	ADP	格助詞	_	11	case	_	SpaceAfter=No
+13	タン	tan	DET	連体詞	_	14	det	_	SpaceAfter=No
+14	カンビ	kanpi	NOUN	名詞	_	15	obj	_	SpaceAfter=No
+15	イウカラレ	eyukar-e	VERB	他動詞	_	34	advcl	_	SpaceAfter=No
+16	ワ	wa	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+17	ワン	wan	NUM	数詞	_	18	nummod	_	SpaceAfter=No
+18	ベ	pe	NOUN	形式名詞	_	19	obj	_	SpaceAfter=No
+19	イバカシ	epakasnu	VERB	他動詞	_	28	advcl	_	SpaceAfter=No
+20	ワ	wa	SCONJ	接続助詞	_	19	mark	_	SpaceAfter=No
+21	子	ne	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+22	ヤキ子	yakne	SCONJ	接続助詞	_	19	mark	_	SpaceAfter=No
+23	シ子	sine	NUM	数詞	_	24	nummod	_	SpaceAfter=No
+24	イタク	itak	NOUN	名詞	_	28	obj	_	SpaceAfter=No
+25	ト	tu	NUM	数詞	_	26	nummod	_	SpaceAfter=No
+26	イタク	itak	NOUN	名詞	_	24	conj	_	SpaceAfter=No
+27	ヲシケ	uske	NOUN	形式名詞	_	28	iobj	_	SpaceAfter=No
+28	ウヌ	unu	VERB	他動詞	_	32	advcl	_	SpaceAfter=No
+29	ヤヱコヘヾケレ	eyaykopepka-re	VERB	他動詞	_	30	acl	_	SpaceAfter=No
+30	クル	kur	NOUN	名詞	_	32	nsubj	_	SpaceAfter=No
+31	カ	ka	ADP	副助詞	_	30	case	_	SpaceAfter=No
+32	アン	an	VERB	自動詞	_	34	advcl	_	SpaceAfter=No
+33-34	コトマン	_	_	_	_	_	_	_	SpaceAfter=No
+33	コトㇺ	kotom	SCONJ	接続助詞	_	32	mark	_	SpaceAfter=No
+34	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+35	ナ	na	PART	終助詞	_	34	discourse	_	SpaceAfter=No
+
+# text_ja = 空谷茂潤 記
 
