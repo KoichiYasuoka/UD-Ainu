@@ -26,7 +26,7 @@
 25	ケウトモ	kewtumu	NOUN	名詞	_	36	advcl	_	SpaceAfter=No
 26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
 27	ヤカ	yakka	SCONJ	接続助詞	_	25	case	_	SpaceAfter=No
-28	子	ne	AUX	助動詞	_	25	cop	_	SpaceAfter=No
+28	子	ne	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
 29	コロ	kor	VERB	他動詞	_	32	acl	_	SpaceAfter=No
 30	テ	te	SCONJ	接続助詞	_	29	mark	_	SpaceAfter=No
 31	クシユ	kusu	SCONJ	接続詞	_	29	mark	_	SpaceAfter=No
