@@ -24,6 +24,6 @@
 23	くもり	曇る	VERB	動詞-一般	_	25	advcl	_	SpaceAfter=No
 24	て	て	SCONJ	助詞-接続助詞	_	23	mark	_	SpaceAfter=No
 25	明	明らか	ADJ	形状詞-一般	_	0	root	_	SpaceAfter=No
-26	なら	なり	AUX	助動詞	_	25	cop	_	SpaceAfter=No
+26	なら	なり	AUX	助動詞	_	25	aux	_	SpaceAfter=No
 27	ず	ず	AUX	助動詞	_	25	aux	_	SpaceAfter=No
 
