@@ -6,7 +6,7 @@
 5	シアン	si-an	VERB	自動詞	_	6	amod	_	SpaceAfter=No
 6	ケウトモ	kewtumu	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
 7	レコロ	rékor	VERB	他動詞	_	8	acl	_	SpaceAfter=No
-8	ヘ	pe	NOUN	形式名詞	_	24	nsubj	_	SpaceAfter=No
+8	ヘ	pe	NOUN	形式名詞	_	25	nsubj	_	SpaceAfter=No
 9	アナキ子	anakne	ADP	副助詞	_	8	case	_	SpaceAfter=No
 10	コンル	konru	NOUN	名詞	_	12	nsubj	_	SpaceAfter=No
 11	コラツ	koraci	SCONJ	後置副詞	_	10	case	_	SpaceAfter=No
@@ -21,7 +21,7 @@
 20	子	ne	AUX	助動詞	_	19	aux	_	SpaceAfter=No
 21	クニ	kuni	AUX	助動詞	_	19	aux	_	SpaceAfter=No
 22	イタツ	itak	NOUN	名詞	_	23	obj	_	SpaceAfter=No
-23	フルセ	pórose	VERB	自動詞	_	25	acl	_	SpaceAfter=No
+23	フルセ	pórose	VERB	他動詞	_	25	acl	_	SpaceAfter=No
 24	子	ne	AUX	助動詞	_	23	aux	_	SpaceAfter=No
 25	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 26	タハン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
