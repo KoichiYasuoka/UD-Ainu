@@ -1,4 +1,4 @@
-# text = ケアンナク子ワノキワニノケウトモアナキ子ウボコロベアナキ子シ子サンヘトモシ子子トハケシリ子クシユウタシバ子フヲヤヲシケシヤクアリヱキン子ニソロワノランヱコヱンカラシヨモ子クシユヲヱラクニケウトモカシア子ラツチケクンベタバン
+# text = ケアンナク子ワノキワニノケウトモアナキ子ウボコロベアナキ子シ子サンヘトモシ子子トハケシリ子クシユウタシバ子フヲヤヲシケシヤクアリヱキン子ニソロワノランヱコヱンカラシヨモ子ークシユヲヱラクニケウトモカシア子ラツチケクンベタバン
 1	ケ	ke	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
 2	アンナク子	anakne	ADP	副助詞	_	1	case	_	SpaceAfter=No
 3	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
@@ -30,7 +30,7 @@
 29	ヱ	e=	PART	人称接辞	_	30	nsubj	_	SpaceAfter=No
 30	コヱンカラ	ko-inkar	VERB	他動詞	_	34	advcl	_	SpaceAfter=No
 31	シヨモ	somo	ADV	副詞	_	32	advmod	_	SpaceAfter=No
-32	子	ne	AUX	助動詞	_	30	aux	_	SpaceAfter=No
+32	子ー	ne	AUX	助動詞	_	30	aux	_	SpaceAfter=No
 33	クシユ	kusu	SCONJ	接続助詞	_	30	mark	_	SpaceAfter=No
 34	ヲヱラ	oyra	VERB	他動詞	_	35	acl	_	SpaceAfter=No
 35	クニ	kuni	NOUN	形式名詞	_	36	nmod	_	SpaceAfter=No

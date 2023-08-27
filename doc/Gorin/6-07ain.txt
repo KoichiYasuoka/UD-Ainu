@@ -1,4 +1,4 @@
-# text = カンビヤヱバカシアナキ子子ワノヲロシベヱランマカヽラマンテクニキレクンタバン
+# text = カンビヤヱバカシアナキ子子ワノヲロシベヱランマカヽラマンテクニキーレクンタバン
 1	カンビ	kanpi	NOUN	名詞	_	2	obj	_	SpaceAfter=No
 2	ヤヱバカシ	eyaypakasnu	VERB	他動詞	_	8	csubj	_	SpaceAfter=No
 3	アナキ子	anakne	ADP	副助詞	_	2	mark	_	SpaceAfter=No
@@ -8,7 +8,7 @@
 7	ヱランマカヽ	irammakaka	ADV	副詞	_	8	advmod	_	SpaceAfter=No
 8	ラマンテ	ramante	VERB	他動詞	_	9	acl	_	SpaceAfter=No
 9	クニ	kuni	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
-10	キレ	kire	VERB	他動詞	_	11	acl	_	SpaceAfter=No
+10	キーレ	kire	VERB	他動詞	_	11	acl	_	SpaceAfter=No
 11	クン	kuni	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 12	タバン	tapan	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
 
