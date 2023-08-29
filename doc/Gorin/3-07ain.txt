@@ -1,4 +1,4 @@
-# text = ケアンナクホクレコロヘアナキ子ヨフケヲヘカクルアンノレコレアンテ子フヲロシヘ子ワ子ヤツカヱキヲヘカケウトモコロワヤヱラムノマツウヱトレンシノツ子モシマウタレヲツタウヱシカビソモキクニ子ナ
+# text = ケアンナクホクレコロヘアナキ子ヨフケヲヘカクルアンノレコレアンテ子フヲロシヘ子ワ子ヤツカヱキヲヘカケウトモコロワヤヱラムノマツウヱトレンシノツ子カイモシマウタレヲツタウヱシカビソモキクニ子ナ
 1	ケ	ke	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
 2	アンナク	anak	ADP	副助詞	_	1	case	_	SpaceAfter=No
 3	ホク	hoku	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
@@ -24,16 +24,18 @@
 23	ワ	wa	SCONJ	接続助詞	_	22	mark	_	SpaceAfter=No
 24	ヤヱラムノ	yayramu-no	ADV	副詞	_	26	advmod	_	SpaceAfter=No
 25	マツ	mat	NOUN	名詞	_	26	nsubj	_	SpaceAfter=No
-26	ウヱトレン	uweturen	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
-27	シノツ	sinot	VERB	自動詞	_	36	advcl	_	SpaceAfter=No
+26	ウヱトレン	uweturen	VERB	自動詞	_	37	advcl	_	SpaceAfter=No
+27	シノツ	sinot	VERB	自動詞	_	37	advcl	_	SpaceAfter=No
 28	子	ne	AUX	助動詞	_	27	aux	_	SpaceAfter=No
-29	モシマ	mosma	DET	連体詞	_	30	det	_	SpaceAfter=No
-30	ウタレ	utar	NOUN	名詞	_	31	nmod	_	SpaceAfter=No
-31	ヲツ	or	NOUN	位置名詞	_	33	obl	_	SpaceAfter=No
-32	タ	ta	ADP	格助詞	_	31	case	_	SpaceAfter=No
-33	ウヱシカ	u-esikari	VERB	他動詞	_	34	acl	_	SpaceAfter=No
-34	ビ	pe	NOUN	形式名詞	_	36	obj	_	SpaceAfter=No
-35	ソモ	somo	ADV	副詞	_	36	advmod	_	SpaceAfter=No
-36	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
-37	クニ子	kunine	SCONJ	接続助詞	_	36	mark	_	SpaceAfter=No
-38	ナ	na	PART	終助詞	_	36	discourse	_	SpaceAfter=No
+29	カイ	ka	ADP	副助詞	_	27	mark	_	SpaceAfter=No
+30	モシマ	mosma	DET	連体詞	_	31	det	_	SpaceAfter=No
+31	ウタレ	utar	NOUN	名詞	_	32	nmod	_	SpaceAfter=No
+32	ヲツ	or	NOUN	位置名詞	_	34	obl	_	SpaceAfter=No
+33	タ	ta	ADP	格助詞	_	32	case	_	SpaceAfter=No
+34	ウヱシカ	u-esikari	VERB	他動詞	_	35	acl	_	SpaceAfter=No
+35	ビ	pe	NOUN	形式名詞	_	37	obj	_	SpaceAfter=No
+36	ソモ	somo	ADV	副詞	_	37	advmod	_	SpaceAfter=No
+37	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+38	クニ子	kunine	SCONJ	接続助詞	_	37	mark	_	SpaceAfter=No
+39	ナ	na	PART	終助詞	_	37	discourse	_	SpaceAfter=No
+
