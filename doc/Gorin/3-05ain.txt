@@ -5,7 +5,7 @@
 4	メイ	me	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
 5	子	ne	ADP	格助詞	_	4	case	_	SpaceAfter=No
 6	ワ	wa	SCONJ	接続助詞	_	4	case	_	SpaceAfter=No
-7	ホブケ	popke	VERB	自動詞	_	9	obj	_	SpaceAfter=No
+7	ホブケ	popke	VERB	自動詞	_	9	ccomp	_	SpaceAfter=No
 8	ヨシ	iyos	ADV	副詞	_	9	advmod	_	SpaceAfter=No
 9	トラ	tura	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
 10	アリ	ari	SCONJ	接続助詞	_	9	mark	_	SpaceAfter=No
