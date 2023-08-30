@@ -1,7 +1,7 @@
 # text = 善をせむるとは物を催促する如くに互に善をつとめはげますをいふ
 1	善	善	NOUN	名詞-普通名詞-一般	_	3	obj	_	SpaceAfter=No
 2	を	を	ADP	助詞-格助詞	_	1	case	_	SpaceAfter=No
-3	せ	為る	VERB	動詞-非自立可能	_	21	advcl	_	SpaceAfter=No
+3	せ	為る	VERB	動詞-非自立可能	_	21	csubj	_	SpaceAfter=No
 4	む	む	AUX	助動詞	_	3	aux	_	SpaceAfter=No
 5	る	り	AUX	助動詞	_	3	aux	_	SpaceAfter=No
 6	と	と	ADP	助詞-格助詞	_	3	mark	_	SpaceAfter=No
