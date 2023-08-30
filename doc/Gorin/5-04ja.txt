@@ -4,12 +4,12 @@
 3	たすくる	助ける	VERB	動詞-一般	_	22	advcl	_	SpaceAfter=No
 4	と	と	ADP	助詞-格助詞	_	3	mark	_	SpaceAfter=No
 5	は	は	ADP	助詞-係助詞	_	3	mark	_	SpaceAfter=No
-6	おのれ	己	PRON	代名詞	_	10	nsubj	_	SpaceAfter=No
+6	おのれ	己	PRON	代名詞	_	8	nmod	_	SpaceAfter=No
 7	が	が	ADP	助詞-格助詞	_	6	case	_	SpaceAfter=No
-8	修行	修行	NOUN	名詞-普通名詞-サ変可能	_	10	obl	_	SpaceAfter=No
+8	修行	修行	NOUN	名詞-普通名詞-サ変可能	_	11	obl	_	SpaceAfter=No
 9	に	に	ADP	助詞-格助詞	_	8	case	_	SpaceAfter=No
-10	おこたり	怠り	NOUN	名詞-普通名詞-一般	_	18	advcl	_	SpaceAfter=No
-11	あれ	有る	VERB	動詞-非自立可能	_	10	aux	_	SpaceAfter=No
+10	おこたり	怠り	NOUN	名詞-普通名詞-一般	_	11	nsubj	_	SpaceAfter=No
+11	あれ	有る	VERB	動詞-非自立可能	_	18	advcl	_	SpaceAfter=No
 12	ば	ば	CCONJ	助詞-接続助詞	_	10	mark	_	SpaceAfter=No
 13	朋友	朋友	NOUN	名詞-普通名詞-一般	_	16	nsubj	_	SpaceAfter=No
 14	の	の	ADP	助詞-格助詞	_	13	case	_	SpaceAfter=No
