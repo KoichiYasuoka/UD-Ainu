@@ -24,7 +24,7 @@
 23	バテキ	patek	SCONJ	後置副詞	_	22	mark	_	SpaceAfter=No
 24	ラムシカル	eramuskari	VERB	他動詞	_	27	advcl	_	SpaceAfter=No
 25	ナ	na	PART	終助詞	_	24	mark	_	SpaceAfter=No
-26	ヱ子	ene	ADV	副詞	_	27	amod	_	SpaceAfter=No
+26	ヱ子	ene	ADV	副詞	_	27	advmod	_	SpaceAfter=No
 27	シサモ	sisam	NOUN	名詞	_	50	advcl	_	SpaceAfter=No
 28	子	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
 29	コロカ	korka	CCONJ	接続詞	_	32	cc	_	SpaceAfter=No
