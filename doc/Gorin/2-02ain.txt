@@ -26,7 +26,7 @@
 25	カモイ	kamuy	NOUN	名詞	_	31	nsubj	_	SpaceAfter=No
 26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
 27	ワ	wa	SCONJ	接続助詞	_	25	case	_	SpaceAfter=No
-28	イヨコテ	iyokte	VERB	他動詞	_	30	amod	_	SpaceAfter=No
+28	イヨコテ	iyokte	VERB	他動詞	_	30	acl	_	SpaceAfter=No
 29	子	ne	AUX	助動詞	_	28	aux	_	SpaceAfter=No
 30	クル	kur	NOUN	名詞	_	25	conj	_	SpaceAfter=No
 31	ウカトコロ	u-katkor	VERB	自動詞	_	32	acl	_	SpaceAfter=No

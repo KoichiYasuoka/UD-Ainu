@@ -4,7 +4,7 @@
 3	ワノ	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
 4	ヱバカシ	epakasnu	VERB	他動詞	_	5	ccomp	_	SpaceAfter=No
 5	アシテ	aste	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
-6	アツテ	atte	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+6	アツテ	atte	VERB	他動詞	_	7	acl	_	SpaceAfter=No
 7	カモヱ	kamuy	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
 8	子	ne	ADP	格助詞	_	7	case	_	SpaceAfter=No
 9	ワ	wa	SCONJ	接続助詞	_	7	case	_	SpaceAfter=No

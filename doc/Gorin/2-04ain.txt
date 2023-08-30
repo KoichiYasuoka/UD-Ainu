@@ -1,5 +1,5 @@
 # text = アツテカモイカタヨロケクンベアナキ子アツバケワノシシヤモヱ子ヱシンヌヽカアンルヱ子コロカアルシユアンキクニカタヨロツケ子クニヱテキヱラムアンヤウセヲヤイケウトモシヤクノウワツテシヤモウタレケセ子ワ子ヤツカラマツケウヱラカコレクニタンイタク子ルヱタハンナ
-1	アツテ	atte	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+1	アツテ	atte	VERB	他動詞	_	2	acl	_	SpaceAfter=No
 2	カモイ	kamuy	NOUN	名詞	_	3	nsubj	_	SpaceAfter=No
 3	カタヨロケ	ekatayrotke	VERB	他動詞	_	5	acl	_	SpaceAfter=No
 4	クン	kuni	AUX	助動詞	_	3	aux	_	SpaceAfter=No
@@ -39,7 +39,7 @@
 38	ヤツカ	yakka	SCONJ	接続助詞	_	34	mark	_	SpaceAfter=No
 39	ラマツ	ramat	NOUN	名詞	_	40	nmod	_	SpaceAfter=No
 40	ケウヱ	ikkewe	NOUN	名詞	_	42	iobj	_	SpaceAfter=No
-41	ラカ	raka	VERB	自動詞	_	42	obj	_	SpaceAfter=No
+41	ラカ	raka	NOUN	名詞	_	42	obj	_	SpaceAfter=No
 42	コレ	kore	VERB	他動詞	_	43	acl	_	SpaceAfter=No
 43	クニ	kuni	NOUN	形式名詞	_	45	nsubj	_	SpaceAfter=No
 44	タン	tan	DET	連体詞	_	45	det	_	SpaceAfter=No
