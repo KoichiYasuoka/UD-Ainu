@@ -20,7 +20,7 @@
 18	タ	ta	ADP	格助詞	_	17	case	_	SpaceAfter=No
 19	コシラムシユイバ	kosiramsuypa	VERB	他動詞	_	27	advcl	_	SpaceAfter=No
 20	アキ	aki	NOUN	名詞	_	22	acl	_	SpaceAfter=No
-21	子	ne	AUX	デアル動詞	_	20	aux	_	SpaceAfter=No
+21	子	ne	AUX	デアル動詞	_	20	cop	_	SpaceAfter=No
 22	クル	kur	NOUN	名詞	_	27	nsubj	_	SpaceAfter=No
 23	ユビ	yup	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
 24	ヲツ	or	NOUN	位置名詞	_	27	obj	_	SpaceAfter=No
