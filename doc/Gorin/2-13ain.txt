@@ -27,8 +27,8 @@
 25	カモイ	kamuy	NOUN	名詞	_	28	obj	_	SpaceAfter=No
 26	子	ne	ADP	格助詞	_	25	case	_	SpaceAfter=No
 27	ウヲヤ	uwoyak	NOUN	位置名詞	_	28	iobj	_	SpaceAfter=No
-28	コテ	kote	VERB	他動詞	_	30	acl	_	SpaceAfter=No
-29	アン	=an	PART	人称接辞	_	28	expl	_	SpaceAfter=No
+28	コテ	kote	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
+29	アン	an	VERB	自動詞	_	30	acl	_	SpaceAfter=No
 30	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 31	子	ne	AUX	デアル動詞	_	30	cop	_	SpaceAfter=No
 32	ナ	na	PART	終助詞	_	30	discourse	_	SpaceAfter=No

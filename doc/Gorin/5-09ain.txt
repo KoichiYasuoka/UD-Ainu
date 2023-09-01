@@ -21,8 +21,8 @@
 20	ソモ	somo	ADV	副詞	_	21	advmod	_	SpaceAfter=No
 21	ベイ子	péne	VERB	自動詞	_	23	advcl	_	SpaceAfter=No
 22	クニ	kuni	AUX	助動詞	_	21	aux	_	SpaceAfter=No
-23	イタクマコツ	itakmakkuste	VERB	自動詞	_	25	acl	_	SpaceAfter=No
-24	アン	=an	PART	人称接辞	_	23	expl	_	SpaceAfter=No
+23	イタクマコツ	itakmakkuste	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+24	アン	an	VERB	自動詞	_	25	acl	_	SpaceAfter=No
 25	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 26	タバン	tapan	AUX	デアル動詞	_	25	cop	_	SpaceAfter=No
 

@@ -8,8 +8,8 @@
 7	チセ	cise	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
 8	カツチヤマ	katcama	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
 9	クニ	kuni	NOUN	形式名詞	_	10	obj	_	SpaceAfter=No
-10	カイイ	kaye	VERB	他動詞	_	12	acl	_	SpaceAfter=No
-11	アン	=an	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	カイイ	kaye	VERB	他動詞	_	11	advcl	_	SpaceAfter=No
+11	アン	an	VERB	自動詞	_	12	acl	_	SpaceAfter=No
 12	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 13	タハン	tapan	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
 14	ナ	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No

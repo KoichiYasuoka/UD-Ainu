@@ -25,8 +25,8 @@
 24	カムイ	kamuy	NOUN	名詞	_	26	obj	_	SpaceAfter=No
 25	子	ne	ADP	格助詞	_	24	case	_	SpaceAfter=No
 26	アヌ	anu	VERB	他動詞	_	27	advcl	_	SpaceAfter=No
-27	ウコアンテ	uko-ante	VERB	他動詞	_	29	acl	_	SpaceAfter=No
-28	アン	=an	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	ウコアンテ	uko-ante	VERB	他動詞	_	28	advcl	_	SpaceAfter=No
+28	アン	an	VERB	自動詞	_	29	acl	_	SpaceAfter=No
 29	ルヱ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
 30	タハン	tapan	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
 
