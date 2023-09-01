@@ -2966,7 +2966,7 @@
 # text_ja = 云ふと、小男は顏色を
 # text_ja = 變へ變へ聞いてゐたが
 # text_ja = 「ピイトントン、ピイトントン！
-1	itak	itak	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+1	itak	itak	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
 2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
 3	awa	awa	CCONJ	接続詞	_	1	mark	_	SpaceAfter=No
 4	,	,	PUNCT	記号	_	1	punct	_	_
@@ -2979,12 +2979,12 @@
 11	a	a	AUX	助動詞	_	10	aux	_	SpaceAfter=No
 12	wen	wen	VERB	自動詞	_	10	conj	_	SpaceAfter=No
 13	a	a	AUX	助動詞	_	12	aux	_	_
-14	ikokanu	ikokanu	VERB	自動詞	_	0	root	_	_
+14	ikokanu	ikokanu	VERB	自動詞	_	16	advcl	_	_
 15	wa	wa	SCONJ	接続助詞	_	14	mark	_	_
-16	an	an	AUX	助動詞	_	14	aux	_	_
-17	aine	ayne	SCONJ	接続詞	_	14	mark	_	SpaceAfter=No
+16	an	an	VERB	自動詞	_	0	root	_	_
+17	aine	ayne	SCONJ	接続詞	_	16	mark	_	SpaceAfter=No
 18	“	“	PUNCT	記号	_	19	punct	_	_
-19	pii	piy	INTJ	間投詞	_	14	parataxis	_	_
+19	pii	piy	INTJ	間投詞	_	16	parataxis	_	_
 20	tun	tun	INTJ	間投詞	_	19	discourse	_	_
 21	tun	tun	INTJ	間投詞	_	19	discourse	_	SpaceAfter=No
 22	,	,	PUNCT	記号	_	19	punct	_	_
