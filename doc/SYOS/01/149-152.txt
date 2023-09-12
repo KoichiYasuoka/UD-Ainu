@@ -1,0 +1,37 @@
+# sent_id = SYOS_1_149-152
+# text = Poroshikupmat yaikokutkor yupu kane pon hekachi shikashuire usa nina usa wakkata sakeshuye etokooiki, irukai neko iwan shintoko rororaipa.
+# text_ain = Poroshikupmat yaikokutkor yupu kane
+# text_ain = pon hekachi shikashuire usa nina
+# text_ain = usa wakkata sakeshuye etokooiki, irukai neko
+# text_ain = iwan shintoko rororaipa.
+# text_ja = 老婦人は身仕度をして
+# text_ja = 小さい子を手傳はせ、薪をとつたり
+# text_ja = 水を汲んだりして、酒を造る仕度をして、一寸の間に
+# text_ja = 六つの酒樽を上座にならべました。
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	4	nsubj	_	_
+4	yaikokutkor	yayko-kutkor	VERB	自動詞	_	5	ccomp	_	_
+5	yupu	yupu	VERB	他動詞	_	17	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	pon	pon	VERB	自動詞	_	8	amod	_	_
+8	hekachi	hekaci	NOUN	名詞	_	9	obj	_	_
+9	shikashuire	sikasuyre	VERB	他動詞	_	17	advcl	_	_
+10	usa	usa	ADV	副詞	_	11	advmod	_	_
+11	nina	nina	VERB	自動詞	_	15	advcl	_	_
+12	usa	usa	ADV	副詞	_	13	advmod	_	_
+13	wakkata	wakkata	VERB	自動詞	_	15	advcl	_	_
+14	sake	sake	NOUN	名詞	_	15	obj	_	SpaceAfter=No
+15	shuye	suye	VERB	他動詞	_	16	acl	_	_
+16	etoko	etoko	NOUN	位置名詞	_	17	obj	_	SpaceAfter=No
+17	oiki	oyki	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	irukai	iruka	ADV	副詞	_	25	advcl	_	_
+20	ne	ne	AUX	デアル動詞	_	19	cop	_	SpaceAfter=No
+21	ko	kor	SCONJ	接続助詞	_	19	mark	_	_
+22	iwan	iwan	NUM	数詞	_	23	nummod	_	_
+23	shintoko	sintoko	NOUN	名詞	_	25	obj	_	_
+24	ror	ror	NOUN	位置名詞	_	25	iobj	_	SpaceAfter=No
+25	oraipa	oraypa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	25	punct	_	_
+

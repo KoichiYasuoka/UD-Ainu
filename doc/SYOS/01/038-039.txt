@@ -1,0 +1,14 @@
+# sent_id = SYOS_1_38-39
+# text = hawokai kane wenkur hekachi ukooterke ukokikkik.
+# text_ain = hawokai kane wenkur hekachi ukooterke
+# text_ain = ukokikkik.
+# text_ja = と云つて、貧しい子を足蹴にしたり
+# text_ja = たゝいたりします。
+1	hawokai	hawean	VERB	自動詞	_	5	advcl	_	_
+2	kane	kane	SCONJ	接続助詞	_	1	mark	_	_
+3	wenkur	wenkur	NOUN	名詞	_	4	nmod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	5	obj	_	_
+5	ukooterke	uko-oterke	VERB	他動詞	_	0	root	_	_
+6	ukokikkik	uko-kikkik	VERB	他動詞	_	5	conj	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

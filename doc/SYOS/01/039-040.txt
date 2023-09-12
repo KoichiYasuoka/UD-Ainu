@@ -1,0 +1,19 @@
+# sent_id = SYOS_1_39-40
+# text = Kipnekorka wenkur hekachi senne ponno ekottanu uneyoko.
+# text_ain = Kipnekorka wenkur hekachi
+# text_ain = senne ponno ekottanu uneyoko.
+# text_ja = けれども貧乏な子は
+# text_ja = ちつとも構はず私をねらつてゐます。
+1	Ki	ki	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+2	p	-p	PART	接尾辞	_	11	advcl	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	korka	korka	CCONJ	接続詞	_	2	mark	_	_
+5	wenkur	wenkur	NOUN	名詞	_	6	nmod	_	_
+6	hekachi	hekaci	NOUN	名詞	_	9	nsubj	_	_
+7	senne	senne	ADV	副詞	_	8	advmod	_	_
+8	ponno	ponno	ADV	副詞	_	9	advmod	_	_
+9	ekottanu	ekottanu	VERB	他動詞	_	11	advcl	_	_
+10	un	un=	PART	人称接辞	_	11	obj	_	SpaceAfter=No
+11	eyoko	eyoko	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

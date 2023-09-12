@@ -1,0 +1,38 @@
+# sent_id = SYOS_1_190-194
+# text = ari okaipe echaranke awa nishpa utar otusanashke oresanashke ukaenoipa chisekor nishpa koyayapapu, tewano anak uwekatairotke kuni eukoitak.
+# text_ain = ari okaipe
+# text_ain = echaranke awa nishpa utar
+# text_ain = otusanashke oresanashke ukaenoipa
+# text_ain = chisekor nishpa koyayapapu, tewano anak
+# text_ain = uwekatairotke kuni eukoitak.
+# text_ja = といふ事を
+# text_ja = 申し述べると、人々は
+# text_ja = 何度も何度も手をすりあはせて
+# text_ja = 家の主人に罪を謝し、これからは
+# text_ja = 仲よくする事を話合ひました。
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	okai	okai	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	pe	pe	NOUN	形式名詞	_	4	obj	_	_
+4	echaranke	e-caranke	VERB	他動詞	_	17	advcl	_	_
+5	awa	awa	CCONJ	接続詞	_	4	mark	_	_
+6	nishpa	nispa	NOUN	名詞	_	7	nmod	_	_
+7	utar	utar	NOUN	名詞	_	13	nsubj	_	_
+8	otu	otu	NUM	数詞	_	9	nummod	_	SpaceAfter=No
+9	sanashke	sanaske	NOUN	名詞	_	12	nmod	_	_
+10	ore	ore	NUM	数詞	_	11	nummod	_	SpaceAfter=No
+11	sanashke	sanaske	NOUN	名詞	_	9	conj	_	_
+12	uka	uka	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+13	enoipa	henoye	VERB	自動詞	_	17	advcl	_	_
+14	chise	cise	NOUN	名詞	_	15	nsubj	_	_
+15	kor	kor	VERB	他動詞	_	16	acl	_	_
+16	nishpa	nispa	NOUN	名詞	_	17	obj	_	_
+17	koyayapapu	koyayapapu	VERB	他動詞	_	24	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	te	te	NOUN	位置名詞	_	24	obl	_	SpaceAfter=No
+20	wano	wano	ADP	格助詞	_	19	case	_	_
+21	anak	anak	ADP	副助詞	_	19	case	_	_
+22	uwekatairotke	uwekatayrotke	VERB	自動詞	_	23	amod	_	_
+23	kuni	kuni	NOUN	形式名詞	_	24	nsubj	_	_
+24	eukoitak	ewkoytak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	記号	_	24	punct	_	_
+

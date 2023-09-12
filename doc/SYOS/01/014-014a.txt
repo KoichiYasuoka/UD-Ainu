@@ -1,0 +1,9 @@
+# sent_id = SYOS_1_14a
+# text = “ Pirka chikappo !
+# text_ain = “ Pirka chikappo !
+# text_ja = 「美い鳥!
+1	“	“	PUNCT	記号	_	3	punct	_	_
+2	Pirka	pirka	VERB	自動詞	_	3	amod	_	_
+3	chikappo	cikappo	NOUN	名詞	_	0	root	_	_
+4	!	!	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,19 @@
+# sent_id = SYOS_1_63-64
+# text = hawokai ko, wenkur hekachi unkashike kamu kamu unhonkokishma.
+# text_ain = hawokai ko, wenkur hekachi unkashike
+# text_ain = kamu kamu unhonkokishma.
+# text_ja = と云ふと、貧乏な子は、私の上に
+# text_ja = おほひかぶさつて、自分の腹にしつかりと私を押へてゐました。
+1	hawokai	hawean	VERB	自動詞	_	11	advcl	_	_
+2	ko	kor	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	wenkur	wenkur	NOUN	名詞	_	5	nmod	_	_
+5	hekachi	hekaci	NOUN	名詞	_	8	nsubj	_	_
+6	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+7	kashike	kasi	NOUN	位置名詞	_	8	obl	_	_
+8	kamu	kamu	VERB	他動詞	_	11	advcl	_	_
+9	kamu	kamu	VERB	他動詞	_	8	conj	_	_
+10	un	un=	PART	人称接辞	_	11	obj	_	SpaceAfter=No
+11	honkokishma	ehonkokisma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

@@ -1,0 +1,58 @@
+# sent_id = SYOS_1_32-37
+# text = “ Achikara ta wenkur hekachi toan chikappo kamui chikappo aokaiutar akor konkaniai ka somouk ko, enepkoran wenkur hekachi kor yayanai muninchikuniai toan chikappo kamui chikappo shinoshino uk nankor wa.”
+# text_ain = “ Achikara ta wenkur hekachi
+# text_ain = toan chikappo kamui chikappo aokaiutar
+# text_ain = akor konkaniai ka somouk ko, enepkoran
+# text_ain = wenkur hekachi kor yayanai muninchikuniai
+# text_ain = toan chikappo kamui chikappo shinoshino
+# text_ain = uk nankor wa.”
+# text_ja = 「あらをかしや貧乏の子
+# text_ja = あの鳥神樣の鳥は私たちの
+# text_ja = 金の小矢でもお取りにならないものを、お前の樣な
+# text_ja = 貧乏な子のたゞの矢腐れ木の矢を
+# text_ja = あの鳥神樣の鳥がよくよく
+# text_ja = 取るだらうよ。」
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Achikara ta	acikarata	INTJ	間投詞	_	4	discourse	_	_
+3	wenkur	wenkur	NOUN	名詞	_	4	nmod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	39	vocative	_	_
+5	toan	toan	DET	連体詞	_	6	det	_	_
+6	chikappo	cikappo	NOUN	名詞	_	17	obj	_	_
+7	kamui	kamuy	NOUN	名詞	_	8	nmod	_	_
+8	chikappo	cikappo	NOUN	名詞	_	6	appos	_	_
+9	aokai	aoká	PRON	代名詞	_	10	compound	_	SpaceAfter=No
+10	utar	utar	NOUN	名詞	_	17	nsubj	_	_
+11	a	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	kor	kor	VERB	他動詞	_	14	acl	_	_
+13	konkani	konkani	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	ai	ay	NOUN	名詞	_	17	obl	_	_
+15	ka	ka	ADP	副助詞	_	14	case	_	_
+16	somo	somo	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	uk	uk	VERB	他動詞	_	39	advcl	_	_
+18	ko	kor	SCONJ	接続助詞	_	17	mark	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	17	punct	_	_
+20	e	e=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+21	ne	ne	AUX	デアル動詞	_	22	cop	_	SpaceAfter=No
+22	p	-p	PART	接尾辞	_	24	nsubj	_	SpaceAfter=No
+23	kor	kor	SCONJ	接続助詞	_	22	case	_	SpaceAfter=No
+24	an	an	VERB	自動詞	_	26	acl	_	_
+25	wenkur	wenkur	NOUN	名詞	_	26	nmod	_	_
+26	hekachi	hekaci	NOUN	名詞	_	27	nsubj	_	_
+27	kor	kor	VERB	他動詞	_	29	acl	_	_
+28	yayan	yayan	DET	連体詞	_	29	det	_	SpaceAfter=No
+29	ai	ay	NOUN	名詞	_	39	nsubj	_	_
+30	munin	munin	VERB	自動詞	_	31	amod	_	SpaceAfter=No
+31	chikuni	cikuni	NOUN	名詞	_	32	nmod	_	SpaceAfter=No
+32	ai	ay	NOUN	名詞	_	29	conj	_	_
+33	toan	toan	DET	連体詞	_	34	det	_	_
+34	chikappo	cikappo	NOUN	名詞	_	39	obj	_	_
+35	kamui	kamuy	NOUN	名詞	_	36	nmod	_	_
+36	chikappo	cikappo	NOUN	名詞	_	34	appos	_	_
+37	shino	sino	ADV	副詞	_	39	advmod	_	SpaceAfter=No
+38	shino	sino	ADV	副詞	_	39	advmod	_	_
+39	uk	uk	VERB	他動詞	_	0	root	_	_
+40	nankor	nankor	AUX	助動詞	_	39	aux	_	_
+41	wa	wa	SCONJ	接続助詞	_	39	mark	_	SpaceAfter=No
+42	.	.	PUNCT	記号	_	39	punct	_	SpaceAfter=No
+43	”	”	PUNCT	記号	_	39	punct	_	_
+

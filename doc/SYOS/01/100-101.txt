@@ -1,0 +1,21 @@
+# sent_id = SYOS_1_100-101
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan.”
+# text_ain = “ Shirokanipe ranran pishkan,
+# text_ain = konkanipe ranran pishkan.”
+# text_ja = 「銀の滴降る降るまはりに、
+# text_ja = 金の滴降る降るまはりに。」
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	SpaceAfter=No
+14	”	”	PUNCT	記号	_	12	punct	_	_
+

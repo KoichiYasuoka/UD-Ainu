@@ -1,0 +1,29 @@
+# sent_id = SYOS_1_102-104
+# text = arian rekpo haukenopo chiki kane, tapan ponchise eharkiso un eshiso un terkeash humi tununitara.
+# text_ain = arian rekpo haukenopo chiki kane,
+# text_ain = tapan ponchise eharkiso un eshiso un
+# text_ain = terkeash humi tununitara.
+# text_ja = といふ歌を靜かにうたひながら
+# text_ja = 此の家の左の座へ右の座へ
+# text_ja = 美しい音をたてゝ飛びました。
+1	ari	ari	SCONJ	接続助詞	_	6	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	6	obj	_	_
+4	haukenopo	hawkeno	ADV	副詞	_	6	advmod	_	_
+5	chi	ci=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ki	ki	VERB	他動詞	_	19	advcl	_	_
+7	kane	kane	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	tapan	tapan	DET	連体詞	_	11	det	_	_
+10	pon	pon	VERB	自動詞	_	11	amod	_	SpaceAfter=No
+11	chise	cise	NOUN	名詞	_	12	nmod	_	_
+12	eharkiso	e-harkiso	NOUN	位置名詞	_	16	obl	_	_
+13	un	un	ADP	格助詞	_	12	case	_	_
+14	eshiso	e-siso	NOUN	位置名詞	_	12	conj	_	_
+15	un	un	ADP	格助詞	_	14	case	_	_
+16	terke	terke	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+17	ash	=as	PART	人称接辞	_	16	nsubj	_	_
+18	humi	humi	NOUN	名詞	_	19	nsubj	_	_
+19	tununitara	tununitara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	19	punct	_	_
+

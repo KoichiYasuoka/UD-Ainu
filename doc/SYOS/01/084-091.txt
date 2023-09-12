@@ -1,0 +1,80 @@
+# sent_id = SYOS_1_84-91
+# text = Teeta anak nishpa otta yayukopishkip chine akorka tane anakne tan korachi shirun wenkur ne okayash wa, kotankor kamui pase kamui chireushire ka aeoripak kiwaneyakka tanto anak tane shirkunne kushu tanukuran pase kamui areushire wa nisatta anak ouse inau aripoka pase kamui aomante kushne.”
+# text_ain = Teeta anak nishpa otta yayukopishkip
+# text_ain = chine akorka tane anakne tan korachi
+# text_ain = shirun wenkur ne okayash wa, kotankor kamui
+# text_ain = pase kamui chireushire ka
+# text_ain = aeoripak kiwaneyakka tanto anak
+# text_ain = tane shirkunne kushu tanukuran pase kamui
+# text_ain = areushire wa nisatta anak ouse inau aripoka
+# text_ain = pase kamui aomante kushne.”
+# text_ja = 昔は、お金持に自分を數へ入れるほどの者で
+# text_ja = 御座いましたが今はもう此の樣に
+# text_ja = つまらない貧乏人になりまして、國の神樣
+# text_ja = 大神樣お泊め申すも
+# text_ja = 畏れ多い事ながら今日はもう
+# text_ja = 日も暮れましたから、今宵は大神樣を
+# text_ja = お泊め申上げ、明日は、たゞイナウだけでも
+# text_ja = 大神樣をお送り申し上げませう。」
+1	Teeta	teeta	ADV	副詞	_	6	advmod	_	_
+2	anak	anak	ADP	副助詞	_	1	case	_	_
+3	nishpa	nispa	NOUN	名詞	_	4	nmod	_	_
+4	ot	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	yayukopishki	yay-u-kopis-ki	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	p	-p	PART	接尾辞	_	32	advcl	_	_
+8	chi	ci=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+9	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+10	a	a	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+11	korka	korka	CCONJ	接続詞	_	7	mark	_	_
+12	tane	tane	ADV	副詞	_	17	advmod	_	_
+13	anakne	anakne	ADP	副助詞	_	12	case	_	_
+14	tan	tan	DET	連体詞	_	17	det	_	_
+15	korachi	koraci	SCONJ	後置副詞	_	14	case	_	_
+16	shirun	sirun-	PART	接頭辞	_	17	compound	_	_
+17	wenkur	wenkur	NOUN	名詞	_	19	advcl	_	_
+18	ne	ne	AUX	デアル動詞	_	17	cop	_	_
+19	okay	an	VERB	自動詞	_	7	conj	_	SpaceAfter=No
+20	ash	=as	PART	人称接辞	_	19	nsubj	_	_
+21	wa	wa	SCONJ	接続助詞	_	19	mark	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	19	punct	_	_
+23	kotan	kotan	NOUN	名詞	_	24	nsubj	_	SpaceAfter=No
+24	kor	kor	VERB	他動詞	_	25	acl	_	_
+25	kamui	kamuy	NOUN	名詞	_	29	obj	_	_
+26	pase	pase	VERB	自動詞	_	27	amod	_	_
+27	kamui	kamuy	NOUN	名詞	_	25	appos	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	reushire	rewsire	VERB	他動詞	_	32	ccomp	_	_
+30	ka	ka	ADP	副助詞	_	29	mark	_	_
+31	a	a=	PART	人称接辞	_	32	nsubj	_	SpaceAfter=No
+32	eoripak	eoripak	VERB	他動詞	_	33	advcl	_	_
+33	ki	ki	VERB	他動詞	_	40	advcl	_	SpaceAfter=No
+34	wa	wa	SCONJ	接続助詞	_	33	mark	_	SpaceAfter=No
+35	ne	ne	AUX	助動詞	_	33	aux	_	SpaceAfter=No
+36	yakka	yakka	SCONJ	接続助詞	_	33	mark	_	_
+37	tanto	tanto	ADV	副詞	_	40	advmod	_	_
+38	anak	anak	ADP	副助詞	_	37	case	_	_
+39	tane	tane	ADV	副詞	_	40	advmod	_	_
+40	shirkunne	sirkunne	VERB	完全動詞	_	46	advcl	_	_
+41	kushu	kusu	SCONJ	接続助詞	_	40	mark	_	_
+42	tanukuran	tanukuran	ADV	副詞	_	46	advmod	_	_
+43	pase	pase	VERB	自動詞	_	44	amod	_	_
+44	kamui	kamuy	NOUN	名詞	_	46	obj	_	_
+45	a	a=	PART	人称接辞	_	46	nsubj	_	SpaceAfter=No
+46	reushire	rewsire	VERB	他動詞	_	57	advcl	_	_
+47	wa	wa	SCONJ	接続助詞	_	46	mark	_	_
+48	nisatta	nisatta	ADV	副詞	_	57	advmod	_	_
+49	anak	anak	ADP	副助詞	_	48	case	_	_
+50	ouse	ouse	ADV	副詞	_	51	amod	_	_
+51	inau	inaw	NOUN	名詞	_	57	obl	_	_
+52	ari	ari	SCONJ	接続助詞	_	51	case	_	SpaceAfter=No
+53	poka	póka	ADP	副助詞	_	51	case	_	_
+54	pase	pase	VERB	自動詞	_	55	amod	_	_
+55	kamui	kamuy	NOUN	名詞	_	57	obj	_	_
+56	a	a=	PART	人称接辞	_	57	nsubj	_	SpaceAfter=No
+57	omante	omante	VERB	他動詞	_	0	root	_	_
+58	kush	kusu	SCONJ	接続詞	_	57	mark	_	SpaceAfter=No
+59	ne	ne	AUX	デアル動詞	_	57	cop	_	SpaceAfter=No
+60	.	.	PUNCT	記号	_	57	punct	_	SpaceAfter=No
+61	”	”	PUNCT	記号	_	57	punct	_	_
+

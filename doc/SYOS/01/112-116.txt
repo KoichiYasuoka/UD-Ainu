@@ -1,0 +1,53 @@
+# sent_id = SYOS_1_112-116
+# text = arian rekpo chiki kane tapan ponchise irukai neko kani chise poro chise ne chikar okere, chiseupshoro kamuiimoma chiekarkar, kamuikosonte pirkaike chitunashkarkar chiseupshoro chietomte.
+# text_ain = arian rekpo chiki kane tapan ponchise
+# text_ain = irukai neko kani chise poro chise ne
+# text_ain = chikar okere, chiseupshoro kamuiimoma
+# text_ain = chiekarkar, kamuikosonte pirkaike
+# text_ain = chitunashkarkar chiseupshoro chietomte.
+# text_ja = といふ歌をうたひながら此の小さい家を
+# text_ja = 一寸の間にかねの家、大きな家に
+# text_ja = 作りかへてしまひました、家の中は、りつぱな寶物の積場
+# text_ja = を作り、りつぱな着物の美しいのを
+# text_ja = 早つぐりして家の中を飾りつけました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ki	ki	VERB	他動詞	_	19	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	tapan	tapan	DET	連体詞	_	9	det	_	_
+8	pon	pon	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	chise	cise	NOUN	名詞	_	14	nsubj	_	_
+10	irukai	iruka	ADV	副詞	_	14	advcl	_	_
+11	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	ko	kor	SCONJ	接続助詞	_	10	mark	_	_
+13	kani	kani	NOUN	名詞	_	14	nmod	_	_
+14	chise	cise	NOUN	名詞	_	19	ccomp	_	_
+15	poro	poro	VERB	自動詞	_	16	amod	_	_
+16	chise	cise	NOUN	名詞	_	14	appos	_	_
+17	ne	ne	AUX	デアル動詞	_	14	cop	_	_
+18	chi	ci=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	kar	kar	VERB	他動詞	_	39	advcl	_	_
+20	okere	okere	AUX	助動詞	_	19	aux	_	SpaceAfter=No
+21	,	,	PUNCT	記号	_	19	punct	_	_
+22	chise	cise	NOUN	名詞	_	23	nmod	_	SpaceAfter=No
+23	upshoro	upsoro	NOUN	名詞	_	27	obl	_	_
+24	kamui	kamuy	NOUN	名詞	_	25	nmod	_	SpaceAfter=No
+25	imoma	imoma	NOUN	名詞	_	27	obj	_	_
+26	chi	ci=	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	ekarkar	ekarkar	VERB	他動詞	_	39	advcl	_	SpaceAfter=No
+28	,	,	PUNCT	記号	_	27	punct	_	_
+29	kamui	kamuy	NOUN	名詞	_	30	nmod	_	SpaceAfter=No
+30	kosonte	kosonte	NOUN	名詞	_	32	nmod	_	_
+31	pirka	pirka	VERB	自動詞	_	32	amod	_	SpaceAfter=No
+32	ike	-i	NOUN	形式名詞	_	35	obj	_	_
+33	chi	ci=	PART	人称接辞	_	35	nsubj	_	SpaceAfter=No
+34	tunash	tunas	ADV	副詞	_	35	advmod	_	SpaceAfter=No
+35	karkar	karkar	VERB	他動詞	_	39	advcl	_	_
+36	chise	cise	NOUN	名詞	_	37	nmod	_	SpaceAfter=No
+37	upshoro	upsoro	NOUN	名詞	_	39	obj	_	_
+38	chi	ci=	PART	人称接辞	_	39	nsubj	_	SpaceAfter=No
+39	etomte	e-tomte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+40	.	.	PUNCT	記号	_	39	punct	_	_
+

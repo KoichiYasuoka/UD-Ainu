@@ -1,0 +1,12 @@
+# sent_id = SYOS_1_41
+# text = Shirki chiki ihomakeutum chiyaikore.
+# text_ain = Shirki chiki ihomakeutum chiyaikore.
+# text_ja = 私はそのさまを見ると、大層不憫に思ひました。
+1	Shirki	sirki	VERB	完全動詞	_	6	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	ihoma	ihoma	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+4	keutum	kewtum	NOUN	名詞	_	6	obj	_	_
+5	chi	ci=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	yaikore	yaykore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

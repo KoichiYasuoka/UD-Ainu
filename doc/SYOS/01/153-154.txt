@@ -1,0 +1,21 @@
+# sent_id = SYOS_1_153-154
+# text = Orowano apehuchi kamuihuchi tura usaokai kamuiorushpe chieuweneusar.
+# text_ain = Orowano apehuchi kamuihuchi tura
+# text_ain = usaokai kamuiorushpe chieuweneusar.
+# text_ja = それから私は火の老女老女神と
+# text_ja = 種々な神の話を語り合ひました。
+1	Oro	oro	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ape	ape	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	huchi	húci	NOUN	名詞	_	13	obl	_	_
+5	kamui	kamuy	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	huchi	húci	NOUN	名詞	_	4	conj	_	_
+7	tura	tura	SCONJ	後置副詞	_	4	case	_	_
+8	usa	usa	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	okai	an	VERB	自動詞	_	11	acl	_	_
+10	kamui	kamuy	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+11	orushpe	oruspe	NOUN	名詞	_	13	obj	_	_
+12	chi	ci=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	euweneusar	ewenewsar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+

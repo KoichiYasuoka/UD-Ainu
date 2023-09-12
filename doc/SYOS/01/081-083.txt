@@ -1,0 +1,25 @@
+# sent_id = SYOS_1_81-83
+# text = “ Kamuichikap kamui pase kamui wenash shiri chiwenchisehe koshirepa shiri iyairaikere.
+# text_ain = “ Kamuichikap kamui pase kamui
+# text_ain = wenash shiri chiwenchisehe
+# text_ain = koshirepa shiri iyairaikere.
+# text_ja = 「ふくらふの神樣、大神樣、
+# text_ja = 貧しい私たちの粗未な家へ
+# text_ja = お出で下さいました事、有難う御座います。
+1	“	“	PUNCT	記号	_	9	punct	_	_
+2	Kamui	kamuy	NOUN	名詞	_	3	compound	_	SpaceAfter=No
+3	chikap	cikap	NOUN	名詞	_	4	nmod	_	_
+4	kamui	kamuy	NOUN	名詞	_	9	vocative	_	_
+5	pase	pase	VERB	自動詞	_	6	amod	_	_
+6	kamui	kamuy	NOUN	名詞	_	4	appos	_	_
+7	wen	wen	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	ash	=as	PART	人称接辞	_	7	nsubj	_	_
+9	shiri	siri	NOUN	形式名詞	_	0	root	_	_
+10	chi	ci=	PART	人称接辞	_	12	det	_	SpaceAfter=No
+11	wen	wen	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	chisehe	cise	NOUN	名詞	_	13	obj	_	_
+13	koshirepa	kosirepa	VERB	他動詞	_	14	acl	_	_
+14	shiri	siri	NOUN	形式名詞	_	9	conj	_	_
+15	iyairaikere	iyayraykere	INTJ	間投詞	_	9	discourse	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+

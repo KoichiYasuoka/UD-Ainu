@@ -1,0 +1,18 @@
+# sent_id = SYOS_1_131-132
+# text = Shik noyanoya inkanrokpe opittano amso kata oahuntaipa.
+# text_ain = Shik noyanoya inkanrokpe opittano
+# text_ain = amso kata oahuntaipa.
+# text_ja = 目をこすりこすり家の中を見るとみんな
+# text_ja = 床の上に腰を拔かしてしまひました。
+1	Shik	sik	NOUN	名詞	_	2	obj	_	_
+2	noyanoya	noyanoya	VERB	他動詞	_	3	advcl	_	_
+3	inkan	inkar	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	rok	rok	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	pe	pe	NOUN	形式名詞	_	10	nsubj	_	_
+6	opittano	opitta-no	ADV	副詞	_	10	advmod	_	_
+7	amso	amso	NOUN	名詞	_	8	nmod	_	_
+8	ka	ka	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+9	ta	ta	ADP	格助詞	_	8	case	_	_
+10	oahuntaipa	oahun-etaye	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

@@ -1,0 +1,110 @@
+# sent_id = SYOS_1_218-229
+# text = Nea ainukotan orun inkarash ko tane anakne ratchitara ainupitoutar opittano uwekatairotke nea nishpa kotan esapane wa okai, nea hekachi tane anakne okkai pakno shikup wa, mat ka kor po ka kor, onaha ka, unuhu ka, nunuka kor okai, rammaramma sakekarichi ko ikiratpa ta usa inau usa sake unenomi, chiokai nakka ainuutar sermakaha hempara nakka chiehorari, ainumoshir chiepunkine wa okayash.
+# text_ain = Nea ainukotan orun inkarash ko
+# text_ain = tane anakne ratchitara ainupitoutar
+# text_ain = opittano uwekatairotke nea nishpa
+# text_ain = kotan esapane wa okai,
+# text_ain = nea hekachi tane anakne okkai pakno
+# text_ain = shikup wa, mat ka kor po ka kor,
+# text_ain = onaha ka, unuhu ka, nunuka kor okai,
+# text_ain = rammaramma sakekarichi ko
+# text_ain = ikiratpa ta usa inau usa sake unenomi,
+# text_ain = chiokai nakka ainuutar sermakaha
+# text_ain = hempara nakka chiehorari,
+# text_ain = ainumoshir chiepunkine wa okayash.
+# text_ja = 彼のアイヌ村の方を見ると、
+# text_ja = 今はもう平穩で、人間たちは
+# text_ja = みんな仲よく、彼のニシパが
+# text_ja = 村に頭になつてゐます、
+# text_ja = 彼の小供は、今はもう、成人
+# text_ja = して、妻ももち子も持つて
+# text_ja = 父や母に孝行をしてゐます、
+# text_ja = 何時でも何時でも、酒を造つた時は
+# text_ja = 酒宴のはじめに、御幣やお酒を私に送つてよこします。
+# text_ja = 私も人間たちの後に坐して
+# text_ja = 何時でも
+# text_ja = 人間の國を守護つてゐます。
+1	Nea	nea	DET	連体詞	_	3	det	_	_
+2	ainu	aynu	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	kotan	kotan	NOUN	名詞	_	4	nmod	_	_
+4	or	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	_
+6	inkar	inkar	VERB	自動詞	_	63	advcl	_	SpaceAfter=No
+7	ash	=as	PART	人称接辞	_	6	nsubj	_	_
+8	ko	ko	SCONJ	接続助詞	_	6	mark	_	_
+9	tane	tane	ADV	副詞	_	16	advmod	_	_
+10	anakne	anakne	ADP	副助詞	_	9	case	_	_
+11	ratchitara	ratcitara	ADV	副詞	_	16	advmod	_	_
+12	ainu	aynu	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
+13	pito	pito	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	utar	utar	NOUN	名詞	_	16	nsubj	_	_
+15	opittano	opittano	ADV	副詞	_	16	advmod	_	_
+16	uwekatairotke	uwekatayrotke	VERB	自動詞	_	22	advcl	_	_
+17	nea	nea	DET	連体詞	_	19	det	_	_
+18	nishpa	nispa	NOUN	名詞	_	19	nmod	_	_
+19	kotan	kotan	NOUN	名詞	_	20	nsubj	_	_
+20	esapane	esapane	VERB	他動詞	_	22	advcl	_	_
+21	wa	wa	SCONJ	接続助詞	_	20	mark	_	_
+22	okai	an	VERB	自動詞	_	30	advcl	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	22	punct	_	_
+24	nea	nea	DET	連体詞	_	25	det	_	_
+25	hekachi	hekaci	NOUN	名詞	_	30	nsubj	_	_
+26	tane	tane	ADV	副詞	_	30	advmod	_	_
+27	anakne	anakne	ADP	副助詞	_	26	case	_	_
+28	okkai	okkay	NOUN	名詞	_	30	obl	_	_
+29	pakno	pakno	SCONJ	後置副詞	_	28	case	_	_
+30	shikup	sikup	VERB	自動詞	_	63	advcl	_	_
+31	wa	wa	SCONJ	接続助詞	_	30	mark	_	SpaceAfter=No
+32	,	,	PUNCT	記号	_	30	punct	_	_
+33	mat	mat	NOUN	名詞	_	35	obj	_	_
+34	ka	ka	ADP	副助詞	_	33	case	_	_
+35	kor	kor	VERB	他動詞	_	48	advcl	_	_
+36	po	po	NOUN	形式名詞	_	38	obj	_	_
+37	ka	ka	ADP	副助詞	_	36	case	_	_
+38	kor	kor	VERB	他動詞	_	35	conj	_	SpaceAfter=No
+39	,	,	PUNCT	記号	_	38	punct	_	_
+40	onaha	onaha	NOUN	名詞	_	46	obj	_	_
+41	ka	ka	ADP	副助詞	_	40	case	_	SpaceAfter=No
+42	,	,	PUNCT	記号	_	40	punct	_	_
+43	unuhu	unuhu	NOUN	名詞	_	40	conj	_	_
+44	ka	ka	ADP	副助詞	_	43	case	_	SpaceAfter=No
+45	,	,	PUNCT	記号	_	43	punct	_	_
+46	nunuka	nunuka	VERB	他動詞	_	48	advcl	_	_
+47	kor	kor	SCONJ	接続助詞	_	46	mark	_	_
+48	okai	an	VERB	自動詞	_	63	advcl	_	SpaceAfter=No
+49	,	,	PUNCT	記号	_	48	punct	_	_
+50	ramma	ramma	ADV	副詞	_	53	advmod	_	SpaceAfter=No
+51	ramma	ramma	ADV	副詞	_	53	advmod	_	_
+52	sake	sake	NOUN	名詞	_	53	obj	_	SpaceAfter=No
+53	karichi	karici	VERB	他動詞	_	63	case	_	SpaceAfter=No
+54	ko	ko	SCONJ	接続助詞	_	53	mark	_	_
+55	ikir	ikir	NOUN	名詞	_	56	nmod	_	SpaceAfter=No
+56	atpa	atpa	NOUN	位置名詞	_	63	obl	_	_
+57	ta	ta	ADP	格助詞	_	56	case	_	_
+58	usa	usa	ADV	副詞	_	59	amod	_	_
+59	inau	inaw	NOUN	名詞	_	63	iobj	_	_
+60	usa	usa	ADV	副詞	_	61	amod	_	_
+61	sake	sake	NOUN	名詞	_	59	conj	_	_
+62	un	un=	PART	人称接辞	_	63	obj	_	SpaceAfter=No
+63	enomi	e-nomi	VERB	他動詞	_	74	advcl	_	SpaceAfter=No
+64	,	,	PUNCT	記号	_	63	punct	_	_
+65	chi	ci=	PART	人称接辞	_	66	nsubj	_	SpaceAfter=No
+66	okai	an	VERB	自動詞	_	74	advcl	_	_
+67	nakka	yakka	SCONJ	接続助詞	_	66	mark	_	_
+68	ainu	aynu	NOUN	名詞	_	69	nmod	_	SpaceAfter=No
+69	utar	utar	NOUN	名詞	_	70	nmod	_	_
+70	sermakaha	sermakaha	NOUN	名詞	_	74	obl	_	_
+71	hempara	hempara	ADV	副詞	_	74	advmod	_	_
+72	nakka	yakka	SCONJ	接続助詞	_	71	case	_	_
+73	chi	ci=	PART	人称接辞	_	74	nsubj	_	SpaceAfter=No
+74	ehorari	ehorari	VERB	自動詞	_	81	advcl	_	SpaceAfter=No
+75	,	,	PUNCT	記号	_	74	punct	_	_
+76	ainu	aynu	NOUN	名詞	_	77	nmod	_	SpaceAfter=No
+77	moshir	mosir	NOUN	名詞	_	79	obj	_	_
+78	chi	ci=	PART	人称接辞	_	79	nsubj	_	SpaceAfter=No
+79	epunkine	epunkine	VERB	他動詞	_	81	advcl	_	_
+80	wa	wa	SCONJ	接続助詞	_	79	mark	_	_
+81	okay	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+82	ash	=as	PART	人称接辞	_	81	nsubj	_	SpaceAfter=No
+83	.	.	PUNCT	記号	_	81	punct	_	_
+

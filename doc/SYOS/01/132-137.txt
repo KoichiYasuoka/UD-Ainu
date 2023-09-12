@@ -1,0 +1,57 @@
+# sent_id = SYOS_1_132-137
+# text = Poroshikupmat tuchish wenpe yayekote, poroshikupkur tu pekernupe re pekernupe yaikorapte, okai rokine, poroshikupkur chirikipuni unotta arki tuwan onkami rewan onkami ukakushte kurkashike itakomare :
+# text_ain = Poroshikupmat
+# text_ain = tuchish wenpe yayekote, poroshikupkur
+# text_ain = tu pekernupe re pekernupe yaikorapte,
+# text_ain = okai rokine, poroshikupkur chirikipuni
+# text_ain = unotta arki tuwan onkami rewan onkami
+# text_ain = ukakushte kurkashike itakomare :
+# text_ja = 老婦人は
+# text_ja = 聲を上げて泣き老人は
+# text_ja = 大粒の淚をポロポロこぼして
+# text_ja = ゐましたが、やがて、老人は起上り
+# text_ja = 私の處へ來て、二十も三十も禮拜
+# text_ja = を重ねて、そして云ふ事には
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	5	nsubj	_	_
+4	tu	tu	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+5	chish	cis	VERB	自動詞	_	6	advcl	_	_
+6	wen	wen	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	pe	pe	NOUN	形式名詞	_	8	obj	_	_
+8	yayekote	yayekote	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	poro	poro	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+11	shikup	sukup	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	kur	kur	NOUN	名詞	_	19	nsubj	_	_
+13	tu	tu	NUM	数詞	_	15	nummod	_	_
+14	peker	peker	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+15	nupe	nupe	NOUN	位置名詞	_	19	obj	_	_
+16	re	re	NUM	数詞	_	18	nummod	_	_
+17	peker	peker	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	nupe	nupe	NOUN	名詞	_	15	conj	_	_
+19	yaikorapte	yaykorapte	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	記号	_	19	punct	_	_
+21	okai	an	VERB	自動詞	_	32	advcl	_	_
+22	rok	rok	AUX	助動詞	_	21	aux	_	SpaceAfter=No
+23	ine	hine	SCONJ	接続助詞	_	21	mark	_	SpaceAfter=No
+24	,	,	PUNCT	記号	_	21	punct	_	_
+25	poro	poro	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+26	shikup	sukup	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+27	kur	kur	NOUN	名詞	_	28	nsubj	_	_
+28	chirikipuni	cirikipuni	VERB	他動詞	_	32	advcl	_	_
+29	un	un=	PART	人称接辞	_	30	det	_	SpaceAfter=No
+30	ot	or	NOUN	位置名詞	_	32	obl	_	SpaceAfter=No
+31	ta	ta	ADP	格助詞	_	30	case	_	_
+32	arki	arki	VERB	自動詞	_	41	advcl	_	_
+33	tuwan	tuwan	NUM	数詞	_	34	nummod	_	_
+34	onkami	onkami	VERB	自動詞	_	38	ccomp	_	_
+35	rewan	rewan	NUM	数詞	_	36	nummod	_	_
+36	onkami	onkami	VERB	自動詞	_	34	conj	_	_
+37	uka	uka	NOUN	位置名詞	_	38	iobj	_	SpaceAfter=No
+38	kushte	kuste	VERB	他動詞	_	41	advcl	_	_
+39	kurkashike	kurkasike	NOUN	位置名詞	_	41	iobj	_	_
+40	itak	itak	NOUN	名詞	_	41	obj	_	SpaceAfter=No
+41	omare	omare	VERB	他動詞	_	0	root	_	_
+42	:	:	PUNCT	記号	_	41	punct	_	_
+

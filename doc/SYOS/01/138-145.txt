@@ -1,0 +1,80 @@
+# sent_id = SYOS_1_138-145
+# text = “ Tarap hetapne mokor hetapne chiki kuni chiramu awa iyosserkere ikaran ruwe, wenash shiri otuiash shiri chiwenchisehe koshirepa patek neyakka chieyairaikep, Kotankor Kamui pase kamui maukowenashruwe chierampoken unekarkar, chikashnukar nakka shipase ike aunekarkar kiruweokai.”
+# text_ain = “ Tarap hetapne mokor hetapne chiki kuni
+# text_ain = chiramu awa iyosserkere ikaran ruwe,
+# text_ain = wenash shiri otuiash shiri chiwenchisehe
+# text_ain = koshirepa patek neyakka chieyairaikep,
+# text_ain = Kotankor Kamui pase kamui maukowenashruwe
+# text_ain = chierampoken unekarkar,
+# text_ain = chikashnukar nakka shipase ike aunekarkar
+# text_ain = kiruweokai.”
+# text_ja = 「たゞの夢たゞの眠りをしたのだと
+# text_ja = 思つたのに、ほんとうに、かうしていたゞいた事。
+# text_ja = つまらないつまらない、私共の粗末な家に
+# text_ja = お出で下さる事だけでも有難く存じますものを
+# text_ja = 國の神樣大神樣、私たちの不運な
+# text_ja = 事を哀れんで下さいまして
+# text_ja = お惠みのうちにも最も大きいお惠をいたゞき
+# text_ja = ました事」
+1	“	"	PUNCT	記号	_	59	punct	_	_
+2	Tarap	tarap	NOUN	名詞	_	9	obl	_	_
+3	hetap	hetap	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	ne	ne	ADP	格助詞	_	2	case	_	_
+5	mokor	mokor	VERB	自動詞	_	9	advcl	_	_
+6	hetap	hetap	INTJ	間投詞	_	5	discourse	_	SpaceAfter=No
+7	ne	ne	ADP	格助詞	_	5	mark	_	_
+8	chi	ci=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	10	acl	_	_
+10	kuni	kuni	NOUN	形式名詞	_	12	obj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	ramu	ramu	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+13	awa	awa	CCONJ	接続詞	_	12	mark	_	_
+14	iyosserkere	iyosserkere	VERB	自動詞	_	15	amod	_	_
+15	ikar	ikor	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
+16	an	an	VERB	自動詞	_	17	acl	_	_
+17	ruwe	ruwe	NOUN	形式名詞	_	59	obl	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	wen	wen	VERB	自動詞	_	21	acl	_	SpaceAfter=No
+20	ash	=as	PART	人称接辞	_	19	nsubj	_	_
+21	shiri	siri	NOUN	形式名詞	_	28	obl	_	_
+22	otui	otuy	VERB	自動詞	_	24	acl	_	SpaceAfter=No
+23	ash	=as	PART	人称接辞	_	22	nsubj	_	_
+24	shiri	siri	NOUN	形式名詞	_	28	obl	_	_
+25	chi	ci=	PART	人称接辞	_	27	det	_	SpaceAfter=No
+26	wen	wen	VERB	自動詞	_	27	amod	_	SpaceAfter=No
+27	chisehe	cise	NOUN	名詞	_	28	obj	_	_
+28	koshirepa	kosirepa	VERB	他動詞	_	33	advcl	_	_
+29	patek	patek	SCONJ	後置副詞	_	28	mark	_	_
+30	ne	ne	ADP	格助詞	_	28	mark	_	SpaceAfter=No
+31	yakka	yakka	SCONJ	接続助詞	_	28	mark	_	_
+32	chi	ci=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+33	eyairaike	eyayirayke	VERB	他動詞	_	34	acl	_	SpaceAfter=No
+34	p	-p	PART	接尾辞	_	59	obl	_	SpaceAfter=No
+35	,	,	PUNCT	記号	_	34	punct	_	_
+36	Kotan	kotan	NOUN	名詞	_	37	nsubj	_	SpaceAfter=No
+37	kor	kor	VERB	他動詞	_	38	acl	_	_
+38	Kamui	kamuy	NOUN	名詞	_	45	vocative	_	_
+39	pase	pase	VERB	自動詞	_	40	amod	_	_
+40	kamui	kamuy	NOUN	名詞	_	38	appos	_	_
+41	maukowen	mawkowen	VERB	自動詞	_	43	acl	_	SpaceAfter=No
+42	ash	=as	PART	人称接辞	_	41	nsubj	_	SpaceAfter=No
+43	ruwe	ruwe	NOUN	形式名詞	_	45	obj	_	_
+44	chi	ci=	PART	人称接辞	_	45	nsubj	_	SpaceAfter=No
+45	erampoken	erampokiwen	VERB	他動詞	_	47	ccomp	_	_
+46	un	un=	PART	人称接辞	_	47	iobj	_	SpaceAfter=No
+47	ekarkar	ekarkar	VERB	他動詞	_	56	advcl	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	47	punct	_	_
+49	chi	ci=	PART	人称接辞	_	50	nsubj	_	SpaceAfter=No
+50	kashnukar	ekasnukar	VERB	他動詞	_	56	advcl	_	_
+51	nakka	yakka	SCONJ	接続助詞	_	50	mark	_	_
+52	shipase	sipase	VERB	自動詞	_	53	amod	_	_
+53	ike	ike	NOUN	位置名詞	_	56	obj	_	_
+54	a	a=	PART	人称接辞	_	56	nsubj	_	SpaceAfter=No
+55	un	un=	PART	人称接辞	_	56	iobj	_	SpaceAfter=No
+56	ekarkar	ekarkar	VERB	他動詞	_	57	advcl	_	_
+57	ki	ki	VERB	他動詞	_	58	acl	_	SpaceAfter=No
+58	ruwe	ruwe	NOUN	形式名詞	_	59	nsubj	_	SpaceAfter=No
+59	okai	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+60	.	.	PUNCT	記号	_	59	punct	_	SpaceAfter=No
+61	”	"	PUNCT	記号	_	59	punct	_	_
+

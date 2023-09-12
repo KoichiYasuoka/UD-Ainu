@@ -1,0 +1,74 @@
+# sent_id = SYOS_1_158-165
+# text = Tata otta nea hekachi okamkino hushko amip amire wa kotanepitta okai Teeta wenkur tane nishpa nep utarorkehe ashke aukte kushu asange wakushu oshiinkarash ko ponhekachi chisepishno ahun wa sonkoye ko, teeta wenkur tane nishpa nep utarorkehe euminare :
+# text_ain = Tata otta nea hekachi okamkino
+# text_ain = hushko amip amire wa kotanepitta okai
+# text_ain = Teeta wenkur tane nishpa nep utarorkehe
+# text_ain = ashke aukte kushu asange wakushu
+# text_ain = oshiinkarash ko ponhekachi chisepishno
+# text_ain = ahun wa sonkoye ko,
+# text_ain = teeta wenkur tane nishpa nep utarorkehe
+# text_ain = euminare :
+# text_ja = そこで、あの小さい子に態と
+# text_ja = 古い衣物を着せて、村中の
+# text_ja = 昔貧乏人で今お金持になつてゐる人々を
+# text_ja = 招待する爲使ひに出してやりました。ので
+# text_ja = 後見送ると、子供は家毎に
+# text_ja = 入つて使ひの口上を述べますと
+# text_ja = 昔貧乏人で今お金持になつてゐる人々は
+# text_ja = 大笑ひをして
+1	Tata	tata	ADV	副詞	_	2	amod	_	_
+2	ot	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	nea	nea	DET	連体詞	_	5	det	_	_
+5	hekachi	hekaci	NOUN	名詞	_	10	iobj	_	_
+6	okamkino	okamkir-no	ADV	副詞	_	10	advmod	_	_
+7	hushko	husko	VERB	自動詞	_	8	amod	_	_
+8	amip	amip	NOUN	名詞	_	10	obj	_	_
+9	a	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	mire	mire	VERB	他動詞	_	32	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	kotan	kotan	NOUN	名詞	_	14	obl	_	SpaceAfter=No
+13	epitta	epitta	SCONJ	接続助詞	_	12	case	_	_
+14	okai	okay	VERB	自動詞	_	21	acl	_	_
+15	Teeta	teeta	ADV	副詞	_	16	amod	_	_
+16	wenkur	wenkur	NOUN	名詞	_	18	nsubj	_	_
+17	tane	tane	ADV	副詞	_	18	amod	_	_
+18	nishpa	nispa	NOUN	名詞	_	20	acl	_	_
+19	ne	ne	AUX	デアル動詞	_	18	cop	_	_
+20	p	-p	PART	接尾辞	_	21	nmod	_	_
+21	utar	utar	NOUN	名詞	_	26	obl	_	SpaceAfter=No
+22	orke	orke	ADP	副助詞	_	21	case	_	SpaceAfter=No
+23	he	he	ADP	副助詞	_	21	case	_	_
+24	ashke	aske	NOUN	名詞	_	26	obl	_	_
+25	a	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ukte	ukte	VERB	他動詞	_	29	advcl	_	_
+27	kushu	kusu	SCONJ	接続詞	_	26	mark	_	_
+28	a	a=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	sange	sanke	VERB	他動詞	_	32	advcl	_	_
+30	wakushu	wakusu	SCONJ	接続詞	_	29	mark	_	_
+31	oshi	osi	NOUN	位置名詞	_	32	obl	_	SpaceAfter=No
+32	inkar	inkar	VERB	自動詞	_	54	advcl	_	SpaceAfter=No
+33	ash	=as	PART	人称接辞	_	32	nsubj	_	_
+34	ko	kor	SCONJ	接続助詞	_	32	mark	_	_
+35	pon	pon	VERB	自動詞	_	36	amod	_	SpaceAfter=No
+36	hekachi	hekachi	NOUN	名詞	_	39	nsubj	_	_
+37	chise	cise	NOUN	名詞	_	39	obl	_	SpaceAfter=No
+38	pishno	pisno	SCONJ	後置副詞	_	37	case	_	_
+39	ahun	ahun	VERB	自動詞	_	54	advcl	_	_
+40	wa	wa	SCONJ	接続助詞	_	39	mark	_	_
+41	sonko	sonko	NOUN	名詞	_	42	obj	_	SpaceAfter=No
+42	ye	ye	VERB	他動詞	_	54	advcl	_	_
+43	ko	kor	SCONJ	接続助詞	_	42	mark	_	SpaceAfter=No
+44	,	,	PUNCT	記号	_	42	punct	_	_
+45	teeta	teeta	ADV	副詞	_	46	amod	_	_
+46	wenkur	wenkur	NOUN	名詞	_	48	nsubj	_	_
+47	tane	tane	ADV	副詞	_	48	amod	_	_
+48	nishpa	nispa	NOUN	名詞	_	50	acl	_	_
+49	ne	ne	AUX	デアル動詞	_	48	cop	_	SpaceAfter=No
+50	p	-p	PART	接尾辞	_	51	nmod	_	_
+51	utar	utar	NOUN	名詞	_	54	obl	_	SpaceAfter=No
+52	orke	orke	ADP	副助詞	_	51	case	_	SpaceAfter=No
+53	he	he	ADP	副助詞	_	51	case	_	_
+54	euminare	euminare	VERB	他動詞	_	0	root	_	_
+55	:	:	PUNCT	記号	_	54	punct	_	_
+

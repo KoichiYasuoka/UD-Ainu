@@ -1,0 +1,49 @@
+# sent_id = SYOS_1_166-170
+# text = “ Usainetapshui wenkurutar koohanepo nekonaan sake kar wa nekonaan marapto an wa eunahunke hawe ta an, payean wa nekona shirki ya inkarash wa aemina ro.”
+# text_ain = “ Usainetapshui wenkurutar koohanepo
+# text_ain = nekonaan sake kar wa nekonaan
+# text_ain = marapto an wa eunahunke hawe ta an,
+# text_ain = payean wa nekona shirki ya inkarash wa
+# text_ain = aemina ro.”
+# text_ja = 「これはふしぎ、貧乏人どもが
+# text_ja = 何んな酒を造つて何んな
+# text_ja = 御馳走があつてそのため人を招待するだらう。
+# text_ja = 行つて何んな事があるか見物して
+# text_ja = 笑つてやりませう。」
+1	“	"	PUNCT	記号	_	33	punct	_	_
+2	Usaine	usayne	ADV	副詞	_	21	advmod	_	SpaceAfter=No
+3	tap	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	shui	suy	ADV	副詞	_	21	advmod	_	_
+5	wenkur	wenkur	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	utar	utar	NOUN	名詞	_	7	nmod	_	_
+7	koohanepo	koohanapo	NOUN	名詞	_	11	nsubj	_	_
+8	nekona	nekona	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	an	an	VERB	自動詞	_	10	acl	_	_
+10	sake	sake	NOUN	名詞	_	11	obj	_	_
+11	kar	kar	VERB	他動詞	_	18	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	nekona	nekona	ADV	副詞	_	14	advmod	_	SpaceAfter=No
+14	an	an	VERB	自動詞	_	15	acl	_	_
+15	marapto	marapto	NOUN	名詞	_	16	nsubj	_	_
+16	an	an	VERB	自動詞	_	18	advcl	_	_
+17	wa	wa	SCONJ	接続助詞	_	16	mark	_	_
+18	eunahunke	e-unahunke	VERB	他動詞	_	19	acl	_	SpaceAfter=No
+19	hawe	hawe	NOUN	形式名詞	_	21	nsubj	_	_
+20	ta	ta	ADP	副助詞	_	19	case	_	_
+21	an	an	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	paye	paye	VERB	自動詞	_	27	advcl	_	SpaceAfter=No
+24	an	=an	PART	人称接辞	_	23	nsubj	_	_
+25	wa	wa	SCONJ	接続助詞	_	23	mark	_	_
+26	nekona	nekona	ADV	副詞	_	27	advmod	_	_
+27	shirki	sirki	VERB	完全動詞	_	29	advcl	_	_
+28	ya	ya	PART	終助詞	_	27	mark	_	_
+29	inkar	inkar	VERB	自動詞	_	33	advcl	_	SpaceAfter=No
+30	ash	=as	PART	人称接辞	_	29	nsubj	_	_
+31	wa	wa	SCONJ	接続助詞	_	29	mark	_	_
+32	a	a=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+33	emina	emina	VERB	他動詞	_	0	root	_	_
+34	ro	ro	PART	終助詞	_	33	discourse	_	SpaceAfter=No
+35	.	.	PUNCT	記号	_	33	punct	_	SpaceAfter=No
+36	”	"	PUNCT	記号	_	33	punct	_	SpaceAfter=No
+

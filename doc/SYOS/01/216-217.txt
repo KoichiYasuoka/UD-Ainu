@@ -1,0 +1,21 @@
+# sent_id = SYOS_1_216-217
+# text = Kamuiutar hekompaita pirka inau tup chikore rep chikore.
+# text_ain = Kamuiutar hekompaita pirka inau
+# text_ain = tup chikore rep chikore.
+# text_ja = 神樣だちが歸る時に美しい御幣を
+# text_ja = 二つやり三つやりしました。
+1	Kamui	kamuy	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	utar	utar	NOUN	名詞	_	3	nsubj	_	_
+3	hekompa	hekomo	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	i	-i	PART	接尾辞	_	10	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	pirka	pirka	VERB	自動詞	_	7	amod	_	_
+7	inau	inaw	NOUN	名詞	_	10	obj	_	_
+8	tup	tup	NUM	数詞	_	10	nummod	_	_
+9	chi	ci=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	kore	kore	VERB	他動詞	_	0	root	_	_
+11	rep	rep	NUM	数詞	_	13	nummod	_	_
+12	chi	ci=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	kore	kore	VERB	他動詞	_	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+

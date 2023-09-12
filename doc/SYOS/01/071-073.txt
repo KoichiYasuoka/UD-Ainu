@@ -1,0 +1,27 @@
+# sent_id = SYOS_1_71-73
+# text = Pon hekachi rorunpurai kari unahunke kurkashike itakomare, tapne tapne nekatuhu eisoitak.
+# text_ain = Pon hekachi
+# text_ain = rorunpurai kari unahunke kurkashike
+# text_ain = itakomare, tapne tapne nekatuhu eisoitak.
+# text_ja = 子供は
+# text_ja = 第一の窻から私を入れて、それに
+# text_ja = 言葉を添へ、斯々のありさまを物語りました。
+1	Pon	pon	VERB	自動詞	_	2	amod	_	_
+2	hekachi	hekaci	NOUN	名詞	_	8	nsubj	_	_
+3	ror	ror	NOUN	位置名詞	_	5	nmod	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	purai	puray	NOUN	名詞	_	8	obl	_	_
+6	kari	kari	SCONJ	後置副詞	_	5	case	_	_
+7	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+8	ahunke	ahunke	VERB	他動詞	_	17	advcl	_	_
+9	kurkashike	kurkasike	NOUN	位置名詞	_	11	iobj	_	_
+10	itak	itak	NOUN	名詞	_	11	obj	_	SpaceAfter=No
+11	omare	omare	VERB	他動詞	_	17	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	11	punct	_	_
+13	tapne	tapne	ADV	副詞	_	17	advmod	_	_
+14	tapne	tapne	ADV	副詞	_	13	conj	_	_
+15	ne	ne	DET	連体詞	_	16	det	_	SpaceAfter=No
+16	katuhu	katu	NOUN	名詞	_	17	obj	_	_
+17	eisoitak	e-isoitak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
+

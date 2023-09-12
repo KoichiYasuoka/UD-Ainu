@@ -1,0 +1,14 @@
+# sent_id = SYOS_1_145-146
+# text = ari okaipe chishturano eonkami.
+# text_ain = ari okaipe chishturano
+# text_ain = eonkami.
+# text_ja = と云ふ事を泣きながら
+# text_ja = 申しました
+1	ari	ari	SCONJ	接続助詞	_	2	advmod	_	_
+2	okai	an	VERB	自動詞	_	3	acl	_	SpaceAfter=No
+3	pe	pe	NOUN	形式名詞	_	6	obj	_	_
+4	chish	cis	NOUN	名詞	_	6	obl	_	SpaceAfter=No
+5	turano	turano	SCONJ	後置副詞	_	4	case	_	_
+6	eonkami	e-onkami	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

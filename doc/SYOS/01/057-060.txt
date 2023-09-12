@@ -1,0 +1,39 @@
+# sent_id = SYOS_1_57-60
+# text = Shirki chiki, teeta wenkur tane nishpa nep poutari iyoshino hoyuppa wa arki, tuwan wenitak rewan wenitak shuipa kane wenkur hekachi ukooputuipa ukokikkik.
+# text_ain = Shirki chiki, teeta wenkur tane nishpa nep
+# text_ain = poutari iyoshino hoyuppa wa arki,
+# text_ain = tuwan wenitak rewan wenitak shuipa kane
+# text_ain = wenkur hekachi ukooputuipa ukokikkik.
+# text_ja = すると、昔貧乏人で今が金持になつてる者の
+# text_ja = 子供たちは後から走つて來て
+# text_ja = 二十も三十も惡口をついて
+# text_ja = 貧乏な子を押したりたゝいたり
+1	Shirki	sirki	VERB	完全動詞	_	26	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	teeta	teeta	ADV	副詞	_	5	amod	_	_
+5	wenkur	wenkur	NOUN	名詞	_	7	nsubj	_	_
+6	tane	tane	ADV	副詞	_	7	amod	_	_
+7	nishpa	nispa	NOUN	名詞	_	9	acl	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	p	-p	PART	接尾辞	_	10	nmod	_	_
+10	poutari	póutari	NOUN	名詞	_	12	nsubj	_	_
+11	iyoshino	iyosno	ADV	副詞	_	12	advmod	_	_
+12	hoyuppa	hoyuppa	VERB	自動詞	_	22	advcl	_	_
+13	wa	wa	SCONJ	接続助詞	_	12	mark	_	_
+14	arki	arki	VERB	自動詞	_	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	tuwan	tu-wan	NUM	数詞	_	18	nummod	_	_
+17	wen	wen	VERB	自動詞	_	18	amod	_	SpaceAfter=No
+18	itak	itak	NOUN	名詞	_	22	obj	_	_
+19	rewan	re-wan	NUM	数詞	_	21	nummod	_	_
+20	wen	wen	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+21	itak	itak	NOUN	名詞	_	18	conj	_	_
+22	shuipa	suye	VERB	他動詞	_	26	advcl	_	_
+23	kane	kane	SCONJ	接続助詞	_	22	mark	_	_
+24	wenkur	wenkur	NOUN	名詞	_	25	nmod	_	_
+25	hekachi	hekaci	NOUN	名詞	_	26	obj	_	_
+26	ukooputuipa	uko-oputuye	VERB	他動詞	_	0	root	_	_
+27	ukokikkik	uko-kikkik	VERB	他動詞	_	26	conj	_	SpaceAfter=No
+28	.	.	PUNCT	記号	_	26	punct	_	_
+

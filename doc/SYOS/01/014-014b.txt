@@ -1,0 +1,8 @@
+# sent_id = SYOS_1_14b
+# text = kamui chikappo !
+# text_ain = kamui chikappo !
+# text_ja = 神樣の鳥!
+1	kamui	kamuy	NOUN	名詞	_	2	nmod	_	_
+2	chikappo	cikappo	NOUN	名詞	_	0	root	_	_
+3	!	!	PUNCT	記号	_	2	punct	_	_
+

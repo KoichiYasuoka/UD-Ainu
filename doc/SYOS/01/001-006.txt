@@ -1,0 +1,66 @@
+# sent_id = SYOS_1_1-6
+# text = “ Shirokanipe ranran pishkan, konkanipe ranran pishkan ” arian rekpo chiki kane petesoro sapash aine, ainukotan enkashike chikush kor shichorpokun inkarash ko teeta wenkur tane nishpa ne, teeta nishpa tane wenkur ne kotom shiran.
+# text_ain = “ Shirokanipe ranran pishkan, konkanipe
+# text_ain = ranran pishkan ” arian rekpo chiki kane
+# text_ain = petesoro sapash aine, ainukotan enkashike
+# text_ain = chikush kor shichorpokun inkarash ko
+# text_ain = teeta wenkur tane nishpa ne, teeta nishpa
+# text_ain = tane wenkur ne kotom shiran.
+# text_ja = 「銀の滴降る降るまはりに、金の滴
+# text_ja = 降る降るまはりに。」と云ふ歌を私は歌ひながら
+# text_ja = 流に沿つて下り、人間の村の上を
+# text_ja = 通りながら下を眺めると
+# text_ja = 昔の貧乏人が今お金持になつてゐて、昔のお金持が
+# text_ja = 今の貧乏人になつてゐる樣です。
+1	“	“	PUNCT	記号	_	6	punct	_	_
+2	Shirokani	sirokani	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	pe	pe	NOUN	名詞	_	4	nsubj	_	_
+4	ran	ran	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+5	ran	ran	VERB	自動詞	_	4	conj	_	_
+6	pishkan	piskan	NOUN	位置名詞	_	15	obl	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	6	punct	_	_
+8	konkani	konkani	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	pe	pe	NOUN	名詞	_	10	nsubj	_	_
+10	ran	ran	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+11	ran	ran	VERB	自動詞	_	10	conj	_	_
+12	pishkan	piskan	NOUN	位置名詞	_	6	parataxis	_	_
+13	”	”	PUNCT	記号	_	12	punct	_	_
+14	ari	ari	SCONJ	接続助詞	_	6	case	_	SpaceAfter=No
+15	an	an	VERB	自動詞	_	16	acl	_	_
+16	rekpo	rekpo	NOUN	名詞	_	18	obj	_	_
+17	chi	ci=	PART	人称接辞	_	18	nsubj	_	SpaceAfter=No
+18	ki	ki	VERB	他動詞	_	22	advcl	_	_
+19	kane	kane	SCONJ	接続助詞	_	18	mark	_	_
+20	pet	pet	NOUN	名詞	_	22	obl	_	SpaceAfter=No
+21	esoro	esoro	SCONJ	後置副詞	_	20	case	_	_
+22	sap	san	VERB	自動詞	_	35	advcl	_	SpaceAfter=No
+23	ash	=as	PART	人称接辞	_	22	nsubj	_	_
+24	aine	ayne	SCONJ	接続詞	_	22	mark	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	22	punct	_	_
+26	ainu	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
+27	kotan	kotan	NOUN	名詞	_	28	nmod	_	_
+28	enkashike	enkasi	NOUN	位置名詞	_	30	obj	_	_
+29	chi	ci=	PART	人称接辞	_	30	nsubj	_	SpaceAfter=No
+30	kush	kus	VERB	他動詞	_	35	advcl	_	_
+31	kor	kor	SCONJ	接続助詞	_	30	mark	_	_
+32	shi	si-	PART	接頭辞	_	33	det	_	SpaceAfter=No
+33	chorpok	corpok	NOUN	位置名詞	_	35	obl	_	SpaceAfter=No
+34	un	un	ADP	格助詞	_	33	case	_	_
+35	inkar	inkar	VERB	自動詞	_	50	advcl	_	SpaceAfter=No
+36	ash	=as	PART	人称接辞	_	35	nsubj	_	_
+37	ko	kor	SCONJ	接続助詞	_	35	mark	_	_
+38	teeta	teeta	ADV	副詞	_	39	amod	_	_
+39	wenkur	wenkur	NOUN	名詞	_	41	nsubj	_	_
+40	tane	tane	ADV	副詞	_	41	amod	_	_
+41	nishpa	nispa	NOUN	名詞	_	50	advcl	_	_
+42	ne	ne	AUX	デアル動詞	_	41	cop	_	SpaceAfter=No
+43	,	,	PUNCT	記号	_	41	punct	_	_
+44	teeta	teeta	ADV	副詞	_	45	amod	_	_
+45	nishpa	nispa	NOUN	名詞	_	47	nsubj	_	_
+46	tane	tane	ADV	副詞	_	47	amod	_	_
+47	wenkur	wenkur	NOUN	名詞	_	50	advcl	_	_
+48	ne	ne	AUX	デアル動詞	_	47	cop	_	_
+49	kotom	kotom	SCONJ	接続助詞	_	47	mark	_	_
+50	shiran	siran	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+51	.	.	PUNCT	記号	_	50	punct	_	_
+

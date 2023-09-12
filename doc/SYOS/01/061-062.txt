@@ -1,0 +1,24 @@
+# sent_id = SYOS_1_61-62
+# text = “ Shirun hekachi wenkur hekachi hoshki tashi aki kushnep eiyetushmak.”
+# text_ain = “ Shirun hekachi wenkur hekachi
+# text_ain = hoshki tashi aki kushnep eiyetushmak.”
+# text_ja = 「にくらしい子、貧乏人の子
+# text_ja = 私たちが先にしようとする事を先がけしやがつて。」
+1	“	“	PUNCT	記号	_	15	punct	_	_
+2	Shirun	sirun-	PART	接頭辞	_	3	compound	_	_
+3	hekachi	hekaci	NOUN	名詞	_	15	vocative	_	_
+4	wenkur	wenkur	NOUN	名詞	_	5	nmod	_	_
+5	hekachi	hekaci	NOUN	名詞	_	3	appos	_	_
+6	hoshki	hoski	ADV	副詞	_	9	advcl	_	_
+7	tashi	tasi	ADP	副助詞	_	6	case	_	_
+8	a	a=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	12	acl	_	_
+10	kush	kus	SCONJ	接続詞	_	9	mark	_	SpaceAfter=No
+11	ne	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+12	p	-p	PART	接尾辞	_	15	obj	_	_
+13	e	e=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+14	i	i=	PART	人称接辞	_	15	iobj	_	SpaceAfter=No
+15	yetushmak	etusmak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	SpaceAfter=No
+17	”	”	PUNCT	記号	_	15	punct	_	_
+

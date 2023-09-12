@@ -1,0 +1,86 @@
+# sent_id = SYOS_1_43-52
+# text = arian rekpo chiki kane moiretara kamuinish kashi chikoshikarinpa, wenkur hekachi oatchikiri otuimaashi oatchikiri ohanke ashi, poknapapushi shikoruki yoko wa anaine unkotushura, tapan ponai ekshirkonna tonnatara, shirki chiki chisantekehe chiturpa wa nean ponai chieshikari shikachikachiash rapash humi chiekisarshut maukururu.
+# text_ain = arian rekpo
+# text_ain = chiki kane moiretara kamuinish kashi
+# text_ain = chikoshikarinpa, wenkur hekachi
+# text_ain = oatchikiri otuimaashi oatchikiri ohanke ashi,
+# text_ain = poknapapushi shikoruki yoko wa anaine
+# text_ain = unkotushura, tapan ponai ekshirkonna
+# text_ain = tonnatara, shirki chiki chisantekehe
+# text_ain = chiturpa wa nean ponai chieshikari
+# text_ain = shikachikachiash rapash humi
+# text_ain = chiekisarshut maukururu.
+# text_ja = といふ歌を
+# text_ja = 歌ひながらゆつくりと大空に
+# text_ja = 私は輪をゑがいてゐました。貧乏な子は
+# text_ja = 片足を遠く立て片足を近くたてゝ、
+# text_ja = 下脣をグツと噛みしめて、ねらつてゐて
+# text_ja = ひようと射放しました。小さい矢は美しく飛んで
+# text_ja = 私の方へ來ました、それで私は手を
+# text_ja = 差のべてその小さい矢を取りました。
+# text_ja = クルクルまはりながら私は
+# text_ja = 風をきつて舞下りました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	rekpo	rekpo	NOUN	名詞	_	5	obj	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ki	ki	VERB	他動詞	_	12	advcl	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	moiretara	moyre-tara	ADV	副詞	_	12	advmod	_	_
+8	kamui	kamuy	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	nish	nis	NOUN	名詞	_	10	nmod	_	_
+10	kashi	kasi	NOUN	位置名詞	_	12	obj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	koshikarinpa	ko-sikarimpa	VERB	他動詞	_	31	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	記号	_	12	punct	_	_
+14	wenkur	wenkur	NOUN	名詞	_	15	nmod	_	_
+15	hekachi	hekaci	NOUN	名詞	_	18	nsubj	_	_
+16	oatchikiri	oatcikiri	NOUN	名詞	_	17	obj	_	_
+17	otuima	o-tuyma	VERB	他動詞	_	18	advcl	_	SpaceAfter=No
+18	ashi	asi	VERB	他動詞	_	31	advcl	_	_
+19	oatchikiri	oatcikiri	NOUN	名詞	_	20	obj	_	_
+20	ohanke	o-hanke	VERB	他動詞	_	21	advcl	_	_
+21	ashi	asi	VERB	他動詞	_	18	conj	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	pokna	pokna	DET	連体詞	_	24	det	_	SpaceAfter=No
+24	papushi	papusi	NOUN	名詞	_	25	obj	_	_
+25	shikoruki	si-ko-ruki	VERB	他動詞	_	31	advcl	_	_
+26	yoko	yoko	VERB	自動詞	_	28	advcl	_	_
+27	wa	wa	SCONJ	接続助詞	_	26	mark	_	_
+28	an	an	VERB	自動詞	_	31	advcl	_	SpaceAfter=No
+29	aine	ayne	SCONJ	接続詞	_	28	mark	_	_
+30	un	un	PART	人称接辞	_	31	obj	_	SpaceAfter=No
+31	kotushura	ko-tusu-ra	VERB	他動詞	_	39	advcl	_	SpaceAfter=No
+32	,	,	PUNCT	記号	_	31	punct	_	_
+33	tapan	tapan	DET	連体詞	_	35	det	_	_
+34	pon	pon	VERB	自動詞	_	35	amod	_	SpaceAfter=No
+35	ai	ay	NOUN	名詞	_	36	nsubj	_	_
+36	ek	ek	VERB	自動詞	_	37	acl	_	SpaceAfter=No
+37	shir	sir	NOUN	名詞	_	39	nsubj	_	SpaceAfter=No
+38	konna	konna	ADP	副助詞	_	37	case	_	_
+39	tonnatara	tonnatara	VERB	自動詞	_	53	advcl	_	SpaceAfter=No
+40	,	,	PUNCT	記号	_	39	punct	_	_
+41	shirki	sirki	VERB	完全動詞	_	46	advcl	_	_
+42	chiki	ciki	SCONJ	接続助詞	_	41	mark	_	_
+43	chi	ci=	PART	人称接辞	_	44	det	_	SpaceAfter=No
+44	santekehe	santeke	NOUN	名詞	_	46	obj	_	_
+45	chi	ci=	PART	人称接辞	_	46	nsubj	_	SpaceAfter=No
+46	turpa	turi	VERB	他動詞	_	53	advcl	_	_
+47	wa	wa	SCONJ	接続助詞	_	46	mark	_	_
+48	ne	ne	DET	連体詞	_	51	det	_	SpaceAfter=No
+49	an	an	VERB	自動詞	_	51	amod	_	_
+50	pon	pon	VERB	自動詞	_	51	amod	_	SpaceAfter=No
+51	ai	ay	NOUN	名詞	_	53	obj	_	_
+52	chi	ci=	PART	人称接辞	_	53	nsubj	_	SpaceAfter=No
+53	eshikari	esikari	VERB	他動詞	_	62	advcl	_	_
+54	shikachikachi	si-kaci-kaci	VERB	自動詞	_	62	advcl	_	SpaceAfter=No
+55	ash	=as	PART	人称接辞	_	54	nsubj	_	_
+56	rap	rap	VERB	自動詞	_	58	acl	_	SpaceAfter=No
+57	ash	=as	PART	人称接辞	_	56	nsubj	_	_
+58	humi	humi	NOUN	形式名詞	_	62	nsubj	_	_
+59	chi	ci=	PART	人称接辞	_	60	det	_	SpaceAfter=No
+60	ekisar	e-kisar	NOUN	名詞	_	61	nmod	_	SpaceAfter=No
+61	shut	sut	NOUN	位置名詞	_	62	obl	_	_
+62	maukururu	mawkururu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+63	.	.	PUNCT	記号	_	62	punct	_	_
+

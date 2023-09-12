@@ -1,0 +1,80 @@
+# sent_id = SYOS_1_198-206
+# text = Chiokai anak Kamui Huchi Chisekor Kamui Nusakor Huchi tura uweneusarash kor ainupitoutar tapkar shiri rimse shiri chinukar wa chieyaikiror ante kane, tutko rerko shiran ko ikuoka an, ainupitoutar uwekatairotke shiri chinukar wa chieramushinne, Kamui Huchi Chisekor Kamui Nusakor Huchi chietutkopak.
+# text_ain = Chiokai anak Kamui Huchi Chisekor Kamui
+# text_ain = Nusakor Huchi tura uweneusarash kor
+# text_ain = ainupitoutar tapkar shiri rimse shiri
+# text_ain = chinukar wa chieyaikiror ante kane,
+# text_ain = tutko rerko shiran ko ikuoka an,
+# text_ain = ainupitoutar uwekatairotke shiri
+# text_ain = chinukar wa chieramushinne,
+# text_ain = Kamui Huchi Chisekor Kamui
+# text_ain = Nusakor Huchi chietutkopak.
+# text_ja = 私は、火の神樣や家の神樣や
+# text_ja = 御幣棚の神樣と話合ひながら
+# text_ja = 人間たちの舞を舞つたり躍りをしたりするさまを
+# text_ja = 眺めて深く興がりました。そして
+# text_ja = 二日三日たつと酒宴は終りました。
+# text_ja = 人間たちが仲の善いありさまを
+# text_ja = 見て、私は安心をして
+# text_ja = 火の神家の神
+# text_ja = 御幣棚の神に別れを告げました。
+1	Chi	chi	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	okai	okai	VERB	自動詞	_	13	advcl	_	_
+3	anak	anak	ADP	副助詞	_	2	mark	_	_
+4	Kamui	kamuy	NOUN	名詞	_	5	nmod	_	_
+5	Huchi	huci	NOUN	名詞	_	13	obl	_	_
+6	Chise	cise	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	kor	kor	VERB	他動詞	_	8	acl	_	_
+8	Kamui	kamuy	NOUN	名詞	_	5	conj	_	_
+9	Nusa	nusa	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+10	kor	kor	NOUN	名詞	_	11	acl	_	_
+11	Huchi	huci	NOUN	名詞	_	5	conj	_	_
+12	tura	tura	SCONJ	後置副詞	_	11	case	_	_
+13	uweneusar	uwenewsar	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+14	ash	=as	PART	人称接辞	_	13	nsubj	_	_
+15	kor	kor	SCONJ	接続助詞	_	13	mark	_	_
+16	ainu	aynu	NOUN	名詞	_	17	compound	_	SpaceAfter=No
+17	pito	pito	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
+18	utar	utar	NOUN	名詞	_	19	nsubj	_	_
+19	tapkar	tapkar	VERB	自動詞	_	20	acl	_	_
+20	shiri	siri	NOUN	形式名詞	_	24	obj	_	_
+21	rimse	rimse	VERB	自動詞	_	22	acl	_	_
+22	shiri	siri	NOUN	形式名詞	_	20	conj	_	_
+23	chi	ci=	PART	人称接辞	_	24	nsubj	_	SpaceAfter=No
+24	nukar	nukar	VERB	他動詞	_	27	advcl	_	_
+25	wa	wa	SCONJ	接続助詞	_	24	mark	_	_
+26	chi	ci=	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	eyaikiror ante	e-yay-kiroran-te	VERB	自動詞	_	47	advcl	_	_
+28	kane	kane	SCONJ	接続助詞	_	27	mark	_	SpaceAfter=No
+29	,	,	PUNCT	記号	_	27	punct	_	_
+30	tutko	tutko	NOUN	名詞	_	32	obl	_	_
+31	rerko	rerko	NOUN	名詞	_	30	conj	_	_
+32	shiran	siran	VERB	完全動詞	_	36	advcl	_	_
+33	ko	kor	SCONJ	接続助詞	_	32	mark	_	_
+34	iku	iku	VERB	自動詞	_	35	amod	_	SpaceAfter=No
+35	oka	oka	NOUN	位置名詞	_	36	nsubj	_	_
+36	an	an	VERB	自動詞	_	44	advcl	_	SpaceAfter=No
+37	,	,	PUNCT	記号	_	36	punct	_	_
+38	ainu	aynu	NOUN	名詞	_	39	compound	_	SpaceAfter=No
+39	pito	pito	NOUN	名詞	_	40	nmod	_	SpaceAfter=No
+40	utar	utar	NOUN	名詞	_	41	nsubj	_	_
+41	uwekatairotke	uwekatayerotke	VERB	自動詞	_	42	acl	_	_
+42	shiri	siri	NOUN	形式名詞	_	44	obj	_	_
+43	chi	ci=	PART	人称接辞	_	44	nsubj	_	SpaceAfter=No
+44	nukar	nukar	VERB	他動詞	_	47	advcl	_	_
+45	wa	wa	SCONJ	接続助詞	_	44	mark	_	_
+46	chi	ci=	PART	人称接辞	_	47	nsubj	_	SpaceAfter=No
+47	eramushinne	eramusinne	VERB	他動詞	_	58	advcl	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	47	punct	_	_
+49	Kamui	kamuy	NOUN	名詞	_	50	nmod	_	_
+50	Huchi	huci	NOUN	名詞	_	58	obj	_	_
+51	Chise	cise	PART	人称接辞	_	52	nsubj	_	SpaceAfter=No
+52	kor	kor	VERB	他動詞	_	53	acl	_	_
+53	Kamui	kamuy	NOUN	名詞	_	50	conj	_	_
+54	Nusa	nusa	NOUN	名詞	_	55	nsubj	_	SpaceAfter=No
+55	kor	kor	VERB	他動詞	_	56	acl	_	_
+56	Huchi	huci	NOUN	名詞	_	50	conj	_	_
+57	chi	ci=	PART	人称接辞	_	58	nsubj	_	SpaceAfter=No
+58	etutkopak	etutkopak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+59	.	.	PUNCT	記号	_	58	punct	_	_
+

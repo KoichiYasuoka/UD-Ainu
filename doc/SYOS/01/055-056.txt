@@ -1,0 +1,22 @@
+# sent_id = SYOS_1_55-56
+# text = Toitoi kata hachirash koiramno hoshkinopo wenkur hekachi unkoshirepa uneshikari.
+# text_ain = Toitoi kata hachirash koiramno hoshkinopo
+# text_ain = wenkur hekachi unkoshirepa uneshikari.
+# text_ja = 土の上に私か落ちると一しよに、一等先に
+# text_ja = 貧乏な子がかけついて私を取りました、
+1	Toitoi	toytoy	NOUN	名詞	_	2	nmod	_	_
+2	ka	ka	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	hachir	hácir	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
+5	ash	=as	PART	人称接辞	_	4	nsubj	_	_
+6	ko	kor	SCONJ	接続助詞	_	4	mark	_	SpaceAfter=No
+7	iramno	iramno	ADV	副詞	_	12	advmod	_	_
+8	hoshkinopo	hoskinopo	ADV	副詞	_	12	advmod	_	_
+9	wenkur	wenkur	NOUN	名詞	_	10	nmod	_	_
+10	hekachi	hekaci	NOUN	名詞	_	12	nsubj	_	_
+11	un	un=	PART	人称接辞	_	12	obj	_	SpaceAfter=No
+12	koshirepa	kosirepa	VERB	他動詞	_	0	root	_	_
+13	un	un=	PART	人称接辞	_	14	obj	_	SpaceAfter=No
+14	eshikari	esikari	VERB	他動詞	_	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	12	punct	_	_
+

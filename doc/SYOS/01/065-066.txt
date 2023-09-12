@@ -1,0 +1,21 @@
+# sent_id = SYOS_1_65-66
+# text = Hushkotoi wano iki aine ainuutur wa soikosanu orowano hoyupu humi taknatara.
+# text_ain = Hushkotoi wano iki aine ainuutur wa
+# text_ain = soikosanu orowano hoyupu humi taknatara.
+# text_ja = もがいてもがひてやつとの事人の隙から
+# text_ja = 飛出しますと、それから、どんどんかけ出しました。
+1	Hushkotoi	huskotoy	NOUN	名詞	_	3	obl	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	iki	iki	VERB	自動詞	_	8	advcl	_	_
+4	aine	ayne	SCONJ	接続詞	_	3	mark	_	_
+5	ainu	aynu	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	utur	utur	NOUN	位置名詞	_	8	obl	_	_
+7	wa	wa	ADP	格助詞	_	6	case	_	_
+8	soikosanu	soy-kosanu	VERB	自動詞	_	13	advcl	_	_
+9	oro	or	NOUN	位置名詞	_	13	obl	_	SpaceAfter=No
+10	wano	wano	ADP	格助詞	_	9	case	_	_
+11	hoyupu	hoyupu	VERB	自動詞	_	12	acl	_	_
+12	humi	humi	NOUN	形式名詞	_	13	nsubj	_	_
+13	taknatara	tak-natara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+

@@ -1,0 +1,38 @@
+# sent_id = SYOS_1_175-178
+# text = Shirki chiki chisekor katkemat soine wa ainuopitta ashkehe uk wa ahupte ko, opitta no shinu kane reye kane ahup wa hepunpa ruwe oararisham.
+# text_ain = Shirki chiki chisekor katkemat soine wa
+# text_ain = ainuopitta ashkehe uk wa ahupte ko,
+# text_ain = opitta no shinu kane reye kane ahup wa
+# text_ain = hepunpa ruwe oararisham.
+# text_ja = すると、家の夫人が外へ出て
+# text_ja = 人皆の手を取つて家へ入れますと、
+# text_ja = みんないざり這ひよつて
+# text_ja = 顏を上げる者もありません。
+1	Shirki	sirki	VERB	完全動詞	_	6	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	chise	cise	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	kor	kor	VERB	他動詞	_	5	acl	_	_
+5	katkemat	katkemat	NOUN	名詞	_	6	nsubj	_	_
+6	soine	soyne	VERB	自動詞	_	13	advcl	_	_
+7	wa	wa	SCONJ	接続助詞	_	6	mark	_	_
+8	ainu	aynu	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+9	opitta	opitta	SCONJ	後置副詞	_	8	case	_	_
+10	ashkehe	aske-he	NOUN	位置名詞	_	11	obj	_	_
+11	uk	uk	VERB	他動詞	_	13	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	ahupte	ahupte	VERB	他動詞	_	21	advcl	_	_
+14	ko	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	13	punct	_	_
+16	opitta no	opitta-no	ADV	副詞	_	17	advmod	_	_
+17	shinu	sinu	VERB	他動詞	_	21	advcl	_	_
+18	kane	kane	SCONJ	接続助詞	_	17	mark	_	_
+19	reye	reye	VERB	自動詞	_	17	conj	_	_
+20	kane	kane	SCONJ	接続助詞	_	19	mark	_	_
+21	ahup	ahup	VERB	自動詞	_	26	advcl	_	_
+22	wa	wa	SCONJ	接続助詞	_	21	mark	_	_
+23	hepunpa	hepunpa	VERB	自動詞	_	24	amod	_	_
+24	ruwe	ruwe	NOUN	形式名詞	_	26	nsubj	_	_
+25	oarar	oarar	ADV	副詞	_	26	advmod	_	SpaceAfter=No
+26	isham	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	記号	_	26	punct	_	_
+

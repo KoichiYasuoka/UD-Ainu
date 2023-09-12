@@ -1,0 +1,59 @@
+# sent_id = SYOS_1_210-215
+# text = Shiran chiki hanke kamui tuima kamui chikosonkoanpa chitak wa shisak tonoto chiukoante, ikutuikata kamuiutar chikoisoitaka, ainukotan chihotanukar eneshirani eneshirkii chiomommomo ko, kamuiutar unkopuntek.
+# text_ain = Shiran chiki hanke kamui tuima kamui
+# text_ain = chikosonkoanpa chitak wa shisak tonoto
+# text_ain = chiukoante, ikutuikata kamuiutar
+# text_ain = chikoisoitaka, ainukotan chihotanukar
+# text_ain = eneshirani eneshirkii chiomommomo ko,
+# text_ain = kamuiutar unkopuntek.
+# text_ja = それで近い神遠い神に
+# text_ja = 使者をたてゝ招待し、盛な酒宴を
+# text_ja = 張りました、席上、神樣たちへ
+# text_ja = 私は物語り、人間の村を訪問した時の
+# text_ja = 其の村の状況、其の出來事を詳しく話しますと
+# text_ja = 神樣たちは大そう私をほめたてました。
+1	Shiran	siran	VERB	完全動詞	_	8	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	hanke	hanke	VERB	自動詞	_	4	amod	_	_
+4	kamui	kamuy	NOUN	名詞	_	8	obj	_	_
+5	tuima	tuyma	VERB	自動詞	_	6	amod	_	_
+6	kamui	kamuy	NOUN	名詞	_	4	conj	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	kosonkoanpa	ko-sonkoanpa	VERB	他動詞	_	15	advcl	_	_
+9	chi	ci=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	tak	tak	VERB	他動詞	_	15	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	shisak	sisak	VERB	自動詞	_	13	amod	_	_
+13	tonoto	tonoto	NOUN	名詞	_	15	obj	_	_
+14	chi	ci=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+15	ukoante	uko-ante	VERB	他動詞	_	37	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	15	punct	_	_
+17	iku	iku	NOUN	名詞	_	18	nmod	_	SpaceAfter=No
+18	tuika	tuyka	NOUN	位置名詞	_	23	obl	_	SpaceAfter=No
+19	ta	ta	ADP	格助詞	_	18	case	_	_
+20	kamui	kamuy	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
+21	utar	utar	NOUN	名詞	_	23	obj	_	_
+22	chi	ci=	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
+23	koisoitak	ko-isoytak	VERB	他動詞	_	29	advcl	_	SpaceAfter=No
+24	a	a	AUX	助動詞	_	23	aux	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	23	punct	_	_
+26	ainu	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
+27	kotan	kotan	NOUN	名詞	_	29	obj	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	hotanukar	hotanukar	VERB	他動詞	_	37	advcl	_	_
+30	ene	ene	ADV	副詞	_	31	advmod	_	SpaceAfter=No
+31	shiran	siran	VERB	完全動詞	_	32	acl	_	SpaceAfter=No
+32	i	-i	PART	接尾辞	_	37	obj	_	_
+33	ene	ene	ADV	副詞	_	34	advmod	_	SpaceAfter=No
+34	shirki	sirki	VERB	完全動詞	_	35	acl	_	SpaceAfter=No
+35	i	-i	PART	接尾辞	_	32	conj	_	_
+36	chi	ci=	PART	人称接辞	_	37	nsubj	_	SpaceAfter=No
+37	omommomo	omommomo	VERB	他動詞	_	43	advcl	_	_
+38	ko	kor	SCONJ	接続助詞	_	37	mark	_	SpaceAfter=No
+39	,	,	PUNCT	記号	_	37	punct	_	_
+40	kamui	kamuy	NOUN	名詞	_	41	nmod	_	SpaceAfter=No
+41	utar	utar	NOUN	名詞	_	43	nsubj	_	_
+42	un	un=	PART	人称接辞	_	43	obj	_	SpaceAfter=No
+43	kopuntek	kopuntek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+44	.	.	PUNCT	記号	_	43	punct	_	_
+

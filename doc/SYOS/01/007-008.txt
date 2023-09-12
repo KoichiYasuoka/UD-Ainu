@@ -1,0 +1,23 @@
+# sent_id = SYOS_1_7-8
+# text = Atuiteksam ta ainuhekattar akshinotponku akshinotponai euweshinot korokai.
+# text_ain = Atuiteksam ta ainuhekattar akshinotponku
+# text_ain = akshinotponai euweshinot korokai.
+# text_ja = 海邊に人間の子供たちがおもちやの小弓に
+# text_ja = おもちやの小矢をもつてあそんで居ります。
+1	Atui	atuy	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	teksam	teksam	NOUN	位置名詞	_	13	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	ainu	aynu	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	hekat	hekaci	NOUN	名詞	_	6	compound	_	SpaceAfter=No
+6	tar	utar	NOUN	名詞	_	13	nsubj	_	_
+7	akshinot	ak-sinot	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+8	pon	pon	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	ku	ku	NOUN	名詞	_	13	obj	_	_
+10	akshinot	ak-sinot	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+11	pon	pon	VERB	自動詞	_	12	amod	_	SpaceAfter=No
+12	ai	ay	NOUN	名詞	_	9	conj	_	_
+13	euweshinot	e-u-e-sinot	VERB	他動詞	_	15	advcl	_	_
+14	kor	kor	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+15	okai	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+

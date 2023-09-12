@@ -1,0 +1,16 @@
+# sent_id = SYOS_1_79-80
+# text = Poroshikupkur yaikokutkor yupu kane unkoonkami.
+# text_ain = Poroshikupkur yaikokutkor yupu kane
+# text_ain = unkoonkami.
+# text_ja = 老人はキチンと帶をしめ直して、
+# text_ja = 私を拜し
+1	Poro	poro	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	shikup	sukup	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	kur	kur	NOUN	名詞	_	4	nsubj	_	_
+4	yaikokutkor	yay-ko-kutkor	VERB	自動詞	_	8	advcl	_	_
+5	yupu	yupu	VERB	他動詞	_	4	conj	_	_
+6	kane	kane	SCONJ	接続助詞	_	5	mark	_	_
+7	un	un=	PART	人称接辞	_	8	obj	_	SpaceAfter=No
+8	koonkami	koonkami	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

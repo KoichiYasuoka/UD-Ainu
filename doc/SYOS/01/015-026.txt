@@ -1,0 +1,118 @@
+# sent_id = SYOS_1_15-26
+# text = Keke hetak, akash wa toan chikappo kamui chikappo tukan wa ankur, hoshkiukkur sonno rametok shino chipapa ne ruwe tapan ” hawokai kane, teeta wenkur tane nishpa nep poutari, konkani ponku konkani ponai uweunupa untukan ko, konkani ponai shichorpok chikushte shienka chikushte, rapokita, hekachiutar tumukeheta shine hekachi yayan ponku yayan ponai ukoani iyeutanne, chinukar chiki wenkur poho ne kotomno imi ka wano akoeraman.
+# text_ain = Keke hetak, akash wa toan chikappo
+# text_ain = kamui chikappo tukan wa ankur, hoshkiukkur
+# text_ain = sonno rametok shino chipapa ne ruwe tapan ”
+# text_ain = hawokai kane, teeta wenkur tane nishpa nep
+# text_ain = poutari, konkani ponku konkani ponai
+# text_ain = uweunupa untukan ko, konkani ponai
+# text_ain = shichorpok chikushte shienka chikushte,
+# text_ain = rapokita, hekachiutar tumukeheta
+# text_ain = shine hekachi yayan ponku yayan ponai
+# text_ain = ukoani iyeutanne, chinukar chiki
+# text_ain = wenkur poho ne kotomno imi ka wano
+# text_ain = akoeraman.
+# text_ja = さあ、矢を射てあの鳥
+# text_ja = 神樣の鳥を射當てたものは、一ばんさきに取つた者は
+# text_ja = ほんとうの勇者ほんとうの强者だぞ。」
+# text_ja = 云ひながら、昔貧乏人で今お金持になつてる者の
+# text_ja = 子供等は、金の小弓に金の小矢を
+# text_ja = 番へて私を射ますと、金の小矢を
+# text_ja = 私は下を通したり上を通したりしました。
+# text_ja = 其の中に、子供等の中に
+# text_ja = 一人の子供がたゞの（木製の）小弓にたゞの小矢
+# text_ja = を持つて仲間にはいつてゐます。私はそれを見ると
+# text_ja = 貧乏人の子らしく、着物でも
+# text_ja = それがわかります。
+1	Keke	keke	INTJ	間投詞	_	4	discourse	_	_
+2	hetak	hetak	INTJ	間投詞	_	4	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	ak	ak	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+5	ash	=as	PART	人称接辞	_	4	nsubj	_	_
+6	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+7	toan	toan	DET	連体詞	_	8	det	_	_
+8	chikappo	cikappo	NOUN	名詞	_	11	obj	_	_
+9	kamui	kamuy	NOUN	名詞	_	10	nmod	_	_
+10	chikappo	cikappo	NOUN	名詞	_	8	appos	_	_
+11	tukan	tukan	VERB	他動詞	_	13	advcl	_	_
+12	wa	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	an	an	VERB	自動詞	_	14	acl	_	SpaceAfter=No
+14	kur	kur	NOUN	名詞	_	20	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	hoshki	hoski	ADV	副詞	_	17	advmod	_	SpaceAfter=No
+17	uk	uk	VERB	他動詞	_	18	acl	_	SpaceAfter=No
+18	kur	kur	NOUN	名詞	_	14	appos	_	_
+19	sonno	sonno	ADV	副詞	_	20	amod	_	_
+20	rametok	rametok	NOUN	名詞	_	24	acl	_	_
+21	shino	sino	ADV	副詞	_	22	amod	_	_
+22	chipapa	cipapa	NOUN	名詞	_	20	appos	_	_
+23	ne	ne	AUX	デアル動詞	_	20	cop	_	_
+24	ruwe	ruwe	NOUN	形式名詞	_	27	advcl	_	_
+25	tapan	tapan	AUX	デアル動詞	_	24	cop	_	_
+26	”	”	PUNCT	記号	_	24	punct	_	_
+27	hawokai	hawean	VERB	自動詞	_	46	advcl	_	_
+28	kane	kane	SCONJ	接続助詞	_	27	mark	_	SpaceAfter=No
+29	,	,	PUNCT	記号	_	27	punct	_	_
+30	teeta	teeta	ADV	副詞	_	31	amod	_	_
+31	wenkur	wenkur	NOUN	名詞	_	33	nsubj	_	_
+32	tane	tane	ADV	副詞	_	33	amod	_	_
+33	nishpa	nispa	NOUN	名詞	_	35	acl	_	_
+34	ne	ne	AUX	デアル動詞	_	33	cop	_	SpaceAfter=No
+35	p	-p	PART	接尾辞	_	36	nmod	_	_
+36	poutari	póutari	NOUN	名詞	_	44	nsubj	_	SpaceAfter=No
+37	,	,	PUNCT	記号	_	36	punct	_	_
+38	konkani	konkani	NOUN	名詞	_	40	nmod	_	_
+39	pon	pon	VERB	自動詞	_	40	amod	_	SpaceAfter=No
+40	ku	ku	NOUN	名詞	_	44	iobj	_	_
+41	konkani	konkani	NOUN	名詞	_	43	nmod	_	_
+42	pon	pon	VERB	自動詞	_	43	amod	_	SpaceAfter=No
+43	ai	ay	NOUN	名詞	_	44	obj	_	_
+44	uweunupa	u-e-unu	VERB	他動詞	_	46	advcl	_	_
+45	un	un=	PART	人称接辞	_	46	obj	_	SpaceAfter=No
+46	tukan	tukan	VERB	他動詞	_	55	advcl	_	_
+47	ko	kor	SCONJ	接続助詞	_	46	mark	_	SpaceAfter=No
+48	,	,	PUNCT	記号	_	46	punct	_	_
+49	konkani	konkani	NOUN	名詞	_	51	nmod	_	_
+50	pon	pon	VERB	自動詞	_	51	amod	_	SpaceAfter=No
+51	ai	ay	NOUN	名詞	_	55	obj	_	_
+52	shi	si-	PART	接頭辞	_	55	iobj	_	SpaceAfter=No
+53	chorpok	corpok	NOUN	位置名詞	_	55	obl	_	_
+54	chi	ci=	PART	人称接辞	_	55	nsubj	_	SpaceAfter=No
+55	kushte	kuste	VERB	他動詞	_	61	acl	_	_
+56	shi	si-	PART	接頭辞	_	59	iobj	_	SpaceAfter=No
+57	enka	enka	NOUN	位置名詞	_	59	obl	_	_
+58	chi	ci=	PART	人称接辞	_	59	nsubj	_	SpaceAfter=No
+59	kushte	kuste	VERB	他動詞	_	55	conj	_	SpaceAfter=No
+60	,	,	PUNCT	記号	_	59	punct	_	_
+61	rapoki	rápoki	NOUN	位置名詞	_	90	obl	_	SpaceAfter=No
+62	ta	ta	ADP	格助詞	_	61	case	_	SpaceAfter=No
+63	,	,	PUNCT	記号	_	61	punct	_	_
+64	hekachi	hekaci	NOUN	名詞	_	65	compound	_	SpaceAfter=No
+65	utar	utar	NOUN	名詞	_	66	nmod	_	_
+66	tumukehe	tumu	NOUN	位置名詞	_	77	obl	_	SpaceAfter=No
+67	ta	ta	ADP	格助詞	_	66	case	_	_
+68	shine	sine	NUM	数詞	_	69	nummod	_	_
+69	hekachi	hekaci	NOUN	名詞	_	76	nsubj	_	_
+70	yayan	yayan	DET	連体詞	_	72	det	_	_
+71	pon	pon	VERB	自動詞	_	72	amod	_	SpaceAfter=No
+72	ku	ku	NOUN	名詞	_	76	obj	_	_
+73	yayan	yayan	DET	連体詞	_	75	det	_	_
+74	pon	pon	VERB	自動詞	_	75	amod	_	SpaceAfter=No
+75	ai	ay	NOUN	名詞	_	72	conj	_	_
+76	ukoani	ukoani	VERB	他動詞	_	77	advcl	_	_
+77	iyeutanne	eyewtanne	VERB	他動詞	_	90	advcl	_	SpaceAfter=No
+78	,	,	PUNCT	記号	_	77	punct	_	_
+79	chi	ci=	PART	人称接辞	_	80	nsubj	_	SpaceAfter=No
+80	nukar	nukar	VERB	他動詞	_	90	advcl	_	_
+81	chiki	ciki	SCONJ	接続助詞	_	80	mark	_	_
+82	wenkur	wenkur	NOUN	名詞	_	83	nmod	_	_
+83	poho	poho	NOUN	名詞	_	90	advcl	_	_
+84	ne	ne	AUX	デアル動詞	_	83	cop	_	_
+85	kotomno	kotomno	SCONJ	接続助詞	_	83	mark	_	_
+86	imi	imi	NOUN	名詞	_	87	nmod	_	_
+87	ka	ka	NOUN	位置名詞	_	90	obl	_	_
+88	wano	wano	ADP	格助詞	_	87	case	_	_
+89	a	a=	PART	人称接辞	_	90	nsubj	_	SpaceAfter=No
+90	koeraman	ukoeramuan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+91	.	.	PUNCT	記号	_	90	punct	_	_
+

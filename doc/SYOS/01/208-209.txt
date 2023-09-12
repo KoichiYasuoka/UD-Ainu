@@ -1,0 +1,20 @@
+# sent_id = SYOS_1_208-209
+# text = Unetokta chiunchisehe pirka inau pirka sake chieshikte.
+# text_ain = Unetokta chiunchisehe pirka inau
+# text_ain = pirka sake chieshikte.
+# text_ja = 私の來る前に、私の家は美しい御幣
+# text_ja = 美酒が一ぱいになつてゐました。
+1	Un	un=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	etok	etok	NOUN	名詞	_	12	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	chi	ci=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	chisehe	cise	NOUN	名詞	_	12	obj	_	_
+7	pirka	pirka	VERB	自動詞	_	8	amod	_	_
+8	inau	inaw	NOUN	名詞	_	12	iobj	_	_
+9	pirka	pirka	VERB	自動詞	_	10	amod	_	_
+10	sake	sake	NOUN	名詞	_	8	conj	_	_
+11	chi	ci=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eshikte	esikte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

@@ -1,0 +1,23 @@
+# sent_id = SYOS_1_129-130
+# text = Taporowa ponno okayash shirpeker awa chisekor utar shine ikinne uhopunpare.
+# text_ain = Taporowa ponno okayash shirpeker awa
+# text_ain = chisekor utar shine ikinne uhopunpare.
+# text_ja = それが濟んで少したつて夜が明けますと
+# text_ja = 家の人々が一しよに起きて
+1	Tap	tap	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+5	okay	an	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+6	ash	=as	PART	人称接辞	_	5	nsubj	_	_
+7	shirpeker	sirpeker	VERB	完全動詞	_	15	advcl	_	_
+8	awa	awa	CCONJ	接続詞	_	7	mark	_	_
+9	chise	cise	NOUN	名詞	_	10	nsubj	_	SpaceAfter=No
+10	kor	kor	VERB	他動詞	_	11	acl	_	_
+11	utar	utar	NOUN	名詞	_	15	nsubj	_	_
+12	shine	sine	NUM	数詞	_	13	nummod	_	_
+13	ikin	ikir	NOUN	名詞	_	15	obl	_	SpaceAfter=No
+14	ne	ne	AUX	デアル動詞	_	13	cop	_	_
+15	uhopunpare	uhopunpare	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+

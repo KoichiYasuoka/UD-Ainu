@@ -1,0 +1,46 @@
+# sent_id = SYOS_1_67-71
+# text = Teeta wenkur tane nishpa nep poutari shuma ari nihum ari yapkir korka wenkur hekachi senne pono ekottanu wenotaupum shiokote hoyupu aine shine ponchise chisesoikehe akoshirepa.
+# text_ain = Teeta wenkur tane nishpa nep poutari
+# text_ain = shuma ari nihum ari yapkir korka
+# text_ain = wenkur hekachi senne pono ekottanu
+# text_ain = wenotaupum shiokote hoyupu aine shine ponchise
+# text_ain = chisesoikehe akoshirepa.
+# text_ja = 昔貧乏人で今は金持の子供等が
+# text_ja = 石や木片を投げつけるけれど
+# text_ja = 貧乏な子はちつとも構はず
+# text_ja = 砂吹雪をたてながらかけて來て一軒の小屋の
+# text_ja = 表へ着きました。
+1	Teeta	teeta	ADV	副詞	_	2	amod	_	_
+2	wenkur	wenkur	NOUN	名詞	_	4	nsubj	_	_
+3	tane	tane	ADV	副詞	_	4	amod	_	_
+4	nishpa	nispa	NOUN	名詞	_	6	acl	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	p	-p	PART	接尾辞	_	7	nmod	_	_
+7	poutari	póutari	NOUN	名詞	_	12	nsubj	_	_
+8	shuma	suma	NOUN	名詞	_	12	obl	_	_
+9	ari	ari	SCONJ	接続助詞	_	8	case	_	_
+10	nihum	nihum	NOUN	名詞	_	8	conj	_	_
+11	ari	ari	SCONJ	接続助詞	_	10	case	_	_
+12	yapkir	yapkir	VERB	自動詞	_	18	advcl	_	_
+13	korka	korka	CCONJ	接続詞	_	12	mark	_	_
+14	wenkur	wenkur	NOUN	名詞	_	15	nmod	_	_
+15	hekachi	hekaci	NOUN	名詞	_	18	nsubj	_	_
+16	senne	senne	ADV	副詞	_	17	advmod	_	_
+17	pono	ponno	ADV	副詞	_	18	advmod	_	_
+18	ekottanu	ekottanu	VERB	他動詞	_	24	advcl	_	_
+19	wen	wen	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+20	ota	ota	NOUN	名詞	_	21	nmod	_	SpaceAfter=No
+21	upum	upun	NOUN	名詞	_	23	obj	_	_
+22	shi	si-	PART	接頭辞	_	23	iobj	_	SpaceAfter=No
+23	okote	okot	VERB	他動詞	_	24	advcl	_	_
+24	hoyupu	hoyupu	VERB	自動詞	_	32	advcl	_	_
+25	aine	ayne	SCONJ	接続詞	_	24	mark	_	_
+26	shine	sine	NUM	数詞	_	28	nummod	_	_
+27	pon	pon	VERB	自動詞	_	28	amod	_	SpaceAfter=No
+28	chise	cise	NOUN	名詞	_	32	obj	_	_
+29	chise	cise	NOUN	名詞	_	30	nmod	_	SpaceAfter=No
+30	soikehe	soyke	NOUN	位置名詞	_	32	obl	_	_
+31	a	a=	PART	人称接辞	_	32	nsubj	_	SpaceAfter=No
+32	koshirepa	kosirepa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+33	.	.	PUNCT	記号	_	32	punct	_	_
+

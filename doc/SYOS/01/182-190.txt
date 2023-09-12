@@ -1,0 +1,88 @@
+# sent_id = SYOS_1_182-190
+# text = “ Tapne tapne wenkur ane wa raukisamno ukopayekai ka aeaikap ruwe ne a korka pase kamui unerampokiwen, nep wenpuri chikon ruwe ka somone a kushu tankorachi aunkashnukar ki ruwene kushu, tan tewano kotanepitta shine utar ane ruwene kushu uwekatairotkean ukopayekaian ki kunine nishpa utar akoramkor shiri tapan.”
+# text_ain = “ Tapne tapne wenkur ane wa raukisamno
+# text_ain = ukopayekai ka aeaikap ruwe ne a korka
+# text_ain = pase kamui unerampokiwen, nep wenpuri
+# text_ain = chikon ruwe ka somone a kushu tankorachi
+# text_ain = aunkashnukar ki ruwene kushu,
+# text_ain = tan tewano kotanepitta shine utar
+# text_ain = ane ruwene kushu uwekatairotkean
+# text_ain = ukopayekaian ki kunine nishpa utar
+# text_ain = akoramkor shiri tapan.”
+# text_ja = 「此の樣に、貧乏人でへだてなく
+# text_ja = 互に往來も出來なかつたのだが
+# text_ja = 大神樣があはれんで下され、何の惡い考へも
+# text_ja = 私どもは持つてゐませんのでしたので此の樣に
+# text_ja = お惠をいたゞきましたのですから
+# text_ja = 今から村中、私共は一族の者
+# text_ja = なんですから、仲善くして
+# text_ja = 互に往來をしたいといふ事を皆樣に
+# text_ja = 望む次第であります」
+1	“	"	PUNCT	記号	_	64	punct	_	_
+2	Tapne	tapne	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+3	tapne	tapne	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	wenkur	wenkur	NOUN	名詞	_	9	advcl	_	_
+5	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+8	raukisamno	rawkisakno	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	ukopayekai	ukopayoka	VERB	自動詞	_	12	ccomp	_	_
+10	ka	ka	ADP	副助詞	_	9	mark	_	_
+11	a	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	eaikap	eaykap	VERB	他動詞	_	13	acl	_	_
+13	ruwe	ruwe	NOUN	形式名詞	_	25	advcl	_	_
+14	ne	ne	AUX	デアル動詞	_	13	cop	_	_
+15	a	a	AUX	助動詞	_	13	aux	_	_
+16	korka	korka	CCONJ	接続詞	_	13	mark	_	_
+17	pase	pase	VERB	自動詞	_	18	amod	_	_
+18	kamui	kamuy	NOUN	名詞	_	20	nsubj	_	_
+19	un	un=	PART	人称接辞	_	20	obj	_	SpaceAfter=No
+20	erampokiwen	erampokiwen	VERB	他動詞	_	13	conj	_	SpaceAfter=No
+21	,	,	PUNCT	記号	_	20	punct	_	_
+22	nep	nep	NOUN	名詞	_	23	nmod	_	_
+23	wenpuri	wenpuri	NOUN	名詞	_	25	obj	_	_
+24	chi	ci=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	kon	kor	VERB	他動詞	_	26	acl	_	_
+26	ruwe	ruwe	NOUN	形式名詞	_	38	advcl	_	_
+27	ka	ka	ADP	副助詞	_	26	case	_	_
+28	somo	somo	ADV	副詞	_	29	advmod	_	SpaceAfter=No
+29	ne	ne	AUX	デアル動詞	_	26	cop	_	_
+30	a	a	AUX	助動詞	_	26	aux	_	_
+31	kushu	kusu	SCONJ	接続詞	_	26	mark	_	_
+32	tan	tan	DET	連体詞	_	38	det	_	SpaceAfter=No
+33	korachi	koraci	SCONJ	後置副詞	_	32	case	_	_
+34	a	a=	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+35	un	un=	PART	人称接辞	_	36	iobj	_	SpaceAfter=No
+36	kashnukar	ekasnukar	VERB	他動詞	_	38	acl	_	_
+37	ki	ki	AUX	助動詞	_	36	aux	_	_
+38	ruwe	ruwe	NOUN	形式名詞	_	51	advcl	_	SpaceAfter=No
+39	ne	ne	AUX	デアル動詞	_	38	cop	_	_
+40	kushu	kusu	SCONJ	接続詞	_	38	mark	_	SpaceAfter=No
+41	,	,	PUNCT	記号	_	38	punct	_	_
+42	tan	tan	DET	連体詞	_	43	det	_	_
+43	te	te	NOUN	位置名詞	_	51	obl	_	SpaceAfter=No
+44	wano	wano	ADP	格助詞	_	43	case	_	_
+45	kotan	kotan	NOUN	名詞	_	48	nsubj	_	SpaceAfter=No
+46	epitta	epitta	SCONJ	接続助詞	_	45	case	_	_
+47	shine	sine	NUM	数詞	_	48	nummod	_	_
+48	utar	utar	NOUN	名詞	_	51	acl	_	_
+49	a	a=	PART	人称接辞	_	48	expl	_	SpaceAfter=No
+50	ne	ne	AUX	デアル動詞	_	48	cop	_	_
+51	ruwe	ruwe	NOUN	形式名詞	_	58	advcl	_	SpaceAfter=No
+52	ne	ne	AUX	デアル動詞	_	51	cop	_	_
+53	kushu	kusu	SCONJ	接続詞	_	51	mark	_	_
+54	uwekatairotke	uwekatayerotke	VERB	自動詞	_	58	advcl	_	SpaceAfter=No
+55	an	=an	PART	人称接辞	_	54	nsubj	_	_
+56	ukopayekai	ukopayoka	VERB	他動詞	_	54	conj	_	SpaceAfter=No
+57	an	=an	PART	終助詞	_	56	nsubj	_	_
+58	ki	ki	VERB	他動詞	_	63	advcl	_	_
+59	kunine	kunine	SCONJ	接続助詞	_	58	mark	_	_
+60	nishpa	nispa	NOUN	名詞	_	61	nmod	_	_
+61	utar	utar	NOUN	名詞	_	63	obj	_	_
+62	a	a=	PART	人称接辞	_	63	nsubj	_	SpaceAfter=No
+63	koramkor	koramkor	VERB	他動詞	_	64	acl	_	_
+64	shiri	siri	NOUN	形式名詞	_	0	root	_	_
+65	tapan	tapan	AUX	デアル動詞	_	64	cop	_	SpaceAfter=No
+66	.	.	PUNCT	記号	_	64	punct	_	SpaceAfter=No
+67	”	"	PUNCT	記号	_	64	punct	_	SpaceAfter=No
+

@@ -1,0 +1,70 @@
+# sent_id = SYOS_1_122-128
+# text = Ainunishpa maukowen wa wenkur ne wa, teeta wenkur tane nishpa nep utarorke wa apiye hawe akorewen shiri chinukar wa, chierampoken kushu, pashtakamui chine ruwe ka shomone korka, ainuchise chiko reushi chipirkare ruwe ne katuhu chieramante.
+# text_ain = Ainunishpa maukowen wa wenkur ne wa,
+# text_ain = teeta wenkur tane nishpa nep utarorke wa
+# text_ain = apiye hawe akorewen shiri chinukar wa,
+# text_ain = chierampoken kushu, pashtakamui
+# text_ain = chine ruwe ka shomone korka, ainuchise
+# text_ain = chiko reushi chipirkare ruwe ne katuhu
+# text_ain = chieramante.
+# text_ja = アイヌのニシパが運が惡くて貧乏人になつて
+# text_ja = 昔貧乏人で今お金持になつてる者たちに
+# text_ja = ばかにされたりいぢめられたりしてるさまを私が見て
+# text_ja = 不憫に思つたので、私は身分の卑しいたゞの神では
+# text_ja = ないのだが、人間の家
+# text_ja = に泊つて、惠んでやつたのだといふ事を
+# text_ja = 知らせました。
+1	Ainu	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	nishpa	nispa	NOUN	名詞	_	3	nsubj	_	_
+3	maukowen	mawkowen	VERB	自動詞	_	5	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	wenkur	wenkur	NOUN	名詞	_	25	advcl	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+7	wa	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	5	punct	_	_
+9	teeta	teeta	ADV	副詞	_	10	amod	_	_
+10	wenkur	wenkur	NOUN	名詞	_	12	nsubj	_	_
+11	tane	tane	ADV	副詞	_	12	amod	_	_
+12	nishpa	nispa	NOUN	名詞	_	14	acl	_	_
+13	ne	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	p	-p	PART	接尾辞	_	15	nmod	_	_
+15	utar	utar	NOUN	名詞	_	25	obl	_	SpaceAfter=No
+16	orke	orke	ADP	副助詞	_	15	case	_	_
+17	wa	wa	SCONJ	接続助詞	_	15	case	_	_
+18	a	a=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	piye	piye	VERB	他動詞	_	20	acl	_	_
+20	hawe	hawe	NOUN	形式名詞	_	25	obj	_	_
+21	a	a=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+22	korewen	korewen	VERB	他動詞	_	23	acl	_	_
+23	shiri	siri	NOUN	形式名詞	_	20	conj	_	_
+24	chi	ci=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	nukar	nukar	VERB	他動詞	_	36	advcl	_	_
+26	wa	wa	SCONJ	接続助詞	_	25	mark	_	SpaceAfter=No
+27	,	,	PUNCT	記号	_	25	punct	_	_
+28	chi	ci=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	erampoken	erampoken	VERB	他動詞	_	25	conj	_	_
+30	kushu	kusu	SCONJ	接続助詞	_	29	mark	_	SpaceAfter=No
+31	,	,	PUNCT	記号	_	29	punct	_	_
+32	pashta	pasta	NOUN	名詞	_	33	nmod	_	SpaceAfter=No
+33	kamui	kamuy	NOUN	名詞	_	36	acl	_	_
+34	chi	ci=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+35	ne	ne	AUX	デアル動詞	_	33	cop	_	_
+36	ruwe	ruwe	NOUN	形式名詞	_	48	advcl	_	_
+37	ka	ka	ADP	副助詞	_	36	case	_	_
+38	shomo	somo	ADV	副詞	_	39	advmod	_	SpaceAfter=No
+39	ne	ne	AUX	デアル動詞	_	36	cop	_	_
+40	korka	korka	CCONJ	接続詞	_	36	mark	_	SpaceAfter=No
+41	,	,	PUNCT	記号	_	36	punct	_	_
+42	ainu	aynu	NOUN	名詞	_	43	nmod	_	SpaceAfter=No
+43	chise	cise	NOUN	名詞	_	45	obj	_	_
+44	chi	ci=	PART	人称接辞	_	45	nsubj	_	SpaceAfter=No
+45	ko reushi	koreushi	VERB	他動詞	_	47	advcl	_	_
+46	chi	ci=	PART	人称接辞	_	47	nsubj	_	SpaceAfter=No
+47	pirkare	pirkare	VERB	他動詞	_	48	acl	_	_
+48	ruwe	ruwe	NOUN	形式名詞	_	50	acl	_	_
+49	ne	ne	AUX	デアル動詞	_	48	cop	_	_
+50	katuhu	katuhu	NOUN	形式名詞	_	52	obj	_	_
+51	chi	ci=	PART	人称接辞	_	52	nsubj	_	SpaceAfter=No
+52	eramante	eramante	VERB	他動詞	_	0	root	_	SpaceAfter=No
+53	.	.	PUNCT	記号	_	52	punct	_	_
+

@@ -1,0 +1,28 @@
+# sent_id = SYOS_1_179-181
+# text = Shiranchiki chisekon nishpa chirikipuni ki charanke kakkokhau ne ouseturse ene ene ne katuhu eisoitak :
+# text_ain = Shiranchiki chisekon nishpa chirikipuni
+# text_ain = ki charanke kakkokhau ne ouseturse
+# text_ain = ene ene ne katuhu eisoitak :
+# text_ja = すると、家の主人は起上つて
+# text_ja = カツコウ鳥の樣な美しい聲で物を言ひました。
+# text_ja = 斯々の譯を物語り
+1	Shiran	siran	VERB	完全動詞	_	6	advcl	_	SpaceAfter=No
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	chise	cise	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+4	kon	kor	VERB	他動詞	_	5	acl	_	_
+5	nishpa	nispa	NOUN	名詞	_	6	nsubj	_	_
+6	chirikipuni	cirikipuni	VERB	他動詞	_	18	advcl	_	_
+7	ki	ki	AUX	助動詞	_	6	aux	_	_
+8	charanke	caranke	VERB	自動詞	_	10	amod	_	_
+9	kakkok	kakkok	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	hau	haw	NOUN	名詞	_	13	nsubj	_	_
+11	ne	ne	ADP	格助詞	_	10	case	_	_
+12	ouse	ouse	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+13	turse	turse	VERB	自動詞	_	18	advcl	_	_
+14	ene	ene	ADV	副詞	_	18	advmod	_	_
+15	ene	ene	ADV	副詞	_	18	advmod	_	_
+16	ne	ne	DET	連体詞	_	17	det	_	_
+17	katuhu	katuhu	NOUN	名詞	_	18	obj	_	_
+18	eisoitak	eysoytak	VERB	他動詞	_	0	root	_	_
+19	:	:	PUNCT	記号	_	18	punct	_	_
+

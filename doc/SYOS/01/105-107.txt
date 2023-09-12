@@ -1,0 +1,24 @@
+# sent_id = SYOS_1_105-107
+# text = Shirappaash ko unpishkan ta pirkaikor kamuiikor tuihumkonna tununitara.
+# text_ain = Shirappaash ko unpishkan ta
+# text_ain = pirkaikor kamuiikor tuihumkonna
+# text_ain = tununitara.
+# text_ja = 私が羽ばたきをすると、私のまはりに
+# text_ja = 美しい寶物、神の寶物が美しい音をたてゝ
+# text_ja = 落ち散りました。
+1	Shirappa	sirappa	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	ko	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	un	un=	PART	人称接辞	_	5	det	_	SpaceAfter=No
+5	pishkan	piskan	NOUN	位置名詞	_	11	obl	_	_
+6	ta	ta	ADP	格助詞	_	5	case	_	_
+7	pirka	pirka	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ikor	ikor	NOUN	名詞	_	11	nsubj	_	_
+9	kamui	kamuy	NOUN	名詞	_	10	nmod	_	SpaceAfter=No
+10	ikor	ikor	NOUN	名詞	_	8	conj	_	_
+11	tui	tuy	VERB	自動詞	_	12	acl	_	SpaceAfter=No
+12	hum	hum	NOUN	名詞	_	14	nsubj	_	SpaceAfter=No
+13	konna	konna	ADP	副助詞	_	12	case	_	_
+14	tununitara	tununitara	VERB	自動詞	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	14	punct	_	_
+

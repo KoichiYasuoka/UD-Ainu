@@ -1,0 +1,37 @@
+# sent_id = SYOS_1_28-31
+# text = Anihi nakka yayan ponku yayan ponai uweunu wa unramante ko, teeta wenkur tane nishpanep poutari euminare ene hawokai : ―
+# text_ain = Anihi nakka yayan ponku
+# text_ain = yayan ponai uweunu wa unramante ko,
+# text_ain = teeta wenkur tane nishpanep poutari euminare
+# text_ain = ene hawokai : ―
+# text_ja = 自分もたゞの小弓に
+# text_ja = たゞの小矢を番へて私をねらひますと、
+# text_ja = 昔貧乏人で今金持の子供等は大笑ひをして
+# text_ja = 云ふには、
+1	Anihi	anihi	PRON	代名詞	_	9	nsubj	_	_
+2	nakka	yakka	SCONJ	接続助詞	_	1	case	_	_
+3	yayan	yayan	DET	連体詞	_	5	det	_	_
+4	pon	pon	VERB	自動詞	_	5	amod	_	SpaceAfter=No
+5	ku	ku	NOUN	名詞	_	9	iobj	_	_
+6	yayan	yayan	DET	連体詞	_	8	det	_	_
+7	pon	pon	VERB	自動詞	_	8	amod	_	SpaceAfter=No
+8	ai	ay	NOUN	名詞	_	9	obj	_	_
+9	uweunu	u-e-unu	VERB	他動詞	_	12	advcl	_	_
+10	wa	wa	SCONJ	接続助詞	_	9	mark	_	_
+11	un	un=	PART	人称接辞	_	12	obj	_	SpaceAfter=No
+12	ramante	ramante	VERB	他動詞	_	22	advcl	_	_
+13	ko	kor	SCONJ	接続助詞	_	12	mark	_	SpaceAfter=No
+14	,	,	PUNCT	記号	_	12	punct	_	_
+15	teeta	teeta	ADV	副詞	_	16	amod	_	_
+16	wenkur	wenkur	NOUN	名詞	_	18	nsubj	_	_
+17	tane	tane	ADV	副詞	_	18	amod	_	_
+18	nishpa	nispa	NOUN	名詞	_	20	acl	_	SpaceAfter=No
+19	ne	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	p	-p	PART	接尾辞	_	21	nmod	_	_
+21	poutari	póutari	NOUN	名詞	_	22	nsubj	_	_
+22	euminare	euminare	VERB	他動詞	_	24	advcl	_	_
+23	ene	ene	ADV	副詞	_	24	advmod	_	_
+24	hawokai	hawean	VERB	自動詞	_	0	root	_	_
+25	:	:	PUNCT	記号	_	24	punct	_	_
+26	―	―	PUNCT	記号	_	24	punct	_	_
+

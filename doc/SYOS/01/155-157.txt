@@ -1,0 +1,26 @@
+# sent_id = SYOS_1_155-157
+# text = Tutko pakno shiran ko, kamuierushuipe nepnekushu chiseupshoro sakehura epararse.
+# text_ain = Tutko pakno shiran ko, kamuierushuipe
+# text_ain = nepnekushu chiseupshoro sakehura
+# text_ain = epararse.
+# text_ja = 二日程たつと、神樣の好物ですから
+# text_ja = はや、家の中に酒の香が
+# text_ja = 漂ひました。
+1	Tutko	tutko	NOUN	名詞	_	3	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	shiran	siran	VERB	完全動詞	_	16	advcl	_	_
+4	ko	kor	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	3	punct	_	_
+6	kamui	kamuy	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	erushui	érusuy	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	pe	pe	NOUN	名詞	_	9	nsubj	_	_
+9	nep	nep	NOUN	名詞	_	16	advcl	_	SpaceAfter=No
+10	ne	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	kushu	kusu	SCONJ	接続詞	_	9	mark	_	_
+12	chise	cise	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
+13	upshoro	upsoro	NOUN	名詞	_	16	obj	_	_
+14	sake	sake	NOUN	名詞	_	15	nmod	_	SpaceAfter=No
+15	hura	hura	NOUN	名詞	_	16	nsubj	_	_
+16	epararse	e-párase	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+
