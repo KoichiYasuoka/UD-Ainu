@@ -1,0 +1,49 @@
+# sent_id = SYOS_10_2-6
+# text = Shineantota petetok un shinotash kushu payeash awa, petetokta shine ponrupnekur neshko urai kar kushu uraikik neap kosanikkeukan punashpunash.
+# text_ain = Shineantota petetok un shinotash kushu
+# text_ain = payeash awa, petetokta shine ponrupnekur
+# text_ain = neshko urai kar kushu uraikik neap
+# text_ain = kosanikkeukan punashpunash.
+# text_ja = 或日に水源の方へ遊びに
+# text_ja = 出かけたら、水源に一人の小男が
+# text_ja = 胡桃の木の簗をたてる爲め杭を打つのに
+# text_ja = 腰を曲げ曲げしてゐる。
+1	Shine	sine	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+3	to	to	NOUN	名詞	_	8	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	pet	pet	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	etok	etok	NOUN	位置名詞	_	8	obl	_	_
+7	un	un	ADP	格助詞	_	6	case	_	_
+8	shinot	sinot	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+9	ash	=as	PART	人称接辞	_	8	nsubj	_	_
+10	kushu	kusu	SCONJ	接続詞	_	8	mark	_	_
+11	paye	paye	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+12	ash	=as	PART	人称接辞	_	11	nsubj	_	_
+13	awa	awa	CCONJ	接続詞	_	11	mark	_	SpaceAfter=No
+14	,	,	PUNCT	記号	_	11	punct	_	_
+15	pet	pet	NOUN	名詞	_	16	nmod	_	SpaceAfter=No
+16	etok	etok	NOUN	位置名詞	_	24	obl	_	SpaceAfter=No
+17	ta	ta	ADP	格助詞	_	16	case	_	_
+18	shine	sine	NUM	数詞	_	21	nummod	_	_
+19	pon	pon	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+20	rupne	rupne	VERB	自動詞	_	21	amod	_	SpaceAfter=No
+21	kur	kur	NOUN	名詞	_	24	nsubj	_	_
+22	neshko	nesko	NOUN	名詞	_	23	nmod	_	_
+23	urai	uray	NOUN	名詞	_	24	obj	_	_
+24	kar	kar	VERB	他動詞	_	0	root	_	_
+25	kushu	kusu	SCONJ	接続詞	_	24	mark	_	_
+26	urai	uray	NOUN	名詞	_	27	obj	_	SpaceAfter=No
+27	kik	kik	VERB	他動詞	_	24	conj	_	_
+28	ne	ne	DET	連体詞	_	30	det	_	SpaceAfter=No
+29	a	a	AUX	助動詞	_	28	aux	_	SpaceAfter=No
+30	p	-p	PART	接尾辞	_	31	obj	_	_
+31	kosan	ko-san	VERB	他動詞	_	32	acl	_	SpaceAfter=No
+32	ikkeu	ikkew	NOUN	名詞	_	34	obj	_	SpaceAfter=No
+33	kan	kan	INTJ	間投詞	_	34	discourse	_	_
+34	pun	puni	VERB	他動詞	_	24	parataxis	_	SpaceAfter=No
+35	ash	=as	PART	人称接辞	_	34	nsubj	_	SpaceAfter=No
+36	pun	puni	VERB	他動詞	_	34	conj	_	SpaceAfter=No
+37	ash	=as	PART	人称接辞	_	36	nsubj	_	SpaceAfter=No
+38	.	.	PUNCT	記号	_	36	punct	_	_
+

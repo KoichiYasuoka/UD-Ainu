@@ -1,0 +1,18 @@
+# sent_id = SYOS_10_7-8
+# text = Chikarkunekur unkashuiyan ” ari hawean.
+# text_ain = Chikarkunekur unkashuiyan ”
+# text_ain = ari hawean.
+# text_ja = 私の甥よ、私に手傳つてお吳れ」
+# text_ja = といふ。
+1	Chi	ci=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	karku	karku	NOUN	名詞	_	4	acl	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	kur	kur	NOUN	名詞	_	6	vocative	_	_
+5	un	un=	PART	人称接辞	_	6	obj	_	SpaceAfter=No
+6	kashui	kasuy	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+7	yan	yan	PART	終助詞	_	6	mark	_	_
+8	”	”	PUNCT	記号	_	6	punct	_	_
+9	ari	ari	SCONJ	接続助詞	_	6	mark	_	_
+10	hawean	hawean	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

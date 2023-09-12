@@ -1,0 +1,41 @@
+# sent_id = SYOS_10_8-12
+# text = Inkarash ko neshko urai nepne kushu neshko wakka nupki wakka chisanasanke, kamuicheputar hemeshpako neshko wakka kowen kushu chish kor hoshippa.
+# text_ain = Inkarash ko neshko urai
+# text_ain = nepne kushu neshko wakka nupki wakka
+# text_ain = chisanasanke, kamuicheputar
+# text_ain = hemeshpako neshko wakka kowen kushu
+# text_ain = chish kor hoshippa.
+# text_ja = 見ると、胡桃の簗
+# text_ja = なものだから、胡桃の水、濁つた水、
+# text_ja = が流れて來て鮭どもが
+# text_ja = 上つて來ると胡桃の水が嫌なので
+# text_ja = 泣きながら歸つてゆく。
+1	Inkar	inkar	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	ko	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	neshko	nesko	NOUN	名詞	_	5	nmod	_	_
+5	urai	uray	NOUN	名詞	_	7	acl	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	p	-p	PART	接尾辞	_	14	advcl	_	SpaceAfter=No
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+9	kushu	kusu	SCONJ	接続詞	_	7	mark	_	_
+10	neshko	nesko	NOUN	名詞	_	11	nmod	_	_
+11	wakka	wakka	NOUN	名詞	_	14	obj	_	_
+12	nupki	nupki	NOUN	名詞	_	13	nmod	_	_
+13	wakka	wakka	NOUN	名詞	_	11	conj	_	_
+14	chisanasanke	ci-sanasanke	VERB	他動詞	_	19	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	kamui	kamuy	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	chep	cep	NOUN	名詞	_	18	compound	_	SpaceAfter=No
+18	utar	utar	NOUN	名詞	_	19	nsubj	_	_
+19	hemeshpa	hemesu	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
+20	ko	kor	SCONJ	接続助詞	_	19	mark	_	_
+21	neshko	nesko	NOUN	名詞	_	22	nmod	_	_
+22	wakka	wakka	NOUN	名詞	_	23	obj	_	_
+23	kowen	kowen	VERB	他動詞	_	25	advcl	_	_
+24	kushu	kusu	SCONJ	接続詞	_	23	mark	_	_
+25	chish	cis	VERB	自動詞	_	0	root	_	_
+26	kor	kor	SCONJ	接続助詞	_	25	mark	_	_
+27	hoshippa	hosipi	VERB	自動詞	_	25	conj	_	SpaceAfter=No
+28	.	.	PUNCT	記号	_	27	punct	_	_
+

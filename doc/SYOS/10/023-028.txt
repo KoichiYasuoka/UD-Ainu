@@ -1,0 +1,49 @@
+# sent_id = SYOS_10_23-28
+# text = Petetoko wa pirka rera pirka wakka chisanasanke, chishkor hoshippa Kamuicheputar pirka rera pirka wakka eyaitemka wenminahau wenshinothau pepunitara kor hemeshpa shiri chopopatki.
+# text_ain = Petetoko wa pirka rera pirka wakka
+# text_ain = chisanasanke, chishkor hoshippa
+# text_ain = Kamuicheputar pirka rera pirka wakka
+# text_ain = eyaitemka wenminahau wenshinothau
+# text_ain = pepunitara kor hemeshpa shiri
+# text_ain = chopopatki.
+# text_ja = 水源から淸い風淸い水が
+# text_ja = 流れて來て、泣きながら歸つて行つた
+# text_ja = 鮭どもは淸い風淸い水に
+# text_ja = 氣を恢復して、大さわぎ大笑ひして遊び
+# text_ja = ながら、パチヤパチヤと
+# text_ja = 上つて來た、
+1	Pet	pet	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	etoko	etoko	NOUN	位置名詞	_	8	obl	_	_
+3	wa	wa	ADP	格助詞	_	2	case	_	_
+4	pirka	pirka	VERB	自動詞	_	5	amod	_	_
+5	rera	rera	NOUN	名詞	_	8	obj	_	_
+6	pirka	pirka	VERB	自動詞	_	7	amod	_	_
+7	wakka	wakka	NOUN	名詞	_	5	conj	_	_
+8	chisanasanke	ci-sanasanke	VERB	他動詞	_	20	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	chish	cis	VERB	自動詞	_	15	acl	_	SpaceAfter=No
+11	kor	kor	SCONJ	接続助詞	_	10	mark	_	_
+12	hoshippa	hosipi	VERB	自動詞	_	10	conj	_	_
+13	Kamui	kamuy	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	chep	cep	NOUN	名詞	_	15	compound	_	SpaceAfter=No
+15	utar	utar	NOUN	名詞	_	20	nsubj	_	_
+16	pirka	pirka	VERB	自動詞	_	17	amod	_	_
+17	rera	rera	NOUN	名詞	_	20	obj	_	_
+18	pirka	pirka	VERB	自動詞	_	19	amod	_	_
+19	wakka	wakka	NOUN	名詞	_	17	conj	_	_
+20	eyaitemka	e-yay-temka	VERB	他動詞	_	31	advcl	_	_
+21	wen	wen	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+22	mina	mina	VERB	自動詞	_	23	amod	_	SpaceAfter=No
+23	hau	haw	NOUN	名詞	_	27	nsubj	_	_
+24	wen	wen	VERB	自動詞	_	26	amod	_	SpaceAfter=No
+25	shinot	sinot	VERB	自動詞	_	26	amod	_	SpaceAfter=No
+26	hau	haw	NOUN	名詞	_	23	conj	_	_
+27	pepunitara	pepunitara	VERB	自動詞	_	31	advcl	_	_
+28	kor	kor	SCONJ	接続助詞	_	27	mark	_	_
+29	hemeshpa	hemesu	VERB	自動詞	_	30	amod	_	_
+30	shiri	siri	NOUN	形式名詞	_	31	obl	_	_
+31	chopopatki	copopatki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+32	.	.	PUNCT	記号	_	31	punct	_	_
+
+# text =
+

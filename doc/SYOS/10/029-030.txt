@@ -1,0 +1,12 @@
+# sent_id = SYOS_10_29-30
+# text = ari Pon Okikirmui isoitak.
+# text_ain = ari
+# text_ain = Pon Okikirmui isoitak.
+# text_ja = と
+# text_ja = 小さいオキキリムイが物語つた。
+1	ari	ari	SCONJ	接続助詞	_	4	advmod	_	_
+2	Pon	pon	VERB	自動詞	_	3	amod	_	_
+3	Okikirmui	Okikirmuy	PROPN	固有名詞	_	4	nsubj	_	_
+4	isoitak	isoytak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

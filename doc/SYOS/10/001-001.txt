@@ -1,0 +1,7 @@
+# sent_id = SYOS_10_1
+# text = Kutnisa kutunkutun
+# text_ain = Kutnisa kutunkutun
+# text_ja = クツニサクトンクトン
+1	Kutnisa	kutnisa	INTJ	間投詞	_	0	root	_	_
+2	kutunkutun	kutunkutun	INTJ	間投詞	_	1	discourse	_	_
+

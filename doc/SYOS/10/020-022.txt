@@ -1,0 +1,31 @@
+# sent_id = SYOS_10_20-22
+# text = Orowano ikkeukiror montumkiror chiyaikosanke, neuraini shinrichi wano chioarkaye, poknamoshir chikooterke.
+# text_ain = Orowano ikkeukiror montumkiror
+# text_ain = chiyaikosanke, neuraini shinrichi wano
+# text_ain = chioarkaye, poknamoshir chikooterke.
+# text_ja = それから、私は腰の力からだ中の力を
+# text_ja = 出して、その杭を根本から
+# text_ja = 折つてしまい、地獄へ踏落してしまつた。
+1	Oro	or	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ikkeu	ikkew	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+4	kiror	kiror	NOUN	名詞	_	8	obj	_	_
+5	montum	mon-tum	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+6	kiror	kiror	NOUN	名詞	_	4	conj	_	_
+7	chi	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	yaikosanke	yaykosanke	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	ne	ne	DET	連体詞	_	11	det	_	SpaceAfter=No
+11	uraini	urayni	NOUN	名詞	_	16	obj	_	_
+12	shinrichi	sinrit	NOUN	名詞	_	16	obl	_	_
+13	wano	wano	ADP	格助詞	_	12	case	_	_
+14	chi	ci=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+15	oar	oar	ADV	副詞	_	16	advmod	_	SpaceAfter=No
+16	kaye	kaye	VERB	他動詞	_	21	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	記号	_	16	punct	_	_
+18	pokna	pokna	DET	連体詞	_	19	det	_	SpaceAfter=No
+19	moshir	mosir	NOUN	名詞	_	21	iobj	_	_
+20	chi	ci=	PART	人称接辞	_	21	nsubj	_	SpaceAfter=No
+21	kooterke	kooterke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	記号	_	21	punct	_	_
+
