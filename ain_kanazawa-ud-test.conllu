@@ -1,5 +1,6 @@
 # doc = 神保小虎, 金澤庄三郞: アイヌ會話字典, 東京: 金港堂書籍, 1898
 # page = 1
+# title = ア
 # text_ja = アイサツスル(挨拶）
 # text = Aekap
 1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
@@ -1466,6 +1467,7 @@
 5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# title = イ
 # text_ja = イー（好）
 # text = Pirika.
 1	Pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
@@ -2468,6 +2470,7 @@
 4	oma	oma	VERB	他動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
+# title = ウ
 # text_ja = ウエ(上）
 # text = Kata; Kashike; Rikta.
 1	Ka	ka	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
@@ -3348,6 +3351,7 @@
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
 # page = 32
+# title = エ
 # text_ja = エ（畫）
 # text = Noka.
 1	Noka	noka	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -3497,6 +3501,7 @@
 5	yan	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	4	punct	_	_
 
+# title = オ
 # text_ja = オ（尾）
 
 # text_ja = 鳥の尾
@@ -4901,6 +4906,7 @@
 1	Uneu	unew	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = カ
 # text_ja = カ（乎）
 # text = Ya.
 1	Ya	ya	PART	終助詞	_	0	root	_	SpaceAfter=No
@@ -7239,6 +7245,7 @@
 1	Huibe	huype	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = キ
 # text_ja = キ（木）
 # text = Chikuni; Ni.
 1	Chikuni	cikuni	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -7958,6 +7965,7 @@
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
 # page = 75
+# title = ク
 # text_ja = クイモノ（食物）
 # text = Aep.
 1	Aep	aep	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -9024,6 +9032,7 @@
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # page = 85
+# title = ケ
 # text_ja = ケ（毛）
 # text = Numa.
 1	Numa	numa	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -9261,6 +9270,7 @@
 7	ukorari	ukorari	VERB	自動詞	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	7	punct	_	_
 
+# title = コ
 # text_ja = コ（子）
 # text = Poho.
 1	Poho	póho	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -10114,6 +10124,7 @@
 11	mososo	mososo	VERB	他動詞	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	記号	_	11	punct	_	_
 
+# title = サ
 # text_ja = サー
 # text = Hetak.
 1	Hetak	hetak	INTJ	間投詞	_	0	root	_	SpaceAfter=No
@@ -10710,6 +10721,7 @@
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # page = 101
+# title = シ
 # text_ja = シアサッテ（明々後日）
 # text = Oyashimshimge.
 1	Oyashimshimge	oyasimsimke	ADV	副詞	_	0	root	_	SpaceAfter=No
@@ -11777,6 +11789,7 @@
 6	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
 7	?	?	PUNCT	記号	_	5	punct	_	_
 
+# title = ス
 # text_ja = ス(巣）
 # text = Set.
 1	Set	set	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -12496,6 +12509,7 @@
 6	niurotke	niwrotke	VERB	自動詞	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	6	punct	_	_
 
+# title = セ
 # text_ja = セ（脊）
 # text = Kewe.
 1	Kewe	kewe	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -12705,6 +12719,7 @@
 5	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# title = ソ
 # text_ja = ゾーキン（雑巾）
 # text = Ita-pirup.
 1	Ita-pirup	itapirup	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -13086,6 +13101,7 @@
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # page = 124
+# title = タ
 # text_ja = ダイク（大工）
 # text = Pancho.
 1	Pancho	panco	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -14605,6 +14621,7 @@
 7	riten	riten	VERB	自動詞	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	7	punct	_	_
 
+# title = チ
 # text_ja = チ(血）
 # text = Kem.
 1	Kem	kem	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -15054,6 +15071,8 @@
 3	Hoashitari	hoastari	VERB	自動詞	_	4	amod	_	_
 4	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
+
+# title = ツ
 
 # page = 142
 # text_ja = ツイデ（序）
@@ -15678,6 +15697,7 @@
 5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# title = テ
 # text_ja = テ
 # text = Teke.
 1	Teke	teke	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -16108,6 +16128,7 @@
 9	.	.	PUNCT	記号	_	8	punct	_	_
 
 # page = 152
+# title = ト
 # text_ja = ト
 # text = Apa; Apa-ushta.
 1	Apa	apa	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -17637,6 +17658,7 @@
 4	ne	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = ナ
 # text_ja = ナ（名）
 # text = Reihei.
 1	Reihei	rehe	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -18554,6 +18576,7 @@
 4	shui	suy	NOUN	名詞	_	3	clf	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = ニ
 # text_ja = ニ
 # text = Eun; Otta; Ta.
 1	Eun	eun	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
@@ -18909,6 +18932,7 @@
 1	Chup-rai	cupray	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ヌ
 # text_ja = ヌ（繍）
 # text = Okshui.
 1	Okshui	oksuy	VERB	他動詞	_	0	root	_	SpaceAfter=No
@@ -19048,6 +19072,7 @@
 5	teine	teyne	VERB	自動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# title = 子
 # text_ja = 子（根）
 # text = Ni-shinrit.
 1	Ni	ni	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
@@ -19370,6 +19395,7 @@
 4	niukesh	niwkes	AUX	助動詞	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = ノ
 # text_ja = ノ（野）
 # text = Nup.
 1	Nup	nup	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -19843,6 +19869,7 @@
 14	ro	ro	PART	終助詞	_	12	discourse	_	SpaceAfter=No
 15	.	.	PUNCT	記号	_	12	punct	_	_
 
+# title = ハ
 # text_ja = ハ（齒）
 # text = Nimak; Nimaki.
 1	Nimak	nimak	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -21286,6 +21313,7 @@
 1	Upakashnu	upakasnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ヒ
 # text_ja = ヒ（織具）
 # text = Ahunkao-ni.
 1	Ahunkao-ni	ahunkaonit	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -22326,6 +22354,7 @@
 1	Ramutui	ramutuy	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = フ
 # text_ja = フエ(笛）
 # text = Chirekte-top.
 1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
@@ -23177,6 +23206,7 @@
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # page = 218
+# title = ヘ
 # text_ja = ヘ(屁）
 # text = Opke.
 1	Opke	opke	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -23546,6 +23576,7 @@
 3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = ホ
 # text_ja = ホ（帆）
 # text = Kaya.
 1	Kaya	kaya	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -24042,6 +24073,7 @@
 2	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
+# title = マ
 # text_ja = マイチド（今一度）
 # text = Hetopo.
 1	Hetopo	hetopo	ADV	副詞	_	0	root	_	SpaceAfter=No
@@ -24734,6 +24766,7 @@
 3	an	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	2	punct	_	_
 
+# title = ミ
 # text_ja = ミ（菓實）
 # text = Ni-num; Ibehe.
 1	Ni-num	nínum	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -25637,6 +25670,7 @@
 4	okai	okay	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
+# title = ム
 # text_ja = ムカシ(昔）
 # text = Fushko.
 1	Fushko	husko	VERB	自動詞	_	0	root	_	SpaceAfter=No
@@ -26006,6 +26040,7 @@
 7	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
 8	.	.	PUNCT	記号	_	6	punct	_	_
 
+# title = メ
 # text_ja = メ（眼）
 # text = Shiki.
 1	Shiki	siki	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -26230,6 +26265,7 @@
 10	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	記号	_	9	punct	_	_
 
+# title = モ
 # text_ja = モ
 # text = Hem.
 1	Hem	hem	ADP	副助詞	_	0	root	_	SpaceAfter=No
@@ -26603,6 +26639,7 @@
 10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 11	?	?	PUNCT	記号	_	10	punct	_	_
 
+# title = ヤ
 # text_ja = ヤ（矢）
 # text = Ai.
 1	Ai	ay	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -27395,6 +27432,7 @@
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # page = 257
+# title = ユ
 # text_ja = ユ(湯）
 # text = Usei.
 1	Usei	usey	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -28322,6 +28360,7 @@
 1	Ratchitara	ratcitara	ADV	副詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ヨ
 # text_ja = ヨアケ（夜明）
 # text = An-kes; To-pekere; Shiri-pekere.
 1	An-kes	ankes	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -28867,6 +28906,7 @@
 1	Inep	ínep	NUM	数詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ラ
 # text_ja = ライゲツ（來月）
 # text = Ashiri chup.
 1	Ashiri	asir	VERB	自動詞	_	2	amod	_	_
@@ -28933,11 +28973,13 @@
 3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = リ
 # text_ja = リス（栗鼠）
 # text = Ruop.
 1	Ruop	ruop	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ル
 # text_ja = ルス（留守）
 # text = Isam; Ohashiri.
 1	Isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
@@ -28996,11 +29038,13 @@
 5	eyaikatanu	eyaikatanu	VERB	他動詞	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
 
+# title = レ
 # text_ja = レーオユー（謝）
 # text = Eyairaige.
 1	Eyairaige	eyayrayke	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
+# title = ロ
 # text_ja = ロ（爐）
 # text = Abe-oi.
 1	Abe-oi	apeoy	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -29039,6 +29083,7 @@
 3	Chacha	cáca	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
+# title = ワ
 # text_ja = ワ（輪）
 # text = Ningari.
 1	Ningari	ninkari	NOUN	名詞	_	0	root	_	SpaceAfter=No
