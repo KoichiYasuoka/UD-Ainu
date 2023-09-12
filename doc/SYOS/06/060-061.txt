@@ -1,0 +1,20 @@
+# sent_id = SYOS_6_60-61
+# text = eani anak Pon Horkeusani ene ruwe tashi anne.”
+# text_ain = eani anak Pon Horkeusani ene ruwe tashi
+# text_ain = anne.”
+# text_ja = お前は、小さい、狼の子なの
+# text_ja = さ。」
+1	eani	eani	PRON	代名詞	_	5	nsubj	_	_
+2	anak	anak	ADP	副助詞	_	1	case	_	_
+3	Pon	pon	VERB	自動詞	_	5	amod	_	_
+4	Horkeu	horkew	NOUN	名詞	_	5	compound	_	SpaceAfter=No
+5	sani	sani	NOUN	名詞	_	8	acl	_	_
+6	e	e=	PART	人称接辞	_	5	expl	_	SpaceAfter=No
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	tashi	tasi	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+13	”	”	PUNCT	記号	_	10	punct	_	_
+

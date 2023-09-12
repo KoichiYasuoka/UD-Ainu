@@ -1,0 +1,35 @@
+# sent_id = SYOS_6_57-59
+# text = itakash awa, pon rupneainu iporohoka wenawena ikokanu wa an aine “ pii tun tun, pii tun tun !
+# text_ain = itakash awa, pon rupneainu iporohoka
+# text_ain = wenawena ikokanu wa an aine
+# text_ain = “ pii tun tun, pii tun tun !
+# text_ja = 云ふと、小男は顏色を
+# text_ja = 變へ變へ聞いてゐたが
+# text_ja = 「ピイトントン、ピイトントン！
+1	itak	itak	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	mark	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	pon	pon	VERB	自動詞	_	7	amod	_	_
+6	rupne	rupne	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+7	ainu	aynu	NOUN	名詞	_	10	nsubj	_	_
+8	iporoho	iporo	NOUN	名詞	_	9	nmod	_	SpaceAfter=No
+9	ka	ka	NOUN	位置名詞	_	10	obl	_	_
+10	wen	wen	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+11	a	a	AUX	助動詞	_	10	aux	_	SpaceAfter=No
+12	wen	wen	VERB	自動詞	_	10	conj	_	SpaceAfter=No
+13	a	a	AUX	助動詞	_	12	aux	_	_
+14	ikokanu	ikokanu	VERB	自動詞	_	16	advcl	_	_
+15	wa	wa	SCONJ	接続助詞	_	14	mark	_	_
+16	an	an	VERB	自動詞	_	0	root	_	_
+17	aine	ayne	SCONJ	接続詞	_	16	mark	_	SpaceAfter=No
+18	“	“	PUNCT	記号	_	19	punct	_	_
+19	pii	piy	INTJ	間投詞	_	16	parataxis	_	_
+20	tun	tun	INTJ	間投詞	_	19	discourse	_	_
+21	tun	tun	INTJ	間投詞	_	19	discourse	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	19	punct	_	_
+23	pii	piy	INTJ	間投詞	_	19	conj	_	_
+24	tun	tun	INTJ	間投詞	_	23	discourse	_	_
+25	tun	tun	INTJ	間投詞	_	23	discourse	_	_
+26	!	!	PUNCT	記号	_	23	punct	_	_
+

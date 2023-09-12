@@ -1,0 +1,14 @@
+# sent_id = SYOS_6_22
+# text = “ Pii tuntun, pii tuntun !
+# text_ain = “ Pii tuntun, pii tuntun !
+# text_ja = 「ピイトンピイトン
+1	“	“	PUNCT	記号	_	2	punct	_	_
+2	Pii	piy	INTJ	間投詞	_	0	root	_	_
+3	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+4	tun	tun	INTJ	間投詞	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	2	punct	_	_
+6	pii	piy	INTJ	間投詞	_	2	conj	_	_
+7	tun	tun	INTJ	間投詞	_	6	discourse	_	SpaceAfter=No
+8	tun	tun	INTJ	間投詞	_	6	discourse	_	_
+9	!	!	PUNCT	記号	_	6	punct	_	_
+

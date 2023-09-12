@@ -1,0 +1,22 @@
+# sent_id = SYOS_6_35-36
+# text = eonnohetapne ehawan chiki, ushinritpita aki kushnena ! ”
+# text_ain = eonnohetapne ehawan chiki,
+# text_ain = ushinritpita aki kushnena ! ”
+# text_ja = 本當にお前そんな事を云ふなら
+# text_ja = お互の素性の解合ひをやらう。」
+1	eonno	sonno	ADV	副詞	_	5	advcl	_	SpaceAfter=No
+2	hetap	hetap	INTJ	間投詞	_	1	discourse	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	hawan	hawean	VERB	自動詞	_	10	advcl	_	_
+6	chiki	ciki	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	ushinritpita	usinritpita	VERB	自動詞	_	10	ccomp	_	_
+9	a	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ki	ki	VERB	他動詞	_	0	root	_	_
+11	kush	kusu	SCONJ	接続詞	_	10	mark	_	SpaceAfter=No
+12	ne	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+13	na	na	PART	終助詞	_	10	discourse	_	_
+14	!	!	PUNCT	記号	_	10	punct	_	_
+15	”	”	PUNCT	記号	_	10	punct	_	_
+

@@ -1,0 +1,20 @@
+# sent_id = SYOS_6_13-14
+# text = Hawash chiki, chiemina kor itakash hawe ene okai : ―
+# text_ain = Hawash chiki, chiemina kor itakash hawe
+# text_ain = ene okai : ―
+# text_ja = 私は聞いて笑ひながらいふこと
+# text_ja = には‥‥
+1	Hawash	háwas	VERB	完全動詞	_	11	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	chi	ci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	emina	emina	VERB	他動詞	_	11	advcl	_	_
+6	kor	kor	SCONJ	接続助詞	_	5	mark	_	_
+7	itak	itak	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	ash	=as	PART	人称接辞	_	7	nsubj	_	_
+9	hawe	hawe	NOUN	形式名詞	_	11	nsubj	_	_
+10	ene	ene	ADV	副詞	_	11	advmod	_	_
+11	okai	an	VERB	自動詞	_	0	root	_	_
+12	:	:	PUNCT	記号	_	11	punct	_	_
+13	―	―	PUNCT	記号	_	11	punct	_	_
+

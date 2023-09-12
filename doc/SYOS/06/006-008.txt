@@ -1,0 +1,37 @@
+# sent_id = SYOS_6_6-8
+# text = Ikichiash awa, hepashi iwanshui heperai iwanshui ne ita ponrupneainu kor wenpuri enantuika eparsere, eneitaki : ―
+# text_ain = Ikichiash awa, hepashi iwanshui
+# text_ain = heperai iwanshui ne ita ponrupneainu
+# text_ain = kor wenpuri enantuika eparsere, eneitaki : ―
+# text_ja = すると川下へ六囘
+# text_ja = 川上へ六囘になつた時小男は
+# text_ja = 持前の癇癪を顏に表して言ふことには
+1	Ikichi	iki-ci	VERB	自動詞	_	26	advcl	_	SpaceAfter=No
+2	ash	=as	PART	人称接辞	_	1	nsubj	_	_
+3	awa	awa	CCONJ	接続詞	_	1	mark	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	hepashi	hepasi	ADV	副詞	_	12	acl	_	_
+6	iwan	iwan	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+7	shui	suy	NOUN	名詞	_	6	clf	_	_
+8	heperai	heperay	ADV	副詞	_	5	conj	_	_
+9	iwan	iwan	NUM	数詞	_	8	nummod	_	SpaceAfter=No
+10	shui	suy	NOUN	名詞	_	9	clf	_	_
+11	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+12	i	-i	PART	接尾辞	_	22	obl	_	SpaceAfter=No
+13	ta	ta	ADP	格助詞	_	12	case	_	_
+14	pon	pon	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+15	rupne	rupne	VERB	自動詞	_	16	amod	_	SpaceAfter=No
+16	ainu	aynu	NOUN	名詞	_	17	nsubj	_	_
+17	kor	kor	VERB	他動詞	_	19	acl	_	_
+18	wen	wen	VERB	自動詞	_	19	amod	_	_
+19	puri	puri	NOUN	名詞	_	22	obj	_	_
+20	enan	e-nan	NOUN	名詞	_	21	compound	_	_
+21	tuika	tuyka	NOUN	名詞	_	22	iobj	_	_
+22	eparsere	e-parse-re	VERB	他動詞	_	1	conj	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	22	punct	_	_
+24	ene	ene	ADV	副詞	_	25	advmod	_	SpaceAfter=No
+25	itak	itak	VERB	自動詞	_	26	acl	_	SpaceAfter=No
+26	i	-i	PART	接尾辞	_	0	root	_	_
+27	:	:	PUNCT	記号	_	26	punct	_	_
+28	―	―	PUNCT	記号	_	26	punct	_	_
+

@@ -1,0 +1,14 @@
+# sent_id = SYOS_6_38
+# text = “ Nennamora eshinrichihi erampeuteka !
+# text_ain = “ Nennamora eshinrichihi erampeuteka !
+# text_ja = 「誰がお前の性素を知らないものか！
+1	“	“	PUNCT	記号	_	7	punct	_	_
+2	Nen	nen	PRON	代名詞	_	7	nsubj	_	SpaceAfter=No
+3	nam	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	ora	ora	SCONJ	接続詞	_	2	case	_	_
+5	e	e=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+6	shinrichihi	sinrit	NOUN	名詞	_	7	obj	_	_
+7	erampeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	a	a	PART	終助詞	_	7	discourse	_	_
+9	!	!	PUNCT	記号	_	7	punct	_	_
+

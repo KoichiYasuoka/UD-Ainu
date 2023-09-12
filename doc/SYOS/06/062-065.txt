@@ -1,0 +1,37 @@
+# sent_id = SYOS_6_62-65
+# text = itakkeseta atui orun terke humi chopkosanu, oshi inkarash awa, shine hure cheppo honoyanoya wa too herepashi oman wa isam.
+# text_ain = itakkeseta atui orun terke humi chopkosanu,
+# text_ain = oshi inkarash awa, shine hure cheppo
+# text_ain = honoyanoya wa too herepashi
+# text_ain = oman wa isam.
+# text_ja = 云ひ終ると直ぐに海へバチヤンと飛込んだ。
+# text_ja = あと見送ると一つの赤い魚が
+# text_ja = 尾鰭を動かしてすーつと沖へ
+# text_ja = 行つてしまつた。
+1	itak	itak	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	kese	kes	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	atui	atuy	NOUN	名詞	_	5	nmod	_	_
+5	or	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+6	un	un	ADP	格助詞	_	5	case	_	_
+7	terke	terke	VERB	自動詞	_	8	acl	_	_
+8	humi	humi	NOUN	名詞	_	9	nsubj	_	_
+9	chopkosanu	copkosanu	VERB	自動詞	_	12	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	9	punct	_	_
+11	oshi	osi	NOUN	位置名詞	_	12	obl	_	_
+12	inkar	inkar	VERB	自動詞	_	19	advcl	_	SpaceAfter=No
+13	ash	=as	PART	人称接辞	_	12	nsubj	_	_
+14	awa	awa	CCONJ	接続詞	_	12	mark	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	12	punct	_	_
+16	shine	sine	NUM	数詞	_	18	nummod	_	_
+17	hure	húre	VERB	自動詞	_	18	amod	_	_
+18	cheppo	ceppo	NOUN	名詞	_	19	nsubj	_	_
+19	honoyanoya	honoye	VERB	自動詞	_	0	root	_	_
+20	wa	wa	SCONJ	接続助詞	_	19	mark	_	_
+21	too	too	ADV	副詞	_	23	advmod	_	_
+22	herepashi	herepasi	ADV	副詞	_	23	advmod	_	_
+23	oman	oman	VERB	自動詞	_	19	conj	_	_
+24	wa	wa	SCONJ	接続助詞	_	23	mark	_	_
+25	isam	isam	VERB	自動詞	_	19	conj	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	19	punct	_	_
+

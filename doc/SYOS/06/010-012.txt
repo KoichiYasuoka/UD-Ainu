@@ -1,0 +1,31 @@
+# sent_id = SYOS_6_10-12
+# text = tan hekachi wen hekachi eiki chiki, tan esannot teeta rehe tane rehe ukaepita eki kushnena ! ”
+# text_ain = tan hekachi wen hekachi eiki chiki,
+# text_ain = tan esannot teeta rehe tane rehe
+# text_ain = ukaepita eki kushnena ! ”
+# text_ja = 此の小憎め惡い小憎め、そんな事をするなら
+# text_ja = 此の岬の、昔の名と今の名を
+# text_ja = 言解いて見ろ」
+1	tan	tan	DET	連体詞	_	2	det	_	_
+2	hekachi	hekaci	NOUN	名詞	_	17	vocative	_	_
+3	wen	wen	VERB	自動詞	_	4	amod	_	_
+4	hekachi	hekaci	NOUN	名詞	_	2	appos	_	_
+5	e	e=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	iki	iki	VERB	自動詞	_	17	advcl	_	_
+7	chiki	ciki	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	tan	tan	DET	連体詞	_	10	det	_	_
+10	esannot	esannot	NOUN	名詞	_	12	nmod	_	_
+11	teeta	teeta	ADV	副詞	_	12	amod	_	_
+12	rehe	re	NOUN	名詞	_	15	obj	_	_
+13	tane	tane	ADV	副詞	_	14	amod	_	_
+14	rehe	re	NOUN	名詞	_	12	conj	_	_
+15	ukaepita	ukaepita	VERB	他動詞	_	17	ccomp	_	_
+16	e	e=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	ki	ki	VERB	他動詞	_	0	root	_	_
+18	kush	kusu	SCONJ	接続詞	_	17	mark	_	SpaceAfter=No
+19	ne	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+20	na	na	PART	終助詞	_	17	discourse	_	_
+21	!	!	PUNCT	記号	_	17	punct	_	_
+22	”	”	PUNCT	記号	_	17	punct	_	_
+

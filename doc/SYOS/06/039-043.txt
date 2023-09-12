@@ -1,0 +1,45 @@
+# sent_id = SYOS_6_39-43
+# text = otteeta Okikirmui kimta oman wa, kucha karita keneinunpe kar aike ne inunpe apekar wa sattek okere, Okikirmui oararkehe oterke ko oarakehe hotari.
+# text_ain = otteeta Okikirmui kimta oman wa,
+# text_ain = kucha karita keneinunpe kar aike
+# text_ain = ne inunpe apekar wa sattek okere,
+# text_ain = Okikirmui oararkehe oterke ko oarakehe
+# text_ain = hotari.
+# text_ja = 大昔、オキヽリムイが山へ行つて
+# text_ja = 狩獵小舍を建てた時榛の木の爐緣を作つたら
+# text_ja = その爐緣が火に當つてらうからに乾いてしまつた。
+# text_ja = オキヽリムイが片方を蹈むと片一方が
+# text_ja = 上る、
+1	otteeta	otteeta	ADV	副詞	_	5	advmod	_	_
+2	Okikirmui	Okikirmuy	PROPN	固有名詞	_	5	nsubj	_	_
+3	kim	kim	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	oman	oman	VERB	自動詞	_	10	acl	_	_
+6	wa	wa	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	kucha	kuca	NOUN	名詞	_	9	obj	_	_
+9	kar	kar	VERB	他動詞	_	5	conj	_	SpaceAfter=No
+10	i	-i	PART	接尾辞	_	14	obl	_	SpaceAfter=No
+11	ta	ta	ADP	格助詞	_	10	case	_	_
+12	kene	kene	NOUN	名詞	_	13	compound	_	SpaceAfter=No
+13	inunpe	inumpe	NOUN	名詞	_	14	obj	_	_
+14	kar	kar	VERB	他動詞	_	0	root	_	_
+15	aike	ayke	SCONJ	接続助詞	_	14	mark	_	_
+16	ne	ne	DET	連体詞	_	17	det	_	_
+17	inunpe	inumpe	NOUN	名詞	_	18	nsubj	_	_
+18	apekar	apekar	VERB	自動詞	_	14	conj	_	_
+19	wa	wa	SCONJ	接続助詞	_	18	mark	_	_
+20	sat	sat	VERB	自動詞	_	18	conj	_	SpaceAfter=No
+21	tek	tek	AUX	助動詞	_	20	aux	_	_
+22	okere	okere	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+23	,	,	PUNCT	記号	_	14	punct	_	_
+24	Okikirmui	Okikirmuy	PROPN	固有名詞	_	27	nsubj	_	_
+25	oar	oar	DET	連体詞	_	26	det	_	SpaceAfter=No
+26	arkehe	arke	NOUN	位置名詞	_	27	obj	_	_
+27	oterke	oterke	VERB	他動詞	_	31	advcl	_	_
+28	ko	kor	SCONJ	接続助詞	_	27	mark	_	_
+29	oar	oar	DET	連体詞	_	30	det	_	SpaceAfter=No
+30	arkehe	arke	NOUN	位置名詞	_	31	nsubj	_	_
+31	hotari	hotari	VERB	自動詞	_	14	parataxis	_	SpaceAfter=No
+32	.	.	PUNCT	記号	_	31	punct	_	_
+

@@ -1,0 +1,43 @@
+# sent_id = SYOS_6_29-32
+# text = teeta kane shinnupurita tapan yetpo ‘ Kanchiwetunash ’ ari ayea korka tane shirpan kushu ‘ Kanchiwemoire ’ ari aye ruwe tashi anne ! ”
+# text_ain = teeta kane shinnupurita tapan yetpo
+# text_ain = ‘ Kanchiwetunash ’ ari ayea korka
+# text_ain = tane shirpan kushu ‘ Kanchiwemoire ’ ari
+# text_ain = aye ruwe tashi anne ! ”
+# text_ja = 昔、えらかつた時代には此の川を
+# text_ja = 流れの早い川と言つてゐたのだが
+# text_ja = 今は世が衰へてゐるので流れの遲い川と
+# text_ja = 言つてゐるのさ。」
+1	teeta	teeta	ADV	副詞	_	3	advmod	_	_
+2	kane	kane	ADP	副助詞	_	1	case	_	_
+3	shinnupur	sir-nupur	VERB	完全動詞	_	4	acl	_	SpaceAfter=No
+4	i	-i	PART	接尾辞	_	14	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	tapan	tapan	DET	連体詞	_	7	det	_	_
+7	yetpo	petpo	NOUN	名詞	_	14	obj	_	_
+8	‘	‘	PUNCT	記号	_	9	punct	_	_
+9	Kanchiwe	kanciw	NOUN	名詞	_	14	obl	_	SpaceAfter=No
+10	tunash	tunas	VERB	自動詞	_	9	amod	_	_
+11	’	’	PUNCT	記号	_	9	punct	_	_
+12	ari	ari	SCONJ	接続助詞	_	9	case	_	_
+13	a	a=	PART	人称接辞	_	14	nsubj	_	SpaceAfter=No
+14	ye	ye	VERB	他動詞	_	27	acl	_	SpaceAfter=No
+15	a	a	AUX	助動詞	_	14	aux	_	_
+16	korka	korka	CCONJ	接続詞	_	26	cc	_	_
+17	tane	tane	ADV	副詞	_	18	advmod	_	_
+18	shirpan	sir-pan	VERB	完全動詞	_	26	advcl	_	_
+19	kushu	kusu	SCONJ	接続詞	_	18	mark	_	_
+20	‘	‘	PUNCT	記号	_	21	punct	_	_
+21	Kanchiwe	kanciw	NOUN	名詞	_	26	obl	_	SpaceAfter=No
+22	moire	moyre	VERB	自動詞	_	21	amod	_	_
+23	’	’	PUNCT	記号	_	21	punct	_	_
+24	ari	ari	SCONJ	接続助詞	_	21	case	_	_
+25	a	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ye	ye	VERB	他動詞	_	14	conj	_	_
+27	ruwe	ruwe	NOUN	形式名詞	_	29	nsubj	_	_
+28	tashi	tasi	ADP	副助詞	_	27	case	_	_
+29	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+30	ne	ne	AUX	デアル動詞	_	29	cop	_	_
+31	!	!	PUNCT	記号	_	29	punct	_	_
+32	”	”	PUNCT	記号	_	29	punct	_	_
+

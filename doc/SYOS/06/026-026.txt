@@ -1,0 +1,14 @@
+# sent_id = SYOS_6_26
+# text = hawash chiki itakash hawe ene okai : ―
+# text_ain = hawash chiki itakash hawe ene okai : ―
+# text_ja = 聞くと、私の言ふことには
+1	hawash	háwas	VERB	完全動詞	_	7	advcl	_	_
+2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	_
+3	itak	itak	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	ash	=as	PART	人称接辞	_	3	nsubj	_	_
+5	hawe	hawe	NOUN	形式名詞	_	7	nsubj	_	_
+6	ene	ene	ADV	副詞	_	7	advmod	_	_
+7	okai	an	VERB	自動詞	_	0	root	_	_
+8	:	:	PUNCT	記号	_	7	punct	_	_
+9	―	―	PUNCT	記号	_	7	punct	_	_
+

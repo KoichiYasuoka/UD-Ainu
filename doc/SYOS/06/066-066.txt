@@ -1,0 +1,10 @@
+# sent_id = SYOS_6_66
+# text = ari pon horkeu kamui isoitak
+# text_ain = ari pon horkeu kamui isoitak
+# text_ja = と、幼い狼の神樣が物語りました。
+1	ari	ari	SCONJ	接続助詞	_	5	advmod	_	_
+2	pon	pon	VERB	自動詞	_	4	amod	_	_
+3	horkeu	horkew	NOUN	名詞	_	4	compound	_	_
+4	kamuy	kamuy	NOUN	名詞	_	5	nsubj	_	_
+5	isoitak	isoytak	VERB	自動詞	_	0	root	_	_
+

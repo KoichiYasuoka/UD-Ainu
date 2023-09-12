@@ -1,0 +1,6 @@
+# sent_id = SYOS_6_1
+# text = Hotenao
+# text_ain = Hotenao
+# text_ja = ホテナオ
+1	Hotenao	hotenao	INTJ	間投詞	_	0	root	_	_
+

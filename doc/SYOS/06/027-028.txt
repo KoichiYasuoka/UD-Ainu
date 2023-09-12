@@ -1,0 +1,20 @@
+# sent_id = SYOS_6_27-28
+# text = “ Nennamora tapan petpo teeta rehe tane rehe erampeuteka !
+# text_ain = “ Nennamora tapan petpo teeta rehe
+# text_ain = tane rehe erampeuteka !
+# text_ja = 「誰が此の川の前の名
+# text_ja = 今の名を知らないものか！
+1	“	“	PUNCT	記号	_	11	punct	_	_
+2	Nen	nen	PRON	代名詞	_	11	nsubj	_	SpaceAfter=No
+3	nam	tap	ADP	副助詞	_	2	case	_	SpaceAfter=No
+4	ora	ora	SCONJ	接続詞	_	2	case	_	_
+5	tapan	tapan	DET	連体詞	_	6	det	_	_
+6	petpo	petpo	NOUN	名詞	_	8	nmod	_	_
+7	teeta	teeta	ADV	副詞	_	8	amod	_	_
+8	rehe	re	NOUN	名詞	_	11	obj	_	_
+9	tane	tane	ADV	副詞	_	10	amod	_	_
+10	rehe	re	NOUN	名詞	_	8	conj	_	_
+11	erampeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	a	a	PART	終助詞	_	11	discourse	_	_
+13	!	!	PUNCT	記号	_	11	punct	_	_
+
