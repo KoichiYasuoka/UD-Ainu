@@ -1,0 +1,254 @@
+<!DOCTYPE html><head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>『アイヌ神謡集』Universal Dependenciesコーパス</title>
+<script src="../../editor/conllusvgview.js"></script>
+<script src="../../editor/conllusvgedit.js"></script>
+<script src="../../editor/conllusvgload.js"></script>
+<script>
+syos=new Object();
+syos.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FSYOS";
+syos.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/SYOS/";
+syos.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/SYOS/";
+syos.init=function(){
+  var t=document.getElementById("top").cloneNode(true);
+  t.style.position="static";
+  t.style.visibility="hidden";
+  document.body.appendChild(t);
+  syos.svg=new Array();
+  syos.pre=new Array();
+  syos.dirs=new Array();
+  syos.timer=setTimeout("clearTimeout(syos.timer);syos.checkview()",200);
+  syos.volchange();
+}
+syos.checkview=function(){
+  var t,r,b,i;
+  syos.timer=setTimeout("clearTimeout(syos.timer);syos.checkview()",200);
+  if(syos.curr==null)
+    return;
+  if(syos.svg[syos.curr]==null||syos.pre[syos.curr]==null){
+    syos.buildup(syos.curr);
+    return;
+  }
+  if(syos.svg[syos.curr].style.position=="absolute"){
+    if(syos.pre[syos.curr].textContent>""){
+      syos.svg[syos.curr].style.position="static";
+      syos.svg[syos.curr].style.visibility="visible";
+    }
+  }
+  syos.lemmatranslit(syos.curr);
+  conllusvg.rewrite("pre"+syos.curr);
+  r=syos.svg[syos.curr].getBoundingClientRect();
+  t=r.top;
+  b=r.bottom;
+  r=document.getElementById("top").getBoundingClientRect().bottom;
+  if(t-r>20){
+    while(t-r>0){
+      i=syos.svg[syos.curr-1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      syos.curr--;
+      if(syos.curr==0)
+        break;
+      t=i.getBoundingClientRect().top;
+    }
+  }
+  else if(b<r){
+    while(b<r){
+      i=syos.svg[syos.curr+1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      syos.curr++;
+      if(syos.curr==syos.currmax)
+        break;
+      b=i.getBoundingClientRect().bottom;
+    }
+  }
+  syos.lastTop=syos.svg[syos.curr].getBoundingClientRect().top;
+  for(i=syos.curr+1;i<=syos.currmax;i++){
+    if(syos.svg[i]==null||syos.pre[i]==null){
+      syos.buildup(i);
+      break;
+    }
+    if(syos.svg[i].style.position=="absolute"){
+      if(syos.pre[i].textContent>""){
+        syos.svg[i].style.position="static";
+        syos.svg[i].style.visibility="visible";
+      }
+    }
+    syos.lemmatranslit(i);
+    conllusvg.rewrite("pre"+i);
+    r=syos.svg[i].getBoundingClientRect();
+    if(r.top-window.innerHeight-1000>0)
+      break;
+  }
+}
+syos.buildup=function(x){
+  var t,i;
+  if(syos.svg[x]==null){
+    t=document.createElementNS("http://www.w3.org/2000/svg","svg");
+    for(i=parseInt(x,10)+1;i<=syos.currmax;i++){
+      if(syos.svg[i]!=null)
+        break;
+    }
+    t.style.position="absolute";
+    t.style.visibility="hidden";
+    if(i>syos.currmax)
+      document.body.appendChild(t);
+    else
+      document.body.insertBefore(t,syos.svg[i]);
+    syos.svg[x]=t;
+    t.addEventListener("mousedown",syos.onmousedown);
+    t.addEventListener("touchstart",syos.onmousedown);
+  }
+  if(syos.pre[x]==null){
+    t=document.createElement("pre");
+    t.style.display="none";
+    t.setAttribute("id","pre"+x);
+    document.body.appendChild(t);
+    syos.pre[x]=t;
+    if(conllusvg.main["pre"+x]==null)
+      conllusvg.view(syos.svg[x],"pre"+x);
+    conllusvg.loadRemote("pre"+x,syos.raw+syos.txt[x]);
+  }
+}
+syos.lemmatranslit=function(x){
+  var s,t,i;
+  if(syos.pre[x]==null)
+    return;
+  if(syos.pre[x].textContent.indexOf("Translit=")>0)
+    return;
+  s=syos.pre[x].textContent.split("\n");
+  for(i=0;i<s.length;i++){
+    t=s[i].split("\t");
+    if(t.length==10){
+      if(t[2]!="_"&&t[1]!=t[2]){
+        if(t[9]=="_")
+          t[9]="Translit="+t[2];
+        else if(t[9].indexOf("Translit=")<0)
+          t[9]=t[9]+"|Translit="+t[2];
+        s[i]=t.join("\t");
+      }
+    }
+  }
+  conllusvg.loadText("pre"+x,s.join("\n"));
+}
+syos.volchange=function(){
+  var s;
+  syos.clearSVG();
+  for(s in syos.pre){
+    if(syos.pre[s]!=null)
+      document.body.removeChild(syos.pre[s]);
+    syos.pre[s]=null;
+  }
+  s=document.getElementById("vol");
+  if(syos.dirs[s.options[s.selectedIndex]]==null)
+    syos.gettree(s.options[s.selectedIndex]);
+  else
+    syos.writeSVG();
+}
+syos.gettree=function(d){
+  if(syos.request==null){
+    syos.request=new XMLHttpRequest();
+    syos.request.onload=syos.ongettree;
+  }
+  syos.request.open("GET",syos.apiURL+"%2F"+d);
+  syos.request.send();
+}
+syos.ongettree=function(e){
+  if(syos.request.status==200){
+    var s=document.getElementById("vol");
+    syos.dirs[s.options[s.selectedIndex]]=syos.request.responseText;
+    syos.writeSVG();
+  }
+}
+syos.txtsort=function(x,y){
+  if(x<y)
+    return -1;
+  if(x>y)
+    return 1;
+  return 0;
+}
+syos.writeSVG=function(){
+  var s,r,i;
+  syos.clearSVG();
+  s=document.getElementById("vol");
+  i=s.options[s.seletedIndex];
+  r=new RegExp("[0-9]+-[0-9]+[a-z]?\.txt","g");
+  syos.txt=syos.dirs[i].match(r);
+  syos.txt.sort(syos.txtsort);
+  syos.currmax=syos.txt.length-1;
+  syos.curr=0;
+  syos.lastTop=null;
+  syos.raw=syos.rawURL+i+"/";
+}
+syos.clearSVG=function(){
+  var x;
+  syos.curr=syos.lastTop=null;
+  if(syos.svg!=null){
+    for(x in syos.svg){
+      if(syos.svg[x]!=null){
+        syos.svg[x].style.position="absolute";
+        syos.svg[x].style.visibility="hidden";
+      }
+    }
+  }
+  if(document.scrollingElement==null)
+    document.documentElement.scrollTop=0;
+  else
+    document.scrollingElement.scrollTop=0;
+}
+syos.onmousedown=function(e){
+  var x,y;
+  if(syos.lastX==null){
+    syos.lastX=e.clientX;
+    syos.lastY=e.clientY;
+    return;
+  }
+  x=e.clientX-syos.lastX;
+  y=e.clientY-syos.lastY;
+  if(x*x+y*y>9){
+    syos.lastX=e.clientX;
+    syos.lastY=e.clientY;
+    return;
+  }
+  syos.lastX=null;
+  x=e.currentTarget;
+  for(y in syos.svg){
+    if(syos.svg[y]==x){
+      window.open("../../editor/editor-ain.html#url="+syos.raw+syos.txt[y]);
+      break;
+    }
+  }
+}
+syos.reload=function(){
+  var i,r;
+  for(i=syos.curr;i<=syos.currmax;i++){
+    if(syos.svg[i]==null||syos.pre[i]==null)
+      return;
+    r=syos.svg[i].getBoundingClientRect();
+    if(r.top>window.innerHeight||r.bottom<0)
+      return;
+    conllusvg.loadRemote("pre"+i,syos.raw+syos.txt[i]);
+  }
+}
+syos.github=function(){
+  var s=document.getElementById("vol");
+  window.open(syos.gitURL+s.options[s.selectedIndex]+"/"+syos.txt[syos.curr]);
+}
+</script>
+<body onload="syos.init()">
+<div id="top" style="position:fixed; top:0px; left:0px; padding:10px; width:100%; background:white">
+<font size="+3"><b>アイヌ神謡集</b></font>
+<select id="vol" onchange="syos.volchange()">
+<option value="01" selected>銀の滴降る降るまはりに</option>
+<option value="06">ホテナオ</option>
+<option value="10">クツニサクトンクトン</option>
+</select>
+<input type="button" value="GitHub" onclick="syos.github()" />
+<input type="button" value="Reload" onclick="syos.reload()" />
+</div>
+</body>
