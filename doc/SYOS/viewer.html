@@ -176,8 +176,8 @@ syos.writeSVG=function(){
   var s,r,i;
   syos.clearSVG();
   s=document.getElementById("vol");
-  i=s.options[s.seletedIndex];
-  r=new RegExp("[0-9]+-[0-9]+[a-z]?\.txt","g");
+  i=s.options[s.seletedIndex].value;
+  r=new RegExp("[0-9]+-[0-9]+[a-z]?.txt","g");
   syos.txt=syos.dirs[i].match(r);
   syos.txt.sort(syos.txtsort);
   syos.currmax=syos.txt.length-1;
