@@ -145,8 +145,8 @@ syos.volchange=function(){
     syos.pre[s]=null;
   }
   s=document.getElementById("vol");
-  if(syos.dirs[s.options[s.selectedIndex]]==null)
-    syos.gettree(s.options[s.selectedIndex]);
+  if(syos.dirs[s.options[s.selectedIndex].value]==null)
+    syos.gettree(s.options[s.selectedIndex].value);
   else
     syos.writeSVG();
 }
@@ -161,7 +161,7 @@ syos.gettree=function(d){
 syos.ongettree=function(e){
   if(syos.request.status==200){
     var s=document.getElementById("vol");
-    syos.dirs[s.options[s.selectedIndex]]=syos.request.responseText;
+    syos.dirs[s.options[s.selectedIndex].value]=syos.request.responseText;
     syos.writeSVG();
   }
 }
@@ -237,7 +237,7 @@ syos.reload=function(){
 }
 syos.github=function(){
   var s=document.getElementById("vol");
-  window.open(syos.gitURL+s.options[s.selectedIndex]+"/"+syos.txt[syos.curr]);
+  window.open(syos.gitURL+s.options[s.selectedIndex].value+"/"+syos.txt[syos.curr]);
 }
 </script>
 <body onload="syos.init()">
