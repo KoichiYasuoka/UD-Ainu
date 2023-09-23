@@ -1124,6 +1124,27 @@
 26	.	.	PUNCT	記号	_	23	punct	_	_
 
 # text = アイヌ コタン オカンナッキ タ サㇽキ ウサ イキタラ ウサ ニカㇷ゚ アヌㇺケ キ ワ チセキタイ チセトゥマㇺ ネ アエイワンケ.
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	_
+2	コタン	kotan	NOUN	名詞	_	11	obl	_	_
+3	オカンナッキ	okannatki	SCONJ	後置副詞	_	2	case	_	_
+4	タ	ta	ADP	格助詞	_	2	case	_	_
+5	サㇽキ	sarki	NOUN	名詞	_	11	obj	_	_
+6	ウサ	usa	ADP	副助詞	_	5	case	_	_
+7	イキタラ	ikitara	NOUN	名詞	_	5	conj	_	_
+8	ウサ	usa	ADP	副助詞	_	7	case	_	_
+9	ニカㇷ゚	nikap	NOUN	名詞	_	5	conj	_	_
+10	ア	a=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	ヌㇺケ	numke	VERB	他動詞	_	20	advcl	_	_
+12	キ	ki	AUX	助動詞	_	11	aux	_	_
+13	ワ	wa	SCONJ	接続助詞	_	11	mark	_	_
+14	チセ	cise	NOUN	名詞	_	15	nmod	_	SpaceAfter=No
+15	キタイ	kitay	NOUN	位置名詞	_	20	obj	_	_
+16	チセ	cise	NOUN	名詞	_	17	nmod	_	SpaceAfter=No
+17	トゥマㇺ	tumam	NOUN	名詞	_	15	conj	_	_
+18	ネ	ne	ADP	格助詞	_	17	case	_	_
+19	ア	a=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+20	エイワンケ	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	記号	_	20	punct	_	_
 
 # text = カラㇷ゚ト ウサ ルトㇺ オロタ マタ ネ キ コ トイチセ アリ リヤ アンキㇷ゚ ネ ナ.
 
