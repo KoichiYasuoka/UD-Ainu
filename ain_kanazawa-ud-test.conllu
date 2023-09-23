@@ -1747,7 +1747,6 @@
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = イズミ(泉）
-
 # text_ja = 上より落ちるもの
 # text = Charase nai.(?)
 1	Charase	carse	VERB	自動詞	_	2	amod	_	_
@@ -3503,7 +3502,6 @@
 
 # title = オ
 # text_ja = オ（尾）
-
 # text_ja = 鳥の尾
 # text = Ishi.
 1	Ishi	isi	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -3943,7 +3941,6 @@
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = オク（奥）
-
 # text_ja = 奥の間
 # text = Seremaka.
 1	Seremaka	sermaka	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
@@ -6145,7 +6142,6 @@
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = カタキ（讐）
-
 # text_ja = 敵を打つ
 # text = Imondasa.
 1	Imondasa	imontasa	VERB	自動詞	_	0	root	_	SpaceAfter=No
@@ -15073,7 +15069,6 @@
 5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # title = ツ
-
 # page = 142
 # text_ja = ツイデ（序）
 # text = Oushi ne no.
@@ -20267,7 +20262,6 @@
 7	.	.	PUNCT	記号	_	5	punct	_	_
 
 # text_ja = ハジク（彈）
-
 # text_ja = 彈力ある
 # text = Hepita.
 1	Hepita	hepita	VERB	自動詞	_	0	root	_	SpaceAfter=No
