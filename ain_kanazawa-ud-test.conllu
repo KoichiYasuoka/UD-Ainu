@@ -12747,7 +12747,7 @@
 1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
 2	mina	mina	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	記号	_	2	punct	_	_
-4	aige	ayke	SCONJ	接続助詞	_	2	parataxis	_	SpaceAfter=No
+4	aige	ayke	SCONJ	接続助詞	_	9	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	記号	_	4	punct	_	_
 6	utara	utar	NOUN	名詞	_	9	obl	_	_
 7	obitta	opitta	SCONJ	後置副詞	_	6	case	_	_
@@ -12790,9 +12790,9 @@
 
 # text_ja = ぞーじやないか
 # text = Ruwe shomo he an?
-1	Ruwe	ruwe	NOUN	形式名詞	_	4	advcl	_	_
+1	Ruwe	ruwe	NOUN	形式名詞	_	4	nsubj	_	_
 2	shomo	somo	ADV	副詞	_	4	advmod	_	_
-3	he	ne	VERB	他動詞	_	2	case	_	_
+3	he	he	ADP	副助詞	_	2	case	_	_
 4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	記号	_	4	punct	_	_
 
@@ -12817,12 +12817,12 @@
 
 # text_ja = ソダツ(育)
 # text = Shukup atno.
-1	Shukup atno	sukup'asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Shukup atno	sukup-asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 好く育つ
 # text = Shukup ashnu.
-1	Shukup ashnu	sukup'asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Shukup ashnu	sukup-asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = ソダテル(育)
@@ -12906,8 +12906,10 @@
 
 # text_ja = ソノノチ(其後)
 # text = Okake an ko.
-1	Okake an ko	okakeankor	ADV	副詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Okake	okake	ADV	副詞	_	2	advmod	_	_
+2	an	an	VERB	自動詞	_	0	root	_	_
+3	ko	kor	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = ソバ(傍)
 # text = Samata.
@@ -12964,7 +12966,7 @@
 2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
 3	nepki	nepki	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	記号	_	3	punct	_	_
-5	Wembe	wempe	NOUN	名詞	_	6	nmod	_	_
+5	Wembe	wenpe	NOUN	名詞	_	6	nmod	_	_
 6	buri	puri	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
 7	;	;	PUNCT	記号	_	6	punct	_	_
 8	Wen	wen	VERB	自動詞	_	9	amod	_	_
@@ -12975,17 +12977,19 @@
 
 # text_ja = ソレカラ
 # text = Orowa.
-1	Orowa	orwa	SCONJ	接続助詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Oro	or	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	wa	wa	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = そー云ふて、それから行た
 # text = Ene itak, orowa paye.
 1	Ene	ene	ADV	副詞	_	2	advmod	_	_
 2	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	記号	_	2	punct	_	_
-4	orowa	orowa	SCONJ	接続助詞	_	5	advmod	_	_
-5	paye	paye	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
-6	.	.	PUNCT	記号	_	5	punct	_	_
+4	oro	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	wa	wa	ADP	格助詞	_	4	case	_	_
+6	paye	paye	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = ソレカラ
 # text = Imakaketa.
@@ -19857,8 +19861,9 @@
 
 # text_ja = 前齒
 # text = To non nimak.
-1	To non nimak	tononimak	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	To non	tono	NOUN	名詞	_	2	nmod	_	_
+2	nimak	nimak	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 奥齒
 # text = Ikuima.
@@ -20993,16 +20998,17 @@
 # text_ja = もー我慢が出來ぬ
 # text = Sekoro an koro orowa ku yaikeutum saurere shomoki nangon'na.
 1	Sekoro	sekor	SCONJ	接続詞	_	2	advmod	_	_
-2	an	an	VERB	自動詞	_	6	advcl	_	_
+2	an	an	VERB	自動詞	_	7	advcl	_	_
 3	koro	kor	SCONJ	接続助詞	_	2	mark	_	_
-4	orowa	orowa	SCONJ	接続助詞	_	2	mark	_	_
-5	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
-6	yaikeutum saurere	yaykewtumsawrere	VERB	自動詞	_	8	ccomp	_	_
-7	shomo	somo	ADV	副詞	_	8	advmod	_	SpaceAfter=No
-8	ki	ki	VERB	他動詞	_	0	root	_	_
-9	nangon'	nankon	AUX	助動詞	_	8	aux	_	SpaceAfter=No
-10	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
-11	.	.	PUNCT	記号	_	8	punct	_	_
+4	oro	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+5	wa	wa	ADP	格助詞	_	4	case	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	yaikeutum saurere	yay-kewtum-sawrere	VERB	自動詞	_	9	ccomp	_	_
+8	shomo	somo	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	0	root	_	_
+10	nangon'	nankor	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+11	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	9	punct	_	_
 
 # text_ja = ハラウ(掃)
 # text = Tuituye.
