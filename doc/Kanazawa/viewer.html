@@ -16,6 +16,7 @@ Kanazawa.init=function(){
   document.body.appendChild(t);
   Kanazawa.svg=new Array();
   Kanazawa.pre=new Array();
+  Kanazawa.idx=new Array();
   Kanazawa.dirs=new Array();
   Kanazawa.timer=setTimeout("clearTimeout(Kanazawa.timer);Kanazawa.checkview()",200);
   Kanazawa.volchange();
@@ -114,6 +115,24 @@ Kanazawa.buildup=function(x){
       conllusvg.view(Kanazawa.svg[x],"pre"+x);
     conllusvg.loadRemote("pre"+x,Kanazawa.raw+Kanazawa.txt[x]);
   }
+  else if(Kanazawa.pre[x].textContent.indexOf("# text_ja = ")>=0){
+    if(Kanazawa.idx[x]==null){
+      t=document.createElement("div");
+      t.style.position="static";
+      t.style.visibility="visible";
+      document.body.insertBefore(t,Kanazawa.svg[x]);
+      Kanazawa.idx[x]=t;
+    }
+    if(Kanazawa.idx[x].textContent.indexOf("<br/>")>0){
+      var s=Kanazawa.pre[x].textContent.split("\n");
+      t="";
+      for(i=0;i<s.length;i++){
+        if(s[i].startsWith("# text_ja = "))
+          t+=s[i].slice(12)+"<br/>";
+      }
+      Kanazawa.idx[x].textContent=t;
+    }
+  }
 }
 Kanazawa.lemmatranslit=function(x){
   var s,t,i;
@@ -139,6 +158,11 @@ Kanazawa.lemmatranslit=function(x){
 Kanazawa.volchange=function(){
   var s;
   Kanazawa.clearSVG();
+  for(s in Kanazawa.idx){
+    if(Kanazawa.idx[s]!=null)
+      document.body.removeChild(Kanazawa.idx[s]);
+    Kanazawa.idx[s]=null;
+  }
   for(s in Kanazawa.pre){
     if(Kanazawa.pre[s]!=null)
       document.body.removeChild(Kanazawa.pre[s]);
