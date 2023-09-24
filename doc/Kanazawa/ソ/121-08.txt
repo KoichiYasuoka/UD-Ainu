@@ -1,5 +1,5 @@
 # text_ja = 好く育つ
 # text = Shukup ashnu.
-1	Shukup ashnu	sukup'asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+1	Shukup ashnu	sukup-asnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
