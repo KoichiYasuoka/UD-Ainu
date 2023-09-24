@@ -1,5 +1,7 @@
 # text_ja = ソノノチ(其後)
 # text = Okake an ko.
-1	Okake an ko	okakeankor	ADV	副詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Okake	okake	ADV	副詞	_	2	advmod	_	_
+2	an	an	VERB	自動詞	_	0	root	_	_
+3	ko	kor	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
 
