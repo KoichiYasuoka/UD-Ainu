@@ -1,0 +1,6 @@
+# text_ja = コモチオンナ(妊娠女)
+# text = Honkoro menoko.
+1	Honkoro	honkor	VERB	自動詞	_	2	amod	_	_
+2	menoko	menoko	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

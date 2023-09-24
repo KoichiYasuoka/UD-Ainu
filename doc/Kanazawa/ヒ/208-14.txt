@@ -1,0 +1,8 @@
+# text_ja = 晝飯が出來た
+# text = To-kap ibe a-okere.
+1	To-kap	tókap	NOUN	名詞	_	2	nmod	_	_
+2	ibe	ipe	NOUN	名詞	_	4	obj	_	_
+3	a-	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	okere	okere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

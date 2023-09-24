@@ -1,0 +1,8 @@
+# text_ja = まだ着物着ない
+# text = Naa shomo ku imi.
+1	Naa	naa	ADV	副詞	_	4	advmod	_	_
+2	shomo	somo	ADV	副詞	_	4	advmod	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	imi	imi	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

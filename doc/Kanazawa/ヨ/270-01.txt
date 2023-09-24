@@ -1,0 +1,6 @@
+# page = 270
+# text_ja = 夜明
+# text = An kes.
+1	An kes	ankes	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

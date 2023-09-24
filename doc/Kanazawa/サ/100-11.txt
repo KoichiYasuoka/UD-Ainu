@@ -1,0 +1,9 @@
+# text_ja = サンポスル(散歩)
+# text = Ekeshinne no apkash; Apkashapkash.
+1	Ekeshinne	ekesinne	ADV	副詞	_	3	advmod	_	_
+2	no	no	SCONJ	接続助詞	_	1	case	_	_
+3	apkash	apkas	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Apkashapkash	apkas'apkas	VERB	自動詞	_	3	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

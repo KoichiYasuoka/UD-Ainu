@@ -1,0 +1,5 @@
+# text_ja = オバ(伯母)
+# text = Unarabe.
+1	Unarabe	unarpe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

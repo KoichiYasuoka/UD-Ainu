@@ -1,0 +1,5 @@
+# text = Uweshinnaino an.
+1	Uweshinnaino	uwesinnayno	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

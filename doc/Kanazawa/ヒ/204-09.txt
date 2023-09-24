@@ -1,0 +1,6 @@
+# text_ja = 髭が淡い
+# text = Reki kapara.
+1	Reki	reki	NOUN	名詞	_	2	nsubj	_	_
+2	kapara	kapar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

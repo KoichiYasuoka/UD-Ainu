@@ -1,0 +1,8 @@
+# text_ja = どれほど遠いか
+# text = Makanak pakno shittuima ruwe?
+1	Makanak	makanak	ADV	副詞	_	3	advmod	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	shittuima	sittuyma	VERB	完全動詞	_	4	acl	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

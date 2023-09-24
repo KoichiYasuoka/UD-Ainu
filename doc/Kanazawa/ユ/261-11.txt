@@ -1,0 +1,8 @@
+# text_ja = 今直に行きます
+# text = Tane tunashno k'arapa.
+1	Tane	tane	ADV	副詞	_	4	advmod	_	_
+2	tunashno	tunasno	ADV	副詞	_	4	advmod	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

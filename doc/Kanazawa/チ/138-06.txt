@@ -1,0 +1,9 @@
+# text_ja = まだ遠いか近いか
+# text = Naa tuima ruwe hange ruwe?
+1	Naa	naa	ADV	副詞	_	2	advmod	_	_
+2	tuima	tuyma	VERB	自動詞	_	3	acl	_	_
+3	ruwe	ruwe	NOUN	形式名詞	_	4	nsubj	_	_
+4	hange	hanke	VERB	自動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

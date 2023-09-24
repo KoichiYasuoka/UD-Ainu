@@ -1,0 +1,10 @@
+# text_ja = 雨が一雫頭の上に落た
+# text = Apto ku sapa kashi un chik.
+1	Apto	apto	NOUN	名詞	_	6	nsubj	_	_
+2	ku	ku=	PART	人称接辞	_	3	det	_	_
+3	sapa	sapa	NOUN	名詞	_	4	nmod	_	_
+4	kashi	kasi	NOUN	位置名詞	_	6	obl	_	_
+5	un	un	ADP	格助詞	_	4	case	_	_
+6	chik	cik	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

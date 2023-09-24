@@ -1,0 +1,12 @@
+# text_ja = 居た時に
+# text = K'an koro; K'an hita.
+1	K'	k=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	6	advcl	_	_
+3	koro	kor	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	2	punct	_	_
+5	K'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	an	an	VERB	自動詞	_	7	acl	_	_
+7	hi	hi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+8	ta	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

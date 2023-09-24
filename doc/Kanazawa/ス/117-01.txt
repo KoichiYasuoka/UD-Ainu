@@ -1,0 +1,9 @@
+# page = 117
+# text_ja = 莚の上に坐れ
+# text = Kina kata a.
+1	Kina	kina	NOUN	名詞	_	2	nmod	_	_
+2	ka	ka	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	a	a	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

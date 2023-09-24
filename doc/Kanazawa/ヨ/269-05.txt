@@ -1,0 +1,11 @@
+# text_ja = ヨメ(嫁)
+# text = Koshimat; Machihi; Machi; Menoko.
+1	Koshimat	kosmat	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Machihi	macihi	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Machi	mat	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	記号	_	5	punct	_	_
+7	Menoko	menoko	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

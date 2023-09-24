@@ -1,0 +1,10 @@
+# text_ja = ユク(行く)
+# text = Paye an; Arapa; Oman.
+1	Paye	paye	VERB	自動詞	_	0	root	_	_
+2	an	=an	PART	人称接辞	_	1	nsubj	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	1	punct	_	_
+4	Arapa	arpa	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	Oman	oman	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,9 @@
+# text_ja = ハイ(唯)
+# text = Shiri un; Ruwe un.
+1	Shiri	siri	NOUN	形式名詞	_	0	root	_	_
+2	un	un	VERB	他動詞	_	1	case	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	1	punct	_	_
+4	Ruwe	ruwe	NOUN	形式名詞	_	1	parataxis	_	_
+5	un	un	VERB	他動詞	_	4	case	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

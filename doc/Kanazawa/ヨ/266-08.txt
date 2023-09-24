@@ -1,0 +1,8 @@
+# text_ja = 酒臭ひ
+# text = Sake-hura rui.
+1	Sake	sake	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	hura	hura	NOUN	名詞	_	4	nsubj	_	_
+4	rui	ruy	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

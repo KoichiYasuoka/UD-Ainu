@@ -1,0 +1,8 @@
+# text_ja = ......から帰りました
+# text = ...... wa ku hoshipi.
+1	......	......	PUNCT	記号	_	4	obl	_	_
+2	wa	wa	ADP	格助詞	_	1	case	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	hoshipi	hosipi	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

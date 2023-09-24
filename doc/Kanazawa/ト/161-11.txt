@@ -1,0 +1,8 @@
+# text_ja = どーであつたか
+# text = Makanak ne ani an?
+1	Makanak	makanak	ADV	副詞	_	4	advmod	_	_
+2	ne	ne	ADP	格助詞	_	1	case	_	_
+3	ani	ani	SCONJ	後置副詞	_	1	case	_	_
+4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

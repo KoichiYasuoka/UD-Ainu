@@ -1,0 +1,13 @@
+# text_ja = 鍋釜土瓶を持て來い
+# text = Shu, kama, topin obitta koro wa ek.
+1	Shu	su	NOUN	名詞	_	7	obj	_	SpaceAfter=No
+2	,	,	PUNCT	記号	_	1	punct	_	_
+3	kama	kama	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	3	punct	_	_
+5	topin	topihi	NOUN	名詞	_	7	obl	_	_
+6	obitta	opitta	SCONJ	後置副詞	_	5	case	_	_
+7	koro	kor	VERB	他動詞	_	9	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,13 @@
+# text_ja = 來た來た、あれがそーだろー
+# text = Ek na, ek na, shone he an?
+1	Ek	ek	VERB	自動詞	_	9	advcl	_	_
+2	na	na	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	ek	ek	VERB	自動詞	_	1	conj	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	,	,	PUNCT	記号	_	4	punct	_	_
+7	shone	sóne	VERB	自動詞	_	8	acl	_	_
+8	he	he	ADP	副助詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

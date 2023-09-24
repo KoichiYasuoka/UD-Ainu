@@ -1,0 +1,8 @@
+# text_ja = 久敷御目に掛かりませなんだ
+# text = Ohonno shomo unukaran.
+1	Ohonno	ohonno	ADV	副詞	_	3	advmod	_	_
+2	shomo	somo	ADV	副詞	_	3	advmod	_	_
+3	unukar	unukar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	an	=an	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = アサッテ(明後日)
+# text = Oyashim.
+1	Oyashim	oyasim	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

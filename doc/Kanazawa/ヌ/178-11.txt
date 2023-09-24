@@ -1,0 +1,10 @@
+# text_ja = 盗人が居るから用心せよ
+# text = Ikka guru okai na pirikano eyam.
+1	Ikka	ikka	VERB	自動詞	_	2	amod	_	_
+2	guru	kur	NOUN	名詞	_	3	nsubj	_	_
+3	okai	okay	VERB	自動詞	_	6	advcl	_	_
+4	na	na	PART	終助詞	_	3	mark	_	_
+5	pirikano	pirkano	ADV	副詞	_	6	advmod	_	_
+6	eyam	eyam	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

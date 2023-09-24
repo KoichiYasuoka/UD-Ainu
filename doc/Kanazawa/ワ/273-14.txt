@@ -1,0 +1,12 @@
+# text_ja = 今お前の云ふた語よく分らない
+# text = Tane e ki itak pirikano k'erambeutek na.
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	ki	ki	VERB	他動詞	_	4	acl	_	_
+4	itak	itak	NOUN	名詞	_	7	obj	_	_
+5	pirikano	pirkano	ADV	副詞	_	7	advmod	_	_
+6	k'	k=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	erambeutek	erampewtek	VERB	他動詞	_	0	root	_	_
+8	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

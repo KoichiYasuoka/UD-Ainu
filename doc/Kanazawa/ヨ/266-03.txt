@@ -1,0 +1,8 @@
+# text_ja = 用意が出來たか
+# text = E yaietokooiki okere ya?
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	yaietokooiki	yayetokoyki	VERB	自動詞	_	0	root	_	_
+3	okere	okere	AUX	助動詞	_	2	aux	_	_
+4	ya	ya	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	2	punct	_	_
+

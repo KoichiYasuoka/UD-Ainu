@@ -1,0 +1,9 @@
+# text_ja = 一寸此處へ來い
+# text = Iruka eisamta ek.
+1	Iruka	irukay	ADV	副詞	_	5	advmod	_	_
+2	ei	ey=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+3	sam	sam	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

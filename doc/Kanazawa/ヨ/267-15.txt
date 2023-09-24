@@ -1,0 +1,6 @@
+# text_ja = よく用心せよ
+# text = Pirikano eyam.
+1	Pirikano	pirkano	ADV	副詞	_	2	advmod	_	_
+2	eyam	eyam	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

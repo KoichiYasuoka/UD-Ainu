@@ -1,0 +1,11 @@
+# text_ja = もー仕事が濟んだか
+# text = Tane monraige aokere ruwehe an?
+1	Tane	tane	ADV	副詞	_	4	advmod	_	_
+2	monraige	monrayke	NOUN	名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	okere	okere	VERB	他動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	SpaceAfter=No
+6	he	he	ADP	副助詞	_	5	case	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

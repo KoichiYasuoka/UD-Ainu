@@ -1,0 +1,7 @@
+# text_ja = もつと締めて吳れ
+# text = Naa kut yuppa.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	kut	kuci	NOUN	名詞	_	3	obj	_	_
+3	yuppa	yuppa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

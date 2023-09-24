@@ -1,0 +1,12 @@
+# text_ja = 骨は藥にします
+# text = Pone anakne kusuri ne akar kusu ne.
+1	Pone	pone	NOUN	名詞	_	6	dislocated	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	kusuri	kusuri	NOUN	名詞	_	6	obj	_	_
+4	ne	ne	ADP	格助詞	_	3	case	_	_
+5	a	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	kar	kar	VERB	他動詞	_	0	root	_	_
+7	kusu	kusu	SCONJ	接続助詞	_	6	mark	_	_
+8	ne	ne	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	6	punct	_	_
+

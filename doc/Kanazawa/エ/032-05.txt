@@ -1,0 +1,9 @@
+# text_ja = 宅へ皈ります
+# text = Uni un k'arapa na.
+1	Uni	uni	NOUN	名詞	_	4	obl	_	_
+2	un	un	ADP	格助詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	arapa	arpa	VERB	自動詞	_	0	root	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

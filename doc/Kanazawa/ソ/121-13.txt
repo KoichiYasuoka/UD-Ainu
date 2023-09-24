@@ -1,0 +1,11 @@
+# text_ja = ソーデス(然)
+# text = Ruwe un; Ruwe ne awa.
+1	Ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+2	un	un	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	1	punct	_	_
+4	Ruwe	ruwe	NOUN	形式名詞	_	1	parataxis	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	a	a	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+7	wa	wa	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	4	punct	_	_
+

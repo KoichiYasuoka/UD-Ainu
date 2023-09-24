@@ -1,0 +1,8 @@
+# text_ja = 一寸休まして吳れ
+# text = Iruka en shinire yan.
+1	Iruka	irukay	ADV	副詞	_	3	advmod	_	_
+2	en	en=	PART	人称接辞	_	3	obj	_	_
+3	shinire	sinire	VERB	他動詞	_	0	root	_	_
+4	yan	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

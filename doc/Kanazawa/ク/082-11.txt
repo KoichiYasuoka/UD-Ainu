@@ -1,0 +1,7 @@
+# text_ja = いつ御出なさいますか
+# text = Hembara e ek?
+1	Hembara	hempara	ADV	副詞	_	3	advmod	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

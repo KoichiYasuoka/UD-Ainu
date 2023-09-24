@@ -1,0 +1,15 @@
+# text_ja = 之よりやれない、充分だ
+# text = Tambe akkari shomo k'arapare na, ikashma pakno ne na.
+1	Tambe	tanpe	NOUN	名詞	_	5	obl	_	_
+2	akkari	akkari	SCONJ	後置副詞	_	1	case	_	_
+3	shomo	somo	ADV	副詞	_	5	advmod	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	arapare	arpare	VERB	他動詞	_	8	advcl	_	_
+6	na	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	ikashma	ikasma	VERB	自動詞	_	0	root	_	_
+9	pakno	pakno	SCONJ	後置副詞	_	8	mark	_	_
+10	ne	ne	AUX	デアル動詞	_	8	cop	_	_
+11	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	8	punct	_	_
+

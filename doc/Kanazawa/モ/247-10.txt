@@ -1,0 +1,7 @@
+# text_ja = モチゴメ(餅)
+# text = Riten-amam.
+1	Riten	riten	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	amam	amam	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

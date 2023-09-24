@@ -1,0 +1,11 @@
+# text_ja = 來月は雪が降りましよーか
+# text = Ashirichup ta upas ash nangoro ya?
+1	Ashiri	asir	VERB	自動詞	_	2	amod	_	SpaceAfter=No
+2	chup	cup	NOUN	名詞	_	5	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	upas	upas	NOUN	名詞	_	5	nsubj	_	_
+5	ash	as	VERB	自動詞	_	0	root	_	_
+6	nangoro	nankon	AUX	助動詞	_	5	aux	_	_
+7	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	5	punct	_	_
+

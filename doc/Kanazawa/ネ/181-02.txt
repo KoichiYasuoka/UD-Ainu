@@ -1,0 +1,7 @@
+# text_ja = 寐るな、
+# text = Iteki mokor an!
+1	Iteki	iteki	ADV	副詞	_	2	advmod	_	_
+2	mokor	mokor	VERB	自動詞	_	0	root	_	_
+3	an	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	!	!	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = ツク(到着)
+# text = Shirepa.
+1	Shirepa	sirepa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

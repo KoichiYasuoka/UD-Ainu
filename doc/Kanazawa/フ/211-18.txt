@@ -1,0 +1,6 @@
+# text_ja = フタオヤ(兩親)
+# text = Unu utari obitta.
+1	Unu utari	unuutari	NOUN	名詞	_	0	root	_	_
+2	obitta	opitta	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

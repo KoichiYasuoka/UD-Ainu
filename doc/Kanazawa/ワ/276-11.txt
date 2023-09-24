@@ -1,0 +1,11 @@
+# text_ja = 私は......と云う者です
+# text = ......Tap nere ambe ku ne wa.
+1	......	......	PUNCT	記号	_	3	nsubj	_	SpaceAfter=No
+2	Tap nere	tapne	ADV	副詞	_	3	advmod	_	_
+3	am	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	5	nsubj	_	_
+5	ku	ku=	PART	人称接辞	_	0	root	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+7	wa	wa	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

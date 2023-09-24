@@ -1,0 +1,11 @@
+# text_ja = 主人は在宅か
+# text = Chisei koro guru an ruwe he an?
+1	Chisei	cise	NOUN	名詞	_	2	obj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+6	he	he	ADP	副助詞	_	5	case	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 歩くことが出來ぬ
+# text = K'apkash eaikap.
+1	K'	k=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	apkash	apkas	VERB	自動詞	_	0	root	_	_
+3	eaikap	eaykap	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = 今夜何時頃に舟が出ますか
+# text = Tanukuran hembara pakita chip oman ruwe an?
+1	Tanukuran	tanukuran	ADV	副詞	_	5	advmod	_	_
+2	hembara	hempara	ADV	副詞	_	5	advmod	_	_
+3	pakita	pakita	ADV	副詞	_	5	advmod	_	_
+4	chip	cip	NOUN	名詞	_	5	nsubj	_	_
+5	oman	oman	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

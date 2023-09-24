@@ -1,0 +1,11 @@
+# text_ja = 私はアイヌ語が甚だ下手だ
+# text = Kuani aynu-itak ramma keappe ne.
+1	Kuani	kuani	PRON	代名詞	_	7	nsubj	_	_
+2	aynu	aynu	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	itak	itak	NOUN	名詞	_	7	obj	_	_
+5	ramma	ramma	ADV	副詞	_	7	advmod	_	_
+6	k	k=	PART	人称接辞	_	7	expl	_	SpaceAfter=No
+7	eappe ne	eappene	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

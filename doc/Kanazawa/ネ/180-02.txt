@@ -1,0 +1,11 @@
+# text_ja = 此物の價は幾何だ
+# text = Tambe makanak pakno ataye korbe an?
+1	Tambe	tanpe	NOUN	名詞	_	5	nsubj	_	_
+2	makanak	makanak	ADV	副詞	_	5	advmod	_	_
+3	pakno	pakno	SCONJ	後置副詞	_	2	case	_	_
+4	ataye	ataye	NOUN	名詞	_	5	obj	_	_
+5	kor	kor	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	be	pe	NOUN	名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

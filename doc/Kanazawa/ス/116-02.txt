@@ -1,0 +1,10 @@
+# text_ja = 何商賣をして居なさるか
+# text = Hemanda monraige aki ruwe an?
+1	Hemanda	hemanta	NOUN	名詞	_	2	nmod	_	_
+2	monraige	monrayke	NOUN	名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,4 @@
+# text_ja = 赤かくする
+# text = Hurere
+1	Hurere	húrere	VERB	他動詞	_	0	root	_	_
+

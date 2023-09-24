@@ -1,0 +1,7 @@
+# text_ja = 途中で
+# text = Ru hontom ta.
+1	Ru	ru	NOUN	名詞	_	2	nmod	_	_
+2	hontom	hontom	NOUN	位置名詞	_	0	root	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

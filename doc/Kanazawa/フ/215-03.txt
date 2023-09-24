@@ -1,0 +1,13 @@
+# text_ja = 明日午後に出ましよー
+# text = Nishatta tokap-ibe orowano chip arapa nangoro.
+1	Nishatta	nisatta	ADV	副詞	_	8	advmod	_	_
+2	tokap	tókap	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	ibe	ipe	NOUN	名詞	_	5	nmod	_	_
+5	oro	oro	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+6	wano	wano	ADP	格助詞	_	5	case	_	_
+7	chip	cip	NOUN	名詞	_	8	nsubj	_	_
+8	arapa	arpa	VERB	自動詞	_	0	root	_	_
+9	nangoro	nankor	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

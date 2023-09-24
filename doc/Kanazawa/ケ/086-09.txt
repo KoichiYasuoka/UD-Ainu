@@ -1,0 +1,7 @@
+# text_ja = ケライ(家來)
+# text = Uitek-guru.
+1	Uitek	uytek	VERB	他動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

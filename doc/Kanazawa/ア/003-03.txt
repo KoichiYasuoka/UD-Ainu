@@ -1,0 +1,7 @@
+# text_ja = アクニン(惡人)
+# text = Akokatpak guru.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	kokatpak	kokatpak	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

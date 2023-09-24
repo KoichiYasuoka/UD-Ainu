@@ -1,0 +1,14 @@
+# text_ja = お前に少し云ふ事があるから一寸來い
+# text = E hekote ponno ku yep an na iruka ek.
+1	E	e=	PART	人称接辞	_	5	obl	_	_
+2	hekote	hekote	SCONJ	後置副詞	_	1	case	_	_
+3	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+4	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	ye	ye	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	p	-p	PART	接尾辞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	10	advcl	_	_
+8	na	na	PART	終助詞	_	7	discourse	_	_
+9	iruka	iruka	ADV	副詞	_	10	advmod	_	_
+10	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

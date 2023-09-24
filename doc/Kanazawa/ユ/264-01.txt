@@ -1,0 +1,10 @@
+# page = 264
+# text_ja = 小指
+# text = Pon ashikpet; Mo ashkepet.
+1	Pon	pon	VERB	自動詞	_	2	amod	_	_
+2	ashikpet	askepet	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Mo	mo	VERB	自動詞	_	5	amod	_	_
+5	ashkepet	askepet	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

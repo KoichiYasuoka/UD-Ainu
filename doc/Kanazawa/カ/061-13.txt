@@ -1,0 +1,11 @@
+# text_ja = 雷が落ちなければよい
+# text = Kamui onishposo shomoki yak pirika na.
+1	Kamui	kamuy	NOUN	名詞	_	2	nsubj	_	_
+2	onishposo	onisposo	VERB	自動詞	_	4	advcl	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	6	advcl	_	_
+5	yak	yak	SCONJ	接続助詞	_	4	mark	_	_
+6	pirika	pirka	VERB	自動詞	_	0	root	_	_
+7	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

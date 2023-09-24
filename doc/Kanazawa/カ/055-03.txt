@@ -1,0 +1,7 @@
+# text_ja = 沖より來る風
+# text = Orepun rera.
+1	Orep	rep	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	un	un	VERB	他動詞	_	3	acl	_	_
+3	rera	réra	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

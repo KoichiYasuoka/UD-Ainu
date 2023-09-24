@@ -1,0 +1,6 @@
+# text_ja = 雌鳥
+# text = Matne niyatori.
+1	Matne	matne	DET	連体詞	_	2	det	_	_
+2	niyatori	niyatori	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

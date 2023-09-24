@@ -1,0 +1,5 @@
+# text_ja = オイカケル(追驅)
+# text = Keseamba.
+1	Keseamba	keseanpa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

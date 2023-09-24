@@ -1,0 +1,7 @@
+# text_ja = これを向ふへ立掛けて置け
+# text = Tambe toanda eshirikopashte.
+1	Tambe	tanpe	NOUN	名詞	_	3	obj	_	_
+2	toanda	toanta	ADV	副詞	_	3	advmod	_	_
+3	eshirikopashte	esirkopaste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

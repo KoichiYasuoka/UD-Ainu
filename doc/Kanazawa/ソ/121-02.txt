@@ -1,0 +1,6 @@
+# text_ja = 實に其通だ
+# text = Ruwe un.
+1	Ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+2	un	un	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

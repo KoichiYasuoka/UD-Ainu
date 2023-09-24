@@ -1,0 +1,12 @@
+# text_ja = あの談を聞きに來た
+# text = Nei orushpe ku nu rusui kusu k'ek.
+1	Nei	ney	DET	連体詞	_	2	det	_	_
+2	orushpe	oruspe	NOUN	名詞	_	4	obj	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	nu	nu	VERB	他動詞	_	8	advcl	_	_
+5	rusui	rusuy	AUX	助動詞	_	4	aux	_	_
+6	kusu	kusu	SCONJ	接続詞	_	4	mark	_	_
+7	k'	k=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

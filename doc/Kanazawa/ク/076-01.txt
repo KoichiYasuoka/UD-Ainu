@@ -1,0 +1,6 @@
+# page = 76
+# text_ja = クサムラ(叢)
+# text = Hash-tai.
+1	Hash-tai	hastay	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

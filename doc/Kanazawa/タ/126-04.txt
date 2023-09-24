@@ -1,0 +1,11 @@
+# text_ja = 澤山遣つてもまだ欲がる
+# text = Poronno akore yakka akkari ikaoingaraushi.
+1	Poronno	poronno	ADV	副詞	_	3	advmod	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	kore	kore	VERB	他動詞	_	6	advcl	_	_
+4	yakka	yakka	SCONJ	接続助詞	_	3	mark	_	_
+5	akkari	akkari	SCONJ	後置副詞	_	6	advmod	_	_
+6	ikaoingara	ika-oinkar	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	ushi	usi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

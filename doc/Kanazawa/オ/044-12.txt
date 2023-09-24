@@ -1,0 +1,7 @@
+# text_ja = 予は泳ぐ事が出來ない
+# text = Ku ma eaikap.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	ma	ma	VERB	自動詞	_	0	root	_	_
+3	eaikap	eaykap	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

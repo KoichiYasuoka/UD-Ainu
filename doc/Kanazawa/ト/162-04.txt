@@ -1,0 +1,6 @@
+# text_ja = どの人が
+# text = Inaan guru.
+1	Inaan	inaan	NOUN	名詞	_	2	nmod	_	_
+2	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

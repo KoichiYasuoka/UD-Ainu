@@ -1,0 +1,11 @@
+# text_ja = ニテイル(似)
+# text = Ukoheraiba; Nei no an; Uneno oka.
+1	Ukoheraiba	ukoheraypa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Nei no	neno	SCONJ	後置副詞	_	4	advmod	_	_
+4	an	an	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	Uneno	uneno	ADV	副詞	_	7	advmod	_	_
+7	oka	oka	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

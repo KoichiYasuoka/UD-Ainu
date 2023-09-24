@@ -1,0 +1,5 @@
+# text_ja = ホー(方)
+# text = Hekota.
+1	Hekota	hekota	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

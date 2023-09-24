@@ -1,0 +1,7 @@
+# text_ja = 梟の神
+# text = Kotan koro kamui.
+1	Kotan	kotan	NOUN	名詞	_	2	obj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	_
+3	kamui	kamuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

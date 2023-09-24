@@ -1,0 +1,7 @@
+# text_ja = 様な者
+# text = Nep koro ambe.
+1	Nep	nepkor	ADV	副詞	_	2	advmod	_	_
+2	koro	an	VERB	自動詞	_	3	acl	_	_
+3	ambe	pe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

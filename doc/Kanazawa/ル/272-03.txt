@@ -1,0 +1,11 @@
+# text_ja = 往きましたけれど御不在でした
+# text = K'arapa akusu e isam ruwe ne.
+1	K'	k=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	arapa	arpa	VERB	自動詞	_	5	advcl	_	_
+3	akusu	akusu	SCONJ	接続詞	_	2	mark	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	_
+5	isam	isam	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

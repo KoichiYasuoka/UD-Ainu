@@ -1,0 +1,9 @@
+# page = 70
+# text_ja = 聞く爲めに來た
+# text = Nu kuni gusu ek.
+1	Nu	nu	VERB	他動詞	_	4	advcl	_	_
+2	kuni	kuni	AUX	助動詞	_	1	aux	_	_
+3	gusu	kusu	SCONJ	接続詞	_	1	mark	_	_
+4	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = 語の意味
+# text = Ikkewe.
+1	Ikkewe	ikkewe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

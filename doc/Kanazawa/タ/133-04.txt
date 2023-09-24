@@ -1,0 +1,8 @@
+# text_ja = 此處へお座りなさい
+# text = Teda rok'an.
+1	Te	te	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	1	case	_	_
+3	rok'	rok	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	an	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

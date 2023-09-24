@@ -1,0 +1,12 @@
+# text_ja = トモダチ(友人)
+# text = Utara; Utari; Utare; Utokue-koro guru.
+1	Utara	utar	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Utari	utari	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Utare	utare	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	記号	_	5	punct	_	_
+7	Utokue-koro	utokuyekor	VERB	自動詞	_	8	amod	_	_
+8	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

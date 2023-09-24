@@ -1,0 +1,9 @@
+# text_ja = ハヤク(速)
+# text = Eatunne no; Chash chash; Tunashno.
+1	Eatunne no	eatunneno	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Chash chash	cascas	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Tunashno	tunasno	ADV	副詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

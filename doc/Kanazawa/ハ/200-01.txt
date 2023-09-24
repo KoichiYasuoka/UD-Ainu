@@ -1,0 +1,11 @@
+# page = 200
+# text_ja = もー晩飯が濟だか
+# text = Onuman-ibe e okere ya?
+1	Onuman	onuman	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	ibe	ipe	NOUN	名詞	_	5	obj	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	_
+5	okere	okere	VERB	他動詞	_	0	root	_	_
+6	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

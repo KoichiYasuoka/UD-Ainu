@@ -1,0 +1,14 @@
+# text_ja = 明日出立するから間違いなくせよ
+# text = Nishatta ku hopuni na, ikia nepka oheuge na.
+1	Nishatta	nisatta	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hopuni	hopuni	VERB	自動詞	_	9	advcl	_	_
+4	na	na	PART	終助詞	_	3	mark	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	3	punct	_	_
+6	ikia	ikiya	ADV	副詞	_	9	advmod	_	_
+7	nep	nep	NOUN	名詞	_	9	nsubj	_	SpaceAfter=No
+8	ka	ka	ADP	副助詞	_	7	case	_	_
+9	oheuge	ohewke	VERB	自動詞	_	0	root	_	_
+10	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

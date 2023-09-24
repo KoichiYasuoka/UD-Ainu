@@ -1,0 +1,13 @@
+# text_ja = これをもっとまけて吳ないか
+# text = Tambe ataye naa haugere wa shomo en gore ya?
+1	Tambe	tanpe	NOUN	名詞	_	2	nmod	_	_
+2	ataye	ataye	NOUN	名詞	_	4	nsubj	_	_
+3	naa	naa	ADV	副詞	_	4	advmod	_	_
+4	haugere	hawkere	VERB	他動詞	_	8	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	shomo	somo	ADV	副詞	_	8	advmod	_	_
+7	en	en=	PART	人称接辞	_	8	obj	_	_
+8	gore	kore	VERB	他動詞	_	0	root	_	_
+9	ya	ya	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 鼻の下の髭は剃るな
+# text = Kamba-ush-reki anakne iteki memge.
+1	Kamba-ush	kanpaus	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	reki	reki	NOUN	名詞	_	6	nsubj	_	_
+4	anakne	anakne	ADP	副助詞	_	3	case	_	_
+5	iteki	iteki	ADV	副詞	_	6	advmod	_	_
+6	memge	memke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = どれ程遠いか
+# text = Makanak pakno tuima?
+1	Makanak	makanak	ADV	副詞	_	3	advmod	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	tuima	tuyma	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

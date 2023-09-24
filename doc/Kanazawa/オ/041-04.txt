@@ -1,0 +1,7 @@
+# text_ja = 大きな音がした
+# text = Poro humi an.
+1	Poro	poro	VERB	自動詞	_	2	amod	_	_
+2	humi	humi	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

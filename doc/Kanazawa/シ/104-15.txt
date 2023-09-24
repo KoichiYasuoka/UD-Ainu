@@ -1,0 +1,8 @@
+# text_ja = 暫く休みましよー
+# text = Irukai shini an ro.
+1	Irukai	irukay	ADV	副詞	_	2	advmod	_	_
+2	shini	sini	VERB	自動詞	_	0	root	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	_
+4	ro	ro	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

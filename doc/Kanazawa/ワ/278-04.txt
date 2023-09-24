@@ -1,0 +1,5 @@
+# text_ja = ワルクチ(惡口)
+# text = Itasa-itak.
+1	Itasa-itak	itasaitak	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

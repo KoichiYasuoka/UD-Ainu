@@ -1,0 +1,11 @@
+# text_ja = 此家の内に這入りましよー
+# text = Tan chisei orun ahup an ro.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	chisei	cise	NOUN	名詞	_	3	nmod	_	_
+3	or	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	_
+5	ahup	ahup	VERB	自動詞	_	0	root	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	ro	ro	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

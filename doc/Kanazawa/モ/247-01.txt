@@ -1,0 +1,10 @@
+# page = 247
+# text_ja = モーイチド(今一度)
+# text = Naa arashuine; Kannashui.
+1	Naa	naa	ADV	副詞	_	2	advmod	_	_
+2	arashui	arsuy	ADV	副詞	_	0	root	_	SpaceAfter=No
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	2	punct	_	_
+5	Kannashui	kannasuy	ADV	副詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

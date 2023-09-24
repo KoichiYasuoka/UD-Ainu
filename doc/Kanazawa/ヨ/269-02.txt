@@ -1,0 +1,5 @@
+# text_ja = ヨホド(餘程)
+# text = Mashkinno.
+1	Mashkinno	maskinno	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

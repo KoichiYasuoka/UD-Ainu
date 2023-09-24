@@ -1,0 +1,10 @@
+# page = 46
+# text_ja = オワリ(終)
+# text = Iyoshino; Kesh; Okesh.
+1	Iyoshino	iyosno	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Kesh	kes	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Okesh	okes	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

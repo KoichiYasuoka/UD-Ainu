@@ -1,0 +1,5 @@
+# text_ja = アツイ(暑)
+# text = Shiri-sesek.
+1	Shiri-sesek	sirsesek	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

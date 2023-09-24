@@ -1,0 +1,10 @@
+# text_ja = 本當にあの人だ
+# text = Oheuge sakno nea gun' ne na.
+1	Oheuge	ohewke	VERB	自動詞	_	4	amod	_	_
+2	sakno	sakno	ADV	副詞	_	4	advmod	_	_
+3	nea	nea	DET	連体詞	_	4	det	_	_
+4	gun'	kun	NOUN	名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

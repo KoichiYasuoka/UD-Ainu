@@ -1,0 +1,6 @@
+# text_ja = 脂少なく痩せたる
+# text = Haru sak.
+1	Haru	haru	NOUN	名詞	_	2	obj	_	_
+2	sak	sak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = 早く立て
+# text = Tunashno ash.
+1	Tunashno	tunasno	ADV	副詞	_	2	advmod	_	_
+2	ash	as	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

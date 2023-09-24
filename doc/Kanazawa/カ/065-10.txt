@@ -1,0 +1,13 @@
+# text_ja = あの川に船があるか
+# text = Nei pet otta chip an ruwe he an?
+1	Nei	ney	DET	連体詞	_	2	det	_	_
+2	pet	pet	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	chip	cip	NOUN	名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
+8	he	he	ADP	副助詞	_	7	case	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

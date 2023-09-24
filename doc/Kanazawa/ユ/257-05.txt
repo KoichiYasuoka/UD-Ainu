@@ -1,0 +1,6 @@
+# text_ja = 何時でも同じ事を云ふ
+# text = Isenramde hau.
+1	Isenramde	isenramte	ADV	副詞	_	2	amod	_	_
+2	hau	haw	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

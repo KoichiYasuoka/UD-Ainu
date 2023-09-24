@@ -1,0 +1,8 @@
+# title = ル
+# text_ja = ルス(留守)
+# text = Isam; Ohashiri.
+1	Isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Ohashiri	ohasiri	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

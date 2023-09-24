@@ -1,0 +1,6 @@
+# text_ja = カワリ(代)
+# text = Shiriki.
+1	Shiri	siri	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	ki	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

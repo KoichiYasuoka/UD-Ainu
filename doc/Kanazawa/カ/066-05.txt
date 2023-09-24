@@ -1,0 +1,7 @@
+# text_ja = 何故に
+# text = Makanak ne wa.
+1	Makanak	makanak	ADV	副詞	_	0	root	_	_
+2	ne	ne	ADP	格助詞	_	1	case	_	_
+3	wa	wa	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

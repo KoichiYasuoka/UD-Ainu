@@ -1,0 +1,11 @@
+# text_ja = 此道は近いけれども大變惡い
+# text = Tan ru hange koro sonno ru wen.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ru	ru	NOUN	名詞	_	3	nsubj	_	_
+3	hange	hanke	VERB	自動詞	_	7	advcl	_	_
+4	koro	kor	SCONJ	接続助詞	_	3	mark	_	_
+5	sonno	sonno	ADV	副詞	_	7	advmod	_	_
+6	ru	ru	NOUN	名詞	_	7	nsubj	_	_
+7	wen	wen	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

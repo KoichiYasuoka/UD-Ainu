@@ -1,0 +1,17 @@
+# text_ja = 昨日はよく惡口しやがつた此野郎今日は歒を打つぞ
+# text = Ukuran wenno e ye a kusu tando imontasha ku ki na toa wenguru.
+1	Ukuran	ukuran	ADV	副詞	_	4	advmod	_	_
+2	wenno	wenno	ADV	副詞	_	4	advmod	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	ye	ye	VERB	他動詞	_	10	advcl	_	_
+5	a	a	AUX	助動詞	_	4	aux	_	_
+6	kusu	kusu	SCONJ	接続助詞	_	4	mark	_	_
+7	tando	tanto	ADV	副詞	_	8	advmod	_	_
+8	imontasha	imontasa	VERB	自動詞	_	10	ccomp	_	_
+9	ku	ku=	PART	人称接辞	_	10	nsubj	_	_
+10	ki	ki	VERB	他動詞	_	0	root	_	_
+11	na	na	PART	終助詞	_	10	discourse	_	_
+12	toa	toan	DET	連体詞	_	13	det	_	_
+13	wenguru	wenkur	NOUN	名詞	_	10	vocative	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	10	punct	_	_
+

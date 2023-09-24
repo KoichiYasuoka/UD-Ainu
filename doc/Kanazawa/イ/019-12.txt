@@ -1,0 +1,12 @@
+# text_ja = いつでも此道を行きます
+# text = Hembara neyakka tan ru kari k'arapa.
+1	Hembara	hempara	ADV	副詞	_	8	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	tan	tan	DET	連体詞	_	5	det	_	_
+5	ru	ru	NOUN	名詞	_	8	obl	_	_
+6	kari	kari	SCONJ	後置副詞	_	5	case	_	_
+7	k'	k=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

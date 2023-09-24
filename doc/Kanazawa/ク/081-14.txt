@@ -1,0 +1,10 @@
+# text_ja = ......さんは此處へ來たか
+# text = ......nishpa teda ek a?
+1	......	......	PUNCT	記号	_	2	nmod	_	SpaceAfter=No
+2	nishpa	nispa	NOUN	名詞	_	3	nmod	_	_
+3	te	te	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	da	ta	ADP	格助詞	_	3	case	_	_
+5	ek	ek	VERB	自動詞	_	0	root	_	_
+6	a	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

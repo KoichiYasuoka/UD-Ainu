@@ -1,0 +1,10 @@
+# page = 168
+# text_ja = 此處に汽車が長く止まる
+# text = Teda ohonno Kisha an.
+1	Te	te	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	1	case	_	_
+3	ohonno	ohonno	ADV	副詞	_	5	advmod	_	_
+4	Kisha	kisa	NOUN	名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

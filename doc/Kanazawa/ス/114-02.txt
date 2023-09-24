@@ -1,0 +1,5 @@
+# text_ja = スム(濟)
+# text = Okere.
+1	Okere	okere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,6 @@
+# page = 6
+# text_ja = アタラシク(新)
+# text = Ashirikinne.
+1	Ashirikinne	asirkinne	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

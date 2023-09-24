@@ -1,0 +1,11 @@
+# text_ja = 私が行たならば私がする
+# text = Ku oman chiki ku kara kusu ne.
+1	Ku	k=	PART	人称接辞	_	2	nsubj	_	_
+2	oman	oman	VERB	自動詞	_	5	advcl	_	_
+3	chiki	ciki	SCONJ	接続助詞	_	2	mark	_	_
+4	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	kara	kar	VERB	他動詞	_	0	root	_	_
+6	kusu	kusu	SCONJ	接続詞	_	5	mark	_	_
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

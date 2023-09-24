@@ -1,0 +1,9 @@
+# text_ja = あるけれど少よりない
+# text = An koroka ponno patek an.
+1	An	an	VERB	自動詞	_	0	root	_	_
+2	koroka	korka	CCONJ	接続詞	_	1	cc	_	_
+3	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+4	patek	patek	SCONJ	後置副詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	1	conj	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

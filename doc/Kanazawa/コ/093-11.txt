@@ -1,0 +1,12 @@
+# text_ja = これから私の云ふ通にせよ
+# text = Tewano ku itak nei no e iki yan.
+1	Te	te	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	itak	itak	VERB	自動詞	_	7	advcl	_	_
+5	nei no	neno	SCONJ	後置副詞	_	7	advmod	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	_
+7	iki	iki	VERB	自動詞	_	0	root	_	_
+8	yan	yan	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

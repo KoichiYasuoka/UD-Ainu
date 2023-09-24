@@ -1,0 +1,7 @@
+# page = 136
+# text_ja = タレカ(誰)
+# text = Nenka.
+1	Nen	nen	PRON	代名詞	_	0	root	_	SpaceAfter=No
+2	ka	ka	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

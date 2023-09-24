@@ -1,0 +1,6 @@
+# page = 86
+# text_ja = ゲタ(下駄)
+# text = Pirakka.
+1	Pirakka	pirakka	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

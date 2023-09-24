@@ -1,0 +1,13 @@
+# text_ja = お前此男を追出志て仕舞へ
+# text = Aoka orowano tan atche un guru shoinere yan.
+1	Aoka	aoká	PRON	代名詞	_	8	vocative	_	_
+2	oro	oro	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+3	wano	wano	ADP	格助詞	_	2	case	_	_
+4	tan	tan	DET	連体詞	_	5	det	_	_
+5	atche	atce	NOUN	位置名詞	_	6	obj	_	_
+6	un	un	VERB	他動詞	_	7	acl	_	_
+7	guru	kur	NOUN	名詞	_	8	obj	_	_
+8	shoinere	soynere	VERB	他動詞	_	0	root	_	_
+9	yan	yan	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = 臀肉
+# text = Osoro-kam.
+1	Osoro-kam	osorkam	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

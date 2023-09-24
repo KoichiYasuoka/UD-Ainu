@@ -1,0 +1,8 @@
+# text_ja = それではこれを拝借致します
+# text = Yakun tambe k'etun.
+1	Yakun	yakun	SCONJ	接続助詞	_	4	advmod	_	_
+2	tambe	tanpe	NOUN	名詞	_	4	obj	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	etun	etun	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

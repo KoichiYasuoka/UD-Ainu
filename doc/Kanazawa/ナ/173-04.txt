@@ -1,0 +1,6 @@
+# text_ja = 並んで坐れ
+# text = Uteso no rok.
+1	Uteso no	uteseno	ADV	副詞	_	2	advmod	_	_
+2	rok	rok	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

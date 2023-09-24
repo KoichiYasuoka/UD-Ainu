@@ -1,0 +1,5 @@
+# text_ja = ヒル(晝)
+# text = To-kap.
+1	To-kap	tókap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

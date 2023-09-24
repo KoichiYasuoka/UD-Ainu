@@ -1,0 +1,6 @@
+# page = 100
+# text_ja = ザラザラシタル
+# text = Shira-shirak.
+1	Shira-shirak	sirasirak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

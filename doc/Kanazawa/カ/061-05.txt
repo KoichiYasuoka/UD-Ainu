@@ -1,0 +1,7 @@
+# text_ja = 神の心に背く
+# text = Kamui irenga koittakkashi.
+1	Kamui	kamuy	NOUN	名詞	_	2	nmod	_	_
+2	irenga	irenka	NOUN	名詞	_	3	nsubj	_	_
+3	koittakkashi	koytakkasi	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

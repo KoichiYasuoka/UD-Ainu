@@ -1,0 +1,6 @@
+# text_ja = ギム(義務)
+# text = Kunip.
+1	Kuni	kuni	NOUN	形式名詞	_	2	nmod	_	SpaceAfter=No
+2	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

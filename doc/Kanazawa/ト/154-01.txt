@@ -1,0 +1,15 @@
+# page = 154
+# text_ja = 此處から......まで如何程遠いか
+# text = Tewano......pakno makanak pakno tuima ruwe he an?
+1	Te	te	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	......	......	PUNCT	記号	_	7	obl	_	SpaceAfter=No
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	makanak	makanak	ADV	副詞	_	7	advmod	_	_
+6	pakno	pakno	SCONJ	後置副詞	_	5	case	_	_
+7	tuima	tuyma	VERB	自動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	he	he	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

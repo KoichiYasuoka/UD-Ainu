@@ -1,0 +1,11 @@
+# text_ja = こんな物は己は厭だ
+# text = Tambe ne no ambe anakne ku kopan.
+1	Tambe	tanpe	NOUN	名詞	_	3	nsubj	_	_
+2	ne no	neno	SCONJ	後置副詞	_	1	case	_	_
+3	am	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	7	obj	_	_
+5	anakne	anakne	ADP	副助詞	_	4	case	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	kopan	kopan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

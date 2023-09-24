@@ -1,0 +1,8 @@
+# text_ja = 有難う少し宜しい
+# text = Yairaigere ponno pirika wa.
+1	Yairaigere	yayraykere	INTJ	間投詞	_	3	advcl	_	_
+2	ponno	ponno	ADV	副詞	_	3	advmod	_	_
+3	pirika	pirka	VERB	自動詞	_	0	root	_	_
+4	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

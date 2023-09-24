@@ -1,0 +1,10 @@
+# text_ja = 皆此處へ來い
+# text = Echi obitta teun ariki yan.
+1	Echi	eci=	PART	人称接辞	_	5	nsubj	_	_
+2	obitta	opitta	SCONJ	後置副詞	_	1	case	_	_
+3	te	te	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	_
+5	ariki	arki	VERB	自動詞	_	0	root	_	_
+6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

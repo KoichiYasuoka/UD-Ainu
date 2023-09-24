@@ -1,0 +1,11 @@
+# text_ja = ...と云ふ町を知て居るか
+# text = ......sekoro aye machiya eraman?
+1	......	......	PUNCT	記号	_	4	obj	_	SpaceAfter=No
+2	sekoro	sekor	SCONJ	接続詞	_	1	case	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ye	ye	VERB	他動詞	_	5	acl	_	_
+5	machiya	maciya	NOUN	名詞	_	7	obj	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	raman	eraman	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

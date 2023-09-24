@@ -1,0 +1,6 @@
+# title = カ
+# text_ja = カ(乎)
+# text = Ya.
+1	Ya	ya	PART	終助詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

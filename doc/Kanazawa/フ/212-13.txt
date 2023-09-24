@@ -1,0 +1,7 @@
+# text_ja = 二日たってから
+# text = Tutko imakaketa.
+1	Tutko	tutko	NOUN	名詞	_	2	nmod	_	_
+2	imakake	imakake	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

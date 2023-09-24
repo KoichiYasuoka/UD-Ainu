@@ -1,0 +1,8 @@
+# text_ja = 橋を造る事が出來ませぬ
+# text = Ruika akara eaikap.
+1	Ruika	ruyka	NOUN	名詞	_	3	obj	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	kara	kar	VERB	他動詞	_	0	root	_	_
+4	eaikap	eaykap	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

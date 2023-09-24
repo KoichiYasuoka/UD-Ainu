@@ -1,0 +1,5 @@
+# text_ja = アイマイナ(曖昧)
+# text = Aeram-usausak
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	eram-usausak	eramusausak	VERB	他動詞	_	0	root	_	_
+

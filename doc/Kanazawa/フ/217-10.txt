@@ -1,0 +1,18 @@
+# text_ja = この風呂へ這入ても錢はいらぬか
+# text = Tan donburi otta k'ahun yakka ichen shomo ku sange yakka pirika ya?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	donburi	tonpuri	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ahun	ahun	VERB	自動詞	_	11	advcl	_	_
+7	yakka	yakka	SCONJ	接続助詞	_	6	mark	_	_
+8	ichen	icen	NOUN	名詞	_	11	obj	_	_
+9	shomo	somo	ADV	副詞	_	11	advmod	_	_
+10	ku	ku=	PART	人称接辞	_	11	nsubj	_	_
+11	sange	sanke	VERB	他動詞	_	13	advcl	_	_
+12	yakka	yakka	SCONJ	接続助詞	_	11	mark	_	_
+13	pirika	pirka	VERB	自動詞	_	0	root	_	_
+14	ya	ya	PART	終助詞	_	13	discourse	_	SpaceAfter=No
+15	?	?	PUNCT	記号	_	13	punct	_	_
+

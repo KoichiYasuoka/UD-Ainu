@@ -1,0 +1,6 @@
+# text_ja = 生の米
+# text = Hu amam.
+1	Hu	hu	VERB	自動詞	_	2	amod	_	_
+2	amam	amam	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

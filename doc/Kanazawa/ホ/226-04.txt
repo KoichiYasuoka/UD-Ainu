@@ -1,0 +1,8 @@
+# text_ja = あの人が來た、
+# text = Nea guru ek na!
+1	Nea	nea	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nsubj	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	_
+4	na	na	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	!	!	PUNCT	記号	_	3	punct	_	_
+

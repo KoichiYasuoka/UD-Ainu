@@ -1,0 +1,7 @@
+# page = 265
+# text_ja = ユメミル(夢)
+# text = Wendarap nukara.
+1	Wendarap	wentarap	NOUN	名詞	_	2	obj	_	_
+2	nukara	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

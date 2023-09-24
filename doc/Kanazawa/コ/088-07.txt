@@ -1,0 +1,6 @@
+# text_ja = 髭が濃い
+# text = Reki ironne.
+1	Reki	reki	NOUN	名詞	_	2	obj	_	_
+2	ironne	ironne	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

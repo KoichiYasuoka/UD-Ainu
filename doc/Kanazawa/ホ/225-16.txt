@@ -1,0 +1,9 @@
+# text_ja = 此談はほんとの談だ
+# text = Tan itak sonno ne wa.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	itak	itak	NOUN	名詞	_	3	nsubj	_	_
+3	sonno	sonno	ADV	副詞	_	0	root	_	_
+4	ne	ne	AUX	デアル動詞	_	3	cop	_	_
+5	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	3	punct	_	_
+

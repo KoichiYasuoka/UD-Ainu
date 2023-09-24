@@ -1,0 +1,11 @@
+# text_ja = さー遠慮せずにおあがりなさい
+# text = Hetak, shomo oripakno ka ibe yan.
+1	Hetak	hetak	INTJ	間投詞	_	6	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	記号	_	1	punct	_	_
+3	shomo	somo	ADV	副詞	_	6	advmod	_	_
+4	oripakno	oripakno	ADV	副詞	_	6	advmod	_	_
+5	ka	ka	ADP	副助詞	_	4	case	_	_
+6	ibe	ipe	VERB	自動詞	_	0	root	_	_
+7	yan	yan	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

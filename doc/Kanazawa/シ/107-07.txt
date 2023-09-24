@@ -1,0 +1,5 @@
+# text_ja = ショーガツ(正月)
+# text = Inomi chup.
+1	Inomi chup	inomicup	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

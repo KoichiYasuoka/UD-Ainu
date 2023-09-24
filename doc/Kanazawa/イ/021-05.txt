@@ -1,0 +1,7 @@
+# text_ja = イマ(今)
+# text = Tane; Tanepo.
+1	Tane	tane	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Tanepo	tanepo	ADV	副詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

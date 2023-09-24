@@ -1,0 +1,9 @@
+# text_ja = イッショニ(一處)
+# text = Ukoiram; Uweerepak; Iram-no.
+1	Ukoiram	ukoyram	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Uweerepak	uweerepak	SCONJ	後置副詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Iram-no	iramno	ADV	副詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

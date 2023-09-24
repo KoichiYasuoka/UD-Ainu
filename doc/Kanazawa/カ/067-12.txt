@@ -1,0 +1,8 @@
+# text_ja = 私の代りに行け
+# text = En shiriki wa oman.
+1	En	en=	PART	人称接辞	_	2	obj	_	_
+2	shiriki	sirki	VERB	完全動詞	_	4	advcl	_	_
+3	wa	wa	SCONJ	接続助詞	_	2	mark	_	_
+4	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

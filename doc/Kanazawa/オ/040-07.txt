@@ -1,0 +1,6 @@
+# text_ja = オソクトモ
+# text = Moire yakka.
+1	Moire	moyre	VERB	自動詞	_	0	root	_	_
+2	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

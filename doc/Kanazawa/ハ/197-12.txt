@@ -1,0 +1,5 @@
+# text_ja = ハラウ(拂)
+# text = Arapare.
+1	Arapare	arpare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = テン(天)
+# text = Kando; Rik ta; Kando kotoro.
+1	Kando	kanto	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Rik	rik	NOUN	位置名詞	_	1	parataxis	_	_
+4	ta	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	3	punct	_	_
+6	Kando	kanto	NOUN	名詞	_	7	nmod	_	_
+7	kotoro	kotor	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

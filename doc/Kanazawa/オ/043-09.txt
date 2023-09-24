@@ -1,0 +1,5 @@
+# text_ja = オモウ(思)
+# text = Yaikoshiramshe.
+1	Yaikoshiramshe	yaykosiramse	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

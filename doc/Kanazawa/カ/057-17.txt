@@ -1,0 +1,5 @@
+# text_ja = 両肩後部の巨骨
+# text = Tapere-pone.
+1	Tapere-pone	tap'erepone	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

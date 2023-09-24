@@ -1,0 +1,6 @@
+# text_ja = 八十
+# text = Ine hotne.
+1	Ine	íne	NUM	数詞	_	2	nummod	_	_
+2	hotne	hotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

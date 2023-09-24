@@ -1,0 +1,4 @@
+# text_ja = ウル(賣)
+# text = Eiyok
+1	Eiyok	eiyok	VERB	他動詞	_	0	root	_	_
+

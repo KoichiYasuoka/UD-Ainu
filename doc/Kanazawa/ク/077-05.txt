@@ -1,0 +1,8 @@
+# text_ja = 此菓物はまだ酸い
+# text = Tan nikaop naa niwrotke.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	nikaop	níkaop	NOUN	名詞	_	4	nsubj	_	_
+3	naa	naa	ADV	副詞	_	4	advmod	_	_
+4	niwrotke	niwrotke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

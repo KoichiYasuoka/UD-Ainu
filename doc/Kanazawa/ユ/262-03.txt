@@ -1,0 +1,8 @@
+# text_ja = そんならご一處に參りましよー
+# text = Yakun ukoiramno paye an.
+1	Yakun	yakun	SCONJ	接続助詞	_	3	advmod	_	_
+2	ukoiramno	uko-iram-no	ADV	副詞	_	3	advmod	_	_
+3	paye	paye	VERB	自動詞	_	0	root	_	_
+4	an	=an	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 鉢巻を取らなくとも宜しい
+# text = Sapa shina yakka pirika.
+1	Sapa	sapa	NOUN	名詞	_	2	obj	_	_
+2	shina	sina	VERB	他動詞	_	4	advcl	_	_
+3	yakka	yakka	SCONJ	接続助詞	_	2	mark	_	_
+4	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

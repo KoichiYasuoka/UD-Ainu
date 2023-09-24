@@ -1,0 +1,15 @@
+# text_ja = 外へ行ても此様な安いものはない
+# text = Moshima guru otta arapa yakun tambe ataye shomo ki wa.
+1	Moshima	mosma	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	arapa	arpa	VERB	自動詞	_	10	advcl	_	_
+6	yakun	yakun	SCONJ	接続詞	_	5	mark	_	_
+7	tambe	tanpe	NOUN	名詞	_	8	nmod	_	_
+8	ataye	ataye	NOUN	名詞	_	10	obj	_	_
+9	shomo	somo	ADV	副詞	_	10	advmod	_	_
+10	ki	ki	VERB	他動詞	_	0	root	_	_
+11	wa	wa	PART	終助詞	_	10	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	10	punct	_	_
+

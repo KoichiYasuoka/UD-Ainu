@@ -1,0 +1,9 @@
+# text_ja = ソンスル(損)
+# text = Aenkoisamka. Eyaiwente.
+1	A	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+2	en	en=	PART	人称接辞	_	3	obj	_	SpaceAfter=No
+3	koisamka	ko-isamka	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+5	Eyaiwente	eyaywente	VERB	他動詞	_	3	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = あの人は厭ひだ
+# text = Nei ainu ku etunne.
+1	Nei	ne	DET	連体詞	_	2	det	_	_
+2	ainu	aynu	NOUN	名詞	_	4	obj	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	etunne	etonne	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

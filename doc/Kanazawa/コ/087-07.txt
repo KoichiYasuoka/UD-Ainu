@@ -1,0 +1,6 @@
+# title = コ
+# text_ja = コ(子)
+# text = Poho.
+1	Poho	póho	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

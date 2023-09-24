@@ -1,0 +1,14 @@
+# text_ja = 今夜乘らなくともよいか
+# text = Tanukuran ao shomoki yakka pirika ruwe he an?
+1	Tanukuran	tanukuran	ADV	副詞	_	3	advmod	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	o	o	VERB	他動詞	_	5	advcl	_	_
+4	shomo	somo	ADV	副詞	_	5	advmod	_	SpaceAfter=No
+5	ki	ki	VERB	他動詞	_	7	advcl	_	_
+6	yakka	yakka	SCONJ	接続助詞	_	5	mark	_	_
+7	pirika	pirka	VERB	自動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	he	he	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

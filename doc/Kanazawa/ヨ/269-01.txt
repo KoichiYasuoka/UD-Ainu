@@ -1,0 +1,12 @@
+# page = 269
+# text_ja = 皆呼んでこい
+# text = E koro utara utakaran wa ariki yan.
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	_
+3	utara	utar	NOUN	名詞	_	4	nsubj	_	_
+4	utakaran	utakaran	VERB	他動詞	_	7	advcl	_	_
+5	wa	(?)	SCONJ	接続助詞	_	4	punct	_	_
+6	ariki	wa	VERB	自動詞	_	4	mark	_	_
+7	yan	arki	PART	終助詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

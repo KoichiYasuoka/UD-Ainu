@@ -1,0 +1,5 @@
+# text_ja = スリコギ(擂木)
+# text = Menguru.
+1	Menguru	menkuru	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

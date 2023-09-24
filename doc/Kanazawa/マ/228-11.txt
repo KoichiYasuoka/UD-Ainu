@@ -1,0 +1,7 @@
+# text_ja = また遊に來い
+# text = Kanna shinewe hani.
+1	Kanna	kanna	ADV	副詞	_	2	advmod	_	_
+2	shinewe	sinewe	VERB	自動詞	_	0	root	_	_
+3	hani	ani	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

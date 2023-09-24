@@ -1,0 +1,10 @@
+# text_ja = 馬追いも付けてか
+# text = Umma-oi ka kotamge wa he?
+1	Umma-oi	ummaoy	NOUN	名詞	_	4	obj	_	_
+2	k	ka	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	a	a=	PART	人称接辞	_	4	nsubj	_	_
+4	kotamge	kotamke	VERB	他動詞	_	0	root	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	he	he	ADP	副助詞	_	4	mark	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	4	punct	_	_
+

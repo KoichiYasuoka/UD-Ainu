@@ -1,0 +1,8 @@
+# text_ja = 三年前
+# text = Hoshike sakne etokota.
+1	Hoshike	hoski	ADV	副詞	_	3	advmod	_	_
+2	sakne	sakne	ADV	副詞	_	3	advmod	_	_
+3	etoko	etoko	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

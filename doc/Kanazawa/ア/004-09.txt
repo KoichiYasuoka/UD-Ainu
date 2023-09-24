@@ -1,0 +1,4 @@
+# text_ja = アシタ(明日)
+# text = Nishatta
+1	Nishatta	nisatta	ADV	副詞	_	0	root	_	_
+

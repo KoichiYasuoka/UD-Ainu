@@ -1,0 +1,7 @@
+# text_ja = ウズメル(埋)
+# text = Toi tum omare.
+1	Toi	toy	NOUN	名詞	_	2	nmod	_	_
+2	tum	tum	NOUN	位置名詞	_	3	obj	_	_
+3	omare	omare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

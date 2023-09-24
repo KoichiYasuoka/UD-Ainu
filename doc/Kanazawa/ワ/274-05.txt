@@ -1,0 +1,12 @@
+# text_ja = この人はアイヌ語がわかる人か
+# text = Tan guru ainu itak eraman guru he an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	5	nsubj	_	_
+3	ainu	aynu	NOUN	名詞	_	4	nmod	_	_
+4	itak	itak	NOUN	名詞	_	5	obj	_	_
+5	eraman	eraman	VERB	他動詞	_	6	acl	_	_
+6	guru	kur	NOUN	名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

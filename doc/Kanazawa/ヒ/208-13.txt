@@ -1,0 +1,16 @@
+# text_ja = 晝飯を食てから來ますか
+# text = To-kap ibe oka wa en otta e ek ruwe he an?
+1	To-kap	tókap	NOUN	名詞	_	2	nmod	_	_
+2	ibe	ipe	NOUN	名詞	_	3	nmod	_	_
+3	oka	oka	NOUN	位置名詞	_	9	obl	_	_
+4	wa	wa	ADP	格助詞	_	3	case	_	_
+5	en	en=	PART	人称接辞	_	6	nmod	_	_
+6	ot	or	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+7	ta	ta	ADP	格助詞	_	6	case	_	_
+8	e	e=	PART	人称接辞	_	9	nsubj	_	_
+9	ek	ek	VERB	自動詞	_	10	acl	_	_
+10	ruwe	ruwe	NOUN	形式名詞	_	12	nsubj	_	_
+11	he	he	ADP	副助詞	_	10	case	_	_
+12	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	記号	_	12	punct	_	_
+

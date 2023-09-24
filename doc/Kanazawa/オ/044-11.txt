@@ -1,0 +1,5 @@
+# text_ja = 水鳥
+# text = Ma-chikap.
+1	Ma-chikap	mácikap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

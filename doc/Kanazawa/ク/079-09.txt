@@ -1,0 +1,12 @@
+# text_ja = いや、あれは雲の塊だ
+# text = Shomo, nishkuru ironne-hi ne wa.
+1	Shomo	somo	ADV	副詞	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	記号	_	1	punct	_	_
+3	nishkuru	niskur	NOUN	名詞	_	6	nsubj	_	_
+4	ironne	ironne	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+5	-	-	PUNCT	記号	_	6	punct	_	SpaceAfter=No
+6	hi	hi	NOUN	形式名詞	_	0	root	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	_
+8	wa	wa	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	6	punct	_	_
+

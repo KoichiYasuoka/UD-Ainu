@@ -1,0 +1,6 @@
+# text_ja = アキ(秋)
+# text = Chuk; Shitchuk
+1	Chuk	cuk	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Shitchuk	sitcuk	VERB	完全動詞	_	1	parataxis	_	_
+

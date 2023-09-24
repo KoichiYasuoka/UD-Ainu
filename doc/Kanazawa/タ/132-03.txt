@@ -1,0 +1,7 @@
+# text_ja = まだ一つ足らぬ
+# text = Naa shinep haita.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	shinep	sinep	NUM	数詞	_	3	nsubj	_	_
+3	haita	hayta	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

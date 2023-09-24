@@ -1,0 +1,9 @@
+# text_ja = あの山に登つてみよー
+# text = Toan nupuri hemesu wa ingara.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	nupuri	nupuri	NOUN	名詞	_	3	nsubj	_	_
+3	hemesu	hemesu	VERB	自動詞	_	5	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	ingara	inkar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,9 @@
+# text_ja = 價が高い
+# text = Ataye yupke; Ataye rui.
+1	Ataye	ataye	NOUN	名詞	_	2	nsubj	_	_
+2	yupke	yupke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Ataye	ataye	NOUN	名詞	_	5	nsubj	_	_
+5	rui	ruy	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

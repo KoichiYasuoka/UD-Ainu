@@ -1,0 +1,12 @@
+# text_ja = 此處で下りるから馬をとめて吳れ
+# text = Umma ushte, teda ku ran na.
+1	Umma	umma	NOUN	名詞	_	2	obj	_	_
+2	ushte	uste	VERB	他動詞	_	7	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	te	te	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+5	da	ta	ADP	格助詞	_	4	case	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	ran	ran	VERB	自動詞	_	0	root	_	_
+8	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

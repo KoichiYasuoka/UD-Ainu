@@ -1,0 +1,8 @@
+# text_ja = フタスル(蓋)
+# text = Puta kara; Kashi seshke.
+1	Puta kara	putakar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Kashi	kasi	NOUN	位置名詞	_	4	obj	_	_
+4	seshke	seske	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

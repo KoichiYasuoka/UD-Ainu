@@ -1,0 +1,8 @@
+# text_ja = 顏色が靑い
+# text = Iporo kat ka sak.
+1	Iporo	iporo	NOUN	名詞	_	2	nmod	_	_
+2	kat	kat	NOUN	名詞	_	4	obj	_	_
+3	ka	ka	ADP	副助詞	_	2	case	_	_
+4	sak	sak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 東蝦夷人
+# text = Menash guru.
+1	Menas	menas	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	h	un	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

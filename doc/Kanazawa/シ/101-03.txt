@@ -1,0 +1,7 @@
+# text_ja = 仕合せな人
+# text = Isho koro guru.
+1	Isho	iso	NOUN	名詞	_	2	obj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

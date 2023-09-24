@@ -1,0 +1,6 @@
+# text_ja = 家の基礎
+# text = Chisei asam.
+1	Chisei	cise	NOUN	名詞	_	2	nmod	_	_
+2	asam	asam	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

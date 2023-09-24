@@ -1,0 +1,9 @@
+# text_ja = 向ふに多く舟が見える
+# text = Toanda poronno chip anukara.
+1	Toanda	toanta	ADV	副詞	_	5	advmod	_	_
+2	poronno	poronno	ADV	副詞	_	5	advmod	_	_
+3	chip	cip	NOUN	名詞	_	5	obj	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	nukara	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

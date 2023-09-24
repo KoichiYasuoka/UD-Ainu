@@ -1,0 +1,16 @@
+# text_ja = あなたの仰の通に致ます
+# text = Pirika wa, e yep korachi ku ki kusu ne wa.
+1	Pirika	pirka	VERB	自動詞	_	9	advcl	_	_
+2	wa	wa	PART	終助詞	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	_
+5	ye	ye	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	p	-p	PART	接尾辞	_	9	obj	_	_
+7	korachi	koraci	SCONJ	後置副詞	_	6	case	_	_
+8	ku	ku=	PART	人称接辞	_	9	nsubj	_	_
+9	ki	ki	VERB	他動詞	_	0	root	_	_
+10	kusu	kusu	SCONJ	接続助詞	_	9	mark	_	_
+11	ne	ne	AUX	デアル動詞	_	9	cop	_	_
+12	wa	wa	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	9	punct	_	_
+

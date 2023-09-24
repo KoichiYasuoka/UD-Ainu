@@ -1,0 +1,8 @@
+# text_ja = 後から參ります
+# text = E osh k'arapa.
+1	E	e=	PART	人称接辞	_	4	obl	_	_
+2	osh	os	SCONJ	後置副詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

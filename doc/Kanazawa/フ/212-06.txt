@@ -1,0 +1,8 @@
+# text_ja = 二個なければならぬ
+# text = Tuppish eashiriki kushki.
+1	Tuppish	tup-pis	NUM	数詞	_	4	advcl	_	_
+2	eashiriki	easirki	AUX	助動詞	_	1	aux	_	_
+3	kush	kus	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

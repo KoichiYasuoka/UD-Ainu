@@ -1,0 +1,7 @@
+# page = 1
+# title = ア
+# text_ja = アイサツスル(挨拶)
+# text = Aekap
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	ekap	ekap	VERB	他動詞	_	0	root	_	_
+

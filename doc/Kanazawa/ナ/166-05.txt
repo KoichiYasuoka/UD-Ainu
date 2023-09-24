@@ -1,0 +1,7 @@
+# text_ja = 少しも無い
+# text = Ponno ka isam.
+1	Ponno	ponno	ADV	副詞	_	3	advmod	_	_
+2	ka	ka	ADP	副助詞	_	1	case	_	_
+3	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

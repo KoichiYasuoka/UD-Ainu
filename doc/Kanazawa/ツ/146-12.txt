@@ -1,0 +1,5 @@
+# text_ja = ツル(弦)
+# text = Kuka.
+1	Kuka	kúka	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

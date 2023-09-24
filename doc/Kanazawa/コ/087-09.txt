@@ -1,0 +1,9 @@
+# text_ja = ......の子です
+# text = ......kor poho ne wa.
+1	......	......	PUNCT	記号	_	2	obj	_	SpaceAfter=No
+2	kor	kor	VERB	他動詞	_	3	acl	_	_
+3	poho	póho	NOUN	名詞	_	0	root	_	_
+4	ne	ne	AUX	デアル動詞	_	3	cop	_	_
+5	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	3	punct	_	_
+

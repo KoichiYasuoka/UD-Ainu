@@ -1,0 +1,7 @@
+# text_ja = ヂゴク(地獄)
+# text = Teine pokna moshiri.
+1	Teine	teyne	VERB	自動詞	_	3	amod	_	_
+2	pokna	pokna	DET	連体詞	_	3	det	_	_
+3	moshiri	mosir	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,6 @@
+# page = 148
+# text_ja = 手首より先
+# text = Para-tek.
+1	Para-tek	paratek	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

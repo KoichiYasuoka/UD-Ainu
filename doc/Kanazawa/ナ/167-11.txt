@@ -1,0 +1,10 @@
+# text_ja = あちこちを眺める
+# text = Epishka un hosari wa ingara.
+1	E	e=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	pishka	piskan	NOUN	位置名詞	_	4	obl	_	_
+3	un	un	ADP	格助詞	_	2	case	_	_
+4	hosari	hosari	VERB	自動詞	_	6	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	ingara	inkar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

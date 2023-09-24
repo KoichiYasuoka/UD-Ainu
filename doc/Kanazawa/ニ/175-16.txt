@@ -1,0 +1,7 @@
+# text_ja = 西蝦夷の人
+# text = Shum un guru.
+1	Shum	sum	NOUN	名詞	_	2	obj	_	_
+2	un	un	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

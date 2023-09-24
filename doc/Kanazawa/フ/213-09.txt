@@ -1,0 +1,7 @@
+# text_ja = 船頭
+# text = Chip o guru.
+1	Chip	cip	NOUN	名詞	_	2	obj	_	_
+2	o	o	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

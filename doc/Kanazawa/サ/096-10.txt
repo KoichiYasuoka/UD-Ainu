@@ -1,0 +1,8 @@
+# text_ja = お前の傍にある
+# text = E karange an wa.
+1	E	e=	PART	人称接辞	_	3	obl	_	_
+2	karange	karanke	SCONJ	後置副詞	_	1	case	_	_
+3	an	an	VERB	自動詞	_	0	root	_	_
+4	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

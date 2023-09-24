@@ -1,0 +1,10 @@
+# text_ja = なぜ此様な事をしたか
+# text = Makanak e iki wa e hawe an?
+1	Makanak	makanak	ADV	副詞	_	3	advmod	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	iki	iki	VERB	自動詞	_	6	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	e	e=	PART	人称接辞	_	6	nsubj	_	_
+6	hawe an	hawean	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

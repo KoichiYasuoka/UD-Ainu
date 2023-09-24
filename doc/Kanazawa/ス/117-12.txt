@@ -1,0 +1,13 @@
+# text_ja = 氣の毒だが退て吳れこれは私の席だ
+# text = Yaikatanu yakka oyak yan k'a ushike ne na.
+1	Yaikatanu	yaykatanu	VERB	自動詞	_	3	advcl	_	_
+2	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+3	oyak	oyak	NOUN	位置名詞	_	0	root	_	_
+4	yan	yan	PART	終助詞	_	3	discourse	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	a	a	VERB	自動詞	_	7	acl	_	_
+7	ushike	usike	NOUN	形式名詞	_	3	parataxis	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
+

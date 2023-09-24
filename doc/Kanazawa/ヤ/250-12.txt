@@ -1,0 +1,6 @@
+# text_ja = ヤクソク(約束)
+# text = Ekambaktei.
+1	Ekambakte	ekampak-te	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+2	i	hi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

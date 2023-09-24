@@ -1,0 +1,5 @@
+# text_ja = クダモノ(果物)
+# text = Nikaop.
+1	Nikaop	níkaop	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

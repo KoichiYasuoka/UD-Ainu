@@ -1,0 +1,6 @@
+# text_ja = ドキドキスル
+# text = Sambe tottokse.
+1	Sambe	sanpe	NOUN	名詞	_	2	nsubj	_	_
+2	tottokse	toktokse	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

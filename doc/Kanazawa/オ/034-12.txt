@@ -1,0 +1,13 @@
+# text_ja = あの上の家まで馬を追へ
+# text = Toan rikta an chisei oro pakno umma okewe.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	rik	rik	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	an	an	VERB	自動詞	_	5	acl	_	_
+5	chisei	cise	NOUN	名詞	_	6	nmod	_	_
+6	oro	oro	NOUN	位置名詞	_	9	obl	_	_
+7	pakno	pakno	SCONJ	後置副詞	_	6	case	_	_
+8	umma	umma	NOUN	名詞	_	9	obj	_	_
+9	okewe	okewe	VERB	他動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

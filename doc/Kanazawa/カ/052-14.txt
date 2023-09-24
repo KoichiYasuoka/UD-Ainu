@@ -1,0 +1,9 @@
+# text_ja = カグ(嗅)
+# text = Hura rakkara; Hura nu.
+1	Hura	hura	NOUN	名詞	_	2	obj	_	_
+2	rakkara	rakkar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Hura	hura	NOUN	名詞	_	5	obj	_	_
+5	nu	nu	VERB	他動詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

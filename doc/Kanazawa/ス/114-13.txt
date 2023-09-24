@@ -1,0 +1,10 @@
+# text_ja = お前のすきな様にしろ
+# text = E rengaine eramoshma no ki.
+1	E	e=	PART	人称接辞	_	4	obl	_	_
+2	rengaine	renkayne	SCONJ	後置副詞	_	1	case	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ramoshma	ramosma	VERB	自動詞	_	6	advcl	_	_
+5	no	no	SCONJ	接続助詞	_	4	mark	_	_
+6	ki	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

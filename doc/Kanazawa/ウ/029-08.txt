@@ -1,0 +1,8 @@
+# text_ja = 海岸に家が見える
+# text = Heashi chisei anukara.
+1	Heashi	heyasi	ADV	副詞	_	4	advmod	_	_
+2	chisei	cise	NOUN	名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	nukara	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,11 @@
+# page = 137
+# text_ja = 有難う達者です
+# text = Yairaigere iwange no k'an wa.
+1	Yairaigere	iyayraykere	INTJ	間投詞	_	5	discourse	_	_
+2	iwange	iwanke	VERB	自動詞	_	5	advcl	_	_
+3	no	no	SCONJ	接続助詞	_	2	mark	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	an	an	VERB	自動詞	_	0	root	_	_
+6	wa	wa	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

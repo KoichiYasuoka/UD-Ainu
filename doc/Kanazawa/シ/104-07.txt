@@ -1,0 +1,8 @@
+# text_ja = 舌打ちする音
+# text = Paro chamse humi ash.
+1	Paro	paro	NOUN	名詞	_	2	nsubj	_	_
+2	chamse	camse	VERB	自動詞	_	3	acl	_	_
+3	humi	humi	NOUN	名詞	_	4	nsubj	_	_
+4	ash	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

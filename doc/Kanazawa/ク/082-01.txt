@@ -1,0 +1,12 @@
+# page = 82
+# text_ja = 來たかまだ來ないか
+# text = Ek a? Naa shomo ek ruwe?
+1	Ek	ek	VERB	自動詞	_	0	root	_	_
+2	a	a	AUX	助動詞	_	1	aux	_	SpaceAfter=No
+3	?	?	PUNCT	記号	_	1	punct	_	_
+4	Naa	naa	ADV	副詞	_	6	advmod	_	_
+5	shomo	somo	ADV	副詞	_	6	advmod	_	_
+6	ek	ek	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	1	parataxis	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

@@ -1,0 +1,15 @@
+# text_ja = 少しも知らない談だ
+# text = Ponno neyakka huraha ka k'eramushkare hawashi ne wa.
+1	Ponno	ponno	ADV	副詞	_	7	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	huraha	huraha	NOUN	名詞	_	7	obl	_	_
+5	ka	ka	ADP	副助詞	_	4	case	_	_
+6	k'	k=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	eramushkare	eramiskari	VERB	他動詞	_	8	advcl	_	_
+8	hawash	háwas	VERB	完全動詞	_	9	acl	_	SpaceAfter=No
+9	i	-i	NOUN	形式名詞	_	0	root	_	_
+10	ne	ne	AUX	デアル動詞	_	9	cop	_	_
+11	wa	wa	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,7 @@
+# page = 268
+# text_ja = ヨース(様子)
+# text = Kotom an.
+1	Kotom	kotom	SCONJ	接続助詞	_	2	advmod	_	_
+2	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

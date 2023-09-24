@@ -1,0 +1,7 @@
+# text_ja = 私が先に行く
+# text = Hoshikino ku oman.
+1	Hoshikino	hoskino	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

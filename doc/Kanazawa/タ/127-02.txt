@@ -1,0 +1,9 @@
+# text_ja = 無代にて遣る
+# text = Annuno kore. Annuno omante.
+1	Annuno	annuno	ADV	副詞	_	2	advmod	_	_
+2	kore	kore	VERB	他動詞	_	5	advcl	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+4	Annuno	annuno	ADV	副詞	_	5	advmod	_	_
+5	omante	omante	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

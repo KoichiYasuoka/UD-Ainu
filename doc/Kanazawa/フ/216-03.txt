@@ -1,0 +1,8 @@
+# text_ja = 私は船に醉はぬ
+# text = Ku chip-shuwa shomoki.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	chip-shuwa	cipsuwa	VERB	自動詞	_	0	root	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ki	ki	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

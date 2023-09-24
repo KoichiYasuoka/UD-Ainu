@@ -1,0 +1,10 @@
+# text_ja = 此橋を渡ろー
+# text = Tan ruika kari akush ro.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ruika	ruyka	NOUN	名詞	_	5	obl	_	_
+3	kari	kari	SCONJ	後置副詞	_	2	case	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	kush	kus	VERB	他動詞	_	0	root	_	_
+6	ro	ro	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

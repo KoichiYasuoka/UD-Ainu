@@ -1,0 +1,9 @@
+# text_ja = そー云ふて、それから行た
+# text = Ene itak, orowa paye.
+1	Ene	ene	ADV	副詞	_	2	advmod	_	_
+2	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	orowa	orowa	SCONJ	接続助詞	_	5	advmod	_	_
+5	paye	paye	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

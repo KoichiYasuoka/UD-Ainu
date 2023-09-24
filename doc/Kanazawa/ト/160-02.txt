@@ -1,0 +1,12 @@
+# text_ja = あの人は何歳と思ひますか
+# text = Toan guru henbakpa an kuni aramu?
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	5	nsubj	_	_
+3	henbak	hempak	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	pa	pa	NOUN	名詞	_	5	obl	_	_
+5	an	an	VERB	自動詞	_	6	acl	_	_
+6	kuni	kuni	NOUN	形式名詞	_	8	obj	_	_
+7	a	a=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	ramu	ramu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

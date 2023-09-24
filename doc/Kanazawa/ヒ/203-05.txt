@@ -1,0 +1,11 @@
+# text_ja = 東蝦夷
+# text = Chup-kata guru. Menash un guru.
+1	Chup-ka	cupka	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+5	Menash	menas	NOUN	名詞	_	6	obj	_	_
+6	un	un	VERB	他動詞	_	7	acl	_	_
+7	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

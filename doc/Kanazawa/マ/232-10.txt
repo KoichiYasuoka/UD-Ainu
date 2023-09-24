@@ -1,0 +1,10 @@
+# text_ja = 私の持て居るのは眞新だ
+# text = Ku korobe anakne arashiribe ne.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	be	pe	NOUN	形式名詞	_	5	nsubj	_	_
+4	anakne	anakne	ADP	副助詞	_	3	case	_	_
+5	arashiribe	ar'asirpe	NOUN	名詞	_	0	root	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

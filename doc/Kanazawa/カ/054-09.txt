@@ -1,0 +1,11 @@
+# text_ja = 此家を貸して吳れ
+# text = Tan cisei en erusa wa en kore.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	cisei	cise	NOUN	名詞	_	4	obj	_	_
+3	en	en=	PART	人称接辞	_	4	iobj	_	_
+4	erusa	erusa	VERB	他動詞	_	7	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	en	en=	PART	人称接辞	_	7	obj	_	_
+7	kore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

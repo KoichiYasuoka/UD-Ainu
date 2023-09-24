@@ -1,0 +1,4 @@
+# text_ja = オレ(予)
+# text = Chokai
+1	Chokai	cokay	PRON	代名詞	_	0	root	_	_
+

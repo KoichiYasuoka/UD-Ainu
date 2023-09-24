@@ -1,0 +1,5 @@
+# text_ja = チョーチン(提燈)
+# text = Ratchako.
+1	Ratchako	ratcako	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

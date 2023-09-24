@@ -1,0 +1,8 @@
+# text_ja = ショクモツ(食物)
+# text = Ep; Aep.
+1	E	e	VERB	他動詞	_	2	amod	_	SpaceAfter=No
+2	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Aep	aep	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

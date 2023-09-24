@@ -1,0 +1,8 @@
+# text_ja = 車に人が一杯居る
+# text = Basha shikte-no shisam oma.
+1	Basha	pasa	NOUN	名詞	_	4	obj	_	_
+2	shikte-no	sikteno	ADV	副詞	_	4	advmod	_	_
+3	shisam	sisam	NOUN	名詞	_	4	nsubj	_	_
+4	oma	oma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = マタ(亦)
+# text = Hene.
+1	Hene	hene	ADP	副助詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

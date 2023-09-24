@@ -1,0 +1,10 @@
+# text_ja = 船に醉はなければよいが
+# text = Shomo ku chip-shuwa yak pirika na.
+1	Shomo	somo	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	chip-shuwa	cipsuwa	VERB	自動詞	_	5	advcl	_	_
+4	yak	yak	SCONJ	接続助詞	_	3	mark	_	_
+5	pirika	pirka	VERB	自動詞	_	0	root	_	_
+6	na	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

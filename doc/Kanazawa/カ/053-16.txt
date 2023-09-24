@@ -1,0 +1,9 @@
+# text_ja = カシコイ(賢)
+# text = Wayashun; Waya. Pawetok.
+1	Wayashun	wayasnu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Waya	waya	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+5	Pawetok	páetok	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

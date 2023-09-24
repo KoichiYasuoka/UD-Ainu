@@ -1,0 +1,7 @@
+# text_ja = 奥道
+# text = Mak-peka.
+1	Mak	mak	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	peka	peka	ADP	格助詞	_	1	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

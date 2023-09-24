@@ -1,0 +1,5 @@
+# text_ja = ヨシ(葦)
+# text = Shupki.
+1	Shupki	supki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

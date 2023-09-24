@@ -1,0 +1,5 @@
+# text_ja = トド(海獸ノ名)
+# text = Etashpe.
+1	Etashpe	etaspe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 何故返事せぬか
+# text = Hemanda gusu shomo e esa ya?
+1	Hemanda	hemanta	NOUN	名詞	_	5	obl	_	_
+2	gusu	kusu	SCONJ	後置副詞	_	1	case	_	_
+3	shomo	somo	ADV	副詞	_	5	advmod	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	_
+5	esa	ése	VERB	自動詞	_	0	root	_	_
+6	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

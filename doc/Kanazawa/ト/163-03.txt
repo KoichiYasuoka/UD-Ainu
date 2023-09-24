@@ -1,0 +1,6 @@
+# text_ja = 馬を止めて吳れ
+# text = Umma ashte.
+1	Umma	umma	NOUN	名詞	_	2	obj	_	_
+2	ashte	aste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

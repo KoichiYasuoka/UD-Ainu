@@ -1,0 +1,9 @@
+# text_ja = 日の照り付ける處へ行くな
+# text = Shukush yapke ushike iteki apkash.
+1	Shukush	sukus	NOUN	名詞	_	2	nsubj	_	_
+2	yapke	yupke	VERB	自動詞	_	3	acl	_	_
+3	ushike	uske	NOUN	形式名詞	_	5	nsubj	_	_
+4	iteki	iteki	ADV	副詞	_	5	advmod	_	_
+5	apkash	apkas	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

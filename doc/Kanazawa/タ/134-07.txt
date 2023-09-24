@@ -1,0 +1,7 @@
+# text_ja = そこへ行くのは誰ですか
+# text = Hunna too arapa?
+1	Hunna	hunna	NOUN	名詞	_	3	nsubj	_	_
+2	too	too	ADV	副詞	_	3	advmod	_	_
+3	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

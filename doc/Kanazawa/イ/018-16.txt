@@ -1,0 +1,6 @@
+# text_ja = イツゴロ
+# text = Hembara pakita.
+1	Hembara	hempara	ADV	副詞	_	2	advmod	_	_
+2	pakita	pakita	ADV	副詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

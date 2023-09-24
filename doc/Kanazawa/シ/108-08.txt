@@ -1,0 +1,9 @@
+# text_ja = 便所まで案内して吳れ
+# text = Ashinru oro pakno en tura.
+1	Ashinru	asinru	NOUN	名詞	_	2	nmod	_	_
+2	oro	oro	NOUN	位置名詞	_	5	obl	_	_
+3	pakno	pakno	SCONJ	後置副詞	_	2	case	_	_
+4	en	en=	PART	人称接辞	_	5	obj	_	_
+5	tura	tura	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

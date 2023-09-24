@@ -1,0 +1,5 @@
+# text_ja = タキ(瀧)
+# text = Sho.
+1	Sho	so	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

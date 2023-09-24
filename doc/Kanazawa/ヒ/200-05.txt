@@ -1,0 +1,6 @@
+# title = ヒ
+# text_ja = ヒ(織具)
+# text = Ahunkao-ni.
+1	Ahunkao-ni	ahunkaonit	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

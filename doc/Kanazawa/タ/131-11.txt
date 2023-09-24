@@ -1,0 +1,7 @@
+# text_ja = 虚言をつく
+# text = Chinore itak ki.
+1	Chinore	cinore	VERB	他動詞	_	2	amod	_	_
+2	itak	itak	NOUN	名詞	_	3	obj	_	_
+3	ki	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

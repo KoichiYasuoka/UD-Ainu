@@ -1,0 +1,6 @@
+# text_ja = 海龜
+# text_ja = カモメ(鷗)
+# text = Kapiu.
+1	Kapiu	kapiw	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

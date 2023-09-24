@@ -1,0 +1,7 @@
+# text_ja = 一所に行きま志よー
+# text = En koiram arapa.
+1	En	en=	PART	人称接辞	_	2	obj	_	_
+2	koiram	koyram	VERB	他動詞	_	3	advcl	_	_
+3	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

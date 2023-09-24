@@ -1,0 +1,7 @@
+# text_ja = もっと遅そく行け
+# text = Naa moire oman.
+1	Naa	naa	ADV	副詞	_	2	advmod	_	_
+2	moire	moyre	VERB	自動詞	_	3	advcl	_	_
+3	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

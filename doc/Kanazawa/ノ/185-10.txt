@@ -1,0 +1,11 @@
+# text_ja = それでは途中で談が出來ない
+# text = Yakun ru tomda uweneusara an eaikap.
+1	Yakun	yakun	SCONJ	接続助詞	_	5	advmod	_	_
+2	ru	ru	NOUN	名詞	_	3	nmod	_	_
+3	tom	tom	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	da	ta	ADP	格助詞	_	3	case	_	_
+5	uweneusara	uwenewsar	VERB	自動詞	_	0	root	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	eaikap	eaykap	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,16 @@
+# text_ja = よくぼつゝゝ云へば何でも分る
+# text = Pirikano pishno pishno e itak yakne nep neyakka k'eramu an na.
+1	Pirikano	pirkano	ADV	副詞	_	5	advmod	_	_
+2	pishno	pisno	SCONJ	後置副詞	_	1	case	_	_
+3	pishno	pisno	SCONJ	後置副詞	_	1	case	_	_
+4	e	e=	PART	人称接辞	_	5	nsubj	_	_
+5	itak	itak	VERB	自動詞	_	11	advcl	_	_
+6	yakne	yakun	SCONJ	接続助詞	_	5	mark	_	_
+7	nep	nep	NOUN	名詞	_	11	advcl	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	yakka	yakka	SCONJ	接続助詞	_	7	mark	_	_
+10	k'	k=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	eramu an	eraman	VERB	他動詞	_	0	root	_	_
+12	na	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
+

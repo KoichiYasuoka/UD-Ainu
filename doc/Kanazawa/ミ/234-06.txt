@@ -1,0 +1,14 @@
+# text_ja = どの道を行けば一番よかろーか
+# text = Inan ru kari paye an kor iyotta pirikap an?
+1	Inan	inan	NOUN	名詞	_	2	nmod	_	_
+2	ru	ru	NOUN	名詞	_	4	obl	_	_
+3	kari	kari	SCONJ	後置副詞	_	2	case	_	_
+4	paye	paye	VERB	自動詞	_	8	advcl	_	_
+5	an	=an	PART	人称接辞	_	4	nsubj	_	_
+6	kor	kor	SCONJ	接続助詞	_	4	mark	_	_
+7	iyotta	iyotta	ADV	副詞	_	8	advmod	_	_
+8	pirika	pirka	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+9	p	-p	PART	接尾辞	_	10	nsubj	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

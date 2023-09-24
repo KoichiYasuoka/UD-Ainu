@@ -1,0 +1,7 @@
+# text_ja = 道に迷ふ
+# text = Ru aturainu.
+1	Ru	ru	NOUN	名詞	_	3	obj	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	turainu	turaynu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

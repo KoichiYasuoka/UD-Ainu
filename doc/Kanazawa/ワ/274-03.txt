@@ -1,0 +1,14 @@
+# text_ja = 天氣次第で行くか行かぬか分らぬ
+# text = To-rengaine k'arapa ya shomo ya k'erambeutek.
+1	To	to	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	rengaine	renkayne	SCONJ	後置副詞	_	1	case	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	arapa	arpa	VERB	自動詞	_	10	advcl	_	_
+6	ya	ya	PART	終助詞	_	5	discourse	_	_
+7	shomo	somo	ADV	副詞	_	5	conj	_	_
+8	ya	ya	PART	終助詞	_	7	discourse	_	_
+9	k'	k=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	erambeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

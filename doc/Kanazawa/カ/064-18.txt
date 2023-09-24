@@ -1,0 +1,6 @@
+# text_ja = 川下
+# text = Panata.
+1	Pana	pana	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

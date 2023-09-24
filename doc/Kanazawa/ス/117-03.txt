@@ -1,0 +1,8 @@
+# text_ja = もつと上席へ御座りなされ
+# text = Naa eronne ariki yan.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	eronne	eronne	ADV	副詞	_	3	advmod	_	_
+3	ariki	arki	VERB	自動詞	_	0	root	_	_
+4	yan	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

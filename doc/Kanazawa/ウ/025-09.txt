@@ -1,0 +1,5 @@
+# text_ja = ウズラ(鶉)
+# text = Rap.
+1	Rap	rap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

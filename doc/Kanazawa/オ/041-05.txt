@@ -1,0 +1,7 @@
+# text_ja = 戸をたたく音がする
+# text = Apa hum ash.
+1	Apa	apa	NOUN	名詞	_	2	nmod	_	_
+2	hum	hum	NOUN	名詞	_	3	nsubj	_	_
+3	ash	as	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

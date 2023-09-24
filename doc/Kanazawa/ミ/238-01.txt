@@ -1,0 +1,6 @@
+# page = 238
+# text_ja = ミナ(皆)
+# text = Obitta.
+1	Obitta	opitta	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

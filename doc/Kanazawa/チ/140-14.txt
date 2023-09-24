@@ -1,0 +1,5 @@
+# text_ja = チヾカマル(縮)
+# text = Hetaptapse.
+1	Hetaptapse	etaptapse	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

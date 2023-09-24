@@ -1,0 +1,7 @@
+# text_ja = 今日は暖い
+# text = Tando shiri popke an.
+1	Tando	tanto	ADV	副詞	_	2	advmod	_	_
+2	shiri popke	sirpopke	VERB	完全動詞	_	0	root	_	_
+3	an	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = ツマラナイハナシ(雜談)
+# text = Etaraka-itak.
+1	Etaraka	etarka	ADV	副詞	_	3	advmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

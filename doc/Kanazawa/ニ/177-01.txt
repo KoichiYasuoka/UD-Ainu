@@ -1,0 +1,9 @@
+# page = 177
+# text_ja = 此荷物を一寸番せよ
+# text = Tan kingai iruka shikkashma.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kingai	kinkay	NOUN	名詞	_	4	obj	_	_
+3	iruka	iruka	ADV	副詞	_	4	advmod	_	_
+4	shikkashma	sikkasma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

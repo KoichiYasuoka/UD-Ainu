@@ -1,0 +1,7 @@
+# text_ja = 行きましよー
+# text = Paye an ro.
+1	Paye	paye	VERB	自動詞	_	0	root	_	_
+2	an	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ro	ro	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

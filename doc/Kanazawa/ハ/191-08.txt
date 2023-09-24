@@ -1,0 +1,12 @@
+# text_ja = 走て何處へ行くのか
+# text = E hoyupu wa hunakun arapa shiri he an?
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	hoyupu	hosipi	VERB	自動詞	_	6	advcl	_	_
+3	wa	wa	SCONJ	接続助詞	_	2	mark	_	_
+4	hunakun	hinak	NOUN	名詞	_	6	obl	_	_
+5	arapa	un	ADP	格助詞	_	4	case	_	_
+6	shiri	arpa	VERB	自動詞	_	7	acl	_	_
+7	he	siri	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

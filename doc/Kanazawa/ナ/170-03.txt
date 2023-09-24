@@ -1,0 +1,5 @@
+# text_ja = ナツ(夏)
+# text = Shiri-sak.
+1	Shiri-sak	sirsak	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

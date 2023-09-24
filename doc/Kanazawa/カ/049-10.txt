@@ -1,0 +1,8 @@
+# text_ja = 何故にお急ぎですか
+# text = Hemanda gusu yaikimatekka ya?
+1	Hemanda	hemanta	NOUN	名詞	_	3	obl	_	_
+2	gusu	kusu	SCONJ	後置副詞	_	1	case	_	_
+3	yaikimatekka	yaykimatekka	VERB	自動詞	_	0	root	_	_
+4	ya	ya	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	3	punct	_	_
+

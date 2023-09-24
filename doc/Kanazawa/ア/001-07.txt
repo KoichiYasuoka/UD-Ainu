@@ -1,0 +1,7 @@
+# text_ja = 曖昧な談
+# text = Aeram-usausak itak.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	eram-usausak	eram'usausak	VERB	他動詞	_	3	acl	_	_
+3	itak	itak	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

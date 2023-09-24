@@ -1,0 +1,8 @@
+# text_ja = 大きな阪が一つあります
+# text = Poro huru shinep an.
+1	Poro	poro	VERB	自動詞	_	2	amod	_	_
+2	huru	hur	NOUN	名詞	_	4	nsubj	_	_
+3	shinep	sinep	NUM	数詞	_	2	nummod	_	_
+4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

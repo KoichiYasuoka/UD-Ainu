@@ -1,0 +1,7 @@
+# text_ja = お靜にお休みなさい
+# text = Hapunno shini yan.
+1	Hapunno	apunno	ADV	副詞	_	2	advmod	_	_
+2	shini	sini	VERB	自動詞	_	0	root	_	_
+3	yan	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

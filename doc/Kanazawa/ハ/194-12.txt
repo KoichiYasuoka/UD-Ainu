@@ -1,0 +1,12 @@
+# text_ja = あの人は个様に談をした
+# text = Toan guru tambe ne no en kouwepekere awa.
+1	Toan	taan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	tambe	tanpe	NOUN	名詞	_	6	obl	_	_
+4	ne no	neno	SCONJ	後置副詞	_	3	case	_	_
+5	en	en=	PART	人称接辞	_	6	obj	_	_
+6	kouwepekere	kouwepeker	VERB	他動詞	_	0	root	_	_
+7	a	a	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	wa	wa	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	6	punct	_	_
+

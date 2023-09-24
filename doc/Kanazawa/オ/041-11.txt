@@ -1,0 +1,7 @@
+# text_ja = 手より落とす
+# text = Tekehe wa turuse.
+1	Tekehe	tekehe	NOUN	名詞	_	3	obl	_	_
+2	wa	wa	ADP	格助詞	_	1	case	_	_
+3	turuse	turse	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

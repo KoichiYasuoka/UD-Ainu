@@ -1,0 +1,12 @@
+# text_ja = 何故吳れたものを仕舞のか
+# text = En gore ap hemanda gusu e komo.
+1	En	en=	PART	人称接辞	_	2	obj	_	_
+2	gore	kore	VERB	他動詞	_	4	acl	_	_
+3	a	a	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	8	obj	_	_
+5	hemanda	hemanta	NOUN	名詞	_	8	obl	_	_
+6	gusu	kusu	SCONJ	後置副詞	_	5	case	_	_
+7	e	e=	PART	人称接辞	_	8	nsubj	_	_
+8	komo	komo	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

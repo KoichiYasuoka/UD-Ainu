@@ -1,0 +1,15 @@
+# text_ja = 平常は早く起きるのだが今日は遅くれた
+# text = Ramma ku hopuni tunash akoroka tando moire ruwe ne wa.
+1	Ramma	ramma	ADV	副詞	_	4	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hopuni	hopuni	VERB	自動詞	_	4	advcl	_	_
+4	tunash	tunas	VERB	自動詞	_	8	advcl	_	_
+5	a	a	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	koroka	korka	CCONJ	接続詞	_	4	cc	_	_
+7	tando	tanto	ADV	副詞	_	8	advmod	_	_
+8	moire	moyre	VERB	自動詞	_	9	acl	_	_
+9	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+10	ne	ne	AUX	デアル動詞	_	9	cop	_	_
+11	wa	wa	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,13 @@
+# text_ja = こヽから這入ても宜しいか
+# text = Teda k'ahun yakka pirika ruwe he an?
+1	Te	te	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ahun	ahun	VERB	自動詞	_	6	advcl	_	_
+5	yakka	yakka	SCONJ	接続助詞	_	4	mark	_	_
+6	pirika	pirka	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
+8	he	he	ADP	副助詞	_	7	case	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = オトトイ(一昨日)
+# text = Hoshiki numan.
+1	Hoshiki	hoski	ADV	副詞	_	2	advmod	_	_
+2	numan	numan	ADV	副詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

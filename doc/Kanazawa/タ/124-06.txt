@@ -1,0 +1,6 @@
+# text_ja = タイクツ(退屈)
+# text = Mishimu an.
+1	Mishimu	nismu	VERB	自動詞	_	0	root	_	_
+2	an	=an	PART	人称接辞	_	1	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

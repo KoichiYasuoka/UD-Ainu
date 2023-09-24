@@ -1,0 +1,14 @@
+# text_ja = アイヌ語は少し分るが澤山は分らぬ
+# text = Ainu itak ponno k'eraman, koroka itak obitta eramushkare.
+1	Ainu	aynu	NOUN	名詞	_	2	nmod	_	_
+2	itak	itak	NOUN	名詞	_	5	obj	_	_
+3	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	eraman	eraman	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	記号	_	5	punct	_	_
+7	koroka	korka	CCONJ	接続詞	_	10	cc	_	_
+8	itak	itak	NOUN	名詞	_	10	obj	_	_
+9	obitta	opitta	SCONJ	後置副詞	_	8	case	_	_
+10	eramushkare	eramiskari	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

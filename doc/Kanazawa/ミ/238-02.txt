@@ -1,0 +1,8 @@
+# text_ja = ミナシゴ(孤兒)
+# text = Awendeshup.
+1	A	a=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	wende	wente	VERB	他動詞	_	3	obj	_	SpaceAfter=No
+3	shu	resu	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

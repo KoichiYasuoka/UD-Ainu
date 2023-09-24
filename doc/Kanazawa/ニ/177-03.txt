@@ -1,0 +1,8 @@
+# text_ja = 向ふへ運んで吳れ
+# text = Toani un rura yan.
+1	Toani	toani	NOUN	名詞	_	3	obl	_	_
+2	un	un	ADP	格助詞	_	1	case	_	_
+3	rura	rúra	VERB	他動詞	_	0	root	_	_
+4	yan	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

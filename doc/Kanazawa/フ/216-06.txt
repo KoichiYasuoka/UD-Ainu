@@ -1,0 +1,9 @@
+# text_ja = お前は私の足を踏だな
+# text = Ku kema e otereke na.
+1	Ku	ku=	PART	人称接辞	_	2	det	_	_
+2	kema	kema	NOUN	名詞	_	4	obj	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	otereke	oterke	VERB	他動詞	_	0	root	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

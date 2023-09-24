@@ -1,0 +1,5 @@
+# text_ja = バショ(塲所)
+# text = Ushi.
+1	Ushi	usi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

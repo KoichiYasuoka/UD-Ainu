@@ -1,0 +1,6 @@
+# text_ja = 杯を取れ
+# text = Tuki kishma.
+1	Tuki	túki	NOUN	名詞	_	2	obj	_	_
+2	kishma	kisma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

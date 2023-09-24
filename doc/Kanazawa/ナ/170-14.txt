@@ -1,0 +1,13 @@
+# text_ja = 何を爲て居るか見て來い
+# text = Makanak iki koro an ruwe an nukara wa ek.
+1	Makanak	makanak	ADV	副詞	_	2	advmod	_	_
+2	iki	iki	VERB	自動詞	_	4	advcl	_	_
+3	koro	kor	SCONJ	接続助詞	_	2	mark	_	_
+4	an	an	VERB	自動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	7	advcl	_	_
+7	nukara	nukar	VERB	他動詞	_	9	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

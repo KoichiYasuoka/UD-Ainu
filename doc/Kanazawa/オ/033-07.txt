@@ -1,0 +1,7 @@
+# title = オ
+# text_ja = オ(尾)
+# text_ja = 鳥の尾
+# text = Ishi.
+1	Ishi	isi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

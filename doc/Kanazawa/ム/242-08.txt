@@ -1,0 +1,7 @@
+# text_ja = 村の此側
+# text = Kotan hange ike.
+1	Kotan	kotan	NOUN	名詞	_	2	nsubj	_	_
+2	hange	hanke	VERB	自動詞	_	3	acl	_	_
+3	ike	ike	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 誠に暑い事です
+# text = Shiri-sesek humi nama na.
+1	Shiri-sesek	sirsesek	VERB	完全動詞	_	2	acl	_	_
+2	humi	humi	NOUN	形式名詞	_	3	nsubj	_	_
+3	nama	an	VERB	自動詞	_	0	root	_	_
+4	na	na	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

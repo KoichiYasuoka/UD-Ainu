@@ -1,0 +1,9 @@
+# text_ja = 有の儘を私の前で云へ
+# text = An korachi en hekote ye.
+1	An	an	VERB	自動詞	_	5	advcl	_	_
+2	korachi	koraci	SCONJ	後置副詞	_	1	mark	_	_
+3	en	en=	PART	人称接辞	_	5	obl	_	_
+4	hekote	hekote	SCONJ	後置副詞	_	3	case	_	_
+5	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

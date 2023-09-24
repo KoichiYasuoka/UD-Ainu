@@ -1,0 +1,6 @@
+# text_ja = 天氣はどーか
+# text = Tando nekona?
+1	Tando	tanto	ADV	副詞	_	2	advmod	_	_
+2	nekona	nekona	ADV	副詞	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	記号	_	2	punct	_	_
+

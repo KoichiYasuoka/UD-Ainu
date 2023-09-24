@@ -1,0 +1,8 @@
+# text_ja = そんな事するな
+# text = Nei no iki koro wen.
+1	Nei no	neno	SCONJ	後置副詞	_	2	advmod	_	_
+2	iki	iki	VERB	自動詞	_	4	advcl	_	_
+3	koro	kor	SCONJ	接続助詞	_	2	mark	_	_
+4	wen	wen	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

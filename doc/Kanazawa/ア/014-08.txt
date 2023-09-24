@@ -1,0 +1,9 @@
+# text_ja = 案内賃は幾何だ
+# text = Rura ataye makanak pakno an.
+1	Rura	rúra	VERB	他動詞	_	2	acl	_	_
+2	ataye	ataye	NOUN	名詞	_	5	nsubj	_	_
+3	makanak	makanak	ADV	副詞	_	5	advmod	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,13 @@
+# text_ja = 天は上にあり地は下にあり
+# text = Kando rikta an, shiri rata an.
+1	Kando	kanto	NOUN	名詞	_	2	nmod	_	_
+2	rik	rik	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	an	an	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	4	punct	_	_
+6	shiri	siri	NOUN	名詞	_	7	nmod	_	_
+7	ra	ra	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+8	ta	ta	ADP	格助詞	_	7	case	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

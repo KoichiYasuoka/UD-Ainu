@@ -1,0 +1,12 @@
+# page = 28
+# text_ja = 馬に乘るが仕度はよいか
+# text = Umma ao kuni ne tane pirika ya?
+1	Umma	umma	NOUN	名詞	_	3	obj	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	o	o	VERB	他動詞	_	6	advcl	_	_
+4	kuni ne	kunine	SCONJ	接続助詞	_	3	mark	_	_
+5	tane	tane	ADV	副詞	_	6	advmod	_	_
+6	pirika	pirka	VERB	自動詞	_	0	root	_	_
+7	ya	ya	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	6	punct	_	_
+

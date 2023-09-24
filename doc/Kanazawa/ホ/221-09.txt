@@ -1,0 +1,6 @@
+# title = ホ
+# text_ja = ホ(帆)
+# text = Kaya.
+1	Kaya	kaya	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

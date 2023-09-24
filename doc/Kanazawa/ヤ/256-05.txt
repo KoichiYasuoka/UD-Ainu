@@ -1,0 +1,12 @@
+# text_ja = お前は草臥れたろーからこれ丈でも遣ろー
+# text = E shingi gusu tambe poka echi kore na.
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	shingi	sinki	VERB	自動詞	_	7	advcl	_	_
+3	gusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	tambe	tanpe	NOUN	名詞	_	7	obj	_	_
+5	poka	poka	ADP	副助詞	_	4	case	_	_
+6	echi	eci=	PART	人称接辞	_	7	nsubj	_	_
+7	kore	kore	VERB	他動詞	_	0	root	_	_
+8	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

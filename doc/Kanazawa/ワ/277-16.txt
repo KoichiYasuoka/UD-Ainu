@@ -1,0 +1,13 @@
+# text_ja = 私は少しも惡い事はない
+# text = Kani ku wen wa ambe ka shomo ne.
+1	Kani	káni	PRON	代名詞	_	3	nsubj	_	_
+2	ku	ku=	PART	人称接辞	_	3	expl	_	_
+3	wen	wen	VERB	自動詞	_	5	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	am	an	VERB	自動詞	_	6	acl	_	SpaceAfter=No
+6	be	pe	NOUN	形式名詞	_	8	nsubj	_	_
+7	ka	ka	ADP	副助詞	_	6	case	_	_
+8	shomo	somo	ADV	副詞	_	0	root	_	_
+9	ne	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

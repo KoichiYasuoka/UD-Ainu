@@ -1,0 +1,8 @@
+# text_ja = どーか仕たか
+# text = Makanak ne hawe an?
+1	Makanak	makanak	ADV	副詞	_	3	acl	_	_
+2	ne	ne	ADP	格助詞	_	1	case	_	_
+3	hawe	hawe	NOUN	形式名詞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

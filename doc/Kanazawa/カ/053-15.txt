@@ -1,0 +1,6 @@
+# text_ja = カジ(火事)
+# text = Chisei uhuye.
+1	Chisei	cise	NOUN	名詞	_	2	nmod	_	_
+2	uhuye	uhuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

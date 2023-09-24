@@ -1,0 +1,8 @@
+# text_ja = どこへ
+# text = Neun? hunakun?
+1	Neun	neun	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	記号	_	1	punct	_	_
+3	hunak	hunak	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = ユリ(百合)
+# text_ja = 姥百合
+# text = Turep.
+1	Turep	turep	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = エンマ(閻魔)
+# text = Nitne kamui.
+1	Nitne	nitne	VERB	自動詞	_	2	amod	_	_
+2	kamui	kamuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

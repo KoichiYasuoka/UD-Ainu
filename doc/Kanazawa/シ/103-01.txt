@@ -1,0 +1,6 @@
+# page = 103
+# text_ja = シゴト(仕事)
+# text = Monraige.
+1	Monraige	monrayke	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = 靴片足
+# text = Keire arake.
+1	Keire	keri	NOUN	名詞	_	2	nmod	_	_
+2	arake	arke	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

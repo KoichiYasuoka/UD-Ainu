@@ -1,0 +1,9 @@
+# text_ja = 予はニ三日此處に居ります
+# text = Tutko rereko k'an nangoro.
+1	Tutko	tutko	NOUN	名詞	_	4	obl	_	_
+2	rereko	rerko	NOUN	名詞	_	1	conj	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	an	an	VERB	自動詞	_	0	root	_	_
+5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

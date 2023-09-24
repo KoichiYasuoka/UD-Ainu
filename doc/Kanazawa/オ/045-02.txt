@@ -1,0 +1,10 @@
+# text_ja = 家の人皆居るか
+# text = Teun utara opitta oka ruwe?
+1	Te	te	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	un	un	VERB	他動詞	_	3	acl	_	_
+3	utara	utar	NOUN	名詞	_	5	nsubj	_	_
+4	opitta	opitta	SCONJ	後置副詞	_	3	case	_	_
+5	oka	oka	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

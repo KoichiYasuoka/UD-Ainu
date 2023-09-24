@@ -1,0 +1,7 @@
+# text_ja = どこが惡いか
+# text = Hunakoro wen?
+1	Hunak	hunak	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	3	nsubj	_	_
+3	wen	wen	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

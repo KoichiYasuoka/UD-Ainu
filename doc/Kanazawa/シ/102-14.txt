@@ -1,0 +1,6 @@
+# text_ja = シケ(時化)
+# text = Ruyambe yupke.
+1	Ruyambe	ruyampe	NOUN	名詞	_	2	nsubj	_	_
+2	yupke	yupke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

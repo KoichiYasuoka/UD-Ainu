@@ -1,0 +1,14 @@
+# text_ja = 此道を行けば沙流へ行きます
+# text = Tan ru kari paye an yakun Saru ta paye an.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ru	ru	NOUN	名詞	_	4	obl	_	_
+3	kari	kari	SCONJ	後置副詞	_	2	case	_	_
+4	paye	paye	VERB	自動詞	_	9	advcl	_	_
+5	an	=an	PART	人称接辞	_	4	nsubj	_	_
+6	yakun	yakun	SCONJ	接続助詞	_	4	mark	_	_
+7	Saru	Saru	PROPN	固有名詞	_	9	obl	_	_
+8	ta	ta	ADP	格助詞	_	7	case	_	_
+9	paye	paye	VERB	自動詞	_	0	root	_	_
+10	an	=an	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

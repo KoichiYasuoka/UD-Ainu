@@ -1,0 +1,14 @@
+# text_ja = ビンボーニン(貧乏人)
+# text = Wen-guru; Otek-sak guru; Shirun-guru.
+1	Wen	wen	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Otek-sak	oteksak	VERB	自動詞	_	6	amod	_	_
+6	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+7	;	;	PUNCT	記号	_	6	punct	_	_
+8	Shirun	sirun	DET	連体詞	_	10	amod	_	SpaceAfter=No
+9	-	-	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+10	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

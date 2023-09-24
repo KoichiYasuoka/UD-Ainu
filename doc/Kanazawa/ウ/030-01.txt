@@ -1,0 +1,10 @@
+# page = 30
+# text_ja = 少し計り賣らないか
+# text = Ponno patek shomo aeyok.
+1	Ponno	ponno	ADV	副詞	_	5	advmod	_	_
+2	patek	patek	SCONJ	後置副詞	_	1	case	_	_
+3	shomo	somo	ADV	副詞	_	5	advmod	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	eyok	eiyok	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = メシツカイ(僕婢)
+# text = Auitek guru; Aeiwange guru.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	uitek	uytek	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	A	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	eiwange	eywanke	VERB	他動詞	_	7	acl	_	_
+7	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

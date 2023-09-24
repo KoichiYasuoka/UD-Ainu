@@ -1,0 +1,7 @@
+# text_ja = 岡の道を通る
+# text = Yapeka kush.
+1	Ya	ya	NOUN	位置名詞	_	3	obj	_	SpaceAfter=No
+2	peka	peka	ADP	格助詞	_	1	case	_	_
+3	kush	kus	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

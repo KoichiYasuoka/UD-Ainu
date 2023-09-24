@@ -1,0 +1,11 @@
+# text_ja = アトヨリスル
+# text = Homakocie; Horoka paye; Horoka apkash.
+1	Homakocie	homakociwe	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Horoka	horka	ADV	副詞	_	4	advmod	_	_
+4	paye	paye	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	Horoka	horka	ADV	副詞	_	7	advmod	_	_
+7	apkash	apkas	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

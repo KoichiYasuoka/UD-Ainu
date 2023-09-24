@@ -1,0 +1,8 @@
+# text_ja = 今年はあまり暑い
+# text = Tampa eitasa shiri sesek.
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	pa	pa	NOUN	名詞	_	4	obl	_	_
+3	eitasa	eytasa	ADV	副詞	_	4	advmod	_	_
+4	shiri sesek	sirsesek	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

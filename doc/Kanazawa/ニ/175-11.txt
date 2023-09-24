@@ -1,0 +1,6 @@
+# text_ja = 逃げるな
+# text = Iteki kira.
+1	Iteki	iteki	ADV	副詞	_	2	advmod	_	_
+2	kira	kira	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

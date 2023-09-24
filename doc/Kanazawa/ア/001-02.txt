@@ -1,0 +1,4 @@
+# text_ja = アイスル(愛)
+# text = Iyomap
+1	Iyomap	iyomap	VERB	自動詞	_	0	root	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 歩て行つて倒れた
+# text = Arapa koro hachiri.
+1	Arapa	arpa	VERB	自動詞	_	3	advcl	_	_
+2	koro	kor	SCONJ	接続助詞	_	1	mark	_	_
+3	hachiri	hácir	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

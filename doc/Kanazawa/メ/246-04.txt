@@ -1,0 +1,14 @@
+# text_ja = 三年もお目に掛らなかつたが御機嫌よろしいか
+# text = Re-pa ka shomo unukaran awa irangarapte na.
+1	Re	re	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	pa	pa	NOUN	名詞	_	6	obl	_	_
+4	ka	ka	ADP	副助詞	_	3	case	_	_
+5	shomo	somo	ADV	副詞	_	6	advmod	_	_
+6	unukar	unukar	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+7	an	=an	PART	人称接辞	_	6	nsubj	_	_
+8	awa	awa	CCONJ	接続詞	_	6	cc	_	_
+9	irangarapte	irankarapte	INTJ	間投詞	_	0	root	_	_
+10	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

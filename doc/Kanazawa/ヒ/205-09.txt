@@ -1,0 +1,19 @@
+# text_ja = あまりひどくは無いが年を取て居るから氣を付けなければいかぬ
+# text = Mashkinno yupke shomoki koroka pa poro wa kusu aepungine shomoki yak wen.
+1	Mashkinno	maskinno	ADV	副詞	_	2	advmod	_	_
+2	yupke	yupke	VERB	自動詞	_	4	advcl	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	15	advcl	_	_
+5	koroka	korka	CCONJ	接続詞	_	7	cc	_	_
+6	pa	pa	NOUN	名詞	_	7	nsubj	_	_
+7	poro	poro	VERB	自動詞	_	11	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	kusu	kusu	SCONJ	接続助詞	_	7	mark	_	_
+10	a	a=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	epungine	epunkine	VERB	他動詞	_	13	ccomp	_	_
+12	shomo	somo	ADV	副詞	_	13	advmod	_	SpaceAfter=No
+13	ki	ki	VERB	他動詞	_	15	csubj	_	_
+14	yak	yak	SCONJ	接続助詞	_	13	mark	_	_
+15	wen	wen	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+

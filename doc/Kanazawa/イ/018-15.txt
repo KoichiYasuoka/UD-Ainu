@@ -1,0 +1,11 @@
+# text_ja = 出來たら明日行きます
+# text = K'eashkai yakun nishatta k'ek wa.
+1	K'	k=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	eashkai	easkay	VERB	他動詞	_	6	advcl	_	_
+3	yakun	yakun	SCONJ	接続助詞	_	2	mark	_	_
+4	nishatta	nisatta	ADV	副詞	_	6	advmod	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ek	ek	VERB	自動詞	_	0	root	_	_
+7	wa	wa	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

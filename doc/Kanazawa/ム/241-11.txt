@@ -1,0 +1,7 @@
+# text_ja = 風に向て行く
+# text = Rera tasa arapa.
+1	Rera	réra	NOUN	名詞	_	3	obl	_	_
+2	tasa	tasa	SCONJ	後置副詞	_	1	case	_	_
+3	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

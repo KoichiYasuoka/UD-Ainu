@@ -1,0 +1,9 @@
+# text_ja = 幾何でもよろしい
+# text = Nep pak neyakka pirika.
+1	Nep	nep	NOUN	名詞	_	5	advcl	_	_
+2	pak	pak	SCONJ	後置副詞	_	1	case	_	_
+3	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+4	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+5	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

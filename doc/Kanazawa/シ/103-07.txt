@@ -1,0 +1,8 @@
+# text_ja = まだ濟みませぬ
+# text = Naa shomo k'okere.
+1	Naa	naa	ADV	副詞	_	4	advmod	_	_
+2	shomo	somo	ADV	副詞	_	4	advmod	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	okere	okere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

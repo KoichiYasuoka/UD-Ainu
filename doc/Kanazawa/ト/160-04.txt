@@ -1,0 +1,14 @@
+# text_ja = あの人は此正月で廿歳になるでしよー
+# text = Toan guru tamba inomi chup epa yakun hotnepa nangoro.
+1	Toan	taan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	6	nsubj	_	_
+3	tam	tan	DET	連体詞	_	4	det	_	SpaceAfter=No
+4	ba	pa	NOUN	名詞	_	5	nmod	_	_
+5	inomi chup	inomicup	NOUN	名詞	_	6	obj	_	_
+6	epa	epa	VERB	他動詞	_	10	advcl	_	_
+7	yakun	yakun	SCONJ	接続助詞	_	6	mark	_	_
+8	hotne	hotne	NUM	数詞	_	9	nummod	_	SpaceAfter=No
+9	pa	pa	NOUN	名詞	_	10	nsubj	_	_
+10	nangoro	nankor	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

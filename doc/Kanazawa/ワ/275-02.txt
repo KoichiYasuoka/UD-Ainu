@@ -1,0 +1,9 @@
+# text_ja = 腋毛
+# text = Yatu-ush-numa.
+1	Yatu	yátu	NOUN	名詞	_	3	obj	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	ush	us	VERB	他動詞	_	5	acl	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	numa	numa	NOUN	名詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

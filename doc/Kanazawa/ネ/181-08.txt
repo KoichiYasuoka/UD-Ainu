@@ -1,0 +1,14 @@
+# text_ja = もー寢るから燈を付けて吳れ
+# text = Ratchako kara, k'ehotkehi un k'arapa na.
+1	Ratchako	ratcako	NOUN	名詞	_	2	obj	_	_
+2	kara	kar	VERB	他動詞	_	9	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ehotke	ehotke	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	hi	hi	NOUN	形式名詞	_	9	obl	_	_
+7	un	un	ADP	格助詞	_	6	case	_	_
+8	k'	k=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	arapa	arpa	VERB	自動詞	_	0	root	_	_
+10	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

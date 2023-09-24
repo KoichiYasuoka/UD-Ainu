@@ -1,0 +1,9 @@
+# text_ja = 一處に一杯飮まう
+# text = Ukashui shinepa aku ro!
+1	Ukashui	ukasuy	VERB	自動詞	_	2	amod	_	_
+2	shinepa	sinepa	NOUN	名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ku	ku	VERB	他動詞	_	0	root	_	_
+5	ro	ro	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	!	!	PUNCT	記号	_	4	punct	_	_
+

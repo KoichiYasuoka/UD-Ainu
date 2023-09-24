@@ -1,0 +1,8 @@
+# text_ja = 今朝は餘程寒い
+# text = Tando kunneiwa poronno me an.
+1	Tando	tanto	ADV	副詞	_	4	advmod	_	_
+2	kunneiwa	kunneywa	NOUN	名詞	_	4	nsubj	_	_
+3	poronno	poronno	ADV	副詞	_	4	advmod	_	_
+4	me an	méan	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

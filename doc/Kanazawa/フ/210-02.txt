@@ -1,0 +1,9 @@
+# title = フ
+# text_ja = フエ(笛)
+# text = Chirekte-top.
+1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	rekte	rekte	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	top	top	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

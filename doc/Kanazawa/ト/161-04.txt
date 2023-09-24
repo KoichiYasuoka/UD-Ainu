@@ -1,0 +1,8 @@
+# text_ja = どちらでも
+# text = Inambe neyakka.
+1	Inam	inaan	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	be	pe	NOUN	形式名詞	_	0	root	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	yakka	yakka	SCONJ	接続助詞	_	2	mark	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = アフレル(溢)
+# text = Ika.
+1	Ika	ika	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

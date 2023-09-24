@@ -1,0 +1,10 @@
+# text_ja = 燈を付けなくともよい
+# text = Shomo shune kara an yakka pirika wa.
+1	Shomo	somo	ADV	副詞	_	2	advmod	_	_
+2	shune kara	sunekar	VERB	自動詞	_	5	advcl	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	_
+4	yakka	yakka	SCONJ	接続助詞	_	2	mark	_	_
+5	pirika	pirka	VERB	自動詞	_	0	root	_	_
+6	wa	wa	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

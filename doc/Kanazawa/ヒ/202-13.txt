@@ -1,0 +1,13 @@
+# text_ja = 日皈で馬の價は幾何だ
+# text = Ittone umma k'etun ataye nep pakno an na?
+1	Ittone	ittone	ADV	副詞	_	4	advmod	_	_
+2	umma	umma	NOUN	名詞	_	4	obj	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	etun	etun	VERB	他動詞	_	5	acl	_	_
+5	ataye	ataye	NOUN	名詞	_	8	nsubj	_	_
+6	nep	nep	NOUN	名詞	_	8	obl	_	_
+7	pakno	pakno	SCONJ	後置副詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	_
+9	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	8	punct	_	_
+

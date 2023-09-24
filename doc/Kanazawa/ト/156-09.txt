@@ -1,0 +1,16 @@
+# text_ja = 私は百姓で御坐りますあちらから來ました
+# text = Kuani anakne toi-ta guru ku ne ruwe ne; toani wa ek.
+1	Kuani	kuani	PRON	代名詞	_	3	nsubj	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	toi-ta	toyta	VERB	自動詞	_	4	amod	_	_
+4	guru	kur	NOUN	名詞	_	7	acl	_	_
+5	ku	ku=	PART	人称接辞	_	4	expl	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	12	advcl	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	;	;	PUNCT	記号	_	7	punct	_	_
+10	toani	toani	NOUN	名詞	_	12	obl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	case	_	_
+12	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

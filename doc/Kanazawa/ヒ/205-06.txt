@@ -1,0 +1,13 @@
+# text_ja = この人は何處の人か
+# text = Tan guru hunakta an guru ne ruwe an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	hunak	hunak	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	6	acl	_	_
+6	guru	kur	NOUN	名詞	_	8	acl	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

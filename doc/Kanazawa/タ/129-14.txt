@@ -1,0 +1,10 @@
+# text_ja = もーそれで充分ですか
+# text = Pakno ibe an ruwehe an?
+1	Pakno	pakno	SCONJ	後置副詞	_	2	advmod	_	_
+2	ibe	ipe	VERB	自動詞	_	4	acl	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	SpaceAfter=No
+5	he	he	ADP	副助詞	_	4	case	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

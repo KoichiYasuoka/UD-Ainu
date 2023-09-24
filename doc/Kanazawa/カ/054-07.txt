@@ -1,0 +1,11 @@
+# text_ja = その書物明いたら貸して吳れ
+# text = Nei kambisosh uturu an chiki en erusa.
+1	Nei	ney	DET	連体詞	_	2	det	_	_
+2	kambisosh	kampisos	NOUN	名詞	_	3	nmod	_	_
+3	uturu	uturu	NOUN	位置名詞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	7	advcl	_	_
+5	chiki	ciki	SCONJ	接続助詞	_	4	mark	_	_
+6	en	en=	PART	人称接辞	_	7	obj	_	_
+7	erusa	erusa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

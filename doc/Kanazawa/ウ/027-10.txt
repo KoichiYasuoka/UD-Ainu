@@ -1,0 +1,25 @@
+# text_ja = ろれで自分の方で食事をするのか又は別にしてやるのか
+# text = Tambe pakno ne yakun yaikata ihok wa ibe na, orowa kani orowano shinnatoine echi iberep he an?
+1	Tambe	tanpe	NOUN	名詞	_	8	advcl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+4	yakun	yakun	SCONJ	接続助詞	_	1	mark	_	_
+5	yaikata	yaykata	ADV	副詞	_	6	advmod	_	_
+6	ihok	ihok	VERB	自動詞	_	8	advcl	_	_
+7	wa	wa	SCONJ	接続助詞	_	6	mark	_	_
+8	ibe	ipe	VERB	自動詞	_	18	advcl	_	_
+9	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	記号	_	8	punct	_	_
+11	oro	oro	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+12	wa	wa	ADP	格助詞	_	11	case	_	_
+13	kani	káni	PRON	代名詞	_	14	det	_	_
+14	oro	oro	NOUN	位置名詞	_	18	nsubj	_	SpaceAfter=No
+15	wano	wano	ADP	格助詞	_	14	case	_	_
+16	shinnatoine	sinnatoyne	ADV	副詞	_	18	advmod	_	_
+17	echi	eci=	PART	人称接辞	_	18	obj	_	_
+18	ibere	ipere	VERB	他動詞	_	19	acl	_	SpaceAfter=No
+19	p	-p	PART	接尾辞	_	21	nsubj	_	_
+20	he	he	ADP	副助詞	_	19	case	_	_
+21	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+22	?	?	PUNCT	記号	_	21	punct	_	_
+

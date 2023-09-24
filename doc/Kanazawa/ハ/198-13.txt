@@ -1,0 +1,9 @@
+# text_ja = 風が烈いから雲が霽れた
+# text = Rera yupke kusu nishkuru hechaka.
+1	Rera	réra	NOUN	名詞	_	2	nsubj	_	_
+2	yupke	yupke	VERB	自動詞	_	5	advcl	_	_
+3	kusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	nishkuru	niskur	NOUN	名詞	_	5	nsubj	_	_
+5	hechaka	hecaka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

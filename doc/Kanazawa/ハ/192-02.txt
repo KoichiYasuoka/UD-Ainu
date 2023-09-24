@@ -1,0 +1,8 @@
+# text_ja = 朝から晩まで
+# text = Kunneiwa no onuman pakno.
+1	Kunneiwa	kunney	NOUN	名詞	_	3	obl	_	_
+2	no	wano	ADP	格助詞	_	1	case	_	_
+3	onuman	onuman	NOUN	名詞	_	0	root	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

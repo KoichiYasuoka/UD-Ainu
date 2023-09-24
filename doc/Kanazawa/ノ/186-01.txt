@@ -1,0 +1,12 @@
+# page = 186
+# text_ja = 切符は何處で買ましよーか
+# text = Kippu hunakta ahokbe an?
+1	Kippu	kippu	NOUN	名詞	_	2	nmod	_	_
+2	hunak	hunak	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	hok	hok	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	be	pe	NOUN	形式名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

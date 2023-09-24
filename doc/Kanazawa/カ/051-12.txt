@@ -1,0 +1,12 @@
+# text_ja = お前の顏色は惡い、病氣の様だ
+# text = Eani e iporo wen, tashum kotom an.
+1	Eani	eani	PRON	代名詞	_	4	dislocated	_	_
+2	e	e=	PART	人称接辞	_	3	det	_	_
+3	iporo	iporo	NOUN	名詞	_	4	nsubj	_	_
+4	wen	wen	VERB	自動詞	_	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	4	punct	_	_
+6	tashum	tasum	NOUN	名詞	_	8	nsubj	_	_
+7	kotom	kotom	SCONJ	接続助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = コンヤ(今夜)
+# text = Tanukuran.
+1	Tanukuran	tanukuran	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

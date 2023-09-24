@@ -1,0 +1,5 @@
+# text = Kisara pui o.
+1	Kisara pui	kisarpuy	NOUN	名詞	_	2	obj	_	_
+2	o	o	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

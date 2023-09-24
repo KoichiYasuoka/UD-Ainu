@@ -1,0 +1,7 @@
+# text_ja = 天氣だろーか
+# text = Shiri-pirika nangor'a?
+1	Shiri-pirika	sirpirka	VERB	完全動詞	_	0	root	_	_
+2	nangor'	nankor	AUX	助動詞	_	1	aux	_	SpaceAfter=No
+3	a	ya	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	1	punct	_	_
+

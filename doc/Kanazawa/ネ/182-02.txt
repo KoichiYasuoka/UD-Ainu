@@ -1,0 +1,8 @@
+# text_ja = 寢る事が出來なかつた
+# text = Pirikano ku mokon niukesh.
+1	Pirikano	pirkano	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	mokon	mokor	VERB	自動詞	_	0	root	_	_
+4	niukesh	niwkes	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

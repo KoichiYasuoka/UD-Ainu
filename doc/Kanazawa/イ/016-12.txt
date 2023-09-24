@@ -1,0 +1,4 @@
+# text_ja = イシ(石)
+# text = Shuma
+1	Shuma	suma	NOUN	名詞	_	0	root	_	_
+

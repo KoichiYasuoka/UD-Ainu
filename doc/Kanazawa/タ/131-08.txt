@@ -1,0 +1,16 @@
+# text_ja = お前から欺されるよーな者じやないぞ
+# text = Eani orowano ramuisamka eashkaibe ku ne ka shomoki wa.
+1	Eani	eani	PRON	代名詞	_	4	nsubj	_	_
+2	oro	oro	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	wano	wano	ADP	格助詞	_	2	case	_	_
+4	ramuisamka	ramuisamka	VERB	他動詞	_	6	acl	_	_
+5	eashkai	easkay	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	be	pe	NOUN	形式名詞	_	11	advcl	_	_
+7	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
+8	ne	ne	AUX	デアル動詞	_	6	cop	_	_
+9	ka	ka	ADP	副助詞	_	7	mark	_	_
+10	shomo	somo	ADV	副詞	_	11	advmod	_	SpaceAfter=No
+11	ki	ki	VERB	他動詞	_	0	root	_	_
+12	wa	wa	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
+

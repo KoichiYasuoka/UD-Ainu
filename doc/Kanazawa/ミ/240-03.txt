@@ -1,0 +1,7 @@
+# text_ja = 昨日見ました
+# text = Numan ku nukara.
+1	Numan	numan	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	nukara	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = アズキ(小豆)
+# text = Anduki.
+1	Anduki	antuki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

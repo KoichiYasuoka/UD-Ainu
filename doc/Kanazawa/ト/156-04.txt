@@ -1,0 +1,9 @@
+# text_ja = こヽか何處か
+# text = Teda he hunakta?
+1	Te	te	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	1	case	_	_
+3	he	he	ADP	副助詞	_	1	case	_	_
+4	hunak	hunak	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	4	punct	_	_
+

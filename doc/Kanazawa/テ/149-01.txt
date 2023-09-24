@@ -1,0 +1,11 @@
+# page = 149
+# text_ja = 出來ない事は出來ないと云へ
+# text = E niukesh chiki niukesh ari ye.
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	niukesh	niwkes	VERB	他動詞	_	4	advcl	_	_
+3	chiki	ciki	SCONJ	接続助詞	_	2	mark	_	_
+4	niukesh	niwkes	VERB	他動詞	_	6	advcl	_	_
+5	ari	ari	SCONJ	接続助詞	_	4	mark	_	_
+6	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

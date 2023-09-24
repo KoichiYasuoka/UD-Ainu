@@ -1,0 +1,12 @@
+# text_ja = お前の内には何んな菓物があるか
+# text = A uuni ta hemanda nikaop oka ruwe an?
+1	A	a=	PART	人称接辞	_	2	det	_	_
+2	uuni	uni	NOUN	名詞	_	6	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	hemanda	hemanta	NOUN	名詞	_	5	nmod	_	_
+5	nikaop	níkaop	NOUN	名詞	_	6	nsubj	_	_
+6	oka	oka	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 犬狐などに化けて人を欺く神
+# text = Kamui unarabe utarakesh.
+1	Kamui	kamuy	NOUN	名詞	_	2	nmod	_	_
+2	unarabe	unarpe	NOUN	名詞	_	3	nmod	_	_
+3	utarakesh	utarkes	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

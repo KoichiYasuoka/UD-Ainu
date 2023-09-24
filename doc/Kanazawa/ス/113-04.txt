@@ -1,0 +1,12 @@
+# text_ja = 冷くなつて來た、夕方は心持がよかろー
+# text = Uweepakita shiri mem an, onuman anak sambe-shituri an nangoro.
+1	Uweepakita	uweepakita	ADV	副詞	_	2	advmod	_	_
+2	shiri mem an	sir-mean	VERB	完全動詞	_	6	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	onuman	onuman	NOUN	名詞	_	6	obl	_	_
+5	anak	anak	ADP	副助詞	_	4	case	_	_
+6	sambe-shituri	sampesituri	VERB	自動詞	_	0	root	_	_
+7	an	=an	PART	人称接辞	_	6	nsubj	_	_
+8	nangoro	nankor	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	6	punct	_	_
+

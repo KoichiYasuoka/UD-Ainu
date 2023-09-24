@@ -1,0 +1,11 @@
+# text_ja = アイヌ語で云ふ事が出來ぬ
+# text = Tambe ainu orun ku ye eaikap.
+1	Tambe	tanpe	NOUN	名詞	_	6	obj	_	_
+2	ainu	aynu	NOUN	名詞	_	3	nmod	_	_
+3	or	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	_
+5	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
+6	ye	ye	VERB	他動詞	_	0	root	_	_
+7	eaikap	eaykap	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

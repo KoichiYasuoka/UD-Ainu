@@ -1,0 +1,7 @@
+# text_ja = 今日はほんとに暑い
+# text = Tando sonno shiri-sesek.
+1	Tando	tanto	ADV	副詞	_	3	advmod	_	_
+2	sonno	sonno	ADV	副詞	_	3	advmod	_	_
+3	shiri-sesek	sirsesek	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

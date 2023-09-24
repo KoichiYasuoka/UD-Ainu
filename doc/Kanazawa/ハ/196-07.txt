@@ -1,0 +1,7 @@
+# text_ja = 成丈け早く
+# text = Eashkai pakno tunashno.
+1	Eashkai	easkay	VERB	他動詞	_	3	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	tunashno	tunasno	ADV	副詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

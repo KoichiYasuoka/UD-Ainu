@@ -1,0 +1,6 @@
+# text_ja = 駿馬
+# text = Nitan umma.
+1	Nitan	nitan	VERB	自動詞	_	2	amod	_	_
+2	umma	umma	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

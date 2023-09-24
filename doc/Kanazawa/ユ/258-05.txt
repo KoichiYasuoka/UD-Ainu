@@ -1,0 +1,9 @@
+# text_ja = 私は謂ふ事がある
+# text = Ku yep an na.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	ye	ye	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	p	-p	PART	接尾辞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	0	root	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

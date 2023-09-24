@@ -1,0 +1,12 @@
+# text_ja = これより外に欲いものはないか
+# text = Tambe akkari nepka shomo e kon' rusui?
+1	Tambe	tanpe	NOUN	名詞	_	7	obl	_	_
+2	akkari	akkari	SCONJ	後置副詞	_	1	case	_	_
+3	nep	nep	NOUN	名詞	_	7	obj	_	SpaceAfter=No
+4	ka	ka	ADP	副助詞	_	3	case	_	_
+5	shomo	somo	ADV	副詞	_	7	advmod	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	_
+7	kon'	kon	VERB	他動詞	_	0	root	_	_
+8	rusui	rusuy	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	7	punct	_	_
+

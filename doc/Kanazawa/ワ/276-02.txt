@@ -1,0 +1,6 @@
+# text_ja = 覺て居れ
+# text = Eshikarunna.
+1	Eshikarun	esikarun	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	na	na	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

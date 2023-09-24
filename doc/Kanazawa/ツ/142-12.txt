@@ -1,0 +1,7 @@
+# text_ja = 少し疲れました
+# text = Ponno ku shinngi.
+1	Ponno	ponno	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	shinngi	sinki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

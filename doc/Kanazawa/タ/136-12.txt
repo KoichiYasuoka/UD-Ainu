@@ -1,0 +1,16 @@
+# text_ja = 久敷お目に掛りませなんだお顔を拜しに參りました
+# text = Ohonno shomo unukaran echi nukan rusui kusu teda echi hunara.
+1	Ohonno	ohonno	ADV	副詞	_	3	advmod	_	_
+2	shomo	somo	ADV	副詞	_	3	advmod	_	_
+3	unukar	unukar	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+4	an	=an	PART	人称接辞	_	3	nsubj	_	_
+5	echi	eci=	PART	人称接辞	_	6	nsubj	_	_
+6	nukan	nukan	VERB	他動詞	_	12	advcl	_	_
+7	rusui	rusuy	AUX	助動詞	_	6	aux	_	_
+8	kusu	kusu	SCONJ	接続助詞	_	6	mark	_	_
+9	te	te	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+10	da	ta	ADP	格助詞	_	9	case	_	_
+11	echi	eci=	PART	人称接辞	_	12	nsubj	_	_
+12	hunara	hunara	VERB	他動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = それでもよろしい
+# text = Yakka pirika.
+1	Yakka	yakka	SCONJ	接続助詞	_	2	advmod	_	_
+2	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

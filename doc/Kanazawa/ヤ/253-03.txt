@@ -1,0 +1,11 @@
+# text_ja = ヤチ(谷地)
+# text = Nitat; Yachi; Shiri orauraugei.
+1	Nitat	nitat	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Yachi	yaci	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Shiri	siri	NOUN	名詞	_	6	nsubj	_	_
+6	oraurauge	orawrawke	VERB	自動詞	_	7	acl	_	SpaceAfter=No
+7	i	hi	NOUN	形式名詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

@@ -1,0 +1,15 @@
+# page = 252
+# text_ja = 今日から三日間宿めて吳れ
+# text = Tando wano reto pakno en reushire wa en gore.
+1	Tando	tanto	NOUN	名詞	_	7	obl	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	re	re	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	to	to	NOUN	名詞	_	7	obl	_	_
+5	pakno	pakno	SCONJ	後置副詞	_	4	case	_	_
+6	en	en=	PART	人称接辞	_	7	obj	_	_
+7	reushire	rewsire	VERB	他動詞	_	10	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	en	en=	PART	人称接辞	_	10	obj	_	_
+10	gore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

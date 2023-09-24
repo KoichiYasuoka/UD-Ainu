@@ -1,0 +1,5 @@
+# text_ja = 火が付く
+# text = Nui uk.
+1	Nui uk	nuyuk	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

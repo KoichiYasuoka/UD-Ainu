@@ -1,0 +1,5 @@
+# text_ja = タテカケル(立掛)
+# text = Eshirikopashte.
+1	Eshirikopashte	esirkopaste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

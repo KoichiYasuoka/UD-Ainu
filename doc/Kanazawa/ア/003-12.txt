@@ -1,0 +1,5 @@
+# text_ja = アサガオ(牽牛花の類)
+# text = Kittesh.
+1	Kittesh	kittes	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

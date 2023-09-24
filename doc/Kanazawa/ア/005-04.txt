@@ -1,0 +1,5 @@
+# text_ja = アソブ(遊)
+# text = Shinewe.
+1	Shinewe	sinewe	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

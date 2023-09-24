@@ -1,0 +1,10 @@
+# text_ja = 顔を知て居る斗りだ
+# text = Nanu ku nukarahi patek ne.
+1	Nanu	nanu	NOUN	名詞	_	3	obj	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	nukara	nukar	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	hi	hi	NOUN	形式名詞	_	0	root	_	_
+5	patek	patek	SCONJ	後置副詞	_	4	case	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

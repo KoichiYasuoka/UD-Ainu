@@ -1,0 +1,9 @@
+# text_ja = 川尻(川口)
+# text = Pet put; Pet oshoro.
+1	Pet	pet	NOUN	名詞	_	2	nmod	_	_
+2	put	put	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Pet	pet	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+5	oshoro	osoro	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	6	punct	_	_
+

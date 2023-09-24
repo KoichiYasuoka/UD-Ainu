@@ -1,0 +1,13 @@
+# text_ja = 昨日札幌から來た
+# text = Numan Satporo orowano k'ek ruwe ne na.
+1	Numan	numan	ADV	副詞	_	7	advmod	_	_
+2	Satporo	Satporo	PROPN	固有名詞	_	3	nmod	_	_
+3	oro	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	wano	wano	ADP	格助詞	_	3	case	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ek	ek	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	_
+9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
+

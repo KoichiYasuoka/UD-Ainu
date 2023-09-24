@@ -1,0 +1,10 @@
+# text_ja = 膽と皮とを用ひます
+# text = Shambehe numaha patke eiwange kusu ne.
+1	Shambehe	sanpehe	NOUN	名詞	_	4	obj	_	_
+2	numaha	numaha	NOUN	名詞	_	1	conj	_	_
+3	patke	patek	SCONJ	後置副詞	_	2	case	_	_
+4	eiwange	eywanke	VERB	他動詞	_	0	root	_	_
+5	kusu	kusu	SCONJ	接続助詞	_	4	mark	_	_
+6	ne	ne	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

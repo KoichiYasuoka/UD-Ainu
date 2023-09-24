@@ -1,0 +1,8 @@
+# page = 25
+# text_ja = ウシロ(後)
+# text = Osh; Oshmake.
+1	Osh	os	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Oshmake	osmake	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

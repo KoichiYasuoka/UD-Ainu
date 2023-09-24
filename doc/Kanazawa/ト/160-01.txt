@@ -1,0 +1,12 @@
+# page = 160
+# text_ja = 私は廿歳です
+# text = Kani anakne hotne-pa k'an.
+1	Kani	káni	PRON	代名詞	_	7	nsubj	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	hotne	hotne	NUM	数詞	_	5	nummod	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+5	pa	pa	NOUN	名詞	_	7	obl	_	_
+6	k'	k=	PART	人称接辞	_	7	expl	_	SpaceAfter=No
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

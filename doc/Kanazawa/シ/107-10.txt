@@ -1,0 +1,7 @@
+# text_ja = ショージキ(正直)
+# text = Pirika keutum koro.
+1	Pirika	pirka	VERB	自動詞	_	2	amod	_	_
+2	keutum	kewtum	NOUN	名詞	_	3	obj	_	_
+3	koro	kor	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

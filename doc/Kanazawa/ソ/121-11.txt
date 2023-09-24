@@ -1,0 +1,9 @@
+# text_ja = ソーテ(沿)
+# text = Samapeka; Samakepeka.
+1	Sama	sama	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	peka	peka	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	1	punct	_	_
+4	Samake	samake	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+5	peka	peka	ADP	格助詞	_	4	case	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

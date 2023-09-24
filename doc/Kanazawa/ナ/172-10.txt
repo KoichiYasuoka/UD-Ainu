@@ -1,0 +1,7 @@
+# text_ja = 涙を落す
+# text = Nanka chiste.
+1	Nan	nan	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	ka	ka	NOUN	位置名詞	_	3	obj	_	_
+3	chiste	ciste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

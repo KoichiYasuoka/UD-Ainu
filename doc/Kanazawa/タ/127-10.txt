@@ -1,0 +1,5 @@
+# text_ja = タツ(出立)
+# text = Hopuni.
+1	Hopuni	hopuni	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

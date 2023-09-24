@@ -1,0 +1,5 @@
+# text_ja = クビタマ(頸玉)
+# text = Rekutumbe.
+1	Rekutumbe	rekutunpe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

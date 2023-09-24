@@ -1,0 +1,10 @@
+# text_ja = 深いか淺いか
+# text = Ooho pet an ohak pet an?
+1	Ooho	ooho	VERB	自動詞	_	2	amod	_	_
+2	pet	pet	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	0	root	_	_
+4	ohak	ohak	VERB	自動詞	_	5	amod	_	_
+5	pet	pet	NOUN	名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	3	conj	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

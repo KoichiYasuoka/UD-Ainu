@@ -1,0 +1,6 @@
+# text_ja = 中年の者
+# text = Shukupnoshiki.
+1	Shukup	sukup	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	noshiki	noski	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

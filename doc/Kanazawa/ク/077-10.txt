@@ -1,0 +1,6 @@
+# text_ja = 上唇
+# text = Kanna patoi.
+1	Kanna	kanna	DET	連体詞	_	2	det	_	_
+2	patoi	patoye	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

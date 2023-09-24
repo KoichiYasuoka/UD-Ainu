@@ -1,0 +1,5 @@
+# text_ja = スネ(脛)
+# text = Nisap.
+1	Nisap	nisap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

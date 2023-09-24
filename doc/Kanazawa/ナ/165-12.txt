@@ -1,0 +1,12 @@
+# text_ja = 汝の名は何と云ふか
+# text = E reihei makanak aye ruwe he an?
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	reihei	rehe	NOUN	名詞	_	5	obj	_	_
+3	makanak	makanak	ADV	副詞	_	5	advmod	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ye	ye	VERB	他動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

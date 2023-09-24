@@ -1,0 +1,7 @@
+# text_ja = 氣前よき人
+# text = Pirika irenga guru.
+1	Pirika	pirka	VERB	自動詞	_	3	amod	_	_
+2	irenga	irenka	NOUN	名詞	_	3	amod	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

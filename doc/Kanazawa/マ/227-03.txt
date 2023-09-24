@@ -1,0 +1,8 @@
+# text_ja = 十日前
+# text = Wanto etokota.
+1	Wan	wan	NUM	数詞	_	2	nummod	_	SpaceAfter=No
+2	to	to	NOUN	名詞	_	3	nmod	_	_
+3	etoko	etoko	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

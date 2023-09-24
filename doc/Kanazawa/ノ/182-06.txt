@@ -1,0 +1,10 @@
+# text_ja = あの枝を鋸で切れ
+# text = Toan nitek noko ani tuye yan.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	nitek	nítek	NOUN	名詞	_	5	obj	_	_
+3	noko	noko	NOUN	名詞	_	5	obl	_	_
+4	ani	ani	SCONJ	後置副詞	_	3	case	_	_
+5	tuye	tuye	VERB	他動詞	_	0	root	_	_
+6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

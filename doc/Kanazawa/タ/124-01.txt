@@ -1,0 +1,7 @@
+# page = 124
+# title = タ
+# text_ja = ダイク(大工)
+# text = Pancho.
+1	Pancho	panco	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = 戸道
+# text = Apa-ru.
+1	Apa-ru	aparu	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

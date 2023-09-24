@@ -1,0 +1,6 @@
+# text_ja = 持ちませぬ
+# text = Ku sak.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	sak	sak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,4 @@
+# text_ja = イーツケル(命)
+# text = Epawetenge
+1	Epawetenge	epawetenke	VERB	他動詞	_	0	root	_	_
+

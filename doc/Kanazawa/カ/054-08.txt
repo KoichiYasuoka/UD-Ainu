@@ -1,0 +1,8 @@
+# text_ja = 一寸此を貸して吳れ
+# text = Tambe ponno en erusa.
+1	Tambe	tanpe	NOUN	名詞	_	4	obj	_	_
+2	ponno	ponno	ADV	副詞	_	4	advmod	_	_
+3	en	en=	PART	人称接辞	_	4	iobj	_	_
+4	erusa	erusa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

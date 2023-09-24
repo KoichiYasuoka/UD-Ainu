@@ -1,0 +1,6 @@
+# page = 127
+# text_ja = タヾ(無代)
+# text = Annu no.
+1	Annu no	annuno	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

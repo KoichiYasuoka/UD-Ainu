@@ -1,0 +1,8 @@
+# text_ja = お前は何處に居つたか
+# text = Hunakta e an?
+1	Hunak	hunak	NOUN	名詞	_	4	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

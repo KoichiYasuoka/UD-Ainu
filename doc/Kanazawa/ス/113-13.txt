@@ -1,0 +1,10 @@
+# text_ja = 今日は塵が立たぬ
+# text = Tando ota pana hopuni shomo ki.
+1	Tando	tanto	ADV	副詞	_	4	advmod	_	_
+2	ota	ota	NOUN	名詞	_	3	nmod	_	_
+3	pana	pana	NOUN	名詞	_	4	nsubj	_	_
+4	hopuni	hopuni	VERB	自動詞	_	0	root	_	_
+5	shomo	somo	ADV	副詞	_	6	advmod	_	_
+6	ki	ki	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

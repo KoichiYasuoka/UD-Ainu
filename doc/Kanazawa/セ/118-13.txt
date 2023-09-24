@@ -1,0 +1,11 @@
+# text_ja = 宅が遠方ですから
+# text = Ku unihi un shittuima wa ne wa.
+1	Ku	k=	PART	人称接辞	_	2	det	_	_
+2	unihi	unihi	NOUN	名詞	_	4	obl	_	_
+3	un	un	ADP	格助詞	_	2	case	_	_
+4	shittuima	sittuyma	VERB	完全動詞	_	0	root	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	wa	wa	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	4	punct	_	_
+

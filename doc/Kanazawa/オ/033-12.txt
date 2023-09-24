@@ -1,0 +1,5 @@
+# text_ja = オーイ(山中にて人を呼ぶ聲)
+# text = Katchi.
+1	Katchi	katci	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

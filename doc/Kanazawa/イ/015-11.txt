@@ -1,0 +1,6 @@
+# text_ja = 錨綱
+# text = Kaite tush.
+1	Kaite	kayte	NOUN	名詞	_	2	nmod	_	_
+2	tush	tus	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

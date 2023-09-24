@@ -1,0 +1,12 @@
+# text_ja = いつ沙流に到きますか
+# text = Hembara Satu otta shirepa an ruwe an?
+1	Hembara	hempara	ADV	副詞	_	5	advmod	_	_
+2	Satu	Saru	PROPN	固有名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	shirepa	sirepa	VERB	自動詞	_	7	acl	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

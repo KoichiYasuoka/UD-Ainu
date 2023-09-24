@@ -1,0 +1,7 @@
+# page = 223
+# text_ja = ホシイ(欲)
+# text = Kon rusui.
+1	Kon	kon	VERB	他動詞	_	0	root	_	_
+2	rusui	rusuy	AUX	助動詞	_	1	aux	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

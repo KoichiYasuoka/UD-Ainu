@@ -1,0 +1,9 @@
+# text_ja = 此人の傍に座れ
+# text = Tan guru samata a.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	sama	sama	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	a	a	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

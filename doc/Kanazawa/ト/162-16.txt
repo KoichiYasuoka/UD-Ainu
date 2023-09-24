@@ -1,0 +1,12 @@
+# text_ja = 此村に......が泊つたか
+# text = Tan kotan ta......reushi ruwe he an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kotan	kotan	NOUN	名詞	_	5	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	......	......	PUNCT	記号	_	5	nsubj	_	SpaceAfter=No
+5	reushi	rewsi	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

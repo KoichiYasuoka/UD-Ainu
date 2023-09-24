@@ -1,0 +1,6 @@
+# text_ja = 草の間に
+# text = Mun tumgeta
+1	Mun	mun	NOUN	名詞	_	2	nmod	_	_
+2	tumge	tumke	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+

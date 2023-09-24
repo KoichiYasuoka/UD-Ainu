@@ -1,0 +1,9 @@
+# text_ja = 私の好きな物はない
+# text = Ku kon' rusube isam.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	kon'	kon	VERB	他動詞	_	4	acl	_	_
+3	rusu	rusuy	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	5	nsubj	_	_
+5	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = お前の年はいくつか
+# text = E paha makanak pakno an ruwe an?
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	paha	paha	NOUN	名詞	_	5	nsubj	_	_
+3	makanak	makanak	ADV	副詞	_	5	advmod	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

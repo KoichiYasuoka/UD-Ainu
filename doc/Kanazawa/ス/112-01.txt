@@ -1,0 +1,12 @@
+# page = 112
+# text_ja = 雨は御好きですか
+# text = Apto ash e eramasu ruwe he an?
+1	Apto	apto	NOUN	名詞	_	2	nsubj	_	_
+2	ash	as	VERB	自動詞	_	4	ccomp	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	eramasu	eramasu	VERB	他動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+6	he	he	ADP	副助詞	_	5	case	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

@@ -1,0 +1,12 @@
+# text_ja = 此布團は新しいと思はれぬ
+# text = Tan futon ashiri huton ne shomo ku ramu.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	futon	huton	NOUN	名詞	_	3	nsubj	_	_
+3	ashiri	asir	VERB	自動詞	_	4	amod	_	_
+4	huton	huton	NOUN	名詞	_	8	advcl	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	shomo	somo	ADV	副詞	_	8	advmod	_	_
+7	ku	ku=	PART	人称接辞	_	8	nsubj	_	_
+8	ramu	ramu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,18 @@
+# text_ja = バカ(馬鹿)
+# text = Arataraka; Ramuhaita; Keutum isam guru; Haita guru; Paka ne guru.
+1	Arataraka	artarka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Ramuhaita	ramuhayta	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Keutum	kewtum	NOUN	名詞	_	6	nsubj	_	_
+6	isam	isam	VERB	自動詞	_	7	acl	_	_
+7	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+8	;	;	PUNCT	記号	_	7	punct	_	_
+9	Haita	hayta	VERB	自動詞	_	10	amod	_	_
+10	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+11	;	;	PUNCT	記号	_	10	punct	_	_
+12	Paka	paka	NOUN	名詞	_	14	acl	_	_
+13	ne	ne	AUX	デアル動詞	_	12	cop	_	_
+14	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	14	punct	_	_
+

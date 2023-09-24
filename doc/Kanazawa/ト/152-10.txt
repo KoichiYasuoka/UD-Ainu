@@ -1,0 +1,8 @@
+# text_ja = 朝は何時に戸を開けるか
+# text = Kunneiwa hembara apa maka?
+1	Kunneiwa	kuneywa	ADV	副詞	_	4	advmod	_	_
+2	hembara	hempara	ADV	副詞	_	4	advmod	_	_
+3	apa	apa	NOUN	名詞	_	4	obj	_	_
+4	maka	maka	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

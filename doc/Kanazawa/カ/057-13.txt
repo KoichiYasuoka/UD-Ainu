@@ -1,0 +1,6 @@
+# text_ja = 九十
+# text = Wan e ashikne hotne.
+1	Wan	wan	NUM	数詞	_	2	nummod	_	_
+2	e ashikne hotne	e-asikne-hotne	NUM	数詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

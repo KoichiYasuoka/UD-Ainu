@@ -1,0 +1,9 @@
+# text_ja = 一寸向へ行きます
+# text = Iruka toani un k'arapa.
+1	Iruka	iruka	ADV	副詞	_	5	advmod	_	_
+2	toani	toani	NOUN	名詞	_	5	obl	_	_
+3	un	un	ADP	格助詞	_	2	case	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

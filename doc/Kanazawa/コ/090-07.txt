@@ -1,0 +1,9 @@
+# text_ja = コヽロ(心)
+# text = Kiroro; Ramu; Keutum.
+1	Kiroro	kiror	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Ramu	ramu	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Keutum	kewtum	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 寢處の中が暗くて目がくらんだ
+# text = Shotki oshike kunne ekurot.
+1	Shotki	sotki	NOUN	名詞	_	2	nmod	_	_
+2	oshike	uske	NOUN	形式名詞	_	3	nsubj	_	_
+3	kunne	kunne	VERB	自動詞	_	4	advcl	_	_
+4	ekurot	ekurok	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

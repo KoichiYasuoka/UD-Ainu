@@ -1,0 +1,10 @@
+# text_ja = 今起て居る所じや
+# text = Tane ku hopuni ushike ne wa.
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hopuni	hopuni	VERB	自動詞	_	4	acl	_	_
+4	ushike	uske	NOUN	形式名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	wa	wa	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

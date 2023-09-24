@@ -1,0 +1,5 @@
+# text_ja = コシラヘル(造)
+# text = Kara.
+1	Kara	kar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

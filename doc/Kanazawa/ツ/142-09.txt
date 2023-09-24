@@ -1,0 +1,14 @@
+# text_ja = ......を使ふから一寸貸して吳れ
+# text = ......k'eywange kusu ne wa ponno en erusa yan.
+1	......	......	PUNCT	記号	_	3	obj	_	SpaceAfter=No
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	eywange	eywanke	VERB	他動詞	_	9	advcl	_	_
+4	kusu	kusu	SCONJ	接続助詞	_	3	mark	_	_
+5	ne	ne	AUX	デアル動詞	_	3	cop	_	_
+6	wa	wa	PART	終助詞	_	3	discourse	_	_
+7	ponno	ponno	ADV	副詞	_	9	advmod	_	_
+8	en	en=	PART	人称接辞	_	9	obj	_	_
+9	erusa	erusa	VERB	他動詞	_	0	root	_	_
+10	yan	yan	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

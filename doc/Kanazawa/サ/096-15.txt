@@ -1,0 +1,5 @@
+# text_ja = サカナ(魚)
+# text = Chep.
+1	Chep	cep	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

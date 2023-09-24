@@ -1,0 +1,9 @@
+# text_ja = これは強くてよい
+# text = Tambe nishte wa pirika na.
+1	Tambe	tanpe	NOUN	名詞	_	2	nsubj	_	_
+2	nishte	niste	VERB	自動詞	_	4	advcl	_	_
+3	wa	wa	SCONJ	接続助詞	_	2	mark	_	_
+4	pirika	pirka	VERB	自動詞	_	0	root	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

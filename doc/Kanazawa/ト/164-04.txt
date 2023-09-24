@@ -1,0 +1,6 @@
+# text_ja = さー此を取れ
+# text = Ke uk.
+1	Ke	ke	INTJ	間投詞	_	2	discourse	_	_
+2	uk	uk	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

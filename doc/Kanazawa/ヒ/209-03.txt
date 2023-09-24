@@ -1,0 +1,16 @@
+# text_ja = 此處より晝飯を食ふ所まで何里あるか
+# text = Tewano to-kap ibe ushi pakno hembak ichiri an ruwe he an?
+1	Te	te	NOUN	位置名詞	_	9	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	to-kap	tókap	NOUN	名詞	_	4	nmod	_	_
+4	ibe	ipe	NOUN	名詞	_	5	nmod	_	_
+5	ushi	usi	NOUN	形式名詞	_	9	obl	_	_
+6	pakno	pakno	SCONJ	後置副詞	_	5	case	_	_
+7	hembak	hempak	NUM	数詞	_	8	nummod	_	_
+8	ichiri	iciri	NOUN	名詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	10	acl	_	_
+10	ruwe	ruwe	NOUN	形式名詞	_	12	nsubj	_	_
+11	he	he	ADP	副助詞	_	10	case	_	_
+12	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	記号	_	12	punct	_	_
+

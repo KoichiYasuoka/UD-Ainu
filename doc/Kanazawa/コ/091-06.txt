@@ -1,0 +1,18 @@
+# text_ja = 今年は種々天變がある様だ、今風が吹くらしい
+# text = Tampa usa-tashkoro an ne no an; tane rera ek ne no an.
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	pa	pa	NOUN	名詞	_	6	obl	_	_
+3	usa	usa	ADV	副詞	_	5	amod	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+5	tashkoro	taskor	NOUN	名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	8	advcl	_	_
+7	ne no	neno	SCONJ	後置副詞	_	8	advmod	_	_
+8	an	an	VERB	自動詞	_	14	advcl	_	SpaceAfter=No
+9	;	;	PUNCT	記号	_	8	punct	_	_
+10	tane	tane	ADV	副詞	_	12	advmod	_	_
+11	rera	réra	NOUN	名詞	_	12	nsubj	_	_
+12	ek	ek	VERB	自動詞	_	14	advcl	_	_
+13	ne no	neno	SCONJ	後置副詞	_	14	advmod	_	_
+14	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	14	punct	_	_
+

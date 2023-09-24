@@ -1,0 +1,6 @@
+# page = 169
+# text_ja = ナキツマ(亡妻)
+# text = Sokesepo.
+1	Sokesepo	sokespo	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,16 @@
+# text_ja = 此靴は穿くことが出來ぬから代を拂はぬ
+# text = Tan kere ku kema eush eaikap yakun ataye shomo ku kar na.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kere	ker	NOUN	名詞	_	5	nsubj	_	_
+3	ku	ku=	PART	人称接辞	_	4	det	_	_
+4	kema	kema	NOUN	名詞	_	5	obj	_	_
+5	eush	eus	VERB	他動詞	_	11	advcl	_	_
+6	eaikap	eaykap	AUX	助動詞	_	5	aux	_	_
+7	yakun	yakun	SCONJ	接続助詞	_	5	mark	_	_
+8	ataye	ataye	NOUN	名詞	_	11	obj	_	_
+9	shomo	somo	ADV	副詞	_	11	advmod	_	_
+10	ku	ku=	PART	人称接辞	_	11	nsubj	_	_
+11	kar	kar	VERB	他動詞	_	0	root	_	_
+12	na	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
+

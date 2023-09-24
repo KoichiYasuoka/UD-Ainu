@@ -1,0 +1,7 @@
+# text_ja = 五月から始まりました
+# text = Shinji chup wano oashi.
+1	Shinji chup	sincicup	NOUN	名詞	_	3	obl	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	oashi	oasi	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

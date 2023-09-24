@@ -1,0 +1,7 @@
+# text_ja = ダイドコロ(庖厨)
+# text = Shukne-ushi.
+1	Shukne	suke	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	ushi	usi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = アマノカハ(天の河)
+# text = Pet-noka.
+1	Pet-noka	petnoka	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

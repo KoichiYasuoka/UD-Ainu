@@ -1,0 +1,13 @@
+# text_ja = ケチンボ(吝人)
+# text = Ibe hunara guru; Yaiotupekare; Wen sambe koro guru.
+1	Ibe hunara	ipewnara	VERB	自動詞	_	2	amod	_	_
+2	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Yaiotupekare	yay-otupekare	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	Wen	wen	VERB	自動詞	_	7	amod	_	_
+7	sambe	sanpe	NOUN	名詞	_	8	obj	_	_
+8	koro	kor	VERB	他動詞	_	9	acl	_	_
+9	guru	kur	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

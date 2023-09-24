@@ -1,0 +1,9 @@
+# text_ja = 此村は好きですか
+# text = Tan kotan eramasu ya?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kotan	kotan	NOUN	名詞	_	4	obj	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ramasu	eramasu	VERB	他動詞	_	0	root	_	_
+5	ya	ya	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	4	punct	_	_
+

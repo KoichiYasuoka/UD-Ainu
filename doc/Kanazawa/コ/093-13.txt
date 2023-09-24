@@ -1,0 +1,7 @@
+# text_ja = これ程美麗だ
+# text = Ene pirika hi.
+1	Ene	ene	ADV	副詞	_	2	advmod	_	_
+2	pirika	pirka	VERB	自動詞	_	3	acl	_	_
+3	hi	hi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

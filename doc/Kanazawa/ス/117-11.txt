@@ -1,0 +1,11 @@
+# text_ja = 外の人が坐つて居つた
+# text = Moshima guru a-ushike ne wa.
+1	Moshima	mosma	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nsubj	_	_
+3	a	a	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+5	ushike	usike	NOUN	形式名詞	_	0	root	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+7	wa	wa	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

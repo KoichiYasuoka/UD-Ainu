@@ -1,0 +1,9 @@
+# text_ja = どこか痛いか
+# text = Ene oroka araka ruwe?
+1	Ene	ene	ADV	副詞	_	4	advmod	_	_
+2	oro	oro	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ka	ka	ADP	副助詞	_	2	case	_	_
+4	araka	arka	VERB	自動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

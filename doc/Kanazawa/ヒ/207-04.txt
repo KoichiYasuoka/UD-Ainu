@@ -1,0 +1,7 @@
+# text_ja = 顔色が靑い
+# text = Iporo katka sak.
+1	Iporo	iporo	NOUN	名詞	_	2	nmod	_	_
+2	katka	katka	NOUN	位置名詞	_	3	obj	_	_
+3	sak	sak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

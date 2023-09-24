@@ -1,0 +1,8 @@
+# text_ja = 一度に澤山炭を入れるな
+# text = Iteki poronno hoha omare.
+1	Iteki	iteki	ADV	副詞	_	4	advmod	_	_
+2	poronno	poronno	ADV	副詞	_	4	advmod	_	_
+3	hoha	hoka	NOUN	名詞	_	4	obj	_	_
+4	omare	omare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

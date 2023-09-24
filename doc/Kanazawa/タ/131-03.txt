@@ -1,0 +1,9 @@
+# text_ja = アイヌは何を喰ひますか
+# text = Ainu hemanta ep oka?
+1	Ainu	aynu	NOUN	名詞	_	2	nmod	_	_
+2	hemanta	hemanta	NOUN	名詞	_	3	obj	_	_
+3	e	e	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	5	nsubj	_	_
+5	oka	oka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

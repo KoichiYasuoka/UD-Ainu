@@ -1,0 +1,7 @@
+# text_ja = 大きくなるまで育てる
+# text = Rupne pakno arikiki.
+1	Rupne	rupne	VERB	自動詞	_	3	advcl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	mark	_	_
+3	arikiki	arikiki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

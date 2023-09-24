@@ -1,0 +1,10 @@
+# page = 260
+# text_ja = 此月から降ります
+# text = Tan chup wano upas ash.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	chup	cup	NOUN	名詞	_	5	obl	_	_
+3	wano	wano	ADP	格助詞	_	2	case	_	_
+4	upas	upas	NOUN	名詞	_	5	nsubj	_	_
+5	ash	as	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

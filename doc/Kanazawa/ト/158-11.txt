@@ -1,0 +1,8 @@
+# text_ja = 一昨々年
+# text = Hoshikean saknepa.
+1	Hoshike	hoski	ADV	副詞	_	2	advmod	_	SpaceAfter=No
+2	an	an	VERB	自動詞	_	4	acl	_	_
+3	sakne	sakne	ADV	副詞	_	4	amod	_	SpaceAfter=No
+4	pa	pa	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

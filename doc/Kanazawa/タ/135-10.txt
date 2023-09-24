@@ -1,0 +1,12 @@
+# text_ja = これは誰に賴めばよいか
+# text = Tambe hunna aenishukkara chiki pirika ruwe an?
+1	Tambe	tanpe	NOUN	名詞	_	4	obj	_	_
+2	hunna	hunna	NOUN	名詞	_	4	iobj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	enishukkara	enisukkar	VERB	他動詞	_	6	advcl	_	_
+5	chiki	ciki	SCONJ	接続助詞	_	4	mark	_	_
+6	pirika	pirka	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

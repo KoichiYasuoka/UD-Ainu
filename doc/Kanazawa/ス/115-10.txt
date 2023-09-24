@@ -1,0 +1,19 @@
+# text_ja = これは私がするのか外の人がするのか
+# text = Tan akarabe kani ku kar ruwe, moshima guru kan'ruwe he an?
+1	Tan	tan	DET	連体詞	_	4	det	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	kara	kar	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	7	obj	_	_
+5	kani	káni	PRON	代名詞	_	4	case	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	kar	kar	VERB	他動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	15	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	moshima	mosma	DET	連体詞	_	11	det	_	_
+11	guru	kur	NOUN	名詞	_	12	nsubj	_	_
+12	kan'	kar	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ruwe	ruwe	NOUN	形式名詞	_	15	nsubj	_	_
+14	he	he	ADP	副助詞	_	13	case	_	_
+15	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	?	?	PUNCT	記号	_	15	punct	_	_
+

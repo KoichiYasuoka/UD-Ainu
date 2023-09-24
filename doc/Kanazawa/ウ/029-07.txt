@@ -1,0 +1,8 @@
+# text_ja = 海神
+# text = Rep-un Kamui.
+1	Rep	rep	NOUN	位置名詞	_	3	obj	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	un	un	VERB	他動詞	_	4	acl	_	_
+4	Kamui	kamuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

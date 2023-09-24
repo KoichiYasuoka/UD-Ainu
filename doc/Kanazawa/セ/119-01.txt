@@ -1,0 +1,8 @@
+# page = 119
+# text_ja = ゼータク(贅澤)
+# text = Yayotupekare shomo ki.
+1	Yayotupekare	yay'otupekare	VERB	自動詞	_	0	root	_	_
+2	shomo	somo	ADV	副詞	_	3	advmod	_	_
+3	ki	ki	AUX	助動詞	_	1	aux	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

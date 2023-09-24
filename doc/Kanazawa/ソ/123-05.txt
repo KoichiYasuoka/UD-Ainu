@@ -1,0 +1,8 @@
+# text_ja = もッとそろゝゝと云へ
+# text = Naa ratchitara itak yan.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	ratchitara	ratcitara	ADV	副詞	_	3	advmod	_	_
+3	itak	itak	VERB	自動詞	_	0	root	_	_
+4	yan	yan	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

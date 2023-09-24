@@ -1,0 +1,8 @@
+# page = 240
+# text_ja = 私の見た所では
+# text = Ku nukar'hike.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	nukar'	nukar	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	hike	hike	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

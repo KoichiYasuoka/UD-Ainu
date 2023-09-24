@@ -1,0 +1,15 @@
+# text_ja = 今日汽車に乘て横濱まで行きます
+# text = Tando kisha k'o wa Yokohama kotan oro pakno k'arapa.
+1	Tando	tanto	ADV	副詞	_	4	advmod	_	_
+2	kisha	kisa	NOUN	名詞	_	4	obj	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	o	o	VERB	他動詞	_	11	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	Yokohama	Yokohama	PROPN	固有名詞	_	7	nmod	_	_
+7	kotan	kotan	NOUN	名詞	_	8	nmod	_	_
+8	oro	oro	NOUN	位置名詞	_	11	obl	_	_
+9	pakno	pakno	SCONJ	後置副詞	_	8	case	_	_
+10	k'	k=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

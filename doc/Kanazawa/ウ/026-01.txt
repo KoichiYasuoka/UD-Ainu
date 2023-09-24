@@ -1,0 +1,18 @@
+# page = 26
+# text_ja = 子も歌ふから汝も歌へ
+# text = Kani ka shinotcha ku ki kusu ne na eani hem shinotcha ki yan.
+1	Kani	káni	PRON	代名詞	_	5	nsubj	_	_
+2	ka	ka	ADP	副助詞	_	1	case	_	_
+3	shinotcha	sinotca	NOUN	名詞	_	5	obj	_	_
+4	ku	ku=	PART	人称接辞	_	5	expl	_	_
+5	ki	ki	VERB	他動詞	_	12	advcl	_	_
+6	kusu	kusu	SCONJ	接続助詞	_	5	mark	_	_
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+8	na	na	PART	終助詞	_	5	discourse	_	_
+9	eani	eani	PRON	代名詞	_	12	nsubj	_	_
+10	hem	hem	ADP	副助詞	_	9	case	_	_
+11	shinotcha	sinotca	NOUN	名詞	_	12	obj	_	_
+12	ki	ki	VERB	他動詞	_	0	root	_	_
+13	yan	yan	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	12	punct	_	_
+

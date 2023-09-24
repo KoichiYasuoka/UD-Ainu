@@ -1,0 +1,7 @@
+# text_ja = 縄にて繋ぐ
+# text = Tush ani kote.
+1	Tush	tus	NOUN	名詞	_	3	obl	_	_
+2	ani	ani	SCONJ	後置副詞	_	1	case	_	_
+3	kote	kote	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

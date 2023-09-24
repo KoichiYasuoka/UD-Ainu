@@ -1,0 +1,6 @@
+# text_ja = ツイテユク
+# text = Osh arapa.
+1	Osh	os	SCONJ	後置副詞	_	2	advmod	_	_
+2	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

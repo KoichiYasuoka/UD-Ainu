@@ -1,0 +1,7 @@
+# text_ja = イバラ(蕀)
+# text = Ai-ush-ni; Ai-o-ni.
+1	Ai-ush-ni	ayusni	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Ai-o-ni	ayoni	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

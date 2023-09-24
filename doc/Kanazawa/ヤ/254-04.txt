@@ -1,0 +1,5 @@
+# text_ja = 山崩
+# text = Saraka kushbe.
+1	Saraka kushbe	sarkakuspe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

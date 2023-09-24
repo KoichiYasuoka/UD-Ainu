@@ -1,0 +1,5 @@
+# text_ja = イ子ムル(眠)
+# text = Aheshuye.
+1	Aheshuye	ahesuye	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

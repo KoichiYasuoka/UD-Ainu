@@ -1,0 +1,8 @@
+# text_ja = オボエル(覺)
+# text = Keutum otta shik kashima.
+1	Keutum	kewtum	NOUN	名詞	_	2	nmod	_	_
+2	otta	ot	NOUN	位置名詞	_	4	obl	_	_
+3	shik	ta	ADP	格助詞	_	2	case	_	_
+4	kashima	sikkasma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

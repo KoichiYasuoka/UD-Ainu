@@ -1,0 +1,11 @@
+# text_ja = カレル(枯)
+# text = Shukush ewen; Shukush chire; Chi.
+1	Shukush	sukus	NOUN	名詞	_	2	obj	_	_
+2	ewen	ewen	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Shukush	sukus	NOUN	名詞	_	5	obj	_	_
+5	chire	cire	VERB	他動詞	_	2	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	記号	_	5	punct	_	_
+7	Chi	ci	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

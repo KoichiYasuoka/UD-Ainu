@@ -1,0 +1,6 @@
+# page = 141
+# text_ja = 大膓
+# text = Kankan.
+1	Kankan	kankan	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

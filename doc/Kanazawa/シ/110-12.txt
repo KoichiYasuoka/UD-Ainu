@@ -1,0 +1,8 @@
+# text_ja = 心配するな
+# text = Yaykouwepekere ka shomoki.
+1	Yaykouwepekere	yaykouwepeker	VERB	自動詞	_	4	advcl	_	_
+2	ka	ka	ADP	副助詞	_	1	mark	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

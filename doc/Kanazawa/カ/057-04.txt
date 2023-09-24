@@ -1,0 +1,5 @@
+# text_ja = 九
+# text = Shinepesan.
+1	Shinepesan	sinepesanpe	NUM	数詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

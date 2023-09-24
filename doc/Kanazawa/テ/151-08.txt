@@ -1,0 +1,9 @@
+# text_ja = 明日は天氣だろー
+# text = Nishatta to-pirika nangoro.
+1	Nishatta	nisatta	ADV	副詞	_	4	advmod	_	_
+2	to	to	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	pirika	pirka	VERB	自動詞	_	0	root	_	_
+5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

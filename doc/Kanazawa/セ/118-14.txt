@@ -1,0 +1,19 @@
+# text_ja = まだ外に寄る所がありますから急くのです
+# text = Moshima ushike un k'arapa ushike ka an wa gusu ku yaikimatekka hawe ne wa.
+1	Moshima	mosma	DET	連体詞	_	2	det	_	_
+2	ushike	usike	NOUN	形式名詞	_	5	obl	_	_
+3	un	un	ADP	格助詞	_	2	case	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	arapa	arpa	VERB	自動詞	_	6	acl	_	_
+6	ushike	usike	NOUN	形式名詞	_	8	nsubj	_	_
+7	ka	ka	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	12	advcl	_	_
+9	wa	wa	SCONJ	接続助詞	_	8	mark	_	_
+10	gusu	kusu	SCONJ	接続詞	_	8	mark	_	_
+11	ku	ku=	PART	人称接辞	_	12	nsubj	_	_
+12	yaikimatekka	yaykimatekka	VERB	自動詞	_	13	acl	_	_
+13	hawe	hawe	NOUN	形式名詞	_	0	root	_	_
+14	ne	ne	AUX	デアル動詞	_	13	cop	_	_
+15	wa	wa	PART	終助詞	_	13	discourse	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	13	punct	_	_
+

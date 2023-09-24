@@ -1,0 +1,12 @@
+# text_ja = おれ等も行きたい
+# text = Chōka(chōbitta)ka paye ash rusui.
+1	Chōka	coka	PRON	代名詞	_	6	obl	_	SpaceAfter=No
+2	(	(	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	chōbitta	copitta	ADV	副詞	_	1	conj	_	SpaceAfter=No
+4	)	)	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	ka	ka	ADP	副助詞	_	1	case	_	_
+6	paye	paye	VERB	自動詞	_	0	root	_	_
+7	ash	=as	PART	人称接辞	_	6	nsubj	_	_
+8	rusui	rusuy	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	6	punct	_	_
+

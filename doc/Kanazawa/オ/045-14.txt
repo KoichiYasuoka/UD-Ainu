@@ -1,0 +1,4 @@
+# text_ja = オレル(折)
+# text = Kai
+1	Kai	kay	VERB	自動詞	_	0	root	_	_
+

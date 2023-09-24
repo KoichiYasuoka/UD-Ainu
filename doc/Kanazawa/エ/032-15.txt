@@ -1,0 +1,7 @@
+# text_ja = 角の枝
+# text = Au ush kirau.
+1	Au	aw	NOUN	名詞	_	2	obj	_	_
+2	ush	us	VERB	他動詞	_	3	acl	_	_
+3	kirau	kiraw	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = ナンベン(何度)
+# text = Hembak shui.
+1	Hembak	hempak	NUM	数詞	_	0	root	_	_
+2	shui	suy	NOUN	名詞	_	1	clf	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

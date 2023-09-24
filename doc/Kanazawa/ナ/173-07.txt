@@ -1,0 +1,8 @@
+# text_ja = 成丈け早く
+# text = Eashkai pakno tunash no.
+1	Eashkai	easkay	VERB	他動詞	_	3	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	tunash	túnas	VERB	自動詞	_	0	root	_	_
+4	no	no	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

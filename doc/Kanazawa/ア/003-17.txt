@@ -1,0 +1,5 @@
+# text_ja = 明々後日
+# text = Oyashimshimge.
+1	Oyashimshimge	oyasimsimke	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

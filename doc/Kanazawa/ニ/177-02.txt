@@ -1,0 +1,10 @@
+# text_ja = 此荷物沾れないよーに氣を付けて吳れ
+# text = Tan kingai iteki teine kuni ne shikkashma.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kingai	kinkay	NOUN	名詞	_	4	nsubj	_	_
+3	iteki	iteki	ADV	副詞	_	4	advmod	_	_
+4	teine	teyne	VERB	自動詞	_	6	advcl	_	_
+5	kuni ne	kunine	SCONJ	接続助詞	_	4	mark	_	_
+6	shikkashma	sikkasma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 一人前幾何だ
+# text = Shinen atarimaye nep pakno an na?
+1	Shinen	sinen	NUM	数詞	_	2	nummod	_	_
+2	atarimaye	atarimae	NOUN	名詞	_	5	nsubj	_	_
+3	nep	nep	NOUN	名詞	_	5	obl	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	0	root	_	_
+6	na	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

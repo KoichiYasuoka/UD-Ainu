@@ -1,0 +1,7 @@
+# text_ja = 急いで行け
+# text = Chash kane oman.
+1	Chash	cas	VERB	自動詞	_	3	advcl	_	_
+2	kane	kane	SCONJ	接続助詞	_	1	mark	_	_
+3	oman	oman	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

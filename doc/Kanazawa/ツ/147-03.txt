@@ -1,0 +1,12 @@
+# text_ja = あの人の家まで一寸連れて行て吳れ
+# text = Nei guru chisei orun iruka en tura.
+1	Nei	ne	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	chisei	cise	NOUN	名詞	_	4	nmod	_	_
+4	or	or	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+5	un	un	ADP	格助詞	_	4	case	_	_
+6	iruka	iruka	ADV	副詞	_	8	advmod	_	_
+7	en	en=	PART	人称接辞	_	8	obj	_	_
+8	tura	tura	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

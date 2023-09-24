@@ -1,0 +1,11 @@
+# text_ja = どーしても出來ない
+# text = Neun neyakka ku niukesh hawe ne.
+1	Neun	neun	ADV	副詞	_	5	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	niukesh	niwkes	VERB	他動詞	_	6	acl	_	_
+6	hawe	hawe	NOUN	形式名詞	_	0	root	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

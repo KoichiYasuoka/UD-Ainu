@@ -1,0 +1,13 @@
+# text_ja = サヨーナラ
+# text = Sarampa. Popkeno okai yan. Uwetutkopak an an.
+1	Sarampa	sarampa	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+3	Popkeno	popkeno	ADV	副詞	_	4	advmod	_	_
+4	okai	okay	VERB	自動詞	_	1	parataxis	_	_
+5	yan	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+7	Uwetutkopak	uwetutkopak	VERB	自動詞	_	8	advcl	_	_
+8	an	an	VERB	自動詞	_	1	parataxis	_	_
+9	an	yan	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

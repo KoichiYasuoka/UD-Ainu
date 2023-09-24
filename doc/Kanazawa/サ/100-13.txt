@@ -1,0 +1,7 @@
+# text_ja = サンバンメ(三番目)
+# text = Naa otutanu Ieerep.
+1	Naa	naa	ADV	副詞	_	2	advmod	_	_
+2	otutanu	otutanu	DET	連体詞	_	0	root	_	_
+3	Ieerep	iyeerep	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

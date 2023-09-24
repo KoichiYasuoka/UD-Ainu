@@ -1,0 +1,9 @@
+# text_ja = 汝は幾歳なりや
+# text = E paha hembak pa an?
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	paha	paha	NOUN	名詞	_	5	nsubj	_	_
+3	hembak	hempak	NUM	数詞	_	4	nummod	_	_
+4	pa	pa	NOUN	名詞	_	5	obl	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

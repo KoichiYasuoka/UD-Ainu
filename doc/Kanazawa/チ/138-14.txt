@@ -1,0 +1,11 @@
+# text_ja = 此物は其物と違ふ
+# text = Tanbe anakne toambe echutko no an.
+1	Tanbe	tanpe	NOUN	名詞	_	5	nsubj	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	toam	toan	DET	連体詞	_	4	det	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	5	obl	_	_
+5	echutko	ecutko	VERB	自動詞	_	7	advcl	_	_
+6	no	no	SCONJ	接続助詞	_	5	mark	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

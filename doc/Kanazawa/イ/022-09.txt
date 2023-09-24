@@ -1,0 +1,8 @@
+# text_ja = 種々あります
+# text = Uweshinnay-no okaibe oka wa.
+1	Uweshinnay-no	uwesinnayno	ADV	副詞	_	3	advmod	_	_
+2	okaibe	okaype	NOUN	名詞	_	3	nsubj	_	_
+3	oka	oka	VERB	自動詞	_	0	root	_	_
+4	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

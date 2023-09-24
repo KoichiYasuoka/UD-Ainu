@@ -1,0 +1,11 @@
+# text_ja = 御蔭で命が助かりました
+# text = E an kusu kerai ku shiknu ruwe ne.
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	an	an	VERB	自動詞	_	5	advcl	_	_
+3	kusu kerai	kuskeray	ADV	副詞	_	5	advmod	_	_
+4	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	shiknu	siknu	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+7	ne	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

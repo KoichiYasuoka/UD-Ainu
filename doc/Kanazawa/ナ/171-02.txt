@@ -1,0 +1,15 @@
+# text_ja = 何と云ふ魚を賣て居るか尋ねて來い
+# text = Hemanda chep eiyok ruwehe an arapa wa nu wa ek.
+1	Hemanda	hemanta	NOUN	名詞	_	2	nmod	_	_
+2	chep	cep	NOUN	名詞	_	3	nsubj	_	_
+3	eiyok	eiyok	VERB	他動詞	_	4	acl	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	SpaceAfter=No
+5	he	he	ADP	副助詞	_	4	case	_	_
+6	an	an	VERB	自動詞	_	7	advcl	_	_
+7	arapa	arpa	VERB	自動詞	_	9	advcl	_	_
+8	wa	wa	SCONJ	接続助詞	_	7	mark	_	_
+9	nu	nu	VERB	他動詞	_	11	advcl	_	_
+10	wa	wa	SCONJ	接続助詞	_	9	mark	_	_
+11	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

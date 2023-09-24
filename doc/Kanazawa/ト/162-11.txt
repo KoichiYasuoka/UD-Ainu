@@ -1,0 +1,5 @@
+# text_ja = トブ(跳)
+# text = Tereke.
+1	Tereke	terke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

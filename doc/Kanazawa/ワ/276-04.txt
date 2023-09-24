@@ -1,0 +1,10 @@
+# text_ja = ワタシバ(渡塲)
+# text = Ukushipa-ushi; Iku-sai.
+1	Ukushipa	ukuspa	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	ushi	usi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Iku-sa	ikusa	VERB	自動詞	_	6	amod	_	SpaceAfter=No
+6	i	i	NOUN	形式名詞	_	3	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

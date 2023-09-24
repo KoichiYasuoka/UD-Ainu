@@ -1,0 +1,13 @@
+# text_ja = 何時札幌へ行きましたか
+# text = Hembara Satporo orota e arapa ani hi an?
+1	Hembara	hempara	ADV	副詞	_	6	advmod	_	_
+2	Satporo	Satporo	PROPN	固有名詞	_	3	nmod	_	_
+3	oro	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	e	e=	PART	人称接辞	_	6	nsubj	_	_
+6	arapa	arpa	VERB	自動詞	_	8	acl	_	_
+7	ani	ani	SCONJ	後置副詞	_	6	mark	_	_
+8	hi	hi	NOUN	形式名詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

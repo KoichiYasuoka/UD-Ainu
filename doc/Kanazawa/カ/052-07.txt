@@ -1,0 +1,5 @@
+# text_ja = カキノボル(欅)
+# text = Nimu.
+1	Nimu	nimu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

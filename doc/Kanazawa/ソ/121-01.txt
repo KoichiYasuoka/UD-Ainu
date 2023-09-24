@@ -1,0 +1,8 @@
+# page = 121
+# text_ja = 其通だ
+# text = Ruwe ne wa.
+1	Ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	wa	wa	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

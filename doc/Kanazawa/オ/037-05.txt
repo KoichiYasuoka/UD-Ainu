@@ -1,0 +1,8 @@
+# text_ja = 傍に置け
+# text = E epaketa anu.
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	epake	epake	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	anu	anu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 用意が出來たか
+# text = Yaietokooiki e okere ruwe he an?
+1	Yaietokooiki	yayetokoyki	VERB	自動詞	_	3	advcl	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	okere	okere	VERB	他動詞	_	4	acl	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
+5	he	he	ADP	副助詞	_	4	case	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

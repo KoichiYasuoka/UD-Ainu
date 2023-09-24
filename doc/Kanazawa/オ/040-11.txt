@@ -1,0 +1,7 @@
+# text_ja = オチツイタル(落付)
+# text = Ram-oshitchiure. Keutum-oshitchiu.
+1	Ram-oshitchiure	ram'ositciwre	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+3	Keutum-oshitchiu	kewtum'ositciw	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

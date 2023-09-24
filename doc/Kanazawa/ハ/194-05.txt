@@ -1,0 +1,15 @@
+# text_ja = 此村に日本語を談す人はないか
+# text = Tan kotan ta nenka shisam itak eashkai guru an ruwe?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kotan	kotan	NOUN	名詞	_	8	obl	_	_
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	nen	nen	PRON	代名詞	_	8	nsubj	_	SpaceAfter=No
+5	ka	ka	ADP	副助詞	_	4	case	_	_
+6	shisam	sísam	NOUN	名詞	_	7	nmod	_	_
+7	itak	itak	NOUN	名詞	_	8	obj	_	_
+8	eashkai	easkay	VERB	他動詞	_	9	acl	_	_
+9	guru	kur	NOUN	名詞	_	10	nsubj	_	_
+10	an	an	VERB	自動詞	_	11	acl	_	_
+11	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+12	?	?	PUNCT	記号	_	11	punct	_	_
+

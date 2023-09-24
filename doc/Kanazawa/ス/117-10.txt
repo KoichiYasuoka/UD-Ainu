@@ -1,0 +1,11 @@
+# text_ja = 誰れかが坐つて居つた場所か
+# text = Nenka a-ushike he an?
+1	Nen	nen	PRON	代名詞	_	3	nsubj	_	SpaceAfter=No
+2	ka	ka	ADP	副助詞	_	1	case	_	_
+3	a	a	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	ushike	usike	NOUN	形式名詞	_	7	nsubj	_	_
+6	he	he	ADP	副助詞	_	5	case	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

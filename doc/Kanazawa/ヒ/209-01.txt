@@ -1,0 +1,10 @@
+# page = 209
+# text_ja = 部屋へお這入なさい
+# text = Tumbu orun paye an.
+1	Tumbu	tumpu	NOUN	名詞	_	2	nmod	_	_
+2	or	or	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	un	un	ADP	格助詞	_	2	case	_	_
+4	paye	paye	VERB	自動詞	_	0	root	_	_
+5	an	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

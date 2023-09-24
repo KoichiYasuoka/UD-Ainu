@@ -1,0 +1,7 @@
+# text_ja = 少しも無い
+# text = Am ras pakno isam.
+1	Am ras	amras	NOUN	名詞	_	3	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

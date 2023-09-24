@@ -1,0 +1,7 @@
+# text_ja = 頭を氣を付けよ
+# text = E sapa eyam.
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	sapa	sapa	NOUN	名詞	_	3	obj	_	_
+3	eyam	eyam	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = ナラ(楢)
+# text = Pero-ni.
+1	Pero-ni	péroni	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

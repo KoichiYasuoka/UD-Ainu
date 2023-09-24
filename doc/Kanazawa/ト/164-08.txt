@@ -1,0 +1,9 @@
+# text_ja = 此處は通てはならぬ
+# text = Tan ushike akush eaikap.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ushike	uske	NOUN	形式名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	kush	kus	VERB	他動詞	_	0	root	_	_
+5	eaikap	eaykap	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

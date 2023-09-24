@@ -1,0 +1,6 @@
+# text_ja = 弛口
+# text = Kuka shinkop.
+1	Kuka	kúka	NOUN	名詞	_	2	nmod	_	_
+2	shinkop	sinkop	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 遅くれると惡いから
+# text = moire anakne wen na.
+1	moire	Moyre	VERB	自動詞	_	3	advcl	_	_
+2	anakne	anakne	ADP	副助詞	_	1	mark	_	_
+3	wen	wen	VERB	自動詞	_	0	root	_	_
+4	na	na	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = アカルイ(明)
+# text = Shiri maknatara; Shiri pekere.
+1	Shiri maknatara	sirmaknatara	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Shiri pekere	sirpeker	VERB	完全動詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

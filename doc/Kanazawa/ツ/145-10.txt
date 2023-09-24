@@ -1,0 +1,7 @@
+# text_ja = ツマ(妻)
+# text = Matne-mat.
+1	Matne	matne	DET	連体詞	_	3	det	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	mat	mat	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

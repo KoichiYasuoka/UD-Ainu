@@ -1,0 +1,10 @@
+# text_ja = 私も行きます
+# text = Kuani ka ku oman kusu ne.
+1	Kuani	kuani	PRON	代名詞	_	4	nsubj	_	_
+2	ka	ka	ADP	副助詞	_	1	case	_	_
+3	ku	ku=	PART	人称接辞	_	4	expl	_	_
+4	oman	oman	VERB	自動詞	_	0	root	_	_
+5	kusu	kusu	SCONJ	接続助詞	_	4	mark	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

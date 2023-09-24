@@ -1,0 +1,9 @@
+# text_ja = 今日は凪だろーか
+# text = Tando noto pirika nangor'a?
+1	Tando	tanto	ADV	副詞	_	3	advmod	_	_
+2	noto	noto	NOUN	名詞	_	3	nsubj	_	_
+3	pirika	pirka	VERB	自動詞	_	0	root	_	_
+4	nangor'	nankor	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	a	ya	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = オコリ(瘧)
+# text = Topish-ki.
+1	Topish-ki	topiski	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = イッサクジツ(一昨日)
+# text = Hoshiki-numan.
+1	Hoshiki-numan	hoskinuman	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

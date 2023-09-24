@@ -1,0 +1,14 @@
+# page = 16
+# text_ja = 心配するな戰争は止だから
+# text = Yaikouwepekere ka shomoki, tane tumi oka an.
+1	Yaikouwepekere	yaykouwepeker	VERB	自動詞	_	4	advcl	_	_
+2	ka	ka	ADP	副助詞	_	1	mark	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+4	ki	ki	VERB	他動詞	_	9	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	記号	_	4	punct	_	_
+6	tane	tane	ADV	副詞	_	9	advmod	_	_
+7	tumi	tumi	NOUN	名詞	_	8	nmod	_	_
+8	oka	oka	NOUN	位置名詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

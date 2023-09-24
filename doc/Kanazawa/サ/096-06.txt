@@ -1,0 +1,9 @@
+# text_ja = 何を汝は探して居るか
+# text = Hemanda e hunara shiri an?
+1	Hemanda	hemanta	NOUN	名詞	_	3	obj	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	hunara	hunara	VERB	他動詞	_	4	acl	_	_
+4	shiri	siri	NOUN	形式名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

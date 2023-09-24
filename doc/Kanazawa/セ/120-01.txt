@@ -1,0 +1,10 @@
+# page = 120
+# text_ja = センゾ(先祖)
+# text = Shinrit; Henge; Ekashi.
+1	Shinrit	sinricihi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Henge	henke	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Ekashi	ekasi	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

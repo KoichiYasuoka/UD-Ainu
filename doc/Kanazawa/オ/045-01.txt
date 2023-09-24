@@ -1,0 +1,6 @@
+# page = 45
+# text_ja = オル(居)
+# text = An.
+1	An	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,13 @@
+# text_ja = 川向
+# text = Pet-kushta; Pet-ikushta.
+1	Pet	pet	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	kush	kus	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	3	punct	_	_
+6	Pet	pet	NOUN	名詞	_	8	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	記号	_	8	punct	_	SpaceAfter=No
+8	ikush	ikus	NOUN	位置名詞	_	3	parataxis	_	SpaceAfter=No
+9	ta	ta	ADP	格助詞	_	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

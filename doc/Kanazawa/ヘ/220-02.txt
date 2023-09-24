@@ -1,0 +1,14 @@
+# text_ja = 寢床をお見せ申ますから一寸お出で下さい
+# text = Mokor-ushike echi nukare kusu ne na irukai ek.
+1	Mokor	mokor	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	ushike	uske	NOUN	形式名詞	_	5	obj	_	_
+4	echi	eci=	PART	人称接辞	_	5	nsubj	_	_
+5	nukare	nukare	VERB	他動詞	_	10	advcl	_	_
+6	kusu	kusu	SCONJ	接続詞	_	5	mark	_	_
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+8	na	na	PART	終助詞	_	5	discourse	_	_
+9	irukai	iruka	ADV	副詞	_	10	advmod	_	_
+10	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

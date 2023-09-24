@@ -1,0 +1,14 @@
+# page = 89
+# text_ja = 御機嫌よろしゆー、さー御這入なさい
+# text = Pirika hi ne eci ariki na hetak ahup yan!
+1	Pirika	pirka	VERB	自動詞	_	2	amod	_	_
+2	hi	hi	NOUN	形式名詞	_	5	advcl	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	_
+4	eci	eci=	PART	人称接辞	_	5	nsubj	_	_
+5	ariki	arki	VERB	自動詞	_	8	advcl	_	_
+6	na	na	PART	終助詞	_	5	discourse	_	_
+7	hetak	hetak	INTJ	間投詞	_	8	discourse	_	_
+8	ahup	ahup	VERB	自動詞	_	0	root	_	_
+9	yan	yan	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+10	!	!	PUNCT	記号	_	8	punct	_	_
+

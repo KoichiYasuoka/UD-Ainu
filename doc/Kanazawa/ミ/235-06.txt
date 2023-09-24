@@ -1,0 +1,14 @@
+# text_ja = 沙流まで何里ありますか
+# text = Saru pakno hembak-no ichiri an ruwe he an?
+1	Saru	Saru	PROPN	固有名詞	_	7	obl	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	hembak	hempak	NUM	数詞	_	6	nummod	_	SpaceAfter=No
+4	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	no	no	SCONJ	接続助詞	_	1	case	_	_
+6	ichiri	iciri	NOUN	名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	he	he	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

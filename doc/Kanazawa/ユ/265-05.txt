@@ -1,0 +1,7 @@
+# text_ja = 帶を緩めて吳れ
+# text = Ku kut saurere.
+1	Ku	ku=	PART	人称接辞	_	2	det	_	_
+2	kut	kut	NOUN	名詞	_	3	obj	_	_
+3	saurere	sawrere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

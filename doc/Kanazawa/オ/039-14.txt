@@ -1,0 +1,7 @@
+# text_ja = 教えて吳れ
+# text = En epakashnu yan.
+1	En	en=	PART	人称接辞	_	2	obj	_	_
+2	epakashnu	epakasnu	VERB	他動詞	_	0	root	_	_
+3	yan	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

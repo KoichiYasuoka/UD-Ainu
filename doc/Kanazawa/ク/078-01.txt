@@ -1,0 +1,9 @@
+# page = 78
+# text_ja = この靴はあまり小さい
+# text = Tan kere mashkinno pon.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kere	keri	NOUN	名詞	_	4	nsubj	_	_
+3	mashkinno	maskinno	ADV	副詞	_	4	advmod	_	_
+4	pon	pon	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

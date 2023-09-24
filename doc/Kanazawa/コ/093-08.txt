@@ -1,0 +1,12 @@
+# text_ja = これは幾何拂へばよいか
+# text = Tambet aaye nep pakno k'arapare chiki pirika?
+1	Tambe	tanpe	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	t aaye	ataye	NOUN	名詞	_	3	nmod	_	_
+3	nep	nep	NOUN	名詞	_	6	obl	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	arapare	arpare	VERB	他動詞	_	8	advcl	_	_
+7	chiki	ciki	SCONJ	接続助詞	_	6	mark	_	_
+8	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

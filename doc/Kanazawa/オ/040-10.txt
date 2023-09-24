@@ -1,0 +1,7 @@
+# text_ja = おやゝゝ恐ろしい
+# text = Iramkambara tap hawash.
+1	Iramkambara	iramkarpare	INTJ	間投詞	_	3	discourse	_	_
+2	tap	tap	ADP	副助詞	_	1	case	_	_
+3	hawash	háwas	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

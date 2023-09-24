@@ -1,0 +1,7 @@
+# text_ja = さーまいりましよー
+# text = Tane paye an.
+1	Tane	tane	ADV	副詞	_	2	advmod	_	_
+2	paye	paye	VERB	自動詞	_	0	root	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

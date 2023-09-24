@@ -1,0 +1,6 @@
+# title = チ
+# text_ja = チ(血)
+# text = Kem.
+1	Kem	kem	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

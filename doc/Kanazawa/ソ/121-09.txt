@@ -1,0 +1,9 @@
+# text_ja = ソダテル(育)
+# text = Reshu; Reshpa; Ureshpa.
+1	Reshu	resu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Reshpa	respa	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Ureshpa	urespa	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

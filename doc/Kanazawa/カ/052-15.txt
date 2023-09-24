@@ -1,0 +1,7 @@
+# text_ja = ガクシャ(學者)
+# text = Keutum okere guru.
+1	Keutum	kewtum	NOUN	名詞	_	2	obj	_	_
+2	okere	okere	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

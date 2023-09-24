@@ -1,0 +1,10 @@
+# text_ja = もー少しあちらへ寄れ
+# text = Naa ponno ikushta rok an.
+1	Naa	naa	ADV	副詞	_	5	advmod	_	_
+2	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+3	ikush	ikus	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	rok	rok	VERB	自動詞	_	0	root	_	_
+6	an	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

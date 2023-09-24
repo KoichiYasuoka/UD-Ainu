@@ -1,0 +1,5 @@
+# text_ja = 肋骨
+# text = Ut-nit.
+1	Ut-nit	utnit	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

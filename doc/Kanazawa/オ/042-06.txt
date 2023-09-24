@@ -1,0 +1,7 @@
+# text_ja = オナゴ(女)
+# text = Menoko; Shiwendep.
+1	Menoko	menoko	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Shiwendep	siwentep	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

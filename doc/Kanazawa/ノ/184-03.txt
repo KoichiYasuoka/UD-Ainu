@@ -1,0 +1,7 @@
+# text_ja = 飮むか
+# text = Iku an ruwe?
+1	Iku	iku	VERB	自動詞	_	3	acl	_	_
+2	an	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

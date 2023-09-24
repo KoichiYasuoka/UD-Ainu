@@ -1,0 +1,7 @@
+# text_ja = ケムシ(毛蟲)
+# text = Numa ush ikombap.
+1	Numa	numa	NOUN	名詞	_	2	obj	_	_
+2	ush	us	VERB	他動詞	_	3	acl	_	_
+3	ikombap	ikompap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = 風が吹く
+# text = Rera rui.
+1	Rera	réra	NOUN	名詞	_	2	nsubj	_	_
+2	rui	ruy	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

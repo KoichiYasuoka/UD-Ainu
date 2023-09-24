@@ -1,0 +1,5 @@
+# text_ja = サンニン(三人)
+# text = Ren.
+1	Ren	ren	NUM	数詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

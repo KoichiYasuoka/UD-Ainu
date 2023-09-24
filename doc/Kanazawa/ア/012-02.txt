@@ -1,0 +1,6 @@
+# text_ja = 有るか
+# text = An hawe?
+1	An	an	VERB	自動詞	_	2	acl	_	_
+2	hawe	hawe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = くだらぬ談をするな
+# text = Etaraka-itak iteki ki yan.
+1	Etaraka	etarka	ADV	副詞	_	3	advmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	itak	itak	NOUN	名詞	_	5	obj	_	_
+4	iteki	iteki	ADV	副詞	_	5	advmod	_	_
+5	ki	ki	VERB	他動詞	_	0	root	_	_
+6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

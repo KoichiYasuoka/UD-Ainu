@@ -1,0 +1,7 @@
+# text_ja = 一昨日行きました
+# text = Hoshiki-numan k'arapa.
+1	Hoshiki-numan	hoskinuman	ADV	副詞	_	3	advmod	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

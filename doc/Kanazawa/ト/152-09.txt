@@ -1,0 +1,12 @@
+# text_ja = 夜中でも戸を開けて居るか
+# text = An noshiki ne yakka apa sarare wa oka ruwe?
+1	An noshiki	annoski	NOUN	名詞	_	5	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	apa	apa	NOUN	名詞	_	5	obj	_	_
+5	sarare	sarare	VERB	他動詞	_	7	advcl	_	_
+6	wa	wa	SCONJ	接続助詞	_	5	mark	_	_
+7	oka	oka	VERB	自動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

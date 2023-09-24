@@ -1,0 +1,11 @@
+# text_ja = これは何處へ置けばよいか
+# text = Tambe hunakta aanu chiki pirika.
+1	Tambe	tanpe	NOUN	名詞	_	2	nmod	_	_
+2	hunak	hunak	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	anu	anu	VERB	他動詞	_	7	advcl	_	_
+6	chiki	ciki	SCONJ	接続助詞	_	5	mark	_	_
+7	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

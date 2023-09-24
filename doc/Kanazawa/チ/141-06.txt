@@ -1,0 +1,6 @@
+# text = Iruka en tere.
+1	Iruka	iruka	ADV	副詞	_	3	advmod	_	_
+2	en	en=	PART	人称接辞	_	3	obj	_	_
+3	tere	tere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

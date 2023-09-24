@@ -1,0 +1,20 @@
+# text_ja = 風が變らなければよいが風が變るかとそればかり心配だ
+# text = Tan rera shomo oheuge no anak un pirika, koroka moshima rera ash kuni tambe patek.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	rera	réra	NOUN	名詞	_	4	nsubj	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	_
+4	oheuge	ohewke	VERB	自動詞	_	6	advcl	_	_
+5	no	no	SCONJ	接続助詞	_	4	mark	_	_
+6	an	an	VERB	自動詞	_	8	advcl	_	SpaceAfter=No
+7	ak un	yakun	SCONJ	接続助詞	_	6	mark	_	_
+8	pirika	pirka	VERB	自動詞	_	13	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	記号	_	8	punct	_	_
+10	koroka	korka	CCONJ	接続詞	_	8	cc	_	_
+11	moshima	mosma	DET	連体詞	_	12	det	_	_
+12	rera	réra	NOUN	名詞	_	13	nsubj	_	_
+13	ash	as	VERB	自動詞	_	14	acl	_	_
+14	kuni	kuni	NOUN	形式名詞	_	0	root	_	_
+15	tambe	tanpe	NOUN	名詞	_	14	obl	_	_
+16	patek	patek	SCONJ	後置副詞	_	15	case	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	14	punct	_	_
+

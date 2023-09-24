@@ -1,0 +1,8 @@
+# text = Pirikano keutum otta shikashima.
+1	Pirikano	pirkano	ADV	副詞	_	5	advmod	_	_
+2	keutum	kewtum	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	shikashima	sikkasma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

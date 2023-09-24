@@ -1,0 +1,9 @@
+# text_ja = 此方は私の友人です
+# text = Tan nishpa k'utarihi ne.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	nishpa	nispa	NOUN	名詞	_	4	nsubj	_	_
+3	k'	k=	PART	人称接辞	_	4	det	_	SpaceAfter=No
+4	utarihi	utarihi	NOUN	名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

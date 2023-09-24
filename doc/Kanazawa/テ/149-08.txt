@@ -1,0 +1,6 @@
+# text_ja = 腫物が出來た
+# text = Hup hetuku.
+1	Hup	hup	NOUN	名詞	_	2	nsubj	_	_
+2	hetuku	hetuku	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

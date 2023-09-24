@@ -1,0 +1,9 @@
+# text_ja = 今花盛りです
+# text = Tane nonno iyotta poronno an.
+1	Tane	tane	ADV	副詞	_	5	advmod	_	_
+2	nonno	nonno	NOUN	名詞	_	5	nsubj	_	_
+3	iyotta	iyotta	ADV	副詞	_	5	advmod	_	_
+4	poronno	poronno	ADV	副詞	_	5	advmod	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

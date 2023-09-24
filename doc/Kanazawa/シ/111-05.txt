@@ -1,0 +1,12 @@
+# text_ja = 汝東京を知つて居るか
+# text = Eani Tokyo kotan e amkiri ruwe he an?
+1	Eani	eani	PRON	代名詞	_	5	nsubj	_	_
+2	Tokyo	Tokyo	PROPN	固有名詞	_	3	nmod	_	_
+3	kotan	kotan	NOUN	名詞	_	5	obj	_	_
+4	e	e=	PART	人称接辞	_	5	expl	_	_
+5	amkiri	amkir	VERB	他動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

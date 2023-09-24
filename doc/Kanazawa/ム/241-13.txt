@@ -1,0 +1,7 @@
+# text_ja = 池の向に
+# text = To kushta.
+1	To	to	NOUN	名詞	_	2	nmod	_	_
+2	kush	kus	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

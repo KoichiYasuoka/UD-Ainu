@@ -1,0 +1,12 @@
+# text_ja = 此水で顔を洗ても宜しいか
+# text = Tan wakka ani nanu huraye yakka pirika ya?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	wakka	wakka	NOUN	名詞	_	5	obl	_	_
+3	ani	ani	SCONJ	後置副詞	_	2	case	_	_
+4	nanu	nanu	NOUN	名詞	_	5	obj	_	_
+5	huraye	huraye	VERB	他動詞	_	7	advcl	_	_
+6	yakka	yakka	SCONJ	接続助詞	_	5	mark	_	_
+7	pirika	pirka	VERB	自動詞	_	0	root	_	_
+8	ya	ya	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	7	punct	_	_
+

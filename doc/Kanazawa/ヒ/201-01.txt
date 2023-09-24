@@ -1,0 +1,7 @@
+# page = 201
+# text_ja = 火にあたれ
+# text = Abe kuru yan.
+1	Abe kuru	apekur	VERB	自動詞	_	0	root	_	_
+2	yan	yan	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

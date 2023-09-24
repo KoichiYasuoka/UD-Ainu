@@ -1,0 +1,6 @@
+# text_ja = 山の奥の川
+# text = Makun pet.
+1	Makun	makun	DET	連体詞	_	2	det	_	_
+2	pet	pet	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

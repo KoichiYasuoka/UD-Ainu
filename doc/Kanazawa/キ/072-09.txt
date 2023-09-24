@@ -1,0 +1,7 @@
+# text_ja = 早く衣服を着よ
+# text = Tunashno amip mi.
+1	Tunashno	tunasno	ADV	副詞	_	3	advmod	_	_
+2	amip	amip	NOUN	名詞	_	3	obj	_	_
+3	mi	mi	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

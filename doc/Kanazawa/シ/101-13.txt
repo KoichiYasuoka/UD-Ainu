@@ -1,0 +1,7 @@
+# text_ja = 今は出汐です
+# text = Tane shirara ika.
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	shirara	sirar	NOUN	名詞	_	3	nsubj	_	_
+3	ika	ika	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

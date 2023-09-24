@@ -1,0 +1,5 @@
+# text_ja = 小刀
+# text = Makiri.
+1	Makiri	makiri	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

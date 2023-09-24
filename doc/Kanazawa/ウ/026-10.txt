@@ -1,0 +1,7 @@
+# text_ja = ウチワ(内輪)
+# text = Shine iri guru.
+1	Shine	sine	NUM	数詞	_	3	nummod	_	_
+2	iri	ir	NOUN	名詞	_	3	amod	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

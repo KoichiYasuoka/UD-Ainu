@@ -1,0 +1,11 @@
+# text_ja = お幾歳ですか
+# text = Hembak pa a paha an ruwe an?
+1	Hembak	hempak	NUM	数詞	_	2	nummod	_	_
+2	pa	pa	NOUN	名詞	_	5	obl	_	_
+3	a	a=	PART	人称接辞	_	4	det	_	_
+4	paha	paha	NOUN	名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

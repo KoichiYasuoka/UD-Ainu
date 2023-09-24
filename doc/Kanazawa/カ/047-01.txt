@@ -1,0 +1,17 @@
+# page = 47
+# text_ja = カイガン(海岸)
+# text = Atui samake; Pish; Atui samta. Shitteksham. Heyashi.
+1	Atui	atuy	NOUN	名詞	_	2	nmod	_	_
+2	samake	samake	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Pish	pis	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	Atui	atuy	NOUN	名詞	_	7	nmod	_	_
+7	sam	sam	NOUN	位置名詞	_	2	parataxis	_	SpaceAfter=No
+8	ta	ta	ADP	格助詞	_	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+10	Shitteksham	sitteksam	NOUN	位置名詞	_	2	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+12	Heyashi	heyasi	ADV	副詞	_	7	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

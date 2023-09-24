@@ -1,0 +1,7 @@
+# text_ja = 厭ひです
+# text = Shomo k'eramasu.
+1	Shomo	somo	ADV	副詞	_	3	advmod	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	eramasu	eramasu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

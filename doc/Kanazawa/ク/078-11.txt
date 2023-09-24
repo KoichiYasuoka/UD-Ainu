@@ -1,0 +1,5 @@
+# text_ja = 二歳の子熊
+# text = Riyap.
+1	Riyap	riyap	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

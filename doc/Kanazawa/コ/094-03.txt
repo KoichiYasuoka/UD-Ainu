@@ -1,0 +1,8 @@
+# text_ja = 此人は熊を殺した
+# text = Tan guru kamui raige.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	4	nsubj	_	_
+3	kamui	kamuy	NOUN	名詞	_	4	obj	_	_
+4	raige	rayke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

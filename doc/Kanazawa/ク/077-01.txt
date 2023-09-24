@@ -1,0 +1,9 @@
+# page = 77
+# text_ja = 今年は菓實がよくなりました
+# text = Tamba nikaop pirika.
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ba	pa	NOUN	名詞	_	3	nmod	_	_
+3	nikaop	níkaop	NOUN	名詞	_	4	nsubj	_	_
+4	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

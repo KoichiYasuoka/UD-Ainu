@@ -1,0 +1,8 @@
+# page = 93
+# text_ja = ゴメン(御免)
+# text = Ku yayapapu na.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	yayapapu	yayapapu	VERB	自動詞	_	0	root	_	_
+3	na	na	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

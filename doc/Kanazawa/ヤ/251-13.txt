@@ -1,0 +1,12 @@
+# text_ja = よい宿屋があるか
+# text = Pirika reushi-ushike oka ruwe he an?
+1	Pirika	pirka	VERB	自動詞	_	4	amod	_	_
+2	reushi	rewsi	VERB	自動詞	_	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	ushike	uske	NOUN	形式名詞	_	5	nsubj	_	_
+5	oka	oka	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 馬車に馬を付けたか
+# text = Pasha umma tane akotukka ya?
+1	Pasha	pasa	NOUN	名詞	_	2	nmod	_	_
+2	umma	umma	NOUN	名詞	_	5	obj	_	_
+3	tane	tane	ADV	副詞	_	5	advmod	_	_
+4	a	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	kotukka	kotukka	VERB	他動詞	_	0	root	_	_
+6	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

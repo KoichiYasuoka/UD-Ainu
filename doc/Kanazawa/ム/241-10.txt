@@ -1,0 +1,7 @@
+# text_ja = 流に逆て行く
+# text = Chiu turashi arapa.
+1	Chiu	ciw	NOUN	名詞	_	3	obl	_	_
+2	turashi	turasi	SCONJ	後置副詞	_	1	case	_	_
+3	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

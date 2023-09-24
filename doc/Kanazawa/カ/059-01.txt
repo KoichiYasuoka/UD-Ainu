@@ -1,0 +1,6 @@
+# page = 59
+# text_ja = カタムク(傾)
+# text = Horak.
+1	Horak	horak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

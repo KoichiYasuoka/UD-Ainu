@@ -1,0 +1,10 @@
+# text_ja = 仕方がない
+# text = Ene akari ka isam.
+1	Ene	ene	ADV	副詞	_	3	advmod	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	kar	kar	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	i	i	NOUN	形式名詞	_	6	nsubj	_	_
+5	ka	ka	ADP	副助詞	_	4	case	_	_
+6	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

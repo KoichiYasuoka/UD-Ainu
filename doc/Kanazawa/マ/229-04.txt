@@ -1,0 +1,7 @@
+# text_ja = まだ來ぬ
+# text = Naa ek isam.
+1	Naa	naa	ADV	副詞	_	2	advmod	_	_
+2	ek	ek	VERB	自動詞	_	3	advcl	_	_
+3	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

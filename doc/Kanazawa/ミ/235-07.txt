@@ -1,0 +1,9 @@
+# text_ja = 一里許あります
+# text = Shine ichiri an patek an.
+1	Shine	sine	NUM	数詞	_	2	nummod	_	_
+2	ichiri	iciri	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	5	advcl	_	_
+4	patek	patek	SCONJ	後置副詞	_	5	advmod	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

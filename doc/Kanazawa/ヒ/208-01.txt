@@ -1,0 +1,11 @@
+# page = 208
+# text_ja = 私の母は今日病氣です
+# text = Tando ku koro habo shiyeye an.
+1	Tando	tanto	ADV	副詞	_	5	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	koro	kor	VERB	他動詞	_	4	acl	_	_
+4	habo	hapo	NOUN	名詞	_	5	nsubj	_	_
+5	shiyeye	siyeye	VERB	自動詞	_	6	advcl	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

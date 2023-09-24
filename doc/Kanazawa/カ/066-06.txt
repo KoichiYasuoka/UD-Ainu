@@ -1,0 +1,8 @@
+# text_ja = あまり川が大きいから
+# text = Eitasa pet poro wa.
+1	Eitasa	eytasa	ADV	副詞	_	3	advmod	_	_
+2	pet	pet	NOUN	名詞	_	3	nsubj	_	_
+3	poro	poro	VERB	自動詞	_	0	root	_	_
+4	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

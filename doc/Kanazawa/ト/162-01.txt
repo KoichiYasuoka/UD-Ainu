@@ -1,0 +1,7 @@
+# page = 162
+# text_ja = トナリ(隣)
+# text = Aota.
+1	Ao	aw	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

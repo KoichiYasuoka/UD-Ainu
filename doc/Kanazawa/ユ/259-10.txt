@@ -1,0 +1,5 @@
+# text_ja = ユーカタ(夕)
+# text = Onuman.
+1	Onuman	onuman	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

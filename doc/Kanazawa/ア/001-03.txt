@@ -1,0 +1,4 @@
+# text_ja = アイテイル(空)
+# text = Oha
+1	Oha	oha	VERB	自動詞	_	0	root	_	_
+

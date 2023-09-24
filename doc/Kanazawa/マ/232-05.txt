@@ -1,0 +1,5 @@
+# text_ja = マルタ(丸太)
+# text = Ni ikki.
+1	Ni ikki	ní'ikki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

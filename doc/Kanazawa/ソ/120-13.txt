@@ -1,0 +1,9 @@
+# text_ja = ソーダ(然)
+# text = A; E; Oun.
+1	A	a	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	E	e	INTJ	間投詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Oun	oun	INTJ	間投詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

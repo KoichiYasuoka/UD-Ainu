@@ -1,0 +1,17 @@
+# text_ja = 思う通りの事をアイヌ語で云う事が出來ぬ
+# text = Ene ku yaikoshiramshipahi ne no ainu orun ku ye eaikap ruwe ne.
+1	Ene	ene	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	yaikoshiramshipa	yaykosiramse	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	hi	hi	NOUN	形式名詞	_	10	obj	_	_
+5	ne no	neno	SCONJ	後置副詞	_	4	case	_	_
+6	ainu	aynu	NOUN	名詞	_	7	nmod	_	_
+7	or	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+8	un	un	ADP	格助詞	_	7	case	_	_
+9	ku	ku=	PART	人称接辞	_	10	nsubj	_	_
+10	ye	ye	VERB	他動詞	_	12	acl	_	_
+11	eaikap	eaykap	AUX	助動詞	_	10	aux	_	_
+12	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+13	ne	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	12	punct	_	_
+

@@ -1,0 +1,6 @@
+# text_ja = 今日は天氣はどーだ
+# text = Tando nekona?
+1	Tando	tanto	ADV	副詞	_	2	amod	_	_
+2	nekona	nékona	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	記号	_	2	punct	_	_
+

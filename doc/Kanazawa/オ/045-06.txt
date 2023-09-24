@@ -1,0 +1,14 @@
+# text_ja = あの家に誰か居るか
+# text = Toan cisei otta nen ka an ruwe he an?
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	cisei	cise	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	nen	nen	PRON	代名詞	_	7	nsubj	_	_
+6	ka	ka	ADP	副助詞	_	5	case	_	_
+7	an	oka	VERB	自動詞	_	8	acl	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+9	he	he	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

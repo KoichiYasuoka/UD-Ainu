@@ -1,0 +1,14 @@
+# text_ja = 今まで散歩して居つた
+# text = Tane pakno k'apkashapkash koro k'an ruwe ne.
+1	Tane	tane	ADV	副詞	_	4	advmod	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	apkash	apkas	VERB	自動詞	_	8	advcl	_	SpaceAfter=No
+5	apkash	apkas	VERB	自動詞	_	4	conj	_	_
+6	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
+7	k'	k=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	an	an	VERB	自動詞	_	9	acl	_	_
+9	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+10	ne	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 金を拂つたか
+# text = Kane k'arapare heta ki a?
+1	Kane	káne	NOUN	名詞	_	3	obj	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	arapare	arpare	VERB	他動詞	_	5	advcl	_	_
+4	heta	hetak	INTJ	間投詞	_	5	discourse	_	_
+5	ki	ki	VERB	他動詞	_	0	root	_	_
+6	a	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

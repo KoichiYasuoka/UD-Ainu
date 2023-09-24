@@ -1,0 +1,14 @@
+# text_ja = 一つでよろしい二つは要りませぬ
+# text = Shinep ne yakka pirika; tup shomo ku kon' rusui.
+1	Shinep	sinep	NUM	数詞	_	4	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	pirika	pirka	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+5	;	;	PUNCT	記号	_	4	punct	_	_
+6	tup	tup	NUM	数詞	_	9	obj	_	_
+7	shomo	somo	ADV	副詞	_	9	advmod	_	_
+8	ku	ku=	PART	人称接辞	_	9	nsubj	_	_
+9	kon'	kon	VERB	他動詞	_	0	root	_	_
+10	rusui	rusuy	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,4 @@
+# text_ja = アサ(朝)
+# text = Kunneiwa
+1	Kunneiwa	kunneywa	ADV	副詞	_	0	root	_	_
+

@@ -1,0 +1,13 @@
+# text_ja = 長らく見なんだが如何して居なさるか
+# text = Ohonno shomo echi nukara makanak e iki hi ne?
+1	Ohonno	ohonno	ADV	副詞	_	4	advmod	_	_
+2	shomo	somo	ADV	副詞	_	4	advmod	_	_
+3	echi	eci=	PART	人称接辞	_	4	nsubj	_	_
+4	nukara	nukar	VERB	他動詞	_	7	advcl	_	_
+5	makanak	makanak	ADV	副詞	_	7	advmod	_	_
+6	e	e=	PART	人称接辞	_	7	nsubj	_	_
+7	iki	iki	VERB	自動詞	_	8	acl	_	_
+8	hi	hi	NOUN	形式名詞	_	0	root	_	_
+9	ne	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	8	punct	_	_
+

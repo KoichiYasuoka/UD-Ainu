@@ -1,0 +1,10 @@
+# text_ja = 向ふの家まで馬を追へ
+# text = Taan chisei oro pakno umma okewe.
+1	Taan	tan	DET	連体詞	_	2	det	_	_
+2	chisei	cise	NOUN	名詞	_	3	nmod	_	_
+3	oro	oro	NOUN	位置名詞	_	6	obl	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	3	case	_	_
+5	umma	umma	NOUN	名詞	_	6	obj	_	_
+6	okewe	okewe	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

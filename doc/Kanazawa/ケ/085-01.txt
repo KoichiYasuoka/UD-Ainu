@@ -1,0 +1,7 @@
+# page = 85
+# title = ケ
+# text_ja = ケ(毛)
+# text = Numa.
+1	Numa	numa	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

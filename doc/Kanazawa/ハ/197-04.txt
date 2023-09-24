@@ -1,0 +1,7 @@
+# text_ja = 腹が痛む
+# text = K'oshike araka.
+1	K'	k=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	oshike	oske	NOUN	位置名詞	_	3	nsubj	_	_
+3	araka	arka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

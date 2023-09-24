@@ -1,0 +1,6 @@
+# text_ja = 早く早く
+# text = Tunash-no tunash-no.
+1	Tunash-no	tunasno	ADV	副詞	_	2	advmod	_	_
+2	tunash-no	tunasno	ADV	副詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

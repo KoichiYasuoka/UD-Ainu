@@ -1,0 +1,6 @@
+# page = 17
+# text_ja = 輕石
+# text = Shu-shirup.
+1	Shu-shirup	susirup	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

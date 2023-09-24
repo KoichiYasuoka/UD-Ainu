@@ -1,0 +1,7 @@
+# text_ja = 何時引汐か
+# text = Hembara shiraraha ruwe?
+1	Hembara	hempara	ADV	副詞	_	2	advmod	_	_
+2	shiraraha	sirarha	VERB	完全動詞	_	3	acl	_	_
+3	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

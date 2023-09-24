@@ -1,0 +1,13 @@
+# text_ja = それ程老人とは思ひませぬ
+# text = Pakno onne shomo an kuni ku ramu awa.
+1	Pakno	pakno	SCONJ	後置副詞	_	4	advmod	_	_
+2	onne	onne	VERB	自動詞	_	4	advcl	_	_
+3	shomo	somo	ADV	副詞	_	4	advmod	_	_
+4	an	an	VERB	自動詞	_	5	acl	_	_
+5	kuni	kuni	NOUN	形式名詞	_	7	obj	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	ramu	ramu	VERB	他動詞	_	0	root	_	_
+8	a	a	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	wa	wa	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
+

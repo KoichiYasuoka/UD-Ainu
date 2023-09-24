@@ -1,0 +1,5 @@
+# text_ja = 子ーサン(知らざる女を呼ぶ語)
+# text = Kachi.
+1	Kachi	káci	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

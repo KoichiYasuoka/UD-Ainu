@@ -1,0 +1,8 @@
+# text_ja = 何故お前は中途で止まるのか
+# text = Hemanda gusu e eyokkot?
+1	Hemanda	hemanta	NOUN	名詞	_	4	obl	_	_
+2	gusu	kusu	SCONJ	後置副詞	_	1	case	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	eyokkot	eyokkot	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

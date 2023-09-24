@@ -1,0 +1,10 @@
+# page = 143
+# text_ja = ツキ(月)
+# text = Kunne chup; Anchikara chup.
+1	Kunne	kunne	VERB	自動詞	_	2	amod	_	_
+2	chup	cup	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Anchikara	ancikar	NOUN	名詞	_	5	nmod	_	_
+5	chup	cup	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

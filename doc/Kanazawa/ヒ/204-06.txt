@@ -1,0 +1,4 @@
+# text_ja = ヒゲ(髭)
+# text = Reki
+1	Reki	reki	NOUN	名詞	_	0	root	_	_
+

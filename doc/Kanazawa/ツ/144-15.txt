@@ -1,0 +1,8 @@
+# text_ja = 私は頭を包みましよー
+# text = Ku sapa iyetaptap kusu ne.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	sapa iyetaptap	sapaiyetaptapu	VERB	自動詞	_	0	root	_	_
+3	kusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

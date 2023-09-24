@@ -1,0 +1,9 @@
+# text_ja = お出になりました
+# text = Teda ek awa.
+1	Te	te	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	2	case	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	_
+4	a	a	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = 錨を上る
+# text = Kaite pusu
+1	Kaite	kayte	NOUN	名詞	_	2	obj	_	_
+2	pusu	pusu	VERB	他動詞	_	0	root	_	_
+

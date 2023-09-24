@@ -1,0 +1,7 @@
+# text_ja = 何になさるのですか
+# text = Hemanda ne mungi.
+1	Hemanda	hemanta	NOUN	名詞	_	3	nmod	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	mungi	munki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

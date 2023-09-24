@@ -1,0 +1,9 @@
+# text_ja = 明日頃雨が降るだろーか
+# text = Nishatta pakita apto ash nangoro.
+1	Nishatta	nisatta	ADV	副詞	_	4	advmod	_	_
+2	pakita	pakita	ADV	副詞	_	4	advmod	_	_
+3	apto	apto	NOUN	名詞	_	4	nsubj	_	_
+4	ash	as	VERB	自動詞	_	0	root	_	_
+5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

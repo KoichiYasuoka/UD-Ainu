@@ -1,0 +1,6 @@
+# text_ja = シカエル(改造)
+# text = Akannakara.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	kannakara	kannakar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

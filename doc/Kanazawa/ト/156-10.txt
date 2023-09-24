@@ -1,0 +1,7 @@
+# text_ja = どこから來たか
+# text = Nak wa ek?
+1	Nak	hunak	NOUN	名詞	_	3	obl	_	_
+2	wa	wa	SCONJ	接続助詞	_	1	case	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

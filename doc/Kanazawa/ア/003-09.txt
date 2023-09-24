@@ -1,0 +1,7 @@
+# text_ja = 朝から晩まで
+# text = Kunneiwano onuman pakno.
+1	Kunneiwano	kunneywano	ADV	副詞	_	2	advmod	_	_
+2	onuman	onuman	NOUN	名詞	_	0	root	_	_
+3	pakno	pakno	SCONJ	後置副詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

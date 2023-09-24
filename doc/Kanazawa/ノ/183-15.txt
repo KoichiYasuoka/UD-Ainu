@@ -1,0 +1,7 @@
+# text_ja = さー飮め
+# text = Hetak iku yan.
+1	Hetak	hetak	INTJ	間投詞	_	2	discourse	_	_
+2	iku	iku	VERB	他動詞	_	0	root	_	_
+3	yan	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

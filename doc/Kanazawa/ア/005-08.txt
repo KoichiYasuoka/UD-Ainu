@@ -1,0 +1,5 @@
+# text_ja = アタヽメル(暖)
+# text = Sesekka.
+1	Sesekka	sésekka	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,9 @@
+# text_ja = 今二時です
+# text = Tane tu-ichiji an.
+1	Tane	tane	ADV	副詞	_	5	advmod	_	_
+2	tu	tu	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	ichiji	icici	NOUN	名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 上に揚げる
+# text = Rikta anu.
+1	Rik	rik	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	anu	anu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

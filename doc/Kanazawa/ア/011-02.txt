@@ -1,0 +1,14 @@
+# text_ja = 此嵐はもー少し後には止むだろーか
+# text = Tan ruyambe naa ponno anakanakne okake an nangoro.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ruyambe	ruyanpe	NOUN	名詞	_	5	nsubj	_	_
+3	naa	na	ADV	副詞	_	5	advmod	_	_
+4	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+5	an	an	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+6	ak	yak	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	anakne	anakne	ADP	副助詞	_	5	mark	_	_
+8	okake	okake	NOUN	位置名詞	_	9	nsubj	_	_
+9	an	an	VERB	自動詞	_	0	root	_	_
+10	nangoro	nankor	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

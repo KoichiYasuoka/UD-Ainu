@@ -1,0 +1,5 @@
+# text_ja = 下着
+# text = Pokna-mip.
+1	Pokna-mip	poknamip	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

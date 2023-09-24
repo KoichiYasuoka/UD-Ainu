@@ -1,0 +1,6 @@
+# text_ja = ヒリヒリスル
+# text = Para kara humi.
+1	Para kara	parkar	VERB	自動詞	_	2	amod	_	_
+2	humi	humi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

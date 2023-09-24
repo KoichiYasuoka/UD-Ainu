@@ -1,0 +1,5 @@
+# text_ja = ソレ(其)
+# text = Toan.
+1	Toan	toan	DET	連体詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

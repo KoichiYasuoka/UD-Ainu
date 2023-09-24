@@ -1,0 +1,9 @@
+# text_ja = ヨロコブ(喜)
+# text = Ramu riten; Eyaykopuntek; Uwenuchattek.
+1	Ramu riten	ramuriten	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Eyaykopuntek	eyaykopuntek	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Uwenuchattek	uwenucaktek	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

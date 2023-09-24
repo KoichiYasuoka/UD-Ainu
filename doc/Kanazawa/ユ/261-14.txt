@@ -1,0 +1,9 @@
+# text_ja = 早くお出ですか
+# text = Tunashno e arapahi he an?
+1	Tunashno	túnasno	ADV	副詞	_	3	advmod	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	arapahi	arpa	VERB	自動詞	_	4	acl	_	_
+4	he	ruwe	NOUN	形式名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

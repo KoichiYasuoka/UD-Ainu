@@ -1,0 +1,5 @@
+# text_ja = ドモル(吃)
+# text = Itak-ununi.
+1	Itak-ununi	itak'ununi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

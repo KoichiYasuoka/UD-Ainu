@@ -1,0 +1,8 @@
+# text_ja = ......さんです
+# text = ......nishpa ne wa.
+1	......	......	PUNCT	記号	_	2	nmod	_	SpaceAfter=No
+2	nishpa	nispa	NOUN	名詞	_	0	root	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	_
+4	wa	wa	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

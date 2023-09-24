@@ -1,0 +1,13 @@
+# text_ja = もー十日程したら皈ります
+# text = Naa wanto shiran koro ku hosipi nangon'na.
+1	Naa	naa	ADV	副詞	_	4	advmod	_	_
+2	wan	wan	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+3	to	to	NOUN	名詞	_	4	obl	_	_
+4	shiran	siran	VERB	自動詞	_	7	advcl	_	_
+5	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	hosipi	hosipi	VERB	自動詞	_	0	root	_	_
+8	nangon'	nankon	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
+

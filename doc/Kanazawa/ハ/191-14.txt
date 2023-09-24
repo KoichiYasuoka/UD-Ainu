@@ -1,0 +1,14 @@
+# text_ja = 此畑より如何程取れるか
+# text = Tan toi orowa makanak pakno auk ruwe an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	toi	toy	NOUN	名詞	_	3	nmod	_	_
+3	oro	oro	NOUN	位置名詞	_	8	obl	_	SpaceAfter=No
+4	wa	wa	ADP	格助詞	_	3	case	_	_
+5	makanak	makanak	ADV	副詞	_	8	advmod	_	_
+6	pakno	pakno	SCONJ	後置副詞	_	5	case	_	_
+7	a	a=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	uk	uk	VERB	他動詞	_	9	acl	_	_
+9	ruwe	ruwe	NOUN	形式名詞	_	10	nsubj	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

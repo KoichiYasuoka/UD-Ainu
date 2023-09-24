@@ -1,0 +1,16 @@
+# text_ja = 其犬は惡い故嚙まれるぞ
+# text = Nei seta niwen seta ne gusu ina aekuba an na.
+1	Nei	ney	DET	連体詞	_	2	det	_	_
+2	seta	seta	NOUN	名詞	_	4	nsubj	_	_
+3	niwen	niwen	VERB	自動詞	_	4	amod	_	_
+4	seta	seta	NOUN	名詞	_	11	advcl	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	gusu	kusu	SCONJ	接続詞	_	4	mark	_	_
+7	ina	ine	INTJ	間投詞	_	10	discourse	_	_
+8	a	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+9	e	e=	PART	人称接辞	_	10	obj	_	SpaceAfter=No
+10	kuba	kupa	VERB	他動詞	_	11	advcl	_	_
+11	an	an	VERB	自動詞	_	0	root	_	_
+12	na	na	PART	終助詞	_	11	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
+

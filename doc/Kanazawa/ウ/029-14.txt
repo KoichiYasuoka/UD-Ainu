@@ -1,0 +1,16 @@
+# text_ja = あの人...を賣て居るか見て來い
+# text = Toan guru...eiyok ruwe he an arapa wa nu wa ek.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	4	nsubj	_	SpaceAfter=No
+3	...	...	PUNCT	記号	_	4	obj	_	SpaceAfter=No
+4	eiyok	eiyok	VERB	他動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
+6	he	he	ADP	副助詞	_	5	case	_	_
+7	an	an	VERB	自動詞	_	8	advcl	_	_
+8	arapa	arpa	VERB	自動詞	_	10	advcl	_	_
+9	wa	wa	SCONJ	接続助詞	_	8	mark	_	_
+10	nu	nu	VERB	他動詞	_	12	advcl	_	_
+11	wa	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 此旦那を知て居るか
+# text = Tan nishpa eraman?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	nishpa	nispa	NOUN	名詞	_	4	obj	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	raman	eraman	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

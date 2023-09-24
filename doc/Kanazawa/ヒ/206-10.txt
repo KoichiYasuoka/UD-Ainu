@@ -1,0 +1,10 @@
+# text_ja = 火鉢に火がありますか
+# text = Abe-op otta abe an ya?
+1	Abe-op	ape'op	NOUN	名詞	_	2	nmod	_	_
+2	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	abe	ape	NOUN	名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	_
+6	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	5	punct	_	_
+

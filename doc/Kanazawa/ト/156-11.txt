@@ -1,0 +1,8 @@
+# text_ja = ......から參りました
+# text = ......wano k'ek.
+1	......	......	PUNCT	記号	_	4	obl	_	SpaceAfter=No
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

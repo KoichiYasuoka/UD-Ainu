@@ -1,0 +1,11 @@
+# text_ja = お前の魚一片吳れ
+# text = E kot' chep shine humi en gore.
+1	E	e=	PART	人称接辞	_	2	nsubj	_	_
+2	kot'	kor	VERB	他動詞	_	3	acl	_	_
+3	chep	cep	NOUN	名詞	_	5	nmod	_	_
+4	shine	sine	NUM	数詞	_	5	nummod	_	_
+5	humi	humi	NOUN	形式名詞	_	7	obj	_	_
+6	en	en=	PART	人称接辞	_	7	iobj	_	_
+7	gore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

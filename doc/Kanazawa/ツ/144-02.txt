@@ -1,0 +1,11 @@
+# text_ja = 日が長いから早く到着するでしよー
+# text = To tanne kusu tunashno shirepa an nangoro.
+1	To	to	NOUN	名詞	_	2	nsubj	_	_
+2	tanne	tanne	VERB	自動詞	_	5	advcl	_	_
+3	kusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	tunashno	tunasno	ADV	副詞	_	5	advmod	_	_
+5	shirepa	sirepa	VERB	自動詞	_	0	root	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	nangoro	nankor	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

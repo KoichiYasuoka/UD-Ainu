@@ -1,0 +1,5 @@
+# text_ja = ワタス(渡)
+# text = Ikusa.
+1	Ikusa	ikusa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

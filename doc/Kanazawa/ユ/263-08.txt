@@ -1,0 +1,11 @@
+# text_ja = 人指指
+# text = Tuttanu an ashkepet; Itangi kem ashkepet.
+1	Tuttanu	tutanu	DET	連体詞	_	3	amod	_	_
+2	an	an	VERB	自動詞	_	3	amod	_	_
+3	ashkepet	askepet	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Itangi	itanki	NOUN	名詞	_	6	nsubj	_	_
+6	kem	kem	VERB	他動詞	_	7	acl	_	_
+7	ashkepet	askepet	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

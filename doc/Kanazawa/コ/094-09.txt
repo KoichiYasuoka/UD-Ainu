@@ -1,0 +1,14 @@
+# text_ja = こんな事はいつもあるか
+# text = Tambe ne no ambe kanna kanna ambe he an?
+1	Tambe	tanpe	NOUN	名詞	_	3	nsubj	_	_
+2	ne no	neno	SCONJ	後置副詞	_	1	case	_	_
+3	am	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	7	nsubj	_	_
+5	kanna	kanna	ADV	副詞	_	7	advmod	_	_
+6	kanna	kanna	ADV	副詞	_	7	advmod	_	_
+7	am	an	VERB	自動詞	_	8	acl	_	SpaceAfter=No
+8	be	pe	NOUN	形式名詞	_	10	nsubj	_	_
+9	he	he	ADP	副助詞	_	8	case	_	_
+10	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	10	punct	_	_
+

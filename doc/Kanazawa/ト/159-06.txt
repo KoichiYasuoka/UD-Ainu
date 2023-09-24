@@ -1,0 +1,10 @@
+# text_ja = 私は廿歳です
+# text = Ku paha hotnepa ne na.
+1	Ku	ku=	PART	人称接辞	_	2	det	_	_
+2	paha	paha	NOUN	名詞	_	4	nsubj	_	_
+3	hotne	hotne	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	pa	pa	NOUN	名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	4	punct	_	_
+

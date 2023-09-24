@@ -1,0 +1,10 @@
+# text_ja = 此荷物を地上に置け
+# text = Tan kingai shiri kata anu.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kingai	kinkay	NOUN	名詞	_	6	obj	_	_
+3	shiri	sir	NOUN	名詞	_	4	nmod	_	_
+4	ka	ka	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	ta	ta	ADP	格助詞	_	4	case	_	_
+6	anu	anu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

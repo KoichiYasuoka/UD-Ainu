@@ -1,0 +1,7 @@
+# text_ja = 今寢た
+# text = Tane ku hotke.
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hotke	hotke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

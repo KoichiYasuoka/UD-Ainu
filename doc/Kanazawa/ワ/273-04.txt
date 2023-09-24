@@ -1,0 +1,7 @@
+# text_ja = 耳輪
+# text = Kisara un ningari.
+1	Kisara	kisar	NOUN	名詞	_	2	obj	_	_
+2	un	un	VERB	他動詞	_	3	acl	_	_
+3	ningari	ninkari	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

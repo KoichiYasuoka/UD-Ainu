@@ -1,0 +1,8 @@
+# text_ja = 御機嫌よく行きなされ
+# text = Pirikano ratchitara oman wa.
+1	Pirikano	pirkano	ADV	副詞	_	3	advmod	_	_
+2	ratchitara	ratcitara	ADV	副詞	_	3	advmod	_	_
+3	oman	oman	VERB	自動詞	_	0	root	_	_
+4	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

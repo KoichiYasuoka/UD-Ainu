@@ -1,0 +1,6 @@
+# text_ja = 水をまく
+# text = Wakka chari.
+1	Wakka	wakka	NOUN	名詞	_	2	obj	_	_
+2	chari	cari	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

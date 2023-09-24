@@ -1,0 +1,9 @@
+# text_ja = 倒れない様に静に行け
+# text = Iteki hachiri kuni ne hapunno arapa.
+1	Iteki	iteki	ADV	副詞	_	2	advmod	_	_
+2	hachiri	hácir	VERB	自動詞	_	5	advcl	_	_
+3	kuni ne	kunine	SCONJ	接続助詞	_	2	mark	_	_
+4	hapunno	apunno	ADV	副詞	_	5	advmod	_	_
+5	arapa	arpa	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = オソイ(遅)
+# text = Moire.
+1	Moire	moyre	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

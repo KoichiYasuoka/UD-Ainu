@@ -1,0 +1,7 @@
+# text_ja = キノドクナ(氣毒)
+# text = Yaikatanu; Oripak.
+1	Yaikatanu	yaykatanu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Oripak	oripak	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

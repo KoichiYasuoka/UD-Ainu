@@ -1,0 +1,7 @@
+# page = 38
+# text_ja = 急げ、
+# text = Yaitunashka yan!
+1	Yaitunashka	yaytunaska	VERB	自動詞	_	0	root	_	_
+2	yan	yan	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+3	!	!	PUNCT	記号	_	1	punct	_	_
+

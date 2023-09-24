@@ -1,0 +1,10 @@
+# text_ja = 見せなければ打つぞ
+# text = Shomo en nukare yakun echi kik.
+1	Shomo	somo	ADV	副詞	_	3	advmod	_	_
+2	en	en=	PART	人称接辞	_	3	obj	_	_
+3	nukare	nukare	VERB	他動詞	_	6	advcl	_	_
+4	yakun	yakun	SCONJ	接続助詞	_	3	mark	_	_
+5	echi	eci=	PART	人称接辞	_	6	nsubj	_	_
+6	kik	kik	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

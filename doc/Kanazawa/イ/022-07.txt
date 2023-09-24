@@ -1,0 +1,9 @@
+# text_ja = 釜の中に水を入れる
+# text = Kama otta wakka omare.
+1	Kama	kama	NOUN	名詞	_	2	nmod	_	_
+2	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	wakka	wakka	NOUN	名詞	_	5	obj	_	_
+5	omare	omare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

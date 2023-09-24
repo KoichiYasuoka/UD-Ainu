@@ -1,0 +1,9 @@
+# text_ja = シンパイスル
+# text = Yaikouwepekere; Nishomap; Kimatek.
+1	Yaikouwepekere	yaykowepeker	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Nishomap	nisomap	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Kimatek	kimatek	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

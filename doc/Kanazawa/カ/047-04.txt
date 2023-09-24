@@ -1,0 +1,7 @@
+# text_ja = これを買へ
+# text = Tanbe hok yan.
+1	Tanbe	tanpe	NOUN	名詞	_	2	obj	_	_
+2	hok	hok	VERB	他動詞	_	0	root	_	_
+3	yan	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

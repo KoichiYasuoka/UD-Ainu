@@ -1,0 +1,7 @@
+# page = 172
+# text_ja = ナマケタル(怠惰)
+# text = Katu toranne.
+1	Katu	katu	NOUN	形式名詞	_	2	obl	_	_
+2	toranne	toranne	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

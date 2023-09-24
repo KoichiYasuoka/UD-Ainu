@@ -1,0 +1,12 @@
+# text_ja = 遠方から來た
+# text = Tuima kotan orowa k'ek ruwe ne.
+1	Tuima	tuyma	VERB	自動詞	_	2	amod	_	_
+2	kotan	kotan	NOUN	名詞	_	3	nmod	_	_
+3	oro	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	wa	wa	ADP	格助詞	_	3	case	_	_
+5	k'	k=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	ek	ek	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

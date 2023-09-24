@@ -1,0 +1,10 @@
+# text_ja = ニゴリザケ(濁酒)
+# text = Numpa sake. Shirari koro sake.
+1	Numpa	numpa	VERB	他動詞	_	2	amod	_	_
+2	sake	sake	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+4	Shirari	sirari	NOUN	名詞	_	5	obj	_	_
+5	koro	kor	VERB	他動詞	_	6	acl	_	_
+6	sake	sake	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 馬が參りました
+# text = Uumma tane ek.
+1	Uumma	umma	NOUN	名詞	_	3	nsubj	_	_
+2	tane	tane	ADV	副詞	_	3	advmod	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,10 @@
+# text_ja = 善い事を見たい
+# text = Pirika buri ku irawe ruwe ne.
+1	Pirika	pirka	VERB	自動詞	_	2	amod	_	_
+2	buri	puri	NOUN	名詞	_	4	obj	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	irawe	erawe	VERB	他動詞	_	5	acl	_	_
+5	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

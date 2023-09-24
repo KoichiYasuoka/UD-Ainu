@@ -1,0 +1,8 @@
+# text_ja = 私の後より來い
+# text = En osh ek hani.
+1	En	en=	PART	人称接辞	_	3	obl	_	_
+2	osh	os	SCONJ	後置副詞	_	1	case	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	_
+4	hani	ani	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

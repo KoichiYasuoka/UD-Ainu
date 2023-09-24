@@ -1,0 +1,11 @@
+# text_ja = 今夜はよく寢よー
+# text = Tanukuran pirikano ku mokor kusu ne na.
+1	Tanukuran	tanukuran	ADV	副詞	_	4	advmod	_	_
+2	pirikano	pirkano	ADV	副詞	_	4	advmod	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	mokor	mokor	VERB	自動詞	_	0	root	_	_
+5	kusu	kusu	SCONJ	接続詞	_	4	mark	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	4	punct	_	_
+

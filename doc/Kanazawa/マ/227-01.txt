@@ -1,0 +1,9 @@
+# page = 227
+# text_ja = 一寸私の前に來い
+# text = Iruka en hekote ek.
+1	Iruka	iruka	ADV	副詞	_	4	advmod	_	_
+2	en	en=	PART	人称接辞	_	4	obl	_	_
+3	hekote	hekote	SCONJ	後置副詞	_	2	case	_	_
+4	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

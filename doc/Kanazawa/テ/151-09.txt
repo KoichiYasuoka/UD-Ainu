@@ -1,0 +1,8 @@
+# text_ja = 毎日天氣がよい
+# text = Kesto kesto shukush pirika.
+1	Kesto	kesto	ADV	副詞	_	4	advmod	_	_
+2	kesto	kesto	ADV	副詞	_	4	advmod	_	_
+3	shukush	sukus	NOUN	名詞	_	4	nsubj	_	_
+4	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

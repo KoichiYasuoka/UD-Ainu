@@ -1,0 +1,9 @@
+# page = 263
+# text_ja = 何處へ行きますか
+# text = Hunakun a paye an?
+1	Hunakun	hunak	NOUN	名詞	_	3	obl	_	_
+2	a	un	ADP	格助詞	_	1	case	_	_
+3	paye	paye	VERB	自動詞	_	0	root	_	_
+4	an	=an	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	3	punct	_	_
+

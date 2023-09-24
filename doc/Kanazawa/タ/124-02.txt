@@ -1,0 +1,5 @@
+# text_ja = ダイコン(大根)
+# text = Taiko.
+1	Taiko	tayko	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

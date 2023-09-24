@@ -1,0 +1,7 @@
+# text_ja = 金を遺失した
+# text = akane k'oshura.
+1	akane	káne	NOUN	名詞	_	3	obj	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	oshura	osura	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

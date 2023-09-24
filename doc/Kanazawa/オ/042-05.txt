@@ -1,0 +1,7 @@
+# text_ja = 驚く勿れ
+# text = Ramutui ka iteki ki
+1	Ramutui	ramutuy	VERB	自動詞	_	4	advcl	_	_
+2	ka	ka	ADP	副助詞	_	1	mark	_	_
+3	iteki	iteki	ADV	副詞	_	4	advmod	_	_
+4	ki	ki	VERB	他動詞	_	0	root	_	_
+

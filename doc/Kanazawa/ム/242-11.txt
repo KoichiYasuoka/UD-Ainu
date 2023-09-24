@@ -1,0 +1,19 @@
+# text_ja = 此村に......と云ふ人は居りますか
+# text = Tan kotan un guru anakne......ari an reihei koro gur' an ruwe he an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kotan	kotan	NOUN	名詞	_	3	obj	_	_
+3	un	un	VERB	他動詞	_	4	acl	_	_
+4	guru	kur	NOUN	名詞	_	7	nsubj	_	_
+5	anakne	anakne	ADP	副助詞	_	4	case	_	SpaceAfter=No
+6	......	......	PUNCT	記号	_	7	obj	_	SpaceAfter=No
+7	ari	ari	VERB	他動詞	_	8	advcl	_	_
+8	an	an	VERB	自動詞	_	9	acl	_	_
+9	reihei	rehe	NOUN	名詞	_	10	obj	_	_
+10	koro	kor	VERB	他動詞	_	11	acl	_	_
+11	gur'	kur	NOUN	名詞	_	12	nsubj	_	_
+12	an	an	VERB	自動詞	_	13	acl	_	_
+13	ruwe	ruwe	NOUN	形式名詞	_	15	nsubj	_	_
+14	he	he	ADP	副助詞	_	13	case	_	_
+15	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	?	?	PUNCT	記号	_	15	punct	_	_
+

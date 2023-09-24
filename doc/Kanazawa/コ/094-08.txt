@@ -1,0 +1,8 @@
+# text_ja = コンナモノ
+# text = Tambe ne no ambe.
+1	Tambe	tanpe	NOUN	名詞	_	3	nsubj	_	_
+2	ne no	neno	SCONJ	後置副詞	_	1	case	_	_
+3	am	an	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

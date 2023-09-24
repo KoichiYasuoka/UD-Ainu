@@ -1,0 +1,5 @@
+# text_ja = 衣服の蝨
+# text = Uruki.
+1	Uruki	urki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

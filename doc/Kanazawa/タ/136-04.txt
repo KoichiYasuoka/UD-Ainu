@@ -1,0 +1,16 @@
+# text_ja = 誰でも惡い事はあるものだ
+# text = Nen neyakka ki katu wenbe ka okaibe ne wa.
+1	Nen	nen	PRON	代名詞	_	4	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	ki	ki	VERB	他動詞	_	5	acl	_	_
+5	katu	katu	NOUN	形式名詞	_	6	obl	_	_
+6	wen	wen	VERB	自動詞	_	7	amod	_	SpaceAfter=No
+7	be	pe	NOUN	形式名詞	_	9	nsubj	_	_
+8	ka	ka	ADP	副助詞	_	7	case	_	_
+9	okai	okay	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+10	be	pe	NOUN	形式名詞	_	0	root	_	_
+11	ne	ne	AUX	デアル動詞	_	10	cop	_	_
+12	wa	wa	PART	終助詞	_	10	discourse	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	10	punct	_	_
+

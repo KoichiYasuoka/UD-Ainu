@@ -1,0 +1,9 @@
+# text_ja = 早く早く後れるから
+# text = Nitan nitan aorauki na.
+1	Nitan	nitan	VERB	自動詞	_	4	advcl	_	_
+2	nitan	nitan	VERB	自動詞	_	4	advcl	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	orauki	orawki	VERB	他動詞	_	0	root	_	_
+5	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

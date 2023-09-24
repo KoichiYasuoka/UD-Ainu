@@ -1,0 +1,5 @@
+# text_ja = セキバライ(咳拂)
+# text = Shirekut koro.
+1	Shirekut koro	sirekutkar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

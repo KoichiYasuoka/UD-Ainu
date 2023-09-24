@@ -1,0 +1,13 @@
+# page = 191
+# text_ja = 馬車の出るまでにまだ間があるか
+# text = Pasha hopuni pakno naa moire ruwe he an?
+1	Pasha	pasa	NOUN	名詞	_	2	nsubj	_	_
+2	hopuni	hopuni	VERB	自動詞	_	5	advcl	_	_
+3	pakno	pakno	SCONJ	後置副詞	_	2	mark	_	_
+4	naa	naa	ADV	副詞	_	5	advmod	_	_
+5	moire	moyre	VERB	自動詞	_	6	acl	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

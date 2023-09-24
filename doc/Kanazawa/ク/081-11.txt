@@ -1,0 +1,8 @@
+# text_ja = もー馬車は來たか
+# text = Tane Pasha ek ya?
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	Pasha	pasa	NOUN	名詞	_	3	nsubj	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	_
+4	ya	ya	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	3	punct	_	_
+

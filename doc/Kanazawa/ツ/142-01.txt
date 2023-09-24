@@ -1,0 +1,8 @@
+# title = ツ
+# page = 142
+# text_ja = ツイデ(序)
+# text = Oushi ne no.
+1	Oushi	ousi	NOUN	位置名詞	_	0	root	_	_
+2	ne no	neno	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

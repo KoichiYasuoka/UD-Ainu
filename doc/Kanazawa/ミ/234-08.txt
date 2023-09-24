@@ -1,0 +1,17 @@
+# text_ja = この道を行けば沙流え行けますか
+# text = Tan ru kari paye an koro Saru ta paye an ruwe he an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ru	ru	NOUN	名詞	_	4	obl	_	_
+3	kari	kari	SCONJ	後置副詞	_	2	case	_	_
+4	paye	paye	VERB	自動詞	_	9	advcl	_	_
+5	an	=an	PART	人称接辞	_	4	nsubj	_	_
+6	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
+7	Saru	Saru	PROPN	固有名詞	_	9	obl	_	_
+8	ta	ta	ADP	格助詞	_	7	case	_	_
+9	paye	paye	VERB	自動詞	_	11	acl	_	_
+10	an	=an	PART	人称接辞	_	9	nsubj	_	_
+11	ruwe	ruwe	NOUN	形式名詞	_	13	nsubj	_	_
+12	he	he	ADP	副助詞	_	11	case	_	_
+13	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+14	?	?	PUNCT	記号	_	13	punct	_	_
+

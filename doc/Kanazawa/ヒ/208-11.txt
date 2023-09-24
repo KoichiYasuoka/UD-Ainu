@@ -1,0 +1,9 @@
+# text_ja = 今晝(正午)だ
+# text = Tane tokap-noshike ne.
+1	Tane	tane	ADV	副詞	_	4	advmod	_	_
+2	tokap	tókap	NOUN	名詞	_	4	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	noshike	noski	NOUN	位置名詞	_	0	root	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

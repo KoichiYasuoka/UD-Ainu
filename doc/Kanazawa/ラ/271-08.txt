@@ -1,0 +1,7 @@
+# text_ja = ランボーモノ(亂暴者)
+# text = Wen sakanramu koro guru.
+1	Wen	wen	VERB	自動詞	_	3	amod	_	_
+2	sakanramu koro	sakanramkor	VERB	自動詞	_	3	amod	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

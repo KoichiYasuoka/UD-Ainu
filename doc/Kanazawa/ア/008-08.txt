@@ -1,0 +1,6 @@
+# text_ja = あまり暑い
+# text = Eitasa shiri-sesek.
+1	Eitasa	eytasa	ADV	副詞	_	2	advmod	_	_
+2	shiri-sesek	sirsesek	VERB	完全動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

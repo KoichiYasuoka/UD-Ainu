@@ -1,0 +1,9 @@
+# text_ja = 晝だぞ早く起きろ
+# text = Tokap ne na, hopuni!
+1	Tokap	tokap	NOUN	名詞	_	0	root	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	na	na	PART	終助詞	_	1	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	1	punct	_	_
+5	hopuni	hopuni	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+6	!	!	PUNCT	記号	_	5	punct	_	_
+

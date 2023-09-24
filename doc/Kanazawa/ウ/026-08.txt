@@ -1,0 +1,5 @@
+# text_ja = ウチウミ(内海)
+# text = Ush.
+1	Ush	us	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

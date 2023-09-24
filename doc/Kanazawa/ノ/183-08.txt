@@ -1,0 +1,14 @@
+# text_ja = 此山へ登ると六ヶ敷か
+# text = Tan nupuri otta hemespa an chiki hokamba isama?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	nupuri	nupuri	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	hemespa	hemespa	VERB	自動詞	_	9	advcl	_	_
+6	an	=an	PART	人称接辞	_	5	nsubj	_	_
+7	chiki	ciki	SCONJ	接続助詞	_	5	mark	_	_
+8	hokamba	hokampa	NOUN	名詞	_	9	nsubj	_	_
+9	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	a	ya	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	?	?	PUNCT	記号	_	9	punct	_	_
+

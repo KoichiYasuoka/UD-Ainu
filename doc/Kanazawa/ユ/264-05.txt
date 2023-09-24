@@ -1,0 +1,8 @@
+# text_ja = いーえ鐵砲を用ひます
+# text = Shomo, teppo eiwange.
+1	Shomo	somo	ADV	副詞	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	記号	_	1	punct	_	_
+3	teppo	teppo	NOUN	名詞	_	4	obj	_	_
+4	eiwange	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

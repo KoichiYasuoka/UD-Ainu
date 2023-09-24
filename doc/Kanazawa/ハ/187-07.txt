@@ -1,0 +1,9 @@
+# text_ja = サーお這入
+# text = Hetak chisei orun ahun.
+1	Hetak	hetak	INTJ	間投詞	_	5	discourse	_	_
+2	chisei	cise	NOUN	名詞	_	3	nmod	_	_
+3	or	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	_
+5	ahun	ahun	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 誰れだ誰れだ
+# text = Hunna humi an?
+1	Hunna	hunna	NOUN	名詞	_	2	nmod	_	_
+2	humi	humi	NOUN	形式名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,7 @@
+# page = 12
+# text_ja = あるから
+# text = An gusu.
+1	An	an	VERB	自動詞	_	0	root	_	_
+2	gusu	kusu	SCONJ	接続詞	_	1	mark	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

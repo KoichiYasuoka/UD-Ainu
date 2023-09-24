@@ -1,0 +1,6 @@
+# text_ja = イヤ
+# text = Kopan; Kocan
+1	Kopan	kopan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Kocan	kocan	VERB	他動詞	_	1	parataxis	_	_
+

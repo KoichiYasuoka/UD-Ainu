@@ -1,0 +1,9 @@
+# text_ja = 此家の人は寢たか
+# text = Teun guru mokor a?
+1	Te	te	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	un	un	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	4	nsubj	_	_
+4	mokor	mokor	VERB	自動詞	_	0	root	_	_
+5	a	ya	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	4	punct	_	_
+

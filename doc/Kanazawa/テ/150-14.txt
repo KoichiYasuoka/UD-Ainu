@@ -1,0 +1,7 @@
+# text_ja = 中天
+# text = Nociw o kanto.
+1	Nociw	nociw	NOUN	名詞	_	2	obj	_	_
+2	o	o	VERB	他動詞	_	3	acl	_	_
+3	kanto	kanto	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

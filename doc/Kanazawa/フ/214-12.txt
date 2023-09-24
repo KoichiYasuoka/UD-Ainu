@@ -1,0 +1,11 @@
+# text_ja = 今日午後參るでしよー
+# text = Tando tokap ibe orowano ek nangoro.
+1	Tando	tanto	ADV	副詞	_	6	advmod	_	_
+2	tokap	tókap	NOUN	名詞	_	3	nmod	_	_
+3	ibe	ipe	NOUN	名詞	_	4	nmod	_	_
+4	oro	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	wano	wano	ADP	格助詞	_	4	case	_	_
+6	ek	ek	VERB	自動詞	_	0	root	_	_
+7	nangoro	nankor	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

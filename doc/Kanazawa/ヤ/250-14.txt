@@ -1,0 +1,8 @@
+# text_ja = ヤクニタヽヌモノ
+# text = Aeiwange eaikapbe.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	eiwange	eywanke	VERB	他動詞	_	4	acl	_	_
+3	eaikap	eaykap	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

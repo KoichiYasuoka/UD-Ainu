@@ -1,0 +1,12 @@
+# text_ja = あれは御前の好きな物ではないか
+# text = Toambe e oshitkotep ne ruwe he an?
+1	Toambe	tanpe	NOUN	名詞	_	3	obj	_	_
+2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+3	oshitkote	osikkote	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	6	acl	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

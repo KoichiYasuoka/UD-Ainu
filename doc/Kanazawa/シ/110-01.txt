@@ -1,0 +1,8 @@
+# page = 110
+# text_ja = よく知つて居ります
+# text = Pirikano k'eraman.
+1	Pirikano	pirkano	ADV	副詞	_	3	advmod	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	eraman	eraman	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

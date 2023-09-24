@@ -1,0 +1,10 @@
+# page = 258
+# text_ja = それをせよと云へ
+# text = Aki kuni gusu ye.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	ki	ki	VERB	他動詞	_	3	acl	_	_
+3	kuni	kuni	NOUN	形式名詞	_	5	obj	_	_
+4	gusu	kusu	SCONJ	後置副詞	_	3	case	_	_
+5	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

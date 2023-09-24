@@ -1,0 +1,9 @@
+# page = 155
+# text_ja = 此小刀は切れない
+# text = Tan makiri uweepakita enukara.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	makiri	makiri	NOUN	名詞	_	4	obj	_	_
+3	uweepakita	uwepakita	ADV	副詞	_	4	advmod	_	_
+4	enukara	enukar	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

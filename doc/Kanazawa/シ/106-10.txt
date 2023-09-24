@@ -1,0 +1,12 @@
+# text_ja = お前は主人か
+# text = Chisei koro guru a ne ruwe he an?
+1	Chisei	cise	NOUN	名詞	_	2	obj	_	_
+2	koro	kor	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	6	acl	_	_
+4	a	a=	PART	人称接辞	_	3	nsubj	_	_
+5	ne	ne	AUX	デアル動詞	_	3	cop	_	_
+6	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+7	he	he	ADP	副助詞	_	6	case	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

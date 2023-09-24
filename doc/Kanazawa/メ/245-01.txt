@@ -1,0 +1,6 @@
+# page = 245
+# text_ja = メカケ(妾)
+# text = Pon-mat.
+1	Pon-mat	ponmat	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

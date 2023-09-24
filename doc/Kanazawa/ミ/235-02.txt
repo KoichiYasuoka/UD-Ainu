@@ -1,0 +1,8 @@
+# text_ja = 道が惡い
+# text = Chikushi wen.
+1	Chi	ci=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	kush	kus	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	i	-i	NOUN	形式名詞	_	4	nsubj	_	_
+4	wen	wen	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

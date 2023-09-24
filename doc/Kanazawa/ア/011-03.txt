@@ -1,0 +1,12 @@
+# text_ja = 雲が霽れて嵐が止んだ
+# text = Nishoro hechaka wa tane ruyambe oka an.
+1	Nish	nis	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	3	nsubj	_	_
+3	hechaka	hecaka	VERB	自動詞	_	8	advcl	_	_
+4	wa	wa	SCONJ	接続助詞	_	3	mark	_	_
+5	tane	tane	ADV	副詞	_	8	advmod	_	_
+6	ruyambe	ruyanpe	NOUN	名詞	_	7	nmod	_	_
+7	oka	oka	NOUN	位置名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

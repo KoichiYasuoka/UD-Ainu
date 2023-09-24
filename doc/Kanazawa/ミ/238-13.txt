@@ -1,0 +1,6 @@
+# text_ja = 片方の耳
+# text = Oara kisara.
+1	Oara	oar	DET	連体詞	_	2	det	_	_
+2	kisara	kisar	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

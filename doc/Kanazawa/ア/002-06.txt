@@ -1,0 +1,4 @@
+# text_ja = アカリ(燈火)
+# text = Ratchako
+1	Ratchako	ratcako	NOUN	名詞	_	0	root	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = ホクトセイ(北斗星)
+# text = Chi-nukara-guru.
+1	Chi-nukara-guru	cinukarkur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

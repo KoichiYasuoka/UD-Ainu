@@ -1,0 +1,6 @@
+# text_ja = 好き顏色
+# text = Iporo pirika.
+1	Iporo	iporo	NOUN	名詞	_	2	obj	_	_
+2	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

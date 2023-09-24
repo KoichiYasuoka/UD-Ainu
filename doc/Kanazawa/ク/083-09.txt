@@ -1,0 +1,5 @@
+# text_ja = グルリ(周圍)
+# text = Okari.
+1	Okari	okari	SCONJ	後置副詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

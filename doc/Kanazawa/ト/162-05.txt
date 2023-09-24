@@ -1,0 +1,9 @@
+# text_ja = ドノヘン(何邊)
+# text = Hunakpeka; Hunakoro.
+1	Hunak	hunak	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	peka	peka	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	1	punct	_	_
+4	Hunak	hunak	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	oro	oro	NOUN	位置名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

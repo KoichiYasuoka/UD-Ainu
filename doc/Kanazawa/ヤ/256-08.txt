@@ -1,0 +1,9 @@
+# text_ja = 無いからやられぬ
+# text = Isam gusu shomo echi kore.
+1	Isam	isam	VERB	自動詞	_	5	advcl	_	_
+2	gusu	kusu	SCONJ	接続詞	_	1	mark	_	_
+3	shomo	somo	ADV	副詞	_	5	advmod	_	_
+4	echi	eci=	PART	人称接辞	_	5	nsubj	_	_
+5	kore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

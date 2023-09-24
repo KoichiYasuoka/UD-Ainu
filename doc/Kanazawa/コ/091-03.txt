@@ -1,0 +1,7 @@
+# text_ja = こちらへ來い
+# text = Teun ek.
+1	Te	te	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	un	un	ADP	格助詞	_	1	case	_	_
+3	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

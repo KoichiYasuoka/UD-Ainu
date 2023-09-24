@@ -1,0 +1,11 @@
+# text_ja = チヽ(父)
+# text = Acha; Michi; Ihabo; Hambe.
+1	Acha	aca	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Michi	mici	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Ihabo	ihapo	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	記号	_	5	punct	_	_
+7	Hambe	hampe	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

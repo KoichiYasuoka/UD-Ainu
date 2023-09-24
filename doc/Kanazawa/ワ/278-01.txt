@@ -1,0 +1,10 @@
+# page = 278
+# text_ja = 惡い！こまつたなー
+# text = Yaisama! wen hawe ne.
+1	Yaisama	yaysama	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	記号	_	1	punct	_	_
+3	wen	wen	VERB	自動詞	_	4	acl	_	_
+4	hawe	hawe	NOUN	形式名詞	_	1	parataxis	_	_
+5	ne	ne	AUX	デアル動詞	_	4	cop	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

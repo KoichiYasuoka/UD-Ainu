@@ -1,0 +1,13 @@
+# text_ja = 近かければ一處に行うー遠ければ止めよー
+# text = Hange no ne yakun echi tura tuima yakun shomo.
+1	Hange	hanke	VERB	自動詞	_	6	advcl	_	_
+2	no	no	SCONJ	接続助詞	_	1	mark	_	_
+3	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+4	yakun	yakun	SCONJ	接続助詞	_	1	mark	_	_
+5	echi	eci=	PART	人称接辞	_	6	nsubj	_	_
+6	tura	tura	VERB	他動詞	_	0	root	_	_
+7	tuima	tuyma	VERB	自動詞	_	9	advcl	_	_
+8	yakun	yakun	SCONJ	接続助詞	_	7	mark	_	_
+9	shomo	somo	ADV	副詞	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	6	punct	_	_
+

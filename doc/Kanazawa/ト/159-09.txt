@@ -1,0 +1,12 @@
+# text_ja = 六十餘りです
+# text = Re-hotnepa akkari ne ruwe ne.
+1	Re	re	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+3	hotne	hotne	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	pa	pa	NOUN	名詞	_	7	acl	_	_
+5	akkari	akkari	SCONJ	後置副詞	_	4	case	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

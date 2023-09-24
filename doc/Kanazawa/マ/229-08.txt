@@ -1,0 +1,14 @@
+# text_ja = お前に云ふた事皆間違なくしたか
+# text = Eani echi nure ap obitta oheuge sakno ki ya.
+1	Eani	eani	PRON	代名詞	_	3	obj	_	_
+2	echi	eci=	PART	人称接辞	_	3	nsubj	_	_
+3	nure	nure	VERB	他動詞	_	5	acl	_	_
+4	a	a	AUX	助動詞	_	3	aux	_	SpaceAfter=No
+5	p	-p	PART	接尾辞	_	7	nsubj	_	_
+6	obitta	opitta	SCONJ	後置副詞	_	5	case	_	_
+7	oheuge	ohewke	VERB	自動詞	_	9	advcl	_	_
+8	sakno	sakno	ADV	副詞	_	9	advmod	_	_
+9	ki	ki	VERB	他動詞	_	0	root	_	_
+10	ya	ya	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
+

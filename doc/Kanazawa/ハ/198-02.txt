@@ -1,0 +1,6 @@
+# text_ja = 饑を忍ふ
+# text = Chep enishte.
+1	Chep	cep	NOUN	名詞	_	2	obj	_	_
+2	enishte	eniste	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

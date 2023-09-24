@@ -1,0 +1,9 @@
+# text_ja = あの人に盃を上げなさい
+# text = Toan guru tuki kore yan.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	4	nsubj	_	_
+3	tuki	túki	NOUN	名詞	_	4	obj	_	_
+4	kore	kore	VERB	他動詞	_	0	root	_	_
+5	yan	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,4 @@
+# text_ja = アウ(會)
+# text = Unukara
+1	Unukara	unukar	VERB	自動詞	_	0	root	_	_
+

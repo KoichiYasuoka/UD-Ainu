@@ -1,0 +1,14 @@
+# text_ja = 日暮れに此村を立とー
+# text = Shiri kunne koro tan kotan wa k'arapa kusu ne na.
+1	Shiri kunne	sirkunne	VERB	完全動詞	_	7	advcl	_	_
+2	koro	kor	SCONJ	接続助詞	_	1	mark	_	_
+3	tan	tan	DET	連体詞	_	4	det	_	_
+4	kotan	kotan	NOUN	名詞	_	7	obl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	case	_	_
+6	k'	k=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	arapa	arpa	VERB	自動詞	_	0	root	_	_
+8	kusu	kusu	SCONJ	接続助詞	_	7	mark	_	_
+9	ne	ne	AUX	デアル動詞	_	7	aux	_	_
+10	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	7	punct	_	_
+

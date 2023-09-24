@@ -1,0 +1,11 @@
+# text_ja = 良い馬だから心配するな
+# text = Pirika umma ne na iteki eramiturukuru yan.
+1	Pirika	pirka	VERB	自動詞	_	2	amod	_	_
+2	umma	umma	NOUN	名詞	_	6	advcl	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	_
+4	na	na	PART	終助詞	_	2	discourse	_	_
+5	iteki	iteki	ADV	副詞	_	6	advmod	_	_
+6	eramiturukuru	erampekamam	VERB	他動詞	_	0	root	_	_
+7	yan	yan	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

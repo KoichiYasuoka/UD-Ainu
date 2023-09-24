@@ -1,0 +1,6 @@
+# text_ja = あまり大きい
+# text = Eikushtek poro.
+1	Eikushtek	eikustek	ADV	副詞	_	2	advmod	_	_
+2	poro	poro	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

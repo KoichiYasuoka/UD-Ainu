@@ -1,0 +1,6 @@
+# page = 31
+# text_ja = 川より下る
+# text = Ha.
+1	Ha	ha	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

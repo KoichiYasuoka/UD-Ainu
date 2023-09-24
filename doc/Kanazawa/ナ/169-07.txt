@@ -1,0 +1,10 @@
+# text_ja = あの人から打たれた
+# text = Toan guru orowano akik.
+1	Toan	toan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	6	obj	_	_
+3	oro	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+4	wano	wano	ADP	格助詞	_	3	case	_	_
+5	a	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	kik	kik	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

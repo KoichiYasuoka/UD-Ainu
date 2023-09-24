@@ -1,0 +1,13 @@
+# text_ja = カシラ(頭領)
+# text = Ottena; Kotan koro guru; Utara koro guru.
+1	Ottena	ottena	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Kotan	kotan	NOUN	名詞	_	4	nsubj	_	_
+4	koro	kor	VERB	他動詞	_	5	acl	_	_
+5	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	記号	_	5	punct	_	_
+7	Utara	utara	NOUN	名詞	_	8	obj	_	_
+8	koro	kor	VERB	他動詞	_	9	acl	_	_
+9	guru	kur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

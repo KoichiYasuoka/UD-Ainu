@@ -1,0 +1,7 @@
+# text_ja = 來いと云へ
+# text = Ek kuni ye.
+1	Ek	ek	VERB	自動詞	_	2	acl	_	_
+2	kuni	kuni	NOUN	形式名詞	_	3	obj	_	_
+3	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

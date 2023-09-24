@@ -1,0 +1,11 @@
+# text_ja = 久敷御目に掛かりませぬが御機嫌は如何ですか
+# text = Ohonno shomo unukaran awa irangarapte na.
+1	Ohonno	ohonno	ADV	副詞	_	3	advmod	_	_
+2	shomo	somo	ADV	副詞	_	3	advmod	_	_
+3	unukar	unukar	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+4	an	=an	PART	人称接辞	_	3	nsubj	_	_
+5	awa	awa	CCONJ	接続詞	_	3	cc	_	_
+6	irangarapte	irankarapte	INTJ	間投詞	_	0	root	_	_
+7	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	6	punct	_	_
+

@@ -1,0 +1,12 @@
+# text_ja = 御覧なさい鮪と鮭があります
+# text = Tambe nukara oshuprotki shipe (Kamui chep) an.
+1	Tambe	tanpe	NOUN	名詞	_	2	obj	_	_
+2	nukara	nukar	VERB	他動詞	_	0	root	_	_
+3	oshuprotki	osoprotki	NOUN	名詞	_	8	nsubj	_	_
+4	shipe	sipe	NOUN	名詞	_	3	conj	_	_
+5	(	(	PUNCT	記号	_	6	punct	_	SpaceAfter=No
+6	Kamui chep	kamuycep	NOUN	名詞	_	4	appos	_	SpaceAfter=No
+7	)	)	PUNCT	記号	_	6	punct	_	_
+8	an	an	VERB	自動詞	_	2	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

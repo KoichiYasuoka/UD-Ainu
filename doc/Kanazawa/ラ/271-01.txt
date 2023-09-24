@@ -1,0 +1,8 @@
+# page = 271
+# text_ja = ラオ(管)
+# text = Kiseri-tumam.
+1	Kiseri	kiseri	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	tumam	tumam	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

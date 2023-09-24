@@ -1,0 +1,7 @@
+# text_ja = ミンナ(皆)
+# text = Aara; Obitta.
+1	Aara	oar	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Obitta	opitta	SCONJ	後置副詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

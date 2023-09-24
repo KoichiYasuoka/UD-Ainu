@@ -1,0 +1,6 @@
+# text_ja = 殘らず無くなつた
+# text = Emukneno isam.
+1	Emukneno	emukneno	ADV	副詞	_	2	advmod	_	_
+2	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

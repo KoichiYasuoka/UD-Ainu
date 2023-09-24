@@ -1,0 +1,7 @@
+# text_ja = アゴ(顎)
+# text = Notkiri; Notkeu.
+1	Notkiri	notkiri	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Notkeu	notkewe	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

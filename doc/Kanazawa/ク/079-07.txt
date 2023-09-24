@@ -1,0 +1,9 @@
+# text_ja = 此雲は霽れるだろー
+# text = Tan nishkuru okake an nangoro.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	nishkuru	niskur	NOUN	名詞	_	3	nmod	_	_
+3	okake	okake	NOUN	位置名詞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	0	root	_	_
+5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

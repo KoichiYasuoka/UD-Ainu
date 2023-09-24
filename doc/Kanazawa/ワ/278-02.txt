@@ -1,0 +1,9 @@
+# text_ja = 何時から惡いか
+# text = Hembara wano ene ani an?
+1	Hembara	hempara	ADV	副詞	_	5	advmod	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	_
+3	ene	ene	ADV	副詞	_	5	advmod	_	_
+4	ani	ani	SCONJ	後置副詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

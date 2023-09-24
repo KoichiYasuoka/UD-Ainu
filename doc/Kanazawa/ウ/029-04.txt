@@ -1,0 +1,7 @@
+# text_ja = 小兒が生れた
+# text = Pon hekachi hetuku.
+1	Pon	pon	VERB	自動詞	_	2	amod	_	_
+2	hekachi	hekaci	NOUN	名詞	_	3	nsubj	_	_
+3	hetuku	hetuku	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

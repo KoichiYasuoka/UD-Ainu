@@ -1,0 +1,10 @@
+# text_ja = 茶を三人前持て來い
+# text = Cha ren atarimaye koro wa ek.
+1	Cha	ca	NOUN	名詞	_	4	obj	_	_
+2	ren	ren	NUM	数詞	_	3	nummod	_	_
+3	atarimaye	atarimae	NOUN	名詞	_	4	obl	_	_
+4	koro	kor	VERB	他動詞	_	6	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

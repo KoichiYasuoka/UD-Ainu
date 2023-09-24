@@ -1,0 +1,12 @@
+# text_ja = 其處へ行つたならば居ります
+# text = Toanda paye an yak eashiri oka ruwe ne.
+1	Toanda	toanta	ADV	副詞	_	2	advmod	_	_
+2	paye	paye	VERB	自動詞	_	6	advcl	_	_
+3	an	=an	PART	人称接辞	_	2	nsubj	_	_
+4	yak	yak	SCONJ	接続助詞	_	2	mark	_	_
+5	eashiri	easir	ADV	副詞	_	6	advmod	_	_
+6	oka	oka	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+8	ne	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

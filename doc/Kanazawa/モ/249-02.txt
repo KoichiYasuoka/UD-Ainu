@@ -1,0 +1,7 @@
+# text_ja = モリ(森)
+# text = Ni-tai; Kenashi.
+1	Ni-tai	nitay	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Kenashi	kenas	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

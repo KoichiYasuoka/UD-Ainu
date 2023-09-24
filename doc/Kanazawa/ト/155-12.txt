@@ -1,0 +1,5 @@
+# text = Hunak wa?
+1	Hunak	Hunak	NOUN	名詞	_	0	root	_	_
+2	wa	wa	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	?	?	PUNCT	記号	_	1	punct	_	_
+

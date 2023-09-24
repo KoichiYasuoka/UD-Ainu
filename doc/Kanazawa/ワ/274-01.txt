@@ -1,0 +1,9 @@
+# page = 274
+# text_ja = 何處が分らないか
+# text = Hunakoro aerambeutek?
+1	Hunak	hunak	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	oro	oro	NOUN	位置名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	erambeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	4	punct	_	_
+

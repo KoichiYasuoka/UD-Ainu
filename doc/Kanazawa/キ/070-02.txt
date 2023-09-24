@@ -1,0 +1,7 @@
+# text_ja = よく聞け
+# text = Pirikano nu yan.
+1	Pirikano	pirkano	ADV	副詞	_	2	advmod	_	_
+2	nu	nu	VERB	他動詞	_	0	root	_	_
+3	yan	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

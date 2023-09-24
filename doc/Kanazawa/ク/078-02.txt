@@ -1,0 +1,13 @@
+# text_ja = この靴はあまり小さくて穿かれない
+# text = Tan kere mashkinno pon wa k'ushi eaikap na.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	kere	ker	NOUN	名詞	_	4	nsubj	_	_
+3	mashkinno	maskinno	ADV	副詞	_	4	advmod	_	_
+4	pon	pon	VERB	自動詞	_	7	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	k'	k=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	ushi	us	VERB	他動詞	_	0	root	_	_
+8	eaikap	eaykap	AUX	助動詞	_	7	aux	_	_
+9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	7	punct	_	_
+

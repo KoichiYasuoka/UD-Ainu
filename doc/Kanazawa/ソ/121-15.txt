@@ -1,0 +1,9 @@
+# text_ja = 屋外にある物を入れる
+# text = Soita okaibe ahupte.
+1	Soi	soy	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	okai	okay	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+4	be	pe	NOUN	形式名詞	_	5	obj	_	_
+5	ahupte	ahupte	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

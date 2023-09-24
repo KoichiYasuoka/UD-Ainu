@@ -1,0 +1,16 @@
+# text_ja = 此道は馬に乘つて行てもよいか
+# text = Tan ru umma o wa paye an yakka pirika ruwe he an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ru	ru	NOUN	名詞	_	3	nmod	_	_
+3	umma	umma	NOUN	名詞	_	4	obj	_	_
+4	o	o	VERB	他動詞	_	6	advcl	_	_
+5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	paye	paye	VERB	自動詞	_	9	advcl	_	_
+7	an	=an	PART	人称接辞	_	6	nsubj	_	_
+8	yakka	yakka	SCONJ	接続助詞	_	6	mark	_	_
+9	pirika	pirka	VERB	自動詞	_	10	acl	_	_
+10	ruwe	ruwe	NOUN	形式名詞	_	12	nsubj	_	_
+11	he	he	ADP	副助詞	_	10	case	_	_
+12	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	記号	_	12	punct	_	_
+

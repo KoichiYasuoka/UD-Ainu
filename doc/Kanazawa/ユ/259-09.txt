@@ -1,0 +1,12 @@
+# text_ja = 私は日本人故にアイヌ語は分らぬ
+# text = Kuani shisam ne gusu ainu itak ku erambeutek.
+1	Kuani	kuani	PRON	代名詞	_	2	nsubj	_	_
+2	shisam	sisam	NOUN	名詞	_	8	advcl	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	_
+4	gusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+5	ainu	aynu	NOUN	名詞	_	6	compound	_	_
+6	itak	itak	NOUN	名詞	_	8	obj	_	_
+7	ku	ku=	PART	人称接辞	_	8	nsubj	_	_
+8	erambeutek	erampewtek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

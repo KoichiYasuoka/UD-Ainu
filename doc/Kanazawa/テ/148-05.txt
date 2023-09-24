@@ -1,0 +1,9 @@
+# text_ja = 右手
+# text = Shimon teke; Shimonsam.
+1	Shimon	simon	NOUN	名詞	_	2	nmod	_	_
+2	teke	teke	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Shimon	simon	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	sam	sam	NOUN	位置名詞	_	2	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

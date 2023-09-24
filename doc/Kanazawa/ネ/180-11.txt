@@ -1,0 +1,7 @@
+# text_ja = 子ル(寐)
+# text = Hotke; Mokor.
+1	Hotke	hotke	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Mokor	mokor	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

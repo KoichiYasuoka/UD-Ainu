@@ -1,0 +1,9 @@
+# text_ja = 生か煮たのかどちらか
+# text = Ma hemge, shuye hemge?
+1	Ma	ma	VERB	他動詞	_	0	root	_	_
+2	hemge	hemke	ADP	副助詞	_	1	case	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	1	punct	_	_
+4	shuye	suye	VERB	他動詞	_	1	parataxis	_	_
+5	hemge	hemke	ADP	副助詞	_	4	case	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	4	punct	_	_
+

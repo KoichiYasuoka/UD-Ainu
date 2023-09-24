@@ -1,0 +1,6 @@
+# title = ヌ
+# text_ja = ヌ(繍)
+# text = Okshui.
+1	Okshui	oksuy	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

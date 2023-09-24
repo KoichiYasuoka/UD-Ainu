@@ -1,0 +1,15 @@
+# text_ja = ソーレー(葬禮)
+# text = Wen-nepki; Wembe buri; Wen nepki kusu paye.
+1	Wen	wen	VERB	自動詞	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	1	punct	_	SpaceAfter=No
+3	nepki	nepki	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Wembe	wempe	NOUN	名詞	_	6	nmod	_	_
+6	buri	puri	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+7	;	;	PUNCT	記号	_	6	punct	_	_
+8	Wen	wen	VERB	自動詞	_	9	amod	_	_
+9	nepki	nepki	NOUN	名詞	_	11	obl	_	_
+10	kusu	kusu	SCONJ	接続助詞	_	9	case	_	_
+11	paye	paye	VERB	自動詞	_	3	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

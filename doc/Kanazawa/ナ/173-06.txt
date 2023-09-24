@@ -1,0 +1,6 @@
+# text_ja = ナルタケ(成丈)
+# text = Eashkai pakno.
+1	Eashkai	easkay	VERB	他動詞	_	0	root	_	_
+2	pakno	pakno	SCONJ	後置副詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

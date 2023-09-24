@@ -1,0 +1,9 @@
+# text_ja = もつと遅く起こせ
+# text = Moireko un mososo humi an.
+1	Moireko	moyre-ko	ADV	副詞	_	3	advmod	_	_
+2	un	un=	PART	人称接辞	_	3	obj	_	_
+3	mososo	mososo	VERB	他動詞	_	4	acl	_	_
+4	humi	humi	NOUN	形式名詞	_	5	nsubj	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

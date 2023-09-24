@@ -1,0 +1,5 @@
+# text_ja = ヒル(正午)
+# text = Tononoshiki.
+1	Tononoshiki	tononoski	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

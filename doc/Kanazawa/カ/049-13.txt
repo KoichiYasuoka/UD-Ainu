@@ -1,0 +1,15 @@
+# text_ja = 此次に來た時に緩りと遊びます
+# text = Okaketa k'ek koro ratchitara k'an kusu ne wa.
+1	Okake	okake	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ek	ek	VERB	自動詞	_	8	advcl	_	_
+5	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
+6	ratchitara	ratcitara	ADV	副詞	_	8	advmod	_	_
+7	k'	k=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	an	an	VERB	自動詞	_	0	root	_	_
+9	kusu	kusu	SCONJ	接続詞	_	8	mark	_	_
+10	ne	ne	AUX	デアル動詞	_	8	cop	_	_
+11	wa	wa	PART	終助詞	_	8	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	8	punct	_	_
+

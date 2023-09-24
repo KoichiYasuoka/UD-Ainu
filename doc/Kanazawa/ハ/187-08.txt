@@ -1,0 +1,7 @@
+# text_ja = サー這入れ
+# text = Hetak ahup an.
+1	Hetak	hetak	INTJ	間投詞	_	2	discourse	_	_
+2	ahup	ahup	VERB	自動詞	_	0	root	_	_
+3	an	yan	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

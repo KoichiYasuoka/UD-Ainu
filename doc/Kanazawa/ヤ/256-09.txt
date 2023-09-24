@@ -1,0 +1,9 @@
+# text_ja = あるけれどもやられぬ
+# text = An koroka echi kore eaikap.
+1	An	an	VERB	自動詞	_	0	root	_	_
+2	koroka	korka	CCONJ	接続詞	_	1	cc	_	_
+3	echi	eci=	PART	人称接辞	_	4	nsubj	_	_
+4	kore	kore	VERB	他動詞	_	1	conj	_	_
+5	eaikap	eaykap	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

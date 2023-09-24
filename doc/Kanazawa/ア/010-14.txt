@@ -1,0 +1,18 @@
+# text_ja = 此様な日に洗ふても乾きませぬ
+# text = Tambe ne no an to otta anakne nepka ahuraye yakka sat eaikap.
+1	Tambe	tanpe	NOUN	名詞	_	3	nsubj	_	_
+2	ne no	neno	SCONJ	後置副詞	_	1	case	_	_
+3	an	an	VERB	自動詞	_	4	acl	_	_
+4	to	to	NOUN	名詞	_	5	nmod	_	_
+5	ot	or	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+6	ta	ta	ADP	格助詞	_	5	case	_	_
+7	anakne	anakne	ADP	副助詞	_	5	case	_	_
+8	nep	nep	NOUN	名詞	_	11	obj	_	SpaceAfter=No
+9	ka	ka	ADP	副助詞	_	8	case	_	_
+10	a	a=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	huraye	huraye	VERB	他動詞	_	13	advcl	_	_
+12	yakka	yakka	SCONJ	接続助詞	_	11	mark	_	_
+13	sat	sat	VERB	自動詞	_	0	root	_	_
+14	eaikap	eaykap	AUX	助動詞	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	13	punct	_	_
+

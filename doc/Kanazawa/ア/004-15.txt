@@ -1,0 +1,5 @@
+# text_ja = 荷物を預ける
+# text = Kingai shikkashimare
+1	Kingai	kinkay	NOUN	名詞	_	2	obj	_	_
+2	shikkashimare	sikkasmare	VERB	他動詞	_	0	root	_	_
+

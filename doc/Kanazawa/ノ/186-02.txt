@@ -1,0 +1,8 @@
+# text_ja = 此處で買ひます
+# text = Teda a-hok.
+1	Te	te	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+2	da	ta	ADP	格助詞	_	1	case	_	_
+3	a-	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	hok	hok	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

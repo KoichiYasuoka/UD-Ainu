@@ -1,0 +1,13 @@
+# text_ja = 二十八歳です
+# text = Tupesan pa ikashma hotne pa ku ne ruwe ne.
+1	Tupesan	tupesan	NUM	数詞	_	2	nummod	_	_
+2	pa	pa	NOUN	名詞	_	3	nsubj	_	_
+3	ikashma	ikasma	VERB	自動詞	_	5	acl	_	_
+4	hotne	hotne	NUM	数詞	_	5	nummod	_	_
+5	pa	pa	NOUN	名詞	_	8	acl	_	_
+6	ku	ku=	PART	人称接辞	_	5	nsubj	_	_
+7	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+8	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+9	ne	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 子ボー(寐坊)
+# text = Mokor pokaihike.
+1	Mokor	mokor	VERB	自動詞	_	3	acl	_	_
+2	pokai	póka	ADP	副助詞	_	1	mark	_	SpaceAfter=No
+3	hike	hike	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,12 @@
+# text_ja = 何人前こしらへましよーか
+# text = Amam hembakniu ep akan' ruwe an?
+1	Amam	amam	NOUN	名詞	_	2	nmod	_	_
+2	hembakniu	hempakniw	NOUN	名詞	_	3	obj	_	_
+3	e	e	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	6	obj	_	_
+5	a	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	kan'	kar	VERB	他動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

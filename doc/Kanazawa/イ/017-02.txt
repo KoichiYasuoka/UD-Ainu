@@ -1,0 +1,6 @@
+# text_ja = イシャ(醫者)
+# text = Ehotara guru.
+1	Ehotara	epotara	VERB	他動詞	_	2	amod	_	_
+2	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

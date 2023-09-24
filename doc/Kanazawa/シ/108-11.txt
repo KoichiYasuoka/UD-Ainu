@@ -1,0 +1,7 @@
+# text_ja = 今暫く辛棒せよ
+# text = Naa ponno eyainita.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	ponno	ponno	ADV	副詞	_	3	advmod	_	_
+3	eyainita	eyaynita	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

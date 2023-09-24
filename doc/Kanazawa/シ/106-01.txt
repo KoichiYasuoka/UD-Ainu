@@ -1,0 +1,6 @@
+# page = 106
+# text_ja = シャク(杓)
+# text = Kakkumi.
+1	Kakkumi	kakkumi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

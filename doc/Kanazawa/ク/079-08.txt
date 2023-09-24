@@ -1,0 +1,8 @@
+# text_ja = 黑い雲が澤山出た
+# text = Ekurok nishkuru poronno hetuku.
+1	Ekurok	ekurok	VERB	自動詞	_	2	amod	_	_
+2	nishkuru	niskur	NOUN	名詞	_	4	nsubj	_	_
+3	poronno	poronno	ADV	副詞	_	4	advmod	_	_
+4	hetuku	hetuku	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,6 @@
+# page = 199
+# text_ja = バン(番)
+# text = Atarimaye.
+1	Atarimaye	atarimae	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

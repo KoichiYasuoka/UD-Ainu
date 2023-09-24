@@ -1,0 +1,13 @@
+# text_ja = ニシ(西)
+# text = Chup pok; Atui gesh ne. Shum rera.
+1	Chup	cup	NOUN	名詞	_	2	nmod	_	_
+2	pok	pok	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	記号	_	2	punct	_	_
+4	Atui	atuy	NOUN	名詞	_	5	nmod	_	_
+5	gesh	kes	NOUN	位置名詞	_	2	parataxis	_	_
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+8	Shum	sum	NOUN	名詞	_	9	nmod	_	_
+9	rera	réra	NOUN	名詞	_	2	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

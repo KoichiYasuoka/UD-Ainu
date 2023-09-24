@@ -1,0 +1,11 @@
+# text_ja = 明日また來ましよー
+# text = Nishatta shui k'ek kusu ne na.
+1	Nishatta	nisatta	ADV	副詞	_	4	advmod	_	_
+2	shui	suy	ADV	副詞	_	4	advmod	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ek	ek	VERB	自動詞	_	0	root	_	_
+5	kusu	kusu	SCONJ	接続詞	_	4	mark	_	_
+6	ne	ne	AUX	デアル動詞	_	4	cop	_	_
+7	na	na	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	4	punct	_	_
+

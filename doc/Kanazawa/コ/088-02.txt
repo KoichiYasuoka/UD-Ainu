@@ -1,0 +1,7 @@
+# text_ja = 男ばかりです
+# text = Obitta okkayo patek.
+1	Obitta	opitta	SCONJ	後置副詞	_	2	advmod	_	_
+2	okkayo	okkayo	NOUN	名詞	_	0	root	_	_
+3	patek	patek	SCONJ	後置副詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

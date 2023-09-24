@@ -1,0 +1,16 @@
+# text_ja = 來月の四日になつたならば......
+# text = Tan chup osh ek chup ineto epa (okere) yakun......
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	chup	cup	NOUN	名詞	_	4	obl	_	_
+3	osh	os	SCONJ	後置副詞	_	2	case	_	_
+4	ek	ek	VERB	自動詞	_	5	acl	_	_
+5	chup	cup	NOUN	名詞	_	8	obj	_	_
+6	ine	hine	NUM	数詞	_	7	nummod	_	SpaceAfter=No
+7	to	to	NOUN	名詞	_	8	obl	_	_
+8	epa	epa	VERB	他動詞	_	13	advcl	_	_
+9	(	(	PUNCT	記号	_	10	punct	_	SpaceAfter=No
+10	okere	okere	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+11	)	)	PUNCT	記号	_	10	punct	_	_
+12	yakun	yakun	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
+13	......	......	PUNCT	記号	_	0	root	_	_
+

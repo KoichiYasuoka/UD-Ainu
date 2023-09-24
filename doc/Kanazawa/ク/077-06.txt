@@ -1,0 +1,7 @@
+# text_ja = クチ(口)
+# text = Paro; Charo.
+1	Paro	paro	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Charo	caro	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

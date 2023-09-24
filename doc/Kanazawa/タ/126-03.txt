@@ -1,0 +1,10 @@
+# text_ja = 澤山あるから一つ遣ろー
+# text = Poronno an kusu shinep echi kore.
+1	Poronno	poronno	ADV	副詞	_	2	advmod	_	_
+2	an	an	VERB	自動詞	_	6	advcl	_	_
+3	kusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	shinep	sinep	NUM	数詞	_	6	obj	_	_
+5	echi	eci=	PART	人称接辞	_	6	nsubj	_	_
+6	kore	kore	VERB	他動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

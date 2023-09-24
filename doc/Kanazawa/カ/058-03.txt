@@ -1,0 +1,7 @@
+# text_ja = 敵を取て殺した
+# text = Mondasa wa raige.
+1	Mondasa	montasa	VERB	自動詞	_	3	advcl	_	_
+2	wa	wa	SCONJ	接続助詞	_	1	mark	_	_
+3	raige	rayke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

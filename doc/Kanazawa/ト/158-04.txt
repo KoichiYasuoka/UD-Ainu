@@ -1,0 +1,8 @@
+# text_ja = 花咲ける處
+# text = Kina epui an ushike.
+1	Kina	kina	NOUN	名詞	_	2	nmod	_	_
+2	epui	epuy	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	4	acl	_	_
+4	ushike	uske	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

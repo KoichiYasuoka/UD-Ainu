@@ -1,0 +1,8 @@
+# text_ja = 私は兄弟に遇ひ度思ふ
+# text = K'utari k'eshikarun.
+1	K'	k=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	utari	utari	NOUN	名詞	_	4	obj	_	_
+3	k'	k=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	eshikarun	esikarun	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

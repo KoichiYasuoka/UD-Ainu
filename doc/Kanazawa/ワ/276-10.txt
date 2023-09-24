@@ -1,0 +1,10 @@
+# text_ja = 私はアイヌです
+# text = Kani anakne ainu ku ne wa.
+1	Kani	káni	PRON	代名詞	_	3	nsubj	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	ainu	aynu	NOUN	名詞	_	0	root	_	_
+4	ku	ku=	PART	人称接辞	_	3	expl	_	_
+5	ne	ne	AUX	デアル動詞	_	3	cop	_	_
+6	wa	wa	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	3	punct	_	_
+

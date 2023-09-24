@@ -1,0 +1,8 @@
+# text_ja = 何といふ人か
+# text = Hemanda ye guru ne?
+1	Hemanda	hemanta	NOUN	名詞	_	2	obj	_	_
+2	ye	ye	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	_
+4	ne	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	3	punct	_	_
+

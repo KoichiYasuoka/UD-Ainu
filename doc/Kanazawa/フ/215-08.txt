@@ -1,0 +1,9 @@
+# text_ja = 向ふへ一寸船を付けて吳れ
+# text = Toanda ponno chip shiri kotukka yan.
+1	Toanda	toanta	ADV	副詞	_	4	advmod	_	_
+2	ponno	ponno	ADV	副詞	_	4	advmod	_	_
+3	chip	cip	NOUN	名詞	_	4	obj	_	_
+4	shiri kotukka	sirkotukka	VERB	他動詞	_	0	root	_	_
+5	yan	yan	PART	終助詞	_	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

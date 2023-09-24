@@ -1,0 +1,10 @@
+# text_ja = イズミ(泉)
+# text_ja = 上より落ちるもの
+# text = Charase nai.(?)
+1	Charase	carse	VERB	自動詞	_	2	amod	_	_
+2	nai	nay	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+4	(	(	PUNCT	記号	_	5	punct	_	SpaceAfter=No
+5	?	?	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+6	)	)	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,6 @@
+# text = Iteki nei no iki.
+1	Iteki	iteki	ADV	副詞	_	3	advmod	_	_
+2	nei no	neno	SCONJ	後置副詞	_	1	case	_	_
+3	iki	iki	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

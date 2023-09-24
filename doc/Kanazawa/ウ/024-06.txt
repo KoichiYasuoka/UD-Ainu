@@ -1,0 +1,12 @@
+# text_ja = 何にか私に受取て來た物は無いか
+# text = Eani nepka en otta teshkara isam.
+1	Eani	eani	PRON	代名詞	_	7	nsubj	_	_
+2	nep	nep	NOUN	名詞	_	7	obl	_	SpaceAfter=No
+3	ka	ka	ADP	副助詞	_	2	case	_	_
+4	en	en=	PART	人称接辞	_	5	det	_	_
+5	ot	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+6	ta	ta	ADP	格助詞	_	5	case	_	_
+7	teshkara	teskar	VERB	自動詞	_	8	advcl	_	_
+8	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	8	punct	_	_
+

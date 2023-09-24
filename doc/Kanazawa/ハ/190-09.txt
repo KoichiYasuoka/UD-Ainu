@@ -1,0 +1,6 @@
+# text_ja = 初から
+# text = Atpake wano.
+1	Atpake	atpake	NOUN	位置名詞	_	0	root	_	_
+2	wano	wano	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

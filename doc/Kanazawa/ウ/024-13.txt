@@ -1,0 +1,18 @@
+# text_ja = 人の後に行くのは厭だ、前へ行きたい
+# text = Utara oshmaketa k'an kopan na, kotchaketa ku san rusui na.
+1	Utara	utar	NOUN	名詞	_	2	nmod	_	_
+2	oshmake	osmake	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	ta	ta	ADP	格助詞	_	2	case	_	_
+4	k'	k=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	an	an	VERB	自動詞	_	6	ccomp	_	_
+6	kopan	kopan	VERB	他動詞	_	12	advcl	_	_
+7	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	kotchake	kotcake	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+10	ta	ta	ADP	格助詞	_	9	case	_	_
+11	ku	ku=	PART	人称接辞	_	12	nsubj	_	_
+12	san	san	VERB	自動詞	_	0	root	_	_
+13	rusui	rusuy	AUX	助動詞	_	12	aux	_	_
+14	na	na	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	12	punct	_	_
+

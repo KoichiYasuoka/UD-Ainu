@@ -1,0 +1,7 @@
+# text_ja = ダレデモ(誰)
+# text = Nen neyakka.
+1	Nen	nen	PRON	代名詞	_	0	root	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	yakka	yakka	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	1	punct	_	_
+

@@ -1,0 +1,12 @@
+# text_ja = もっと安いのはないか
+# text = Naa akkari ataye haugep isam ruwe an?
+1	Naa	naa	ADV	副詞	_	4	advmod	_	_
+2	akkari	akkari	SCONJ	後置副詞	_	1	case	_	_
+3	ataye	ataye	NOUN	名詞	_	4	nsubj	_	_
+4	hauge	hawke	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+5	p	-p	PART	接尾辞	_	6	nsubj	_	_
+6	isam	isam	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
+

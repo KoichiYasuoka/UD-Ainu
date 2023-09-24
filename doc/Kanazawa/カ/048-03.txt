@@ -1,0 +1,9 @@
+# text_ja = 麥一升買ひます
+# text = Mungi shine chomba hu hok.
+1	Mungi	munki	NOUN	名詞	_	5	obj	_	_
+2	shine	sine	NUM	数詞	_	1	nummod	_	_
+3	chomba	compa	NOUN	名詞	_	2	clf	_	_
+4	hu	ku=	PART	人称接辞	_	5	nsubj	_	_
+5	hok	hok	VERB	他動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = ほんとにあの人だ
+# text = Oheuge sakno nea gun'ne wa.
+1	Oheuge	ohewke	VERB	自動詞	_	5	advcl	_	_
+2	sakno	sakno	ADV	副詞	_	5	advmod	_	_
+3	nea	nea	DET	連体詞	_	4	det	_	_
+4	gun	kur	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+5	'	'	PUNCT	記号	_	0	root	_	SpaceAfter=No
+6	ne	ne	AUX	デアル動詞	_	5	cop	_	_
+7	wa	wa	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

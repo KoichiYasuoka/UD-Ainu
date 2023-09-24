@@ -1,0 +1,8 @@
+# text_ja = アナ(洞穴)
+# text = Aouri-hi.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	ouri	ouri	VERB	他動詞	_	4	acl	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+4	hi	hi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

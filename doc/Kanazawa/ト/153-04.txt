@@ -1,0 +1,8 @@
+# text_ja = 彼は來ると思ひます
+# text = Ek kuni aramu.
+1	Ek	ek	VERB	自動詞	_	2	amod	_	_
+2	kuni	kuni	NOUN	形式名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	ramu	ramu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

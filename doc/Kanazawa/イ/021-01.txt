@@ -1,0 +1,6 @@
+# page = 21
+# text_ja = イノル(祈)
+# text = inonno-itak.
+1	inonno-itak	inonnoitak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

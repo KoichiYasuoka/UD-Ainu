@@ -1,0 +1,5 @@
+# text_ja = ザイモク(材木)
+# text = Chikuni.
+1	Chikuni	cikuni	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

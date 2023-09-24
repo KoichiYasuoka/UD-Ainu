@@ -1,0 +1,7 @@
+# text_ja = 日が長くなる
+# text = Tane to-tanne ne.
+1	Tane	tane	ADV	副詞	_	2	amod	_	_
+2	to-tanne	tótanne	NOUN	名詞	_	0	root	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,9 @@
+# text_ja = 左様申ます
+# text = Ku ye kusu ne wa.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	ye	ye	VERB	他動詞	_	0	root	_	_
+3	kusu	kusu	SCONJ	接続助詞	_	2	mark	_	_
+4	ne	ne	AUX	助動詞	_	2	aux	_	_
+5	wa	wa	PART	終助詞	_	2	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	2	punct	_	_
+

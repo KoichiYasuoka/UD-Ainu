@@ -1,0 +1,9 @@
+# page = 122
+# text_ja = 家より出る
+# text = Chisei orowano soine.
+1	Chisei	cise	NOUN	名詞	_	2	nmod	_	_
+2	oro	or	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	wano	wano	ADP	格助詞	_	2	case	_	_
+4	soine	soyne	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

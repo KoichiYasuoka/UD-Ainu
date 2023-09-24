@@ -1,0 +1,11 @@
+# text_ja = 此犬は馴れて吠えない
+# text = Tan seta en eramush mik shomoki.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	seta	seta	NOUN	名詞	_	4	nsubj	_	_
+3	en	en=	PART	人称接辞	_	4	obj	_	_
+4	eramush	eramus	VERB	他動詞	_	5	advcl	_	_
+5	mik	mik	VERB	自動詞	_	0	root	_	_
+6	shomo	somo	ADV	副詞	_	7	advmod	_	SpaceAfter=No
+7	ki	ki	AUX	助動詞	_	5	aux	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	5	punct	_	_
+

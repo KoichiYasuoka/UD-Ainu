@@ -1,0 +1,7 @@
+# text_ja = 兀山
+# text = Cha sak nupuri.
+1	Cha	ca	NOUN	名詞	_	2	obj	_	_
+2	sak	sak	VERB	他動詞	_	3	acl	_	_
+3	nupuri	nupuri	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

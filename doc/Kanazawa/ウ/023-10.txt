@@ -1,0 +1,6 @@
+# text_ja = 地上
+# text = Shiri kata.
+1	Shiri	sirka	NOUN	名詞	_	0	root	_	_
+2	kata	ta	ADP	格助詞	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	1	punct	_	_
+

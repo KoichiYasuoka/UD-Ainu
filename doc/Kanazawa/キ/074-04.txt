@@ -1,0 +1,5 @@
+# text_ja = キル(着)
+# text = Mi.
+1	Mi	mi	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

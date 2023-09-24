@@ -1,0 +1,8 @@
+# text_ja = 確に握れ
+# text = Iteki opichi shiyuppa kishma.
+1	Iteki	iteki	ADV	副詞	_	2	advmod	_	_
+2	opichi	opici	VERB	他動詞	_	4	advcl	_	_
+3	shiyuppa	siyuppa	ADV	副詞	_	4	advmod	_	_
+4	kishma	kisma	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

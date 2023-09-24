@@ -1,0 +1,10 @@
+# text_ja = あたりまへだから邪魔するな
+# text = Ku atarimaye gusu iteki isaikako yan.
+1	Ku	ku=	PART	人称接辞	_	2	nsubj	_	_
+2	atarimaye	atarimae	VERB	自動詞	_	5	advcl	_	_
+3	gusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	iteki	iteki	ADV	副詞	_	5	advmod	_	_
+5	isaikako	isaykako	VERB	自動詞	_	0	root	_	_
+6	yan	yan	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	5	punct	_	_
+

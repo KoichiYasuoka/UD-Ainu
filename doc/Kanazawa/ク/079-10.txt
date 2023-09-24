@@ -1,0 +1,5 @@
+# text_ja = クモ(蜘蛛)
+# text = Yaushkep.
+1	Yaushkep	yauskep	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

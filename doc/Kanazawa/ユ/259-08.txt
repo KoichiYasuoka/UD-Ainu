@@ -1,0 +1,8 @@
+# text_ja = 呼ばれた故に來た
+# text = A-hotuyekara gusu ek.
+1	A-	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	hotuyekara	hotuyekar	VERB	他動詞	_	4	advcl	_	_
+3	gusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	ek	ek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

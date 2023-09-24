@@ -1,0 +1,8 @@
+# text_ja = 行きます
+# text = K'arapa kusu ne.
+1	K'	k=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	arapa	arpa	VERB	自動詞	_	0	root	_	_
+3	kusu	kusu	SCONJ	接続詞	_	2	mark	_	_
+4	ne	ne	AUX	助動詞	_	2	aux	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	2	punct	_	_
+

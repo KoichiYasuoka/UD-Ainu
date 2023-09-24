@@ -1,0 +1,5 @@
+# text_ja = 峯
+# text = Ki-tai.
+1	Ki-tai	kitay	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

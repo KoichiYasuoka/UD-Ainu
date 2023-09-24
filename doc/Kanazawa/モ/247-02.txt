@@ -1,0 +1,6 @@
+# text_ja = もー一度云へ
+# text = Kannashui ye.
+1	Kannashui	kannasuy	ADV	副詞	_	2	advmod	_	_
+2	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

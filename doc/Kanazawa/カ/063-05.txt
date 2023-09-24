@@ -1,0 +1,10 @@
+# text_ja = あとから御返し申ます
+# text = Iyoshino ku hosipire kusu ne wa.
+1	Iyoshino	iyosno	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hosipire	hosipire	VERB	他動詞	_	0	root	_	_
+4	kusu	kusu	SCONJ	接続助詞	_	3	mark	_	_
+5	ne	ne	AUX	助動詞	_	3	aux	_	_
+6	wa	wa	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	3	punct	_	_
+

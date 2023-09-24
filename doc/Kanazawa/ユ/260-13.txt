@@ -1,0 +1,8 @@
+# text_ja = 行てはならぬ
+# text = Ika echi oman a.
+1	Ika	iteki	ADV	副詞	_	3	advmod	_	_
+2	echi	eci=	PART	人称接辞	_	3	nsubj	_	_
+3	oman	oman	VERB	自動詞	_	0	root	_	_
+4	a	na	PART	終助詞	_	3	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

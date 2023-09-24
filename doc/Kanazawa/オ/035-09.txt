@@ -1,0 +1,6 @@
+# text = Repun paye.
+1	Rep	rep	NOUN	位置名詞	_	3	obl	_	SpaceAfter=No
+2	un	un	ADP	格助詞	_	1	case	_	_
+3	paye	paye	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

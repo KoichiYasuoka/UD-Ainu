@@ -1,0 +1,8 @@
+# text_ja = タニン(他人)
+# text = A chisei un guru.
+1	A	a=	PART	人称接辞	_	2	det	_	_
+2	chisei	cise	NOUN	名詞	_	3	obj	_	_
+3	un	un	VERB	他動詞	_	4	acl	_	_
+4	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

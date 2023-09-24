@@ -1,0 +1,9 @@
+# text_ja = もつと後から來い
+# text = Naa ponno okaketa ek.
+1	Naa	naa	ADV	副詞	_	5	advmod	_	_
+2	ponno	ponno	ADV	副詞	_	5	advmod	_	_
+3	okake	okake	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	ek	ek	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

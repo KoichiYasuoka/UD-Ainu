@@ -1,0 +1,9 @@
+# text_ja = 馬に喰はすのです
+# text = Umma k'ere kusu ne.
+1	Umma	umma	NOUN	名詞	_	3	obj	_	_
+2	k'	k=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	ere	ere	VERB	他動詞	_	0	root	_	_
+4	kusu	kusu	SCONJ	接続詞	_	3	mark	_	_
+5	ne	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	3	punct	_	_
+

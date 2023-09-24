@@ -1,0 +1,6 @@
+# text_ja = 上天
+# text = Shinishi kando.
+1	Shinishi	sinis	NOUN	名詞	_	2	nmod	_	_
+2	kando	kanto	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

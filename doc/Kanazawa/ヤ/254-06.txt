@@ -1,0 +1,7 @@
+# text_ja = あの人は山へ行きました
+# text = Ekimne ruwe ne.
+1	Ekimne	ekimne	VERB	自動詞	_	2	amod	_	_
+2	ruwe	ruwe	NOUN	形式名詞	_	0	root	_	_
+3	ne	ne	AUX	デアル動詞	_	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

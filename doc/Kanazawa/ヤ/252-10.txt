@@ -1,0 +1,5 @@
+# text_ja = ヤドリギ(宿木)
+# text = Ni-haru.
+1	Ni-haru	níharu	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

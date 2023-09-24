@@ -1,0 +1,6 @@
+# text_ja = コトシ(今年)
+# text = Tampa.
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	pa	pa	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

@@ -1,0 +1,5 @@
+# text_ja = 娼女
+# text = Yaieihokbe.
+1	Yaieihokbe	yay'eihokpe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

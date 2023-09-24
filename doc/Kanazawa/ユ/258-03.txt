@@ -1,0 +1,7 @@
+# text_ja = 何にも云ふな
+# text = Iteki nep ye.
+1	Iteki	iteki	ADV	副詞	_	3	advmod	_	_
+2	nep	nep	NOUN	名詞	_	3	obj	_	_
+3	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,19 @@
+# text_ja = 明朝早く立つから今晩宿料を拂ふ
+# text = Tanukuran reushi-puma ku sange na, nishatta anak tunashno k'arapa kusu ne.
+1	Tanukuran	tanukuran	ADV	副詞	_	2	advmod	_	_
+2	reushi	rewsi	VERB	自動詞	_	4	acl	_	SpaceAfter=No
+3	-	-	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+4	puma	puma	NOUN	名詞	_	6	obj	_	_
+5	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
+6	sange	sanke	VERB	他動詞	_	13	advcl	_	_
+7	na	na	PART	終助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	nishatta	nisatta	ADV	副詞	_	13	advmod	_	_
+10	anak	anak	ADP	副助詞	_	9	case	_	_
+11	tunashno	tunasno	ADV	副詞	_	13	advmod	_	_
+12	k'	k=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	arapa	arpa	VERB	自動詞	_	0	root	_	_
+14	kusu	kusu	SCONJ	接続助詞	_	13	mark	_	_
+15	ne	ne	AUX	デアル動詞	_	13	aux	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	13	punct	_	_
+

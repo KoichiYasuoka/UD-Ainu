@@ -1,0 +1,8 @@
+# text_ja = 戸を開けと云へ
+# text = Apa chaka kuni ye.
+1	Apa	apa	NOUN	名詞	_	2	obj	_	_
+2	chaka	caka	VERB	他動詞	_	3	acl	_	_
+3	kuni	kuni	NOUN	形式名詞	_	4	obj	_	_
+4	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

@@ -1,0 +1,7 @@
+# text = Naa tutko an koro.
+1	Naa	naa	ADV	副詞	_	3	advmod	_	_
+2	tutko	tutko	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	0	root	_	_
+4	koro	kor	SCONJ	接続助詞	_	3	mark	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	3	punct	_	_
+

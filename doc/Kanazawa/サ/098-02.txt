@@ -1,0 +1,13 @@
+# text_ja = 今年の農作は如何ですか
+# text = Tamba aetoitap pirika ruwe he an?
+1	Tam	tan	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	ba	pa	NOUN	名詞	_	4	obj	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	etoita	etoyta	VERB	他動詞	_	5	acl	_	SpaceAfter=No
+5	p	-p	PART	接尾辞	_	6	nsubj	_	_
+6	pirika	pirka	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
+8	he	he	ADP	副助詞	_	7	case	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

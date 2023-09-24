@@ -1,0 +1,7 @@
+# text_ja = 墓に埋める
+# text = Tushiri oro omare.
+1	Tushiri	tusir	NOUN	名詞	_	2	nmod	_	_
+2	oro	or	NOUN	位置名詞	_	3	obj	_	_
+3	omare	omare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

@@ -1,0 +1,7 @@
+# text_ja = 充分に食事した
+# text = Ibe aeramshinne.
+1	Ibe	ipe	NOUN	名詞	_	3	obj	_	_
+2	a	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	eramshinne	eramusinne	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

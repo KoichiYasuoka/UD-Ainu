@@ -1,0 +1,11 @@
+# text_ja = 五寸程賣て吳れぬか
+# text = Shine wo, pakno shomo a-eyok?
+1	Shine	sine	NUM	数詞	_	2	nummod	_	_
+2	wo	wo	NOUN	名詞	_	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	pakno	pakno	SCONJ	後置副詞	_	2	case	_	_
+5	shomo	somo	ADV	副詞	_	7	advmod	_	_
+6	a-	a=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	eyok	eyok	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

@@ -1,0 +1,11 @@
+# text_ja = 此男女は今度夫婦になつた
+# text = Tan guru tan menoko tane aukorari.
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	7	nsubj	_	_
+3	tan	tan	DET	連体詞	_	4	det	_	_
+4	menoko	menoko	NOUN	名詞	_	2	conj	_	_
+5	tane	tane	ADV	副詞	_	7	advmod	_	_
+6	a	a=	PART	人称接辞	_	7	expl	_	SpaceAfter=No
+7	ukorari	ukorari	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

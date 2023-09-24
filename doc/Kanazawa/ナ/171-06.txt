@@ -1,0 +1,13 @@
+# text_ja = なにも用事はないか
+# text = Nepka e komonushpe isam ruwe he an?
+1	Nep	nep	NOUN	名詞	_	4	obl	_	SpaceAfter=No
+2	ka	ka	ADP	副助詞	_	1	case	_	_
+3	e	e=	PART	人称接辞	_	4	nsubj	_	_
+4	komonush	komonus	VERB	他動詞	_	5	acl	_	SpaceAfter=No
+5	pe	pe	NOUN	形式名詞	_	6	nsubj	_	_
+6	isam	isam	VERB	自動詞	_	7	acl	_	_
+7	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
+8	he	he	ADP	副助詞	_	7	case	_	_
+9	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	記号	_	9	punct	_	_
+

@@ -1,0 +1,9 @@
+# text_ja = タノム(賴)
+# text = Chipachipa; Eikoramkoro; Nishuk.
+1	Chipachipa	cipacipa	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Eikoramkoro	eykoramkor	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Nishuk	nisuk	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

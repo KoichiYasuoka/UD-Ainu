@@ -1,0 +1,10 @@
+# text_ja = これは如何したら宜しかろーか
+# text = Tambe makanak akat' chiki pirika?
+1	Tambe	tanpe	NOUN	名詞	_	4	obj	_	_
+2	makanak	makanak	ADV	副詞	_	4	advmod	_	_
+3	a	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	kat'	kar	VERB	他動詞	_	6	advcl	_	_
+5	chiki	ciki	SCONJ	接続助詞	_	4	mark	_	_
+6	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
+

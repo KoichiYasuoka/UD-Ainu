@@ -1,0 +1,10 @@
+# text_ja = お前達の中の誰れが
+# text = Echi utara otta inaan guru.
+1	Echi	eci=	PART	人称接辞	_	2	det	_	_
+2	utara	utar	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	inaan	hinan	NOUN	名詞	_	6	acl	_	_
+6	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
+

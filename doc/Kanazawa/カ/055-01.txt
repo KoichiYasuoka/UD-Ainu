@@ -1,0 +1,10 @@
+# page = 55
+# text_ja = 山から來る風
+# text = Omat; Omakun rera.
+1	Omat	omat	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Omak	mak	NOUN	位置名詞	_	4	obj	_	SpaceAfter=No
+4	un	un	VERB	他動詞	_	5	acl	_	_
+5	rera	réra	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

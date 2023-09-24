@@ -1,0 +1,9 @@
+# text_ja = 平和
+# text = Aerannakbe ka isam.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	erannak	eranak	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	be	pe	NOUN	形式名詞	_	5	nsubj	_	_
+4	ka	ka	ADP	副助詞	_	3	case	_	_
+5	isam	isam	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

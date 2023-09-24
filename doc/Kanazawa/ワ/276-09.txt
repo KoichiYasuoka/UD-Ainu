@@ -1,0 +1,7 @@
+# text_ja = 私程
+# text = En eturu pakno.
+1	En	en=	PART	人称接辞	_	2	nmod	_	_
+2	eturu	uturu	NOUN	位置名詞	_	0	root	_	_
+3	pakno	pakno	SCONJ	後置副詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
+

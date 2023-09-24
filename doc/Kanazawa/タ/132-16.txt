@@ -1,0 +1,8 @@
+# text_ja = 御這入りなされと云へ
+# text = Ahup yan sekoro itak.
+1	Ahup	ahup	VERB	自動詞	_	4	advcl	_	_
+2	yan	yan	PART	終助詞	_	1	discourse	_	_
+3	sekoro	sekor	SCONJ	接続詞	_	1	mark	_	_
+4	itak	itak	VERB	自動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

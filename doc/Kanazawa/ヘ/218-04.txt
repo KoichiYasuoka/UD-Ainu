@@ -1,0 +1,7 @@
+# text_ja = 臍の穴
+# text = Hangu-pui.
+1	Hangu	hanku	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+3	pui	puy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

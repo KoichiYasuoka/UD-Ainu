@@ -1,0 +1,11 @@
+# text_ja = 此道はどこへ行く道ですか
+# text = Tan ru hunakun arapa ru an?
+1	Tan	tan	DET	連体詞	_	2	det	_	_
+2	ru	ru	NOUN	名詞	_	3	nmod	_	_
+3	hunak	hunak	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+4	un	un	ADP	格助詞	_	3	case	_	_
+5	arapa	arpa	VERB	自動詞	_	6	acl	_	_
+6	ru	ru	NOUN	名詞	_	7	nsubj	_	_
+7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

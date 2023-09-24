@@ -1,0 +1,13 @@
+# text_ja = 今夜は何處で寝ても宜しい
+# text = Tanukuran anakne neita neyakka mokoro yakka pirika.
+1	Tanukuran	tanukuran	ADV	副詞	_	7	advmod	_	_
+2	anakne	anakne	ADP	副助詞	_	1	case	_	_
+3	nei	ney	NOUN	位置名詞	_	7	advcl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	ne	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+6	yakka	yakka	SCONJ	接続助詞	_	3	mark	_	_
+7	mokoro	mokor	VERB	自動詞	_	9	advcl	_	_
+8	yakka	yakka	SCONJ	接続助詞	_	7	mark	_	_
+9	pirika	pirka	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
+

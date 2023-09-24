@@ -1,0 +1,7 @@
+# text_ja = タズ子ル(尋)
+# text = Uwepekere; Uwepekennu.
+1	Uwepekere	uwepeker	VERB	自動詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Uwepekennu	uwepekennu	VERB	自動詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

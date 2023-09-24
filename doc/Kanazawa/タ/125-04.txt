@@ -1,0 +1,9 @@
+# text_ja = ダカラ(故)
+# text = Kusu; Tapne an kusu.
+1	Kusu	kusu	SCONJ	接続助詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Tapne	tapne	ADV	副詞	_	4	advmod	_	_
+4	an	an	VERB	自動詞	_	1	parataxis	_	_
+5	kusu	kusu	SCONJ	接続詞	_	4	mark	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	4	punct	_	_
+

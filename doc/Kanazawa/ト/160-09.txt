@@ -1,0 +1,17 @@
+# text_ja = トシヨリ(老人)
+# text = Retarabe ush ekashi; Retarabe ush onne guru; Achapo. Hekai hekaye.
+1	Retarabe	retarpe	NOUN	名詞	_	2	obj	_	_
+2	ush	us	VERB	他動詞	_	3	acl	_	_
+3	ekashi	ekasi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Retarabe	retarpe	NOUN	名詞	_	6	nsubj	_	_
+6	ush	us	VERB	他動詞	_	3	acl	_	_
+7	onne	onne	VERB	自動詞	_	8	amod	_	_
+8	guru	kur	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+9	;	;	PUNCT	記号	_	8	punct	_	_
+10	Achapo	acapo	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+12	Hekai	hekay	VERB	自動詞	_	13	nmod	_	_
+13	hekaye	hekaye	NOUN	名詞	_	3	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
+

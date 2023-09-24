@@ -1,0 +1,7 @@
+# text_ja = 水溜り多き處
+# text = Shiri uworo onne.
+1	Shiri	sir	NOUN	名詞	_	2	nmod	_	_
+2	uworo	uwor	NOUN	位置名詞	_	3	nsubj	_	_
+3	onne	onne	VERB	自動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

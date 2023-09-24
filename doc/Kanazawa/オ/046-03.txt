@@ -1,0 +1,9 @@
+# text_ja = オンナ(女)
+# text = Menoko; Shiwendeguru; Shiwentep.
+1	Menoko	menoko	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Shiwendeguru	siwentekur	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Shiwentep	siwentep	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+

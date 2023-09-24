@@ -1,0 +1,8 @@
+# page = 98
+# text_ja = サクモツ(作物)
+# text = Aetoitap.
+1	A	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	etoita	etoyta	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

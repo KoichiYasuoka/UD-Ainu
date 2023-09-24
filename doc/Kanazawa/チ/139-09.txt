@@ -1,0 +1,6 @@
+# text_ja = 力を出す
+# text = Kiroro sange.
+1	Kiroro	kiroro	NOUN	名詞	_	2	obj	_	_
+2	sange	sanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

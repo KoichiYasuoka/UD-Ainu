@@ -1,0 +1,7 @@
+# text_ja = ハラ(腹)
+# text = Honi; Tui.
+1	Honi	honi	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Tui	tuy	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

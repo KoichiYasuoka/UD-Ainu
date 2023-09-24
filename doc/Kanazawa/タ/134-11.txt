@@ -1,0 +1,9 @@
+# text_ja = お前の家は何處か
+# text = E uni hunakta an?
+1	E	e=	PART	人称接辞	_	2	det	_	_
+2	uni	uni	NOUN	名詞	_	3	nmod	_	_
+3	hunak	hunak	NOUN	名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	5	punct	_	_
+

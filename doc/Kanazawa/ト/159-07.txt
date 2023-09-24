@@ -1,0 +1,12 @@
+# text_ja = 廿歳を超て居ます
+# text = Ku paha hotnepa akkari k'an na.
+1	Ku	ku=	PART	人称接辞	_	2	det	_	_
+2	paha	paha	NOUN	名詞	_	7	nsubj	_	_
+3	hotne	hotne	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	pa	pa	NOUN	名詞	_	7	obl	_	_
+5	akkari	akkari	SCONJ	後置副詞	_	4	case	_	_
+6	k'	k=	PART	人称接辞	_	7	expl	_	SpaceAfter=No
+7	an	an	VERB	自動詞	_	0	root	_	_
+8	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	7	punct	_	_
+

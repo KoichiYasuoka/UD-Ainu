@@ -1,0 +1,13 @@
+# text_ja = 病氣ですから皈ります
+# text = Tane ku hoshipi, shiyeye an gusu ne na.
+1	Tane	tane	ADV	副詞	_	3	advmod	_	_
+2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
+3	hoshipi	hosipi	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	記号	_	3	punct	_	_
+5	shiyeye	siyeye	NOUN	名詞	_	6	nsubj	_	_
+6	an	an	VERB	自動詞	_	0	root	_	_
+7	gusu	kusu	SCONJ	接続詞	_	6	mark	_	_
+8	ne	ne	AUX	デアル動詞	_	6	cop	_	_
+9	na	na	PART	終助詞	_	6	discourse	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	6	punct	_	_
+

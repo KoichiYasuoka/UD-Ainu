@@ -1,0 +1,9 @@
+# text_ja = 今夜は月夜だろーか
+# text = Tanukuran chup nipek an nangoro?
+1	Tanukuran	tanukuran	ADV	副詞	_	4	advmod	_	_
+2	chup	cup	NOUN	名詞	_	3	nmod	_	_
+3	nipek	nipek	NOUN	名詞	_	4	nsubj	_	_
+4	an	an	VERB	自動詞	_	0	root	_	_
+5	nangoro	nankor	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	?	?	PUNCT	記号	_	4	punct	_	_
+

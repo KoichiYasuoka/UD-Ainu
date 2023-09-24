@@ -1,0 +1,15 @@
+# text_ja = どこへ行けば一番よく見えるか
+# text = Hunakta paye an koro iyotta pirikano anukara ruwe an?
+1	Hunak	hunak	NOUN	名詞	_	3	obl	_	SpaceAfter=No
+2	ta	ta	ADP	格助詞	_	1	case	_	_
+3	paye	paye	VERB	自動詞	_	9	advcl	_	_
+4	an	=an	PART	人称接辞	_	3	nsubj	_	_
+5	koro	kor	SCONJ	接続助詞	_	3	mark	_	_
+6	iyotta	iyotta	ADV	副詞	_	9	advmod	_	_
+7	pirikano	pirkano	ADV	副詞	_	9	advmod	_	_
+8	a	a=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
+9	nukara	nukar	VERB	他動詞	_	10	acl	_	_
+10	ruwe	ruwe	NOUN	形式名詞	_	11	nsubj	_	_
+11	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+12	?	?	PUNCT	記号	_	11	punct	_	_
+

@@ -1,0 +1,8 @@
+# text_ja = 早く眞實の事を云へ
+# text = Tunash sonno orushpe ye.
+1	Tunash	túnas	VERB	自動詞	_	4	advcl	_	_
+2	sonno	sonno	ADV	副詞	_	4	advmod	_	_
+3	orushpe	oruspe	NOUN	名詞	_	4	obj	_	_
+4	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

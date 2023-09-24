@@ -1,0 +1,7 @@
+# text_ja = 柱にもたれて居る人
+# text = Ikushpe ekopash guru.
+1	Ikushpe	ikuspe	NOUN	名詞	_	2	obj	_	_
+2	ekopash	ekopas	VERB	他動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

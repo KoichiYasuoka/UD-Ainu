@@ -1,0 +1,8 @@
+# text_ja = クモ(雲)
+# text = Nishkuru; Shiri kurihi.
+1	Nishkuru	niskur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Shiri	siri	NOUN	名詞	_	4	nmod	_	_
+4	kurihi	kurihi	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

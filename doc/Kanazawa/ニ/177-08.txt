@@ -1,0 +1,5 @@
+# text_ja = ニワ(庭)
+# text = Ushatta.
+1	Ushatta	usatta	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

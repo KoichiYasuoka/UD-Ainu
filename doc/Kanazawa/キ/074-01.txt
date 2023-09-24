@@ -1,0 +1,6 @@
+# page = 74
+# text_ja = キライ(厭)
+# text = Kopan.
+1	Kopan	kopan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

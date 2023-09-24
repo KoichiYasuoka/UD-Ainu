@@ -1,0 +1,6 @@
+# text_ja = 道が乾いた
+# text = Ru sat.
+1	Ru	ru	NOUN	名詞	_	2	nsubj	_	_
+2	sat	sat	VERB	自動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+

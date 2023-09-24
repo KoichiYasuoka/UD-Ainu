@@ -1,0 +1,5 @@
+# text_ja = トビ(鳶)
+# text = Yattui.
+1	Yattui	yattuy	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+

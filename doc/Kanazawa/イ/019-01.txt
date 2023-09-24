@@ -1,0 +1,12 @@
+# page = 19
+# text_ja = 何時頃船が港へ入りますか
+# text = Hembara pakita chip tomari otta ahun?
+1	Hembara	hempara	ADV	副詞	_	7	advmod	_	_
+2	pakita	pakita	ADV	副詞	_	7	advmod	_	_
+3	chip	cip	NOUN	名詞	_	4	nmod	_	_
+4	tomari	tomari	NOUN	名詞	_	5	nmod	_	_
+5	ot	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+6	ta	ta	ADP	格助詞	_	5	case	_	_
+7	ahun	ahun	VERB	自動詞	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	記号	_	7	punct	_	_
+

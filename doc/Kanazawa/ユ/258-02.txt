@@ -1,0 +1,11 @@
+# text_ja = もー一度云へ
+# text = Kannashui ye. Naa arashui no ye.
+1	Kannashui	kannasuy	ADV	副詞	_	2	advmod	_	_
+2	ye	ye	VERB	他動詞	_	7	advcl	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
+4	Naa	naa	ADV	副詞	_	7	advmod	_	_
+5	arashui	arsuy	ADV	副詞	_	7	advmod	_	_
+6	no	no	SCONJ	接続助詞	_	5	case	_	_
+7	ye	ye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	記号	_	7	punct	_	_
+

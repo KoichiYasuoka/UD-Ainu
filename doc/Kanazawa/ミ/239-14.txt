@@ -1,0 +1,8 @@
+# text_ja = これは見た事が無い
+# text = Tambe shomo ku nukara.
+1	Tambe	tanpe	NOUN	名詞	_	4	obj	_	_
+2	shomo	somo	ADV	副詞	_	4	advmod	_	_
+3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
+4	nukara	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
+

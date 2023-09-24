@@ -1,0 +1,18 @@
+# page = 228
+# text_ja = 外へ行ても此様なよい物を安くは買へませぬ
+# text = Moshima guru otta arapa yakun tan pirikap ataye shomo ki wa.
+1	Moshima	mosma	DET	連体詞	_	2	det	_	_
+2	guru	kur	NOUN	名詞	_	3	nmod	_	_
+3	ot	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+4	ta	ta	ADP	格助詞	_	3	case	_	_
+5	arapa	arpa	VERB	自動詞	_	12	advcl	_	_
+6	yakun	yakun	SCONJ	接続助詞	_	5	mark	_	_
+7	tan	tan	DET	連体詞	_	9	det	_	_
+8	pirika	pirka	VERB	自動詞	_	9	amod	_	SpaceAfter=No
+9	p	-p	PART	接尾辞	_	10	nmod	_	_
+10	ataye	ataye	NOUN	名詞	_	12	obj	_	_
+11	shomo	somo	ADV	副詞	_	12	advmod	_	_
+12	ki	ki	VERB	他動詞	_	0	root	_	_
+13	wa	wa	PART	終助詞	_	12	discourse	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	12	punct	_	_
+

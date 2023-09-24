@@ -1,0 +1,8 @@
+# page = 40
+# text_ja = オシャヤペリ(饒舌)
+# text = Paro riten guru.
+1	Paro	paro	NOUN	名詞	_	2	nsubj	_	_
+2	riten	riten	VERB	自動詞	_	3	acl	_	_
+3	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
+

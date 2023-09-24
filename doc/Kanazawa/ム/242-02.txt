@@ -1,0 +1,9 @@
+# text_ja = ムスメ(娘)
+# text = Mat-ne-po; Matkachi; Opere.
+1	Mat-ne-po	matnepo	NOUN	名詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Matkachi	matkaci	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+4	;	;	PUNCT	記号	_	3	punct	_	_
+5	Opere	oper	NOUN	名詞	_	1	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	記号	_	5	punct	_	_
+
