@@ -155,7 +155,7 @@ Kanazawa.gettree=function(d){
     Kanazawa.request=new XMLHttpRequest();
     Kanazawa.request.onload=Kanazawa.ongettree;
   }
-  Kanazawa.request.open("GET",Kanazawa.apiURL+encodeURIcomponent("/"+d));
+  Kanazawa.request.open("GET",Kanazawa.apiURL+encodeURIComponent("/"+d));
   Kanazawa.request.send();
 }
 Kanazawa.ongettree=function(e){
