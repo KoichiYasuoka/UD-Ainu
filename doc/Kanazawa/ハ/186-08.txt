@@ -1,5 +1,5 @@
 # text_ja = 奥齒
 # text = Ikuima.
-1	Ikuima	ikuyma	NOUN	名詞	_	0	root	_	SpaceAfter=No
+1	Ikuima	ikuynimak	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
