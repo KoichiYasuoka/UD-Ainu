@@ -1807,7 +1807,6 @@
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = イタチ(鼬)
-
 # text_ja = イタム(痛)
 # text = Araka; Chiu.
 1	Araka	arka	VERB	自動詞	_	0	root	_	SpaceAfter=No
@@ -6586,7 +6585,6 @@
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 海龜
-
 # text_ja = カモメ(鷗)
 # text = Kapiu.
 1	Kapiu	kapiw	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -16748,7 +16746,6 @@
 1	Neun	neun	ADV	副詞	_	0	root	_	SpaceAfter=No
 2	ka	ka	ADP	副助詞	_	1	case	_	SpaceAfter=No
 3	.	.	PUNCT	記号	_	1	punct	_	_
-
 
 # text_ja = 何處かへ行きますか
 # text = Neunka e arapa ruwe?
@@ -28292,7 +28289,6 @@
 3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = ユリ(百合)
-
 # text_ja = 姥百合
 # text = Turep.
 1	Turep	turep	NOUN	名詞	_	0	root	_	SpaceAfter=No
@@ -28793,7 +28789,6 @@
 2	pake	pake	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 3	ta	ta	ADP	格助詞	_	2	case	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	2	punct	_	_
-
 
 # page = 270
 # text_ja = 夜明
