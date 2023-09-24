@@ -1,8 +1,8 @@
 # text_ja = ぞーじやないか
 # text = Ruwe shomo he an?
-1	Ruwe	ruwe	NOUN	形式名詞	_	4	advcl	_	_
+1	Ruwe	ruwe	NOUN	形式名詞	_	4	nsubj	_	_
 2	shomo	somo	ADV	副詞	_	4	advmod	_	_
-3	he	ne	VERB	他動詞	_	2	case	_	_
+3	he	he	ADP	副助詞	_	2	case	_	_
 4	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	記号	_	4	punct	_	_
 
