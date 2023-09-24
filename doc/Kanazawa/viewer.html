@@ -9,6 +9,7 @@ Kanazawa=new Object();
 Kanazawa.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FKanazawa";
 Kanazawa.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/Kanazawa/";
 Kanazawa.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/Kanazawa/";
+Kanazawa.ndlURL="https://dl.ndl.go.jp/pid/993685/1/";
 Kanazawa.init=function(){
   var t=document.getElementById("top").cloneNode(true);
   t.style.position="static";
@@ -261,6 +262,19 @@ Kanazawa.github=function(){
   var s=document.getElementById("vol");
   window.open(Kanazawa.gitURL+s.options[s.selectedIndex].value+"/"+Kanazawa.txt[Kanazawa.curr]);
 }
+Kanazawa.ndl=function(){
+  var p,q;
+  p=parseInt(Kanazawa.txt[Kanazawa.curr].substring(0,3),10);
+  if(p<12)
+    q=Math.floor(p/2)+6;
+  else if(p<154)
+    q=Math.floor(p/2)+7;
+  else if(p<156)
+    q=p-70;
+  else
+    q=Math.floor(p/2)+8;
+  window.open(Kanazawa.ndlURL+q);
+}
 </script>
 <body onload="Kanazawa.init()">
 <div id="top" style="position:fixed; top:0px; left:0px; padding:10px; width:100%; background:white">
@@ -312,6 +326,7 @@ Kanazawa.github=function(){
 <option value="ワ">ワ</option>
 </select>
 <input type="button" value="GitHub" onclick="Kanazawa.github()" />
+<input type="button" value="NDL" onclick="Kanazawa.ndl()" />
 <input type="button" value="Reload" onclick="Kanazawa.reload()" />
 </div>
 </body>
