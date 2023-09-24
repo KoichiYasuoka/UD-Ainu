@@ -6,9 +6,9 @@
 <script src="../../editor/conllusvgload.js"></script>
 <script>
 Kanazawa=new Object();
-Kanazawa.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FSYOS";
-Kanazawa.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/SYOS/";
-Kanazawa.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/SYOS/";
+Kanazawa.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FKanazawa";
+Kanazawa.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/Kanazawa/";
+Kanazawa.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/Kanazawa/";
 Kanazawa.init=function(){
   var t=document.getElementById("top").cloneNode(true);
   t.style.position="static";
@@ -155,7 +155,7 @@ Kanazawa.gettree=function(d){
     Kanazawa.request=new XMLHttpRequest();
     Kanazawa.request.onload=Kanazawa.ongettree;
   }
-  Kanazawa.request.open("GET",Kanazawa.apiURL+"%2F"+d);
+  Kanazawa.request.open("GET",Kanazawa.apiURL+encodeURIcomponent("/"+d));
   Kanazawa.request.send();
 }
 Kanazawa.ongettree=function(e){
