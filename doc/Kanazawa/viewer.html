@@ -115,45 +115,43 @@ Kanazawa.buildup=function(x){
       conllusvg.view(Kanazawa.svg[x],"pre"+x);
     conllusvg.loadRemote("pre"+x,Kanazawa.raw+Kanazawa.txt[x]);
   }
-  else if(Kanazawa.pre[x].textContent.indexOf("# text_ja = ")>=0){
-    if(Kanazawa.idx[x]==null){
-      t=document.createElement("div");
-      t.style.position="static";
-      t.style.visibility="visible";
-      document.body.insertBefore(t,Kanazawa.svg[x]);
-      Kanazawa.idx[x]=t;
-    }
-    if(Kanazawa.idx[x].textContent.indexOf("<br/>")<0){
-      var s=Kanazawa.pre[x].textContent.split("\n");
-      t="";
-      for(i=0;i<s.length;i++){
-        if(s[i].startsWith("# text_ja = "))
-          t+=s[i].slice(12)+"<br/>";
-      }
-      Kanazawa.idx[x].textContent=t;
-    }
+  if(Kanazawa.idx[x]==null){
+    t=document.createElement("div");
+    t.style.position="static";
+    t.style.visibility="visible";
+    document.body.insertBefore(t,Kanazawa.svg[x]);
+    Kanazawa.idx[x]=t;
   }
 }
 Kanazawa.lemmatranslit=function(x){
   var s,t,i;
   if(Kanazawa.pre[x]==null)
     return;
-  if(Kanazawa.pre[x].textContent.indexOf("Translit=")>0)
-    return;
-  s=Kanazawa.pre[x].textContent.split("\n");
-  for(i=0;i<s.length;i++){
-    t=s[i].split("\t");
-    if(t.length==10){
-      if(t[2]!="_"&&t[1]!=t[2]){
-        if(t[9]=="_")
-          t[9]="Translit="+t[2];
-        else if(t[9].indexOf("Translit=")<0)
-          t[9]=t[9]+"|Translit="+t[2];
-        s[i]=t.join("\t");
+  if(Kanazawa.pre[x].textContent.indexOf("Translit=")<0){
+    s=Kanazawa.pre[x].textContent.split("\n");
+    for(i=0;i<s.length;i++){
+      t=s[i].split("\t");
+      if(t.length==10){
+        if(t[2]!="_"&&t[1]!=t[2]){
+          if(t[9]=="_")
+            t[9]="Translit="+t[2];
+          else if(t[9].indexOf("Translit=")<0)
+            t[9]=t[9]+"|Translit="+t[2];
+          s[i]=t.join("\t");
+        }
       }
     }
+    conllusvg.loadText("pre"+x,s.join("\n"));
   }
-  conllusvg.loadText("pre"+x,s.join("\n"));
+  if(Kanazawa.idx[x].textContent.indexOf("<br/>")<0){
+    s=Kanazawa.pre[x].textContent.split("\n");
+    t="<br/>";
+    for(i=0;i<s.length;i++){
+      if(s[i].startsWith("# text_ja = "))
+        t+=s[i].slice(12)+"<br/>";
+    }
+    Kanazawa.idx[x].textContent=t;
+  }
 }
 Kanazawa.volchange=function(){
   var s;
