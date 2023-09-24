@@ -5230,7 +5230,7 @@
 5	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
 6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
 7	hoshipi	hosipi	VERB	自動詞	_	0	root	_	_
-8	nangon'	nankon	AUX	助動詞	_	7	aux	_	_
+8	nangon'	nankor	AUX	助動詞	_	7	aux	_	_
 9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	7	punct	_	_
 
@@ -25971,7 +25971,7 @@
 5	koro	kor	SCONJ	接続助詞	_	4	mark	_	_
 6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
 7	hosipi	hosipi	VERB	自動詞	_	0	root	_	_
-8	nangon'	nankon	AUX	助動詞	_	7	aux	_	SpaceAfter=No
+8	nangon'	nankor	AUX	助動詞	_	7	aux	_	SpaceAfter=No
 9	na	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	記号	_	7	punct	_	_
 
@@ -27725,7 +27725,7 @@
 3	ta	ta	ADP	格助詞	_	2	case	_	_
 4	upas	upas	NOUN	名詞	_	5	nsubj	_	_
 5	ash	as	VERB	自動詞	_	0	root	_	_
-6	nangoro	nankon	AUX	助動詞	_	5	aux	_	_
+6	nangoro	nankor	AUX	助動詞	_	5	aux	_	_
 7	ya	ya	PART	終助詞	_	5	discourse	_	SpaceAfter=No
 8	?	?	PUNCT	記号	_	5	punct	_	_
 
