@@ -2102,7 +2102,7 @@
 
 # text_ja = 近かくに水がありますか
 # text = Hange no wakka an ruwe he an?
-1	Hange no	hankeno	ADV	副詞	_	3	advmod	_	_
+1	Hange no	hanke-no	ADV	副詞	_	3	advmod	_	_
 2	wakka	wakka	NOUN	名詞	_	3	nsubj	_	_
 3	an	an	VERB	自動詞	_	4	acl	_	_
 4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
@@ -14689,16 +14689,15 @@
 
 # text_ja = 近かければ一處に行うー遠ければ止めよー
 # text = Hange no ne yakun echi tura tuima yakun shomo.
-1	Hange	hanke	VERB	自動詞	_	6	advcl	_	_
-2	no	no	SCONJ	接続助詞	_	1	mark	_	_
-3	ne	ne	AUX	デアル動詞	_	1	cop	_	_
-4	yakun	yakun	SCONJ	接続助詞	_	1	mark	_	_
-5	echi	eci=	PART	人称接辞	_	6	nsubj	_	_
-6	tura	tura	VERB	他動詞	_	0	root	_	_
-7	tuima	tuyma	VERB	自動詞	_	9	advcl	_	_
-8	yakun	yakun	SCONJ	接続助詞	_	7	mark	_	_
-9	shomo	somo	ADV	副詞	_	6	conj	_	SpaceAfter=No
-10	.	.	PUNCT	記号	_	6	punct	_	_
+1	Hange no	hanke-no	ADV	副詞	_	5	advcl	_	_
+2	ne	ne	AUX	デアル動詞	_	1	cop	_	_
+3	yakun	yakun	SCONJ	接続助詞	_	1	mark	_	_
+4	echi	eci=	PART	人称接辞	_	5	nsubj	_	_
+5	tura	tura	VERB	他動詞	_	0	root	_	_
+6	tuima	tuyma	VERB	自動詞	_	8	advcl	_	_
+7	yakun	yakun	SCONJ	接続助詞	_	6	mark	_	_
+8	shomo	somo	ADV	副詞	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	5	punct	_	_
 
 # text_ja = チガウ(違)
 # text = Shinnaino an.
@@ -14768,22 +14767,20 @@
 
 # text_ja = チカク(近)
 # text = Hange no; Karange.
-1	Hange	hanke	VERB	自動詞	_	0	root	_	_
-2	no	no	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
-3	;	;	PUNCT	記号	_	1	punct	_	_
-4	Karange	karanke	SCONJ	後置副詞	_	1	parataxis	_	SpaceAfter=No
-5	.	.	PUNCT	記号	_	4	punct	_	_
+1	Hange no	hanke-no	ADV	副詞	_	0	root	_	SpaceAfter=No
+2	;	;	PUNCT	記号	_	1	punct	_	_
+3	Karange	karanke	SCONJ	後置副詞	_	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = 近くに水があるか
 # text = Hange no wakka an ruwe he an?
-1	Hange	hanke	VERB	自動詞	_	4	advcl	_	_
-2	no	no	SCONJ	接続助詞	_	1	mark	_	_
-3	wakka	wakka	NOUN	名詞	_	4	nsubj	_	_
-4	an	an	VERB	自動詞	_	5	acl	_	_
-5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
-6	he	he	ADP	副助詞	_	5	case	_	_
-7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	記号	_	7	punct	_	_
+1	Hange no	hanke-no	ADV	副詞	_	3	advmod	_	_
+2	wakka	wakka	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	4	acl	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
+5	he	he	ADP	副助詞	_	4	case	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = 近い道を行かずに好い道を行う
 # text = Hange ru kari shomo arapa no pirika ru kari arapa.
@@ -24823,14 +24820,13 @@
 
 # text_ja = 此近傍に水がありますか
 # text = Hange no wakka an ruwe he an?
-1	Hange	hanke	VERB	自動詞	_	4	advcl	_	_
-2	no	no	SCONJ	接続助詞	_	1	mark	_	_
-3	wakka	wakka	NOUN	名詞	_	4	nsubj	_	_
-4	an	an	VERB	自動詞	_	5	acl	_	_
-5	ruwe	ruwe	NOUN	形式名詞	_	7	nsubj	_	_
-6	he	he	ADP	副助詞	_	5	case	_	_
-7	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	記号	_	7	punct	_	_
+1	Hange no	hanke-no	ADV	副詞	_	3	advmod	_	_
+2	wakka	wakka	NOUN	名詞	_	3	nsubj	_	_
+3	an	an	VERB	自動詞	_	4	acl	_	_
+4	ruwe	ruwe	NOUN	形式名詞	_	6	nsubj	_	_
+5	he	he	ADP	副助詞	_	4	case	_	_
+6	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	記号	_	6	punct	_	_
 
 # text_ja = 水を汲めと云へ
 # text = Wakka a-tare kuni ye.
