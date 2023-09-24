@@ -1,14 +1,15 @@
 # text_ja = もー我慢が出來ぬ
 # text = Sekoro an koro orowa ku yaikeutum saurere shomoki nangon'na.
 1	Sekoro	sekor	SCONJ	接続詞	_	2	advmod	_	_
-2	an	an	VERB	自動詞	_	6	advcl	_	_
+2	an	an	VERB	自動詞	_	7	advcl	_	_
 3	koro	kor	SCONJ	接続助詞	_	2	mark	_	_
-4	orowa	orowa	SCONJ	接続助詞	_	2	mark	_	_
-5	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
-6	yaikeutum saurere	yaykewtumsawrere	VERB	自動詞	_	8	ccomp	_	_
-7	shomo	somo	ADV	副詞	_	8	advmod	_	SpaceAfter=No
-8	ki	ki	VERB	他動詞	_	0	root	_	_
-9	nangon'	nankon	AUX	助動詞	_	8	aux	_	SpaceAfter=No
-10	na	na	PART	終助詞	_	8	discourse	_	SpaceAfter=No
-11	.	.	PUNCT	記号	_	8	punct	_	_
+4	oro	or	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+5	wa	wa	ADP	格助詞	_	4	case	_	_
+6	ku	ku=	PART	人称接辞	_	7	nsubj	_	_
+7	yaikeutum saurere	yay-kewtum-sawrere	VERB	自動詞	_	9	ccomp	_	_
+8	shomo	somo	ADV	副詞	_	9	advmod	_	SpaceAfter=No
+9	ki	ki	VERB	他動詞	_	0	root	_	_
+10	nangon'	nankor	AUX	助動詞	_	9	aux	_	SpaceAfter=No
+11	na	na	PART	終助詞	_	9	discourse	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	9	punct	_	_
 
