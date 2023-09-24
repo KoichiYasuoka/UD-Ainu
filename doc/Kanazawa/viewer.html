@@ -183,7 +183,7 @@ Kanazawa.writeSVG=function(){
   Kanazawa.currmax=Kanazawa.txt.length-1;
   Kanazawa.curr=0;
   Kanazawa.lastTop=null;
-  Kanazawa.raw=Kanazawa.rawURL+t+"/";
+  Kanazawa.raw=Kanazawa.rawURL+encodeURIComponent(t)+"/";
 }
 Kanazawa.clearSVG=function(){
   var x;
