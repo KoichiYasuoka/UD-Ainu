@@ -143,14 +143,14 @@ Kanazawa.lemmatranslit=function(x){
     }
     conllusvg.loadText("pre"+x,s.join("\n"));
   }
-  if(Kanazawa.idx[x].textContent.indexOf("<br/>")<0){
+  if(Kanazawa.idx[x].innerHTML.indexOf("<br/>")<0){
     s=Kanazawa.pre[x].textContent.split("\n");
     t="<br/>";
     for(i=0;i<s.length;i++){
       if(s[i].startsWith("# text_ja = "))
         t+=s[i].slice(12)+"<br/>";
     }
-    Kanazawa.idx[x].textContent=t;
+    Kanazawa.idx[x].innerHTML=t;
   }
 }
 Kanazawa.volchange=function(){
