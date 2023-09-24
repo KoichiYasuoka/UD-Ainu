@@ -1,0 +1,295 @@
+<!DOCTYPE html><head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>『アイヌ會話字典』Universal Dependenciesコーパス</title>
+<script src="../../editor/conllusvgview.js"></script>
+<script src="../../editor/conllusvgedit.js"></script>
+<script src="../../editor/conllusvgload.js"></script>
+<script>
+Kanazawa=new Object();
+Kanazawa.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FSYOS";
+Kanazawa.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/SYOS/";
+Kanazawa.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/SYOS/";
+Kanazawa.init=function(){
+  var t=document.getElementById("top").cloneNode(true);
+  t.style.position="static";
+  t.style.visibility="hidden";
+  document.body.appendChild(t);
+  Kanazawa.svg=new Array();
+  Kanazawa.pre=new Array();
+  Kanazawa.dirs=new Array();
+  Kanazawa.timer=setTimeout("clearTimeout(Kanazawa.timer);Kanazawa.checkview()",200);
+  Kanazawa.volchange();
+}
+Kanazawa.checkview=function(){
+  var t,r,b,i;
+  Kanazawa.timer=setTimeout("clearTimeout(Kanazawa.timer);Kanazawa.checkview()",200);
+  if(Kanazawa.curr==null)
+    return;
+  if(Kanazawa.svg[Kanazawa.curr]==null||Kanazawa.pre[Kanazawa.curr]==null){
+    Kanazawa.buildup(Kanazawa.curr);
+    return;
+  }
+  if(Kanazawa.svg[Kanazawa.curr].style.position=="absolute"){
+    if(Kanazawa.pre[Kanazawa.curr].textContent>""){
+      Kanazawa.svg[Kanazawa.curr].style.position="static";
+      Kanazawa.svg[Kanazawa.curr].style.visibility="visible";
+    }
+  }
+  Kanazawa.lemmatranslit(Kanazawa.curr);
+  conllusvg.rewrite("pre"+Kanazawa.curr);
+  r=Kanazawa.svg[Kanazawa.curr].getBoundingClientRect();
+  t=r.top;
+  b=r.bottom;
+  r=document.getElementById("top").getBoundingClientRect().bottom;
+  if(t-r>20){
+    while(t-r>0){
+      i=Kanazawa.svg[Kanazawa.curr-1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      Kanazawa.curr--;
+      if(Kanazawa.curr==0)
+        break;
+      t=i.getBoundingClientRect().top;
+    }
+  }
+  else if(b<r){
+    while(b<r){
+      i=Kanazawa.svg[Kanazawa.curr+1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      Kanazawa.curr++;
+      if(Kanazawa.curr==Kanazawa.currmax)
+        break;
+      b=i.getBoundingClientRect().bottom;
+    }
+  }
+  Kanazawa.lastTop=Kanazawa.svg[Kanazawa.curr].getBoundingClientRect().top;
+  for(i=Kanazawa.curr+1;i<=Kanazawa.currmax;i++){
+    if(Kanazawa.svg[i]==null||Kanazawa.pre[i]==null){
+      Kanazawa.buildup(i);
+      break;
+    }
+    if(Kanazawa.svg[i].style.position=="absolute"){
+      if(Kanazawa.pre[i].textContent>""){
+        Kanazawa.svg[i].style.position="static";
+        Kanazawa.svg[i].style.visibility="visible";
+      }
+    }
+    Kanazawa.lemmatranslit(i);
+    conllusvg.rewrite("pre"+i);
+    r=Kanazawa.svg[i].getBoundingClientRect();
+    if(r.top-window.innerHeight-1000>0)
+      break;
+  }
+}
+Kanazawa.buildup=function(x){
+  var t,i;
+  if(Kanazawa.svg[x]==null){
+    t=document.createElementNS("http://www.w3.org/2000/svg","svg");
+    for(i=parseInt(x,10)+1;i<=Kanazawa.currmax;i++){
+      if(Kanazawa.svg[i]!=null)
+        break;
+    }
+    t.style.position="absolute";
+    t.style.visibility="hidden";
+    if(i>Kanazawa.currmax)
+      document.body.appendChild(t);
+    else
+      document.body.insertBefore(t,Kanazawa.svg[i]);
+    Kanazawa.svg[x]=t;
+    t.addEventListener("mousedown",Kanazawa.onmousedown);
+    t.addEventListener("touchstart",Kanazawa.onmousedown);
+  }
+  if(Kanazawa.pre[x]==null){
+    t=document.createElement("pre");
+    t.style.display="none";
+    t.setAttribute("id","pre"+x);
+    document.body.appendChild(t);
+    Kanazawa.pre[x]=t;
+    if(conllusvg.main["pre"+x]==null)
+      conllusvg.view(Kanazawa.svg[x],"pre"+x);
+    conllusvg.loadRemote("pre"+x,Kanazawa.raw+Kanazawa.txt[x]);
+  }
+}
+Kanazawa.lemmatranslit=function(x){
+  var s,t,i;
+  if(Kanazawa.pre[x]==null)
+    return;
+  if(Kanazawa.pre[x].textContent.indexOf("Translit=")>0)
+    return;
+  s=Kanazawa.pre[x].textContent.split("\n");
+  for(i=0;i<s.length;i++){
+    t=s[i].split("\t");
+    if(t.length==10){
+      if(t[2]!="_"&&t[1]!=t[2]){
+        if(t[9]=="_")
+          t[9]="Translit="+t[2];
+        else if(t[9].indexOf("Translit=")<0)
+          t[9]=t[9]+"|Translit="+t[2];
+        s[i]=t.join("\t");
+      }
+    }
+  }
+  conllusvg.loadText("pre"+x,s.join("\n"));
+}
+Kanazawa.volchange=function(){
+  var s;
+  Kanazawa.clearSVG();
+  for(s in Kanazawa.pre){
+    if(Kanazawa.pre[s]!=null)
+      document.body.removeChild(Kanazawa.pre[s]);
+    Kanazawa.pre[s]=null;
+  }
+  s=document.getElementById("vol");
+  if(Kanazawa.dirs[s.options[s.selectedIndex].value]==null)
+    Kanazawa.gettree(s.options[s.selectedIndex].value);
+  else
+    Kanazawa.writeSVG();
+}
+Kanazawa.gettree=function(d){
+  if(Kanazawa.request==null){
+    Kanazawa.request=new XMLHttpRequest();
+    Kanazawa.request.onload=Kanazawa.ongettree;
+  }
+  Kanazawa.request.open("GET",Kanazawa.apiURL+"%2F"+d);
+  Kanazawa.request.send();
+}
+Kanazawa.ongettree=function(e){
+  if(Kanazawa.request.status==200){
+    var s=document.getElementById("vol");
+    Kanazawa.dirs[s.options[s.selectedIndex].value]=Kanazawa.request.responseText;
+    Kanazawa.writeSVG();
+  }
+}
+Kanazawa.txtsort=function(x,y){
+  if(x<y)
+    return -1;
+  if(x>y)
+    return 1;
+  return 0;
+}
+Kanazawa.writeSVG=function(){
+  var s,t,r;
+  Kanazawa.clearSVG();
+  s=document.getElementById("vol");
+  t=s.options[s.selectedIndex].value;
+  r=new RegExp("[0-9]+-[0-9]+[a-z]?.txt","g");
+  Kanazawa.txt=Kanazawa.dirs[t].match(r);
+  Kanazawa.txt.sort(Kanazawa.txtsort);
+  Kanazawa.currmax=Kanazawa.txt.length-1;
+  Kanazawa.curr=0;
+  Kanazawa.lastTop=null;
+  Kanazawa.raw=Kanazawa.rawURL+t+"/";
+}
+Kanazawa.clearSVG=function(){
+  var x;
+  Kanazawa.curr=Kanazawa.lastTop=null;
+  if(Kanazawa.svg!=null){
+    for(x in Kanazawa.svg){
+      if(Kanazawa.svg[x]!=null){
+        Kanazawa.svg[x].style.position="absolute";
+        Kanazawa.svg[x].style.visibility="hidden";
+      }
+    }
+  }
+  if(document.scrollingElement==null)
+    document.documentElement.scrollTop=0;
+  else
+    document.scrollingElement.scrollTop=0;
+}
+Kanazawa.onmousedown=function(e){
+  var x,y;
+  if(Kanazawa.lastX==null){
+    Kanazawa.lastX=e.clientX;
+    Kanazawa.lastY=e.clientY;
+    return;
+  }
+  x=e.clientX-Kanazawa.lastX;
+  y=e.clientY-Kanazawa.lastY;
+  if(x*x+y*y>9){
+    Kanazawa.lastX=e.clientX;
+    Kanazawa.lastY=e.clientY;
+    return;
+  }
+  Kanazawa.lastX=null;
+  x=e.currentTarget;
+  for(y in Kanazawa.svg){
+    if(Kanazawa.svg[y]==x){
+      window.open("../../editor/editor-ain.html#url="+Kanazawa.raw+Kanazawa.txt[y]);
+      break;
+    }
+  }
+}
+Kanazawa.reload=function(){
+  var i,r;
+  for(i=Kanazawa.curr;i<=Kanazawa.currmax;i++){
+    if(Kanazawa.svg[i]==null||Kanazawa.pre[i]==null)
+      return;
+    r=Kanazawa.svg[i].getBoundingClientRect();
+    if(r.top>window.innerHeight||r.bottom<0)
+      return;
+    conllusvg.loadRemote("pre"+i,Kanazawa.raw+Kanazawa.txt[i]);
+  }
+}
+Kanazawa.github=function(){
+  var s=document.getElementById("vol");
+  window.open(Kanazawa.gitURL+s.options[s.selectedIndex].value+"/"+Kanazawa.txt[Kanazawa.curr]);
+}
+</script>
+<body onload="Kanazawa.init()">
+<div id="top" style="position:fixed; top:0px; left:0px; padding:10px; width:100%; background:white">
+<font size="+3"><b>アイヌ會話字典</b></font>
+<select id="vol" onchange="Kanazawa.volchange()">
+<option value="ア" selected>ア</option>
+<option value="イ">イ</option>
+<option value="ウ">ウ</option>
+<option value="エ">エ</option>
+<option value="オ">オ</option>
+<option value="カ">カ</option>
+<option value="キ">キ</option>
+<option value="ク">ク</option>
+<option value="ケ">ケ</option>
+<option value="コ">コ</option>
+<option value="サ">サ</option>
+<option value="シ">シ</option>
+<option value="ス">ス</option>
+<option value="セ">セ</option>
+<option value="ソ">ソ</option>
+<option value="タ">タ</option>
+<option value="チ">チ</option>
+<option value="ツ">ツ</option>
+<option value="テ">テ</option>
+<option value="ト">ト</option>
+<option value="ナ">ナ</option>
+<option value="ニ">ニ</option>
+<option value="ヌ">ヌ</option>
+<option value="ネ">子</option>
+<option value="ノ">ノ</option>
+<option value="ハ">ハ</option>
+<option value="ヒ">ヒ</option>
+<option value="フ">フ</option>
+<option value="ヘ">ヘ</option>
+<option value="ホ">ホ</option>
+<option value="マ">マ</option>
+<option value="ミ">ミ</option>
+<option value="ム">ム</option>
+<option value="メ">メ</option>
+<option value="モ">モ</option>
+<option value="ヤ">ヤ</option>
+<option value="ユ">ユ</option>
+<option value="ヨ">ヨ</option>
+<option value="ラ">ラ</option>
+<option value="リ">リ</option>
+<option value="ル">ル</option>
+<option value="レ">レ</option>
+<option value="ロ">ロ</option>
+<option value="ワ">ワ</option>
+</select>
+<input type="button" value="GitHub" onclick="Kanazawa.github()" />
+<input type="button" value="Reload" onclick="Kanazawa.reload()" />
+</div>
+</body>
