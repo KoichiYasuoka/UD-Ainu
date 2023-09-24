@@ -2,15 +2,14 @@
 # text = Uni un hoshipi hunan ru iyotta hange no an ruwe he an?
 1	Uni	uni	NOUN	名詞	_	3	obl	_	_
 2	un	un	ADP	格助詞	_	1	case	_	_
-3	hoshipi	hosipi	VERB	自動詞	_	4	acl	_	_
-4	hun	hunak	NOUN	名詞	_	9	obl	_	SpaceAfter=No
-5	an	un	VERB	他動詞	_	4	case	_	_
-6	ru	ru	NOUN	名詞	_	9	nsubj	_	_
-7	iyotta	iyotta	ADV	副詞	_	9	advmod	_	_
-8	hange no	hankeno	ADV	副詞	_	9	advmod	_	_
-9	an	an	VERB	自動詞	_	10	acl	_	_
-10	ruwe	ruwe	NOUN	形式名詞	_	12	nsubj	_	_
-11	he	he	ADP	副助詞	_	10	case	_	_
-12	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
-13	?	?	PUNCT	記号	_	12	punct	_	_
+3	hoshipi	hosipi	VERB	自動詞	_	8	advcl	_	_
+4	hunan	hunak	NOUN	名詞	_	5	nmod	_	_
+5	ru	ru	NOUN	名詞	_	8	nsubj	_	_
+6	iyotta	iyotta	ADV	副詞	_	8	advmod	_	_
+7	hange no	hanke-no	ADV	副詞	_	8	advmod	_	_
+8	an	an	VERB	自動詞	_	9	acl	_	_
+9	ruwe	ruwe	NOUN	形式名詞	_	11	nsubj	_	_
+10	he	he	ADP	副助詞	_	9	case	_	_
+11	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+12	?	?	PUNCT	記号	_	11	punct	_	_
 
