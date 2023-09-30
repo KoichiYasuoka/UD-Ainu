@@ -97,7 +97,7 @@
 
 # page = 11
 # text = アイヌイタㇰ マカナㇰ アン ペ ネ?
-1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	SpaceAfter=No
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
 2	イタㇰ	itak	NOUN	名詞	_	4	nsubj	_	_
 3	マカナㇰ	makanak	ADV	副詞	_	4	advmod	_	_
 4	アン	an	VERB	自動詞	_	5	acl	_	_
@@ -106,7 +106,7 @@
 7	?	?	PUNCT	記号	_	5	punct	_	_
 
 # text = アイヌイタㇰ アナㇰネ ヤウンモシㇼ カラㇷ゚ト チュㇷ゚カ オッタ アエイワンケ ワ シサㇺイタㇰ シンナ モト コㇿ ペ ネ.
-1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	SpaceAfter=No
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
 2	イタㇰ	itak	NOUN	名詞	_	10	obj	_	_
 3	アナㇰネ	anakne	ADP	副助詞	_	2	case	_	_
 4	ヤウンモシㇼ	Yaunmosir	PROPN	固有名詞	_	7	nmod	_	_
@@ -117,7 +117,7 @@
 9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
 10	エイワンケ	eywanke	VERB	他動詞	_	17	advcl	_	_
 11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	_
-12	シサㇺ	sisam	NOUN	名詞	_	13	compound	_	SpaceAfter=No
+12	シサㇺ	sisam	NOUN	名詞	_	13	nmod	_	SpaceAfter=No
 13	イタㇰ	itak	NOUN	名詞	_	16	nsubj	_	_
 14	シンナ	sinna	VERB	自動詞	_	15	amod	_	_
 15	モト	moto	NOUN	名詞	_	16	obj	_	_
@@ -226,7 +226,7 @@
 3	ネ	ne	AUX	デアル動詞	_	1	cop	_	_
 4	パ	pa	NOUN	名詞	_	20	obl	_	_
 5	ワノ	wano	ADP	格助詞	_	4	case	_	_
-6	アイヌ	aynu	NOUN	名詞	_	7	compound	_	SpaceAfter=No
+6	アイヌ	aynu	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
 7	イタㇰ	itak	NOUN	名詞	_	8	nmod	_	_
 8	ハウ	haw	NOUN	名詞	_	13	obj	_	_
 9	カ	ka	ADP	副助詞	_	8	case	_	_
@@ -244,7 +244,7 @@
 21	.	.	PUNCT	記号	_	20	punct	_	_
 
 # text = アイヌイタㇰ シンレ アナㇰ ヤンケモシㇼ(カラㇷ゚ト) タ カ ルトㇺ(クルムセ) タ カ サモㇿモシㇼ メナㇲリチュㇷ゚ アㇻソ タ カ オカ.
-1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	SpaceAfter=No
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
 2	イタㇰ	itak	NOUN	名詞	_	3	nmod	_	_
 3	シンレ	sinre	NOUN	名詞	_	23	nsubj	_	_
 4	アナㇰ	anak	ADP	副助詞	_	3	case	_	_
@@ -270,7 +270,7 @@
 24	.	.	PUNCT	記号	_	23	punct	_	_
 
 # text = アイヌイタㇰ イェ ウタㇻ ネア ウシ オッ タ オカ ルウェ ヘネ, オロ タ テエタ マㇰ オカ ヤ, タネ ネ ヤッカ アイヌイタㇰ シンレ アニ アエラマン ルウェ ネ.
-1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	SpaceAfter=No
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
 2	イタㇰ	itak	NOUN	名詞	_	3	obj	_	_
 3	イェ	ye	VERB	他動詞	_	4	acl	_	_
 4	ウタㇻ	utar	NOUN	名詞	_	9	nsubj	_	_
@@ -292,7 +292,7 @@
 20	タネ	tane	ADV	副詞	_	28	advcl	_	_
 21	ネ	ne	AUX	デアル動詞	_	20	cop	_	_
 22	ヤッカ	yakka	SCONJ	接続助詞	_	20	mark	_	_
-23	アイヌ	aynu	NOUN	名詞	_	24	compound	_	SpaceAfter=No
+23	アイヌ	aynu	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
 24	イタㇰ	itak	NOUN	名詞	_	25	nmod	_	_
 25	シンレ	sinre	NOUN	名詞	_	28	obl	_	_
 26	アニ	ani	SCONJ	後置副詞	_	25	case	_	_
@@ -365,7 +365,7 @@
 1	明治	Meiji	PROPN	固有名詞	_	2	nmod	_	_
 2	オㇿ	or	NOUN	位置名詞	_	8	obl	_	_
 3	ワ	wa	ADP	格助詞	_	2	case	_	_
-4	アイヌ	aynu	NOUN	名詞	_	5	compound	_	_
+4	アイヌ	aynu	NOUN	名詞	_	5	nmod	_	_
 5	イタㇰ	itak	NOUN	名詞	_	8	obj	_	_
 6	ア	a=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
 7	ウン	un=	PART	人称接辞	_	8	iobj	_	SpaceAfter=No
@@ -373,7 +373,7 @@
 9	ペ	pe	NOUN	形式名詞	_	15	advcl	_	_
 10	ネ	ne	AUX	デアル動詞	_	9	cop	_	_
 11	クス	kusu	SCONJ	接続助詞	_	9	mark	_	_
-12	アイヌ	aynu	NOUN	名詞	_	13	compound	_	_
+12	アイヌ	aynu	NOUN	名詞	_	13	nmod	_	_
 13	イタㇰ	itak	NOUN	名詞	_	15	obl	_	_
 14	アニ	ani	SCONJ	後置副詞	_	13	case	_	_
 15-16	ウコイタカㇱ	_	_	_	_	_	_	_	_
@@ -393,7 +393,7 @@
 28	エネ	ene	ADV	副詞	_	29	advmod	_	_
 29	ヤイヌ	yaynu	VERB	自動詞	_	30	acl	_	_
 30	ヒ	hi	NOUN	形式名詞	_	36	obj	_	_
-31	シサㇺ	sisam	NOUN	名詞	_	32	compound	_	_
+31	シサㇺ	sisam	NOUN	名詞	_	32	nmod	_	_
 32	イタㇰ	itak	NOUN	名詞	_	36	obl	_	_
 33	アニ	ani	SCONJ	後置副詞	_	32	case	_	_
 34	カ	ka	ADP	副助詞	_	32	case	_	_
@@ -459,14 +459,14 @@
 
 # text = コㇿカ アイヌ イタㇰ アナㇰネ 明治 オカケ ワノ アン シサㇺ プリ キヤㇻ イレンカ アニ ウウェパㇰタ ソモ アエイワンケ ワ アイサㇺカ コㇿ アン アイネ, 2009パ タ, ユネスコ オㇿ ワ 「タネ イサㇺ コㇿ アン ノイネ シリ アン イタㇰ」 オㇿ アオマレ ルウェ ネ.
 1	コㇿカ	korka	CCONJ	接続詞	_	22	cc	_	_
-2	アイヌ	aynu	NOUN	名詞	_	3	compound	_	_
+2	アイヌ	aynu	NOUN	名詞	_	3	nmod	_	_
 3	イタㇰ	itak	NOUN	名詞	_	17	obj	_	_
 4	アナㇰネ	anakne	ADP	副助詞	_	3	case	_	_
 5	明治	Meiji	PROPN	固有名詞	_	6	nmod	_	_
 6	オカケ	okake	NOUN	位置名詞	_	8	obl	_	_
 7	ワノ	wano	ADP	格助詞	_	6	case	_	_
 8	アン	an	VERB	自動詞	_	11	advcl	_	_
-9	シサㇺ	sisam	NOUN	名詞	_	10	compound	_	_
+9	シサㇺ	sisam	NOUN	名詞	_	10	nmod	_	_
 10	プリ	puri	NOUN	名詞	_	11	nsubj	_	_
 11	キヤㇻ	kiyar	VERB	他動詞	_	12	acl	_	SpaceAfter=No
 12	イレンカ	irenka	NOUN	名詞	_	17	obl	_	_
@@ -513,7 +513,7 @@
 4	ウコヤイホノッカ	uko-yayhonokka	VERB	自動詞	_	12	ccomp	_	_
 5	ネ	ne	AUX	助動詞	_	4	aux	_	_
 6	ヤ	ya	SCONJ	接続助詞	_	4	mark	_	_
-7	アイヌ	aynu	NOUN	名詞	_	8	compound	_	_
+7	アイヌ	aynu	NOUN	名詞	_	8	nmod	_	_
 8	イタㇰ	itak	NOUN	名詞	_	9	obj	_	_
 9	エシノッ	esinot	VERB	他動詞	_	4	conj	_	_
 10	ネ	ne	AUX	助動詞	_	9	aux	_	_
@@ -814,7 +814,7 @@
 7	オッ	or	NOUN	位置名詞	_	19	obl	_	SpaceAfter=No
 8	タ	ta	ADP	格助詞	_	7	case	_	_
 9	カ	ka	ADP	副助詞	_	7	case	_	_
-10	ウリチ	Ulch	PROPN	固有名詞	_	11	compound	_	_
+10	ウリチ	Ulch	PROPN	固有名詞	_	11	nmod	_	_
 11	プリ	puri	NOUN	名詞	_	19	obl	_	_
 12	ニヴフ	Nivkh	PROPN	固有名詞	_	13	nmod	_	_
 13	プリ	puri	NOUN	名詞	_	11	conj	_	_
@@ -939,7 +939,7 @@
 3	アン	an=	PART	人称接辞	_	4	nsubj	_	_
 4	エランペウテㇰ	erampewtek	VERB	他動詞	_	8	advcl	_	_
 5	ワ	wa	SCONJ	接続助詞	_	4	mark	_	_
-6	シサㇺ	sisam	NOUN	名詞	_	7	compound	_	_
+6	シサㇺ	sisam	NOUN	名詞	_	7	nmod	_	_
 7	イレンカ	irenka	NOUN	名詞	_	8	nsubj	_	_
 8	ユㇷ゚ケ	yupke	VERB	自動詞	_	19	advcl	_	_
 9	ア	a	AUX	助動詞	_	8	aux	_	SpaceAfter=No
