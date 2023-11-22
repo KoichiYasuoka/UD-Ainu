@@ -125,8 +125,7 @@ nam.lemmatranslit=function(x){
     i=nam.pre[x].textContent.indexOf("# text = ");
     if(i>0){
       nam.pre[x].textContent=nam.pre[x].textContent.slice(i+9);
-      nam.pre[x].style.positon="static";
-      nam.pre[x].style.visibility="visible";
+      nam.pre[x].style.display="inline";
     }
     return;
   }
