@@ -123,10 +123,10 @@ nam.lemmatranslit=function(x){
     return;
   if(nam.pre[x].textContent.indexOf("\t0\troot\t")<0){
     i=nam.pre[x].textContent.indexOf("# text = ");
-    if(i>0){
-      nam.pre[x].textContent=nam.pre[x].textContent.slice(i+9);
-      nam.pre[x].style.display="inline";
-    }
+    if(i<0)
+      return;
+    nam.pre[x].textContent=nam.pre[x].textContent.slice(i+9);
+    nam.pre[x].style.display="inline";
     return;
   }
   s=nam.pre[x].textContent.split("\n");
