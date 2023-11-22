@@ -1,0 +1,255 @@
+<!DOCTYPE html><head><meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>国立アイヌ民族博物館パンフレットUniversal Dependenciesコーパス</title>
+<script src="../../editor/conllusvgview.js"></script>
+<script src="../../editor/conllusvgedit.js"></script>
+<script src="../../editor/conllusvgload.js"></script>
+<script>
+nam=new Object();
+nam.apiURL="https://api.github.com/repos/KoichiYasuoka/UD-Ainu/git/trees/master:doc%2FNAM";
+nam.rawURL="https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/";
+nam.gitURL="https://github.com/KoichiYasuoka/UD-Ainu/blob/master/doc/NAM/";
+nam.init=function(){
+  var t=document.getElementById("top").cloneNode(true);
+  t.style.position="static";
+  t.style.visibility="hidden";
+  document.body.appendChild(t);
+  nam.svg=new Array();
+  nam.pre=new Array();
+  nam.dirs=new Array();
+  nam.timer=setTimeout("clearTimeout(nam.timer);nam.checkview()",200);
+  nam.volchange();
+}
+nam.checkview=function(){
+  var t,r,b,i;
+  nam.timer=setTimeout("clearTimeout(nam.timer);nam.checkview()",200);
+  if(nam.curr==null)
+    return;
+  if(nam.svg[nam.curr]==null||nam.pre[nam.curr]==null){
+    nam.buildup(nam.curr);
+    return;
+  }
+  if(nam.svg[nam.curr].style.position=="absolute"){
+    if(nam.pre[nam.curr].textContent>""){
+      nam.svg[nam.curr].style.position="static";
+      nam.svg[nam.curr].style.visibility="visible";
+    }
+  }
+  nam.lemmatranslit(nam.curr);
+  conllusvg.rewrite("pre"+nam.curr);
+  r=nam.svg[nam.curr].getBoundingClientRect();
+  t=r.top;
+  b=r.bottom;
+  r=document.getElementById("top").getBoundingClientRect().bottom;
+  if(t-r>20){
+    while(t-r>0){
+      i=nam.svg[nam.curr-1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      nam.curr--;
+      if(nam.curr==0)
+        break;
+      t=i.getBoundingClientRect().top;
+    }
+  }
+  else if(b<r){
+    while(b<r){
+      i=nam.svg[nam.curr+1];
+      if(i==null)
+        break;
+      if(i.style.position=="absolute")
+        break;
+      nam.curr++;
+      if(nam.curr==nam.currmax)
+        break;
+      b=i.getBoundingClientRect().bottom;
+    }
+  }
+  nam.lastTop=nam.svg[nam.curr].getBoundingClientRect().top;
+  for(i=nam.curr+1;i<=nam.currmax;i++){
+    if(nam.svg[i]==null||nam.pre[i]==null){
+      nam.buildup(i);
+      break;
+    }
+    if(nam.svg[i].style.position=="absolute"){
+      if(nam.pre[i].textContent>""){
+        nam.svg[i].style.position="static";
+        nam.svg[i].style.visibility="visible";
+      }
+    }
+    nam.lemmatranslit(i);
+    conllusvg.rewrite("pre"+i);
+    r=nam.svg[i].getBoundingClientRect();
+    if(r.top-window.innerHeight-1000>0)
+      break;
+  }
+}
+nam.buildup=function(x){
+  var t,i;
+  if(nam.svg[x]==null){
+    t=document.createElementNS("http://www.w3.org/2000/svg","svg");
+    for(i=parseInt(x,10)+1;i<=nam.currmax;i++){
+      if(nam.svg[i]!=null)
+        break;
+    }
+    t.style.position="absolute";
+    t.style.visibility="hidden";
+    if(i>nam.currmax)
+      document.body.appendChild(t);
+    else
+      document.body.insertBefore(t,nam.svg[i]);
+    nam.svg[x]=t;
+    t.addEventListener("mousedown",nam.onmousedown);
+    t.addEventListener("touchstart",nam.onmousedown);
+  }
+  if(nam.pre[x]==null){
+    t=document.createElement("pre");
+    t.style.display="none";
+    t.setAttribute("id","pre"+x);
+    document.body.appendChild(t);
+    nam.pre[x]=t;
+    if(conllusvg.main["pre"+x]==null)
+      conllusvg.view(nam.svg[x],"pre"+x);
+    conllusvg.loadRemote("pre"+x,nam.raw+nam.txt[x]);
+  }
+}
+nam.lemmatranslit=function(x){
+  var s,t,i;
+  if(nam.pre[x]==null)
+    return;
+  if(nam.pre[x].textContent.indexOf("Translit=")>0)
+    return;
+  s=nam.pre[x].textContent.split("\n");
+  for(i=0;i<s.length;i++){
+    t=s[i].split("\t");
+    if(t.length==10){
+      if(t[2]!="_"&&t[1]!=t[2]){
+        if(t[9]=="_")
+          t[9]="Translit="+t[2];
+        else if(t[9].indexOf("Translit=")<0)
+          t[9]=t[9]+"|Translit="+t[2];
+        s[i]=t.join("\t");
+      }
+    }
+  }
+  conllusvg.loadText("pre"+x,s.join("\n"));
+}
+nam.volchange=function(){
+  var s;
+  nam.clearSVG();
+  for(s in nam.pre){
+    if(nam.pre[s]!=null)
+      document.body.removeChild(nam.pre[s]);
+    nam.pre[s]=null;
+  }
+  s=document.getElementById("vol");
+  if(nam.dirs[s.options[s.selectedIndex].value]==null)
+    nam.gettree(s.options[s.selectedIndex].value);
+  else
+    nam.writeSVG();
+}
+nam.gettree=function(d){
+  if(nam.request==null){
+    nam.request=new XMLHttpRequest();
+    nam.request.onload=nam.ongettree;
+  }
+  nam.request.open("GET",nam.apiURL+"%2F"+d);
+  nam.request.send();
+}
+nam.ongettree=function(e){
+  if(nam.request.status==200){
+    var s=document.getElementById("vol");
+    nam.dirs[s.options[s.selectedIndex].value]=nam.request.responseText;
+    nam.writeSVG();
+  }
+}
+nam.txtsort=function(x,y){
+  if(x<y)
+    return -1;
+  if(x>y)
+    return 1;
+  return 0;
+}
+nam.writeSVG=function(){
+  var s,t,r;
+  nam.clearSVG();
+  s=document.getElementById("vol");
+  t=s.options[s.selectedIndex].value;
+  r=new RegExp("[0-9]+-[0-9]+[a-z]?.txt","g");
+  nam.txt=nam.dirs[t].match(r);
+  nam.txt.sort(nam.txtsort);
+  nam.currmax=nam.txt.length-1;
+  nam.curr=0;
+  nam.lastTop=null;
+  nam.raw=nam.rawURL+t+"/";
+}
+nam.clearSVG=function(){
+  var x;
+  nam.curr=nam.lastTop=null;
+  if(nam.svg!=null){
+    for(x in nam.svg){
+      if(nam.svg[x]!=null){
+        nam.svg[x].style.position="absolute";
+        nam.svg[x].style.visibility="hidden";
+      }
+    }
+  }
+  if(document.scrollingElement==null)
+    document.documentElement.scrollTop=0;
+  else
+    document.scrollingElement.scrollTop=0;
+}
+nam.onmousedown=function(e){
+  var x,y;
+  if(nam.lastX==null){
+    nam.lastX=e.clientX;
+    nam.lastY=e.clientY;
+    return;
+  }
+  x=e.clientX-nam.lastX;
+  y=e.clientY-nam.lastY;
+  if(x*x+y*y>9){
+    nam.lastX=e.clientX;
+    nam.lastY=e.clientY;
+    return;
+  }
+  nam.lastX=null;
+  x=e.currentTarget;
+  for(y in nam.svg){
+    if(nam.svg[y]==x){
+      window.open("../../editor/editor-ain.html#url="+nam.raw+nam.txt[y]);
+      break;
+    }
+  }
+}
+nam.reload=function(){
+  var i,r;
+  for(i=nam.curr;i<=nam.currmax;i++){
+    if(nam.svg[i]==null||nam.pre[i]==null)
+      return;
+    r=nam.svg[i].getBoundingClientRect();
+    if(r.top>window.innerHeight||r.bottom<0)
+      return;
+    conllusvg.loadRemote("pre"+i,nam.raw+nam.txt[i]);
+  }
+}
+nam.github=function(){
+  var s=document.getElementById("vol");
+  window.open(nam.gitURL+s.options[s.selectedIndex].value+"/"+nam.txt[nam.curr]);
+}
+</script>
+<body onload="nam.init()">
+<div id="top" style="position:fixed; top:0px; left:0px; padding:10px; width:100%; background:white">
+<font size="+3"><b>国立アイヌ民族博物館パンフレット</b></font>
+<select id="vol" onchange="nam.volchange()">
+<option value="2020-03-31" selected>国立アイヌ民族博物館ガイドブック</option>
+<option value="2020-04">アヌココㇿ アイヌ イコロマケンル</option>
+<option value="2021-06-26">ゴールデンカムイ トゥラノ アㇷ゚カㇱアン</option>
+<option value="2022-12-13">ウアイヌコㇿ コタン アカㇻ</option>
+</select>
+<input type="button" value="GitHub" onclick="nam.github()" />
+<input type="button" value="Reload" onclick="nam.reload()" />
+</div>
+</body>
