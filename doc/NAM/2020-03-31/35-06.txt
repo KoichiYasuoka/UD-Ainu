@@ -1,2 +1,21 @@
 # text = カムイ トゥラノ ウレㇱカアㇱ コㇿ オカイアㇱ ワ カムイ チエオリパㇰ クス アプンノ ウレㇱカアㇱ エアㇱカイ ルウェ ネ.
+1	カムイ	kamuy	NOUN	名詞	_	3	obl	_	_
+2	トゥラノ	turano	SCONJ	後置副詞	_	1	case	_	_
+3	ウレㇱカ	u-resu-ka	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+4	アㇱ	=as	PART	人称接辞	_	3	nsubj	_	_
+5	コㇿ	kor	SCONJ	接続助詞	_	3	mark	_	_
+6	オカイ	okay	VERB	自動詞	_	11	advcl	_	SpaceAfter=No
+7	アㇱ	=as	PART	人称接辞	_	6	nsubj	_	_
+8	ワ	wa	SCONJ	接続助詞	_	6	mark	_	_
+9	カムイ	kamuy	NOUN	名詞	_	11	obj	_	_
+10	チ	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	エオリパㇰ	eoripak	VERB	他動詞	_	14	advcl	_	_
+12	クス	kusu	SCONJ	接続詞	_	11	mark	_	_
+13	アプンノ	apunno	ADV	副詞	_	14	advmod	_	_
+14	ウレㇱカ	u-resu-ka	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+15	アㇱ	=as	PART	人称接辞	_	14	nsubj	_	_
+16	エアㇱカイ	easkay	AUX	助動詞	_	14	aux	_	_
+17	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+18	ネ	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+19	.	.	PUNCT	記号	_	17	punct	_	_
 
