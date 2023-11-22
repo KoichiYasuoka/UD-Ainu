@@ -1152,23 +1152,112 @@
 
 # page = 37
 # text = ウポポ ネワ リㇺセ
+1	ウポポ	upopo	NOUN	名詞	_	4	advcl	_	_
+2	ネ	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	リㇺセ	rimse	VERB	自動詞	_	0	root	_	_
 
 # text = ケㇱト モンライケアン ヤッカ カムイノミアン ヤッカ ネイタ ネ ヤッカ ウサ ウポポ ウサ リㇺセ アンキ ルウェ ネ.
+1	ケㇱト	kesto	ADV	副詞	_	2	advmod	_	_
+2	モンライケ	monrayke	VERB	自動詞	_	5	advcl	_	SpaceAfter=No
+3	アン	=an	PART	人称接辞	_	2	nsubj	_	_
+4	ヤッカ	yakka	SCONJ	接続助詞	_	2	mark	_	_
+5	カムイノミ	kamuynomi	VERB	自動詞	_	8	advcl	_	SpaceAfter=No
+6	アン	=an	PART	人称接辞	_	5	nsubj	_	_
+7	ヤッカ	yakka	SCONJ	接続助詞	_	5	mark	_	_
+8	ネイ	ney	NOUN	位置名詞	_	15	advcl	_	SpaceAfter=No
+9	タ	ta	ADP	格助詞	_	8	case	_	_
+10	ネ	ne	AUX	デアル動詞	_	8	cop	_	_
+11	ヤッカ	yakka	SCONJ	接続助詞	_	8	mark	_	_
+12	ウサ	usa	ADP	副助詞	_	8	mark	_	_
+13	ウポポ	upopo	NOUN	名詞	_	15	obl	_	_
+14	ウサ	usa	ADP	副助詞	_	13	case	_	_
+15	リㇺセ	rimse	VERB	自動詞	_	18	acl	_	_
+16	アン	=an	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+17	キ	ki	AUX	助動詞	_	15	aux	_	_
+18	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+19	ネ	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	18	punct	_	_
 
 # text = シノッチャキアン コㇿ アンケウトゥムフ ハウ ネ アイサンケ.
+1	シノッチャ	sinotca	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	キ	ki	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+3	アン	=an	PART	人称接辞	_	2	nsubj	_	_
+4	コㇿ	kor	SCONJ	接続助詞	_	2	mark	_	_
+5	アン	an=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+6	ケウトゥムフ	kewtumuhu	NOUN	名詞	_	7	nmod	_	_
+7	ハウ	haw	NOUN	名詞	_	10	obj	_	_
+8	ネ	ne	ADP	副助詞	_	7	case	_	_
+9	アイ	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	サンケ	sanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
 
 # text = ロㇰアン ワ ウポポ カ アンキ ルウェ ネ.
+1	ロㇰ	rok	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+2	アン	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	ウポポ	upopo	NOUN	名詞	_	7	obj	_	_
+5	カ	ka	ADP	副助詞	_	4	case	_	_
+6	アン	an=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	キ	ki	VERB	他動詞	_	8	acl	_	_
+8	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+9	ネ	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
 
 # text = ウエカㇻパアン ワ ヘッチェ トゥラノ リㇺセアン, アネキロロアン ルウェ ネ.
+1	ウエカㇻパ	uwekarpa	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+2	アン	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	ヘッチェ	hetce	NOUN	名詞	_	6	obl	_	_
+5	トゥラノ	turano	SCONJ	後置副詞	_	4	case	_	_
+6	リㇺセ	rimse	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
+7	アン	=an	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9-10	アネキロロアン	_	_	_	_	_	_	_	_
+9	アン	an=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	エキロロアン	ekiroroan	VERB	他動詞	_	11	acl	_	_
+11	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+12	ネ	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
 
 # text = トンコリ アンレㇰテ カネ ウポポアン ヒ カ アン.
+1	トンコリ	tonkori	NOUN	名詞	_	3	obj	_	_
+2	アン	an=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	レㇰテ	rekte	VERB	他動詞	_	6	advcl	_	_
+4	カネ	kane	SCONJ	接続助詞	_	3	mark	_	_
+5	ウポポ	upopo	NOUN	名詞	_	6	nsubj	_	SpaceAfter=No
+6	アン	an	VERB	自動詞	_	7	acl	_	_
+7	ヒ	hi	NOUN	形式名詞	_	9	nsubj	_	_
+8	カ	ka	ADP	副助詞	_	7	case	_	_
+9	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
 
 # text = ウポポ エネ リㇺセ エネ ポロンノ アン.
+1	ウポポ	upopo	NOUN	名詞	_	6	nsubj	_	_
+2	エネ	hene	ADP	副助詞	_	1	case	_	_
+3	リㇺセ	rimse	NOUN	名詞	_	1	conj	_	_
+4	エネ	hene	ADP	副助詞	_	3	case	_	_
+5	ポロンノ	poronno	ADV	副詞	_	6	advmod	_	_
+6	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
 
 # text = オヤㇰ タ シンナイ ウポポ シンナイ リㇺセ アンキ ルウェ ネ.
+1	オヤㇰ	oyak	NOUN	位置名詞	_	7	obl	_	_
+2	タ	ta	ADP	格助詞	_	1	case	_	_
+3	シンナイ	sinna	VERB	自動詞	_	4	amod	_	_
+4	ウポポ	upopo	NOUN	名詞	_	7	nsubj	_	_
+5	シンナイ	sinna	VERB	自動詞	_	6	amod	_	_
+6	リㇺセ	rimse	NOUN	名詞	_	4	conj	_	_
+7	アン	an	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	キ	ki	AUX	助動詞	_	7	aux	_	_
+9	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+10	ネ	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
 
 # page = 39
 # text = アパ サㇺ
+1	アパ	apa	NOUN	名詞	_	2	nmod	_	_
+2	サㇺ	sam	NOUN	位置名詞	_	0	root	_	_
 
 # doc = アヌココㇿ アイヌ イコロマケンル [日本語], 白老: 国立アイヌ民族博物館, 2020年4月
 # text = ケンル アカㇻ イッケウェ
