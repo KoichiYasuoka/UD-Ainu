@@ -1,2 +1,13 @@
 # text = シノッチャキアン コㇿ アンケウトゥムフ ハウ ネ アイサンケ.
+1	シノッチャ	sinotca	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	キ	ki	VERB	他動詞	_	10	advcl	_	SpaceAfter=No
+3	アン	=an	PART	人称接辞	_	2	nsubj	_	_
+4	コㇿ	kor	SCONJ	接続助詞	_	2	mark	_	_
+5	アン	an=	PART	人称接辞	_	6	det	_	SpaceAfter=No
+6	ケウトゥムフ	kewtumuhu	NOUN	名詞	_	7	nmod	_	_
+7	ハウ	haw	NOUN	名詞	_	10	obj	_	_
+8	ネ	ne	ADP	副助詞	_	7	case	_	_
+9	アイ	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	サンケ	sanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
 

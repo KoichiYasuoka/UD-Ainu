@@ -1,2 +1,12 @@
 # text = ロㇰアン ワ ウポポ カ アンキ ルウェ ネ.
+1	ロㇰ	rok	VERB	自動詞	_	7	advcl	_	SpaceAfter=No
+2	アン	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	ウポポ	upopo	NOUN	名詞	_	7	obj	_	_
+5	カ	ka	ADP	副助詞	_	4	case	_	_
+6	アン	an=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	キ	ki	VERB	他動詞	_	8	acl	_	_
+8	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+9	ネ	ne	AUX	デアル動詞	_	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	8	punct	_	_
 
