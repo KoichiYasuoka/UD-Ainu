@@ -1,2 +1,4 @@
 # text = イランカラㇷ゚テ.
+1	イランカラㇷ゚テ	irankarapte	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
 
