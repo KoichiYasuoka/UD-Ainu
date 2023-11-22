@@ -25,7 +25,7 @@
 23	アン	an	VERB	自動詞	_	24	acl	_	_
 24	ヒ	hi	NOUN	形式名詞	_	36	obl	_	SpaceAfter=No
 25	タ	ta	ADP	格助詞	_	24	case	_	_
-26	アイヌ	aynu	NOUN	名詞	_	27	compound	_	SpaceAfter=No
+26	アイヌ	aynu	NOUN	名詞	_	27	nmod	_	SpaceAfter=No
 27	ウタリ	utari	NOUN	名詞	_	29	nsubj	_	_
 28	エネ	ene	ADV	副詞	_	29	advmod	_	_
 29	ヤイヌ	yaynu	VERB	自動詞	_	30	acl	_	_
