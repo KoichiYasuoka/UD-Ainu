@@ -20,9 +20,9 @@
 19	ネ	ne	AUX	デアル動詞	_	18	cop	_	_
 20	ワ	wa	SCONJ	接続助詞	_	18	mark	_	_
 21	アイヌ	aynu	NOUN	名詞	_	22	nmod	_	_
-22	ウタㇻ	utar	NOUN	名詞	_	25	obj	_	_
-23	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
-24	レコ	reko	VERB	他動詞	_	25	acl	_	_
+22	ウタㇻ	utar	NOUN	名詞	_	24	obj	_	_
+23	ア	a=	PART	人称接辞	_	24	nsubj	_	SpaceAfter=No
+24	レコ	réko	VERB	他動詞	_	25	acl	_	_
 25	ヒ	hi	NOUN	形式名詞	_	29	obl	_	_
 26	タ	ta	ADP	格助詞	_	25	case	_	_
 27	カ	ka	ADP	副助詞	_	25	case	_	_
