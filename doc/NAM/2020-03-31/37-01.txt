@@ -1,3 +1,7 @@
 # page = 37
 # text = ウポポ ネワ リㇺセ
+1	ウポポ	upopo	NOUN	名詞	_	4	advcl	_	_
+2	ネ	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	リㇺセ	rimse	VERB	自動詞	_	0	root	_	_
 
