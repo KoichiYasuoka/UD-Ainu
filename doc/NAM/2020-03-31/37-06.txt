@@ -1,2 +1,12 @@
 # text = トンコリ アンレㇰテ カネ ウポポアン ヒ カ アン.
+1	トンコリ	tonkori	NOUN	名詞	_	3	obj	_	_
+2	アン	an=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	レㇰテ	rekte	VERB	他動詞	_	6	advcl	_	_
+4	カネ	kane	SCONJ	接続助詞	_	3	mark	_	_
+5	ウポポ	upopo	NOUN	名詞	_	6	nsubj	_	SpaceAfter=No
+6	アン	an	VERB	自動詞	_	7	acl	_	_
+7	ヒ	hi	NOUN	形式名詞	_	9	nsubj	_	_
+8	カ	ka	ADP	副助詞	_	7	case	_	_
+9	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
 

@@ -1,2 +1,16 @@
 # text = ウエカㇻパアン ワ ヘッチェ トゥラノ リㇺセアン, アネキロロアン ルウェ ネ.
+1	ウエカㇻパ	uwekarpa	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+2	アン	=an	PART	人称接辞	_	1	nsubj	_	_
+3	ワ	wa	SCONJ	接続助詞	_	1	mark	_	_
+4	ヘッチェ	hetce	NOUN	名詞	_	6	obl	_	_
+5	トゥラノ	turano	SCONJ	後置副詞	_	4	case	_	_
+6	リㇺセ	rimse	VERB	自動詞	_	10	advcl	_	SpaceAfter=No
+7	アン	=an	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9-10	アネキロロアン	_	_	_	_	_	_	_	_
+9	アン	an=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	エキロロアン	ekiroroan	VERB	他動詞	_	11	acl	_	_
+11	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+12	ネ	ne	AUX	デアル動詞	_	11	cop	_	SpaceAfter=No
+13	.	.	PUNCT	記号	_	11	punct	_	_
 
