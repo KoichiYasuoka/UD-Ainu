@@ -177,7 +177,7 @@ nam.writeSVG=function(){
   nam.clearSVG();
   s=document.getElementById("vol");
   t=s.options[s.selectedIndex].value;
-  r=new RegExp("[0-9]+-[0-9]+[a-z]?.txt","g");
+  r=new RegExp("([0-9]+-[0-9]+|[0-9]+).txt","g");
   nam.txt=nam.dirs[t].match(r);
   nam.txt.sort(nam.txtsort);
   nam.currmax=nam.txt.length-1;
