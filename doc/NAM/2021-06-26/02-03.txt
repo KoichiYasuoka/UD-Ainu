@@ -17,7 +17,7 @@
 15	アㇷ゚カㇱ	apkas	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
 16	アン	=an	PART	人称接辞	_	15	nsubj	_	_
 17	―	―	PUNCT	記号	_	25	punct	_	_
-18	杉本	スギモト	PROPN	名詞-固有名詞-人名-姓	_	23	nsubj	_	SpaceAfter=No
+18	杉元	スギモト	PROPN	名詞-固有名詞-人名-姓	_	23	nsubj	_	SpaceAfter=No
 19	佐一	サイチ	PROPN	名詞-固有名詞-人名-名	_	18	flat	_	SpaceAfter=No
 20	と	と	ADP	助詞-格助詞	_	18	case	_	SpaceAfter=No
 21	アシㇼパ	Asirpa	PROPN	名詞-固有名詞-人名-名	_	18	conj	_	SpaceAfter=No
