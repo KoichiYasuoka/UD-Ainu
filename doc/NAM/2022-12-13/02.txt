@@ -5,7 +5,7 @@
 3	オㇿ	or	NOUN	位置名詞	_	5	obl	_	_
 4	ウン	un	ADP	格助詞	_	3	case	_	_
 5	シネウパ	sinewpa	VERB	自動詞	_	6	acl	_	_
-6	ウタㇻ	utar	NOUN	名詞	_	9	obj	_	SpaceAfter=No
+6	ウタㇻ	utar	NOUN	名詞	_	9	vocative	_	SpaceAfter=No
 7	、	,	PUNCT	記号	_	6	punct	_	_
 8	エチ	eci=	PART	人称接辞	_	9	nsubj	_	SpaceAfter=No
 9	コプンテㇰ	kopuntek	VERB	他動詞	_	0	root	_	_
