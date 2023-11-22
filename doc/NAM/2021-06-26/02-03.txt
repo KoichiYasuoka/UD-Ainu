@@ -6,7 +6,7 @@
 4	エチ	eci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
 5	シネウパ	sinewpa	VERB	自動詞	_	8	advcl	_	_
 6	ワ	wa	SCONJ	接続助詞	_	5	mark	_	_
-7	エチ	eci	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+7	エチ	eci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
 8	エヤイコプンテㇰ	eyaikopuntek	VERB	他動詞	_	45	advcl	_	_
 9	ワ	wa	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 10	,	,	PUNCT	記号	_	8	punct	_	SpaceAfter=No
@@ -40,7 +40,7 @@
 38	ア	a=	PART	人称接辞	_	39	nsubj	_	SpaceAfter=No
 39	ヌイェ	nuye	VERB	他動詞	_	40	acl	_	_
 40	ㇷ゚	-p	PART	接尾辞	_	42	obj	_	_
-41	チ	ci=	PART	人称接辞	_	42	nsubj	_	SpaceAfter=No
+41	チ	c=	PART	人称接辞	_	42	nsubj	_	SpaceAfter=No
 42	ュオエロㇱキ	uwoeroski	VERB	他動詞	_	45	advcl	_	_
 43	ワ	wa	SCONJ	接続助詞	_	42	mark	_	_
 44	エチ	eci=	PART	人称接辞	_	45	nsubj	_	SpaceAfter=No
