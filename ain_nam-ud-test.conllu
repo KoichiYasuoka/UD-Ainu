@@ -1,94 +1,4 @@
-# doc = アヌココㇿ アイヌ イコロマケンル [日本語], 白老: 国立アイヌ民族博物館, 2020
-# text = ケンル アカㇻ イッケウェ
-1	ケンル	kenru	NOUN	名詞	_	3	obj	_	_
-2	ア	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
-3	カㇻ	kar	VERB	他動詞	_	4	acl	_	_
-4	イッケウェ	ikkewe	NOUN	名詞	_	0	root	_	_
-
-# text = タパン ケンル アナㇰ アイヌ ウタㇻ アアイヌコㇿ クニ アパセレ クニ アイヌ ウパㇱクマ アイヌ プリ インネウタㇻ アエコウパㇱクマ コㇿ サスイシㇼ パㇰノ アピラサ クス アカㇻ ルウェ ネ.
-1	タパン	tapan	DET	連体詞	_	2	det	_	_
-2	ケンル	kenru	NOUN	名詞	_	28	obj	_	_
-3	アナㇰ	anak	ADP	副助詞	_	2	case	_	_
-4	アイヌ	aynu	NOUN	名詞	_	5	compound	_	_
-5	ウタㇻ	utar	NOUN	名詞	_	7	obj	_	_
-6	ア	a=	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
-7	アイヌコㇿ	aynukor	VERB	他動詞	_	10	advcl	_	_
-8	クニ	kuni	SCONJ	接続助詞	_	7	mark	_	_
-9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
-10	パセレ	pasere	VERB	他動詞	_	20	advcl	_	_
-11	クニ	kuni	SCONJ	接続助詞	_	10	mark	_	_
-12	アイヌ	aynu	NOUN	名詞	_	13	nmod	_	_
-13	ウパㇱクマ	upaskuma	NOUN	名詞	_	20	obj	_	_
-14	アイヌ	aynu	NOUN	名詞	_	15	nmod	_	_
-15	プリ	puri	NOUN	名詞	_	13	conj	_	_
-16	インネ	inne	VERB	自動詞	_	17	amod	_	SpaceAfter=No
-17	ウタㇻ	utar	NOUN	名詞	_	20	iobj	_	_
-18	ア	a=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
-19	エ	e=	PART	人称接辞	_	20	expl	_	SpaceAfter=No
-20	コウパㇱクマ	ko-upaskuma	VERB	他動詞	_	28	advcl	_	_
-21	コㇿ	kor	SCONJ	接続助詞	_	20	mark	_	_
-22	サスイシㇼ	sasuysir	NOUN	名詞	_	25	obl	_	_
-23	パㇰノ	pakno	SCONJ	後置副詞	_	22	case	_	_
-24	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
-25	ピラサ	pirasa	VERB	他動詞	_	28	advcl	_	_
-26	クス	kusu	SCONJ	接続助詞	_	25	mark	_	_
-27	ア	a=	PART	人称接辞	_	28	nsubj	_	SpaceAfter=No
-28	カㇻ	kar	VERB	他動詞	_	29	acl	_	_
-29	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
-30	ネ	ne	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
-31	.	.	PUNCT	記号	_	29	punct	_	_
-
-# text = アヌココㇿ アイヌ イコロマケンル
-1-2	アヌココㇿ	_	_	_	_	_	_	_	_
-1	アン	an=	PART	人称接辞	_	2	nsubj	_	_
-2	ウココㇿ	ukokor	VERB	他動詞	_	6	acl	_	_
-3	アイヌ	aynu	NOUN	名詞	_	4	nmod	_	_
-4-5	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-4	イコㇿ	ikor	NOUN	名詞	_	5	obj	_	_
-5	オマ	oma	VERB	他動詞	_	6	acl	_	_
-6	ケンル	kenru	NOUN	名詞	_	0	root	_	_
-
-# text = アイヌ アリ アイェ ㇷ゚ アナㇰネ
-1	アイヌ	aynu	NOUN	名詞	_	4	obl	_	_
-2	アリ	ari	SCONJ	接続助詞	_	1	case	_	_
-3	ア	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
-4	イェ	ye	VERB	他動詞	_	5	acl	_	_
-5	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
-6	アナㇰネ	anakne	ADP	副助詞	_	5	case	_	_
-
-# text = 「アイヌ」アリ アン イポロセ イッケウェ アナㇰネ シサㇺ オッタ 「人間」アリ アイェ ㇷ゚ ネ ワ アイヌ ウタㇻ アレコ ヒ タ カ アエイワンケ.
-1	「	"	PUNCT	記号	_	2	punct	_	SpaceAfter=No
-2	アイヌ	aynu	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
-3	」	"	PUNCT	記号	_	2	punct	_	SpaceAfter=No
-4	アリ	ari	SCONJ	接続助詞	_	2	case	_	_
-5	アン	an	VERB	自動詞	_	17	advcl	_	_
-6	イポロセ	iporose	VERB	自動詞	_	7	amod	_	_
-7	イッケウェ	ikkewe	NOUN	名詞	_	17	obj	_	_
-8	アナㇰネ	anakne	ADP	副助詞	_	7	case	_	_
-9	シサㇺ	sisam	NOUN	名詞	_	10	nmod	_	_
-10	オッ	or	NOUN	位置名詞	_	17	obl	_	SpaceAfter=No
-11	タ	ta	ADP	格助詞	_	10	case	_	_
-12	「	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
-13	人間	ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
-14	」	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
-15	アリ	ari	SCONJ	接続助詞	_	13	case	_	_
-16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
-17	イェ	ye	VERB	他動詞	_	18	acl	_	_
-18	ㇷ゚	-p	PART	接尾辞	_	29	advcl	_	_
-19	ネ	ne	AUX	デアル動詞	_	18	cop	_	_
-20	ワ	wa	SCONJ	接続助詞	_	18	mark	_	_
-21	アイヌ	aynu	NOUN	名詞	_	22	compound	_	_
-22	ウタㇻ	utar	NOUN	名詞	_	25	obj	_	_
-23	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
-24	レコ	reko	VERB	他動詞	_	25	acl	_	_
-25	ヒ	hi	NOUN	形式名詞	_	29	obl	_	_
-26	タ	ta	ADP	格助詞	_	25	case	_	_
-27	カ	ka	ADP	副助詞	_	25	case	_	_
-28	ア	a=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
-29	エイワンケ	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
-30	.	.	PUNCT	記号	_	29	punct	_	_
-
-# doc = 国立アイヌ民族博物館ガイドブック, 白老: 国立アイヌ民族博物館, 2020
+# doc = 国立アイヌ民族博物館ガイドブック, 白老: 国立アイヌ民族博物館, 2020年3月31日
 # page = 9
 # text = セマパ
 1-2	セマパ	_	_	_	_	_	_	_	_
@@ -1201,21 +1111,119 @@
 # page = 39
 # text = アパ サㇺ
 
-# doc = ゴールデンカムイ トゥラノ アㇷ゚カㇱアン, 白老: 国立アイヌ民族博物館, 2021
-# text = 『ゴールデンカムイ』 ネコン アン ペ ネ ルウェ アン?
+# doc = アヌココㇿ アイヌ イコロマケンル [日本語], 白老: 国立アイヌ民族博物館, 2020年4月
+# text = ケンル アカㇻ イッケウェ
+1	ケンル	kenru	NOUN	名詞	_	3	obj	_	_
+2	ア	a=	PART	人称接辞	_	3	nsubj	_	SpaceAfter=No
+3	カㇻ	kar	VERB	他動詞	_	4	acl	_	_
+4	イッケウェ	ikkewe	NOUN	名詞	_	0	root	_	_
 
-# text = 『ゴールデンカムイ』 セコㇿ レヘ アン オルㇱペ, 野田サトル ニㇱパ ヌイェ ㇷ゚ ネ ワ アスル アㇱ ルウェ ネ.ネ オルㇱペ オッタ ヤウンモシㇼ タ アン ペ ネ チキ ヤンケモシㇼ タ アン ペ ネ チキ テエタ (明治 ケㇱ) アン ペ シンネ, 野田 ニㇱパ ヌイェ.
+# text = タパン ケンル アナㇰ アイヌ ウタㇻ アアイヌコㇿ クニ アパセレ クニ アイヌ ウパㇱクマ アイヌ プリ インネウタㇻ アエコウパㇱクマ コㇿ サスイシㇼ パㇰノ アピラサ クス アカㇻ ルウェ ネ.
+1	タパン	tapan	DET	連体詞	_	2	det	_	_
+2	ケンル	kenru	NOUN	名詞	_	28	obj	_	_
+3	アナㇰ	anak	ADP	副助詞	_	2	case	_	_
+4	アイヌ	aynu	NOUN	名詞	_	5	compound	_	_
+5	ウタㇻ	utar	NOUN	名詞	_	7	obj	_	_
+6	ア	a=	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	アイヌコㇿ	aynukor	VERB	他動詞	_	10	advcl	_	_
+8	クニ	kuni	SCONJ	接続助詞	_	7	mark	_	_
+9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	パセレ	pasere	VERB	他動詞	_	20	advcl	_	_
+11	クニ	kuni	SCONJ	接続助詞	_	10	mark	_	_
+12	アイヌ	aynu	NOUN	名詞	_	13	nmod	_	_
+13	ウパㇱクマ	upaskuma	NOUN	名詞	_	20	obj	_	_
+14	アイヌ	aynu	NOUN	名詞	_	15	nmod	_	_
+15	プリ	puri	NOUN	名詞	_	13	conj	_	_
+16	インネ	inne	VERB	自動詞	_	17	amod	_	SpaceAfter=No
+17	ウタㇻ	utar	NOUN	名詞	_	20	iobj	_	_
+18	ア	a=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+19	エ	e=	PART	人称接辞	_	20	expl	_	SpaceAfter=No
+20	コウパㇱクマ	ko-upaskuma	VERB	他動詞	_	28	advcl	_	_
+21	コㇿ	kor	SCONJ	接続助詞	_	20	mark	_	_
+22	サスイシㇼ	sasuysir	NOUN	名詞	_	25	obl	_	_
+23	パㇰノ	pakno	SCONJ	後置副詞	_	22	case	_	_
+24	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	ピラサ	pirasa	VERB	他動詞	_	28	advcl	_	_
+26	クス	kusu	SCONJ	接続助詞	_	25	mark	_	_
+27	ア	a=	PART	人称接辞	_	28	nsubj	_	SpaceAfter=No
+28	カㇻ	kar	VERB	他動詞	_	29	acl	_	_
+29	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+30	ネ	ne	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	29	punct	_	_
 
-# text = アイヌ ウタㇻ コンカニ ポロンノ カㇻ ワ ウエカリレ コㇿカ ネン カ ウㇰ ワ ウカオ.
+# text = アヌココㇿ アイヌ イコロマケンル
+1-2	アヌココㇿ	_	_	_	_	_	_	_	_
+1	アン	an=	PART	人称接辞	_	2	nsubj	_	_
+2	ウココㇿ	ukokor	VERB	他動詞	_	6	acl	_	_
+3	アイヌ	aynu	NOUN	名詞	_	4	nmod	_	_
+4-5	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
+4	イコㇿ	ikor	NOUN	名詞	_	5	obj	_	_
+5	オマ	oma	VERB	他動詞	_	6	acl	_	_
+6	ケンル	kenru	NOUN	名詞	_	0	root	_	_
 
-# text = オロワノ ウサ オカイ ウタㇻ コンカニ フナラ コㇿ ウコイキ.
+# text = アイヌ アリ アイェ ㇷ゚ アナㇰネ
+1	アイヌ	aynu	NOUN	名詞	_	4	obl	_	_
+2	アリ	ari	SCONJ	接続助詞	_	1	case	_	_
+3	ア	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	イェ	ye	VERB	他動詞	_	5	acl	_	_
+5	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
+6	アナㇰネ	anakne	ADP	副助詞	_	5	case	_	_
 
-# text = スギモト セコㇿ レヘ アン シサㇺ トゥミ オッタ ラメトッコㇿ クス 「ソモ ライ クㇽ」 セコㇿ アンレコレ. ネ オッカイ ネワ アシㇼパ セコㇿ レヘ アン シネ ポン メノコ コンカニ フナラ クス ピㇱカネ アㇷ゚カㇱ.
+# text = 「アイヌ」アリ アン イポロセ イッケウェ アナㇰネ シサㇺ オッタ 「人間」アリ アイェ ㇷ゚ ネ ワ アイヌ ウタㇻ アレコ ヒ タ カ アエイワンケ.
+1	「	"	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+2	アイヌ	aynu	NOUN	名詞	_	5	nsubj	_	SpaceAfter=No
+3	」	"	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+4	アリ	ari	SCONJ	接続助詞	_	2	case	_	_
+5	アン	an	VERB	自動詞	_	17	advcl	_	_
+6	イポロセ	iporose	VERB	自動詞	_	7	amod	_	_
+7	イッケウェ	ikkewe	NOUN	名詞	_	17	obj	_	_
+8	アナㇰネ	anakne	ADP	副助詞	_	7	case	_	_
+9	シサㇺ	sisam	NOUN	名詞	_	10	nmod	_	_
+10	オッ	or	NOUN	位置名詞	_	17	obl	_	SpaceAfter=No
+11	タ	ta	ADP	格助詞	_	10	case	_	_
+12	「	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
+13	人間	ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
+14	」	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
+15	アリ	ari	SCONJ	接続助詞	_	13	case	_	_
+16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	イェ	ye	VERB	他動詞	_	18	acl	_	_
+18	ㇷ゚	-p	PART	接尾辞	_	29	advcl	_	_
+19	ネ	ne	AUX	デアル動詞	_	18	cop	_	_
+20	ワ	wa	SCONJ	接続助詞	_	18	mark	_	_
+21	アイヌ	aynu	NOUN	名詞	_	22	compound	_	_
+22	ウタㇻ	utar	NOUN	名詞	_	25	obj	_	_
+23	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+24	レコ	reko	VERB	他動詞	_	25	acl	_	_
+25	ヒ	hi	NOUN	形式名詞	_	29	obl	_	_
+26	タ	ta	ADP	格助詞	_	25	case	_	_
+27	カ	ka	ADP	副助詞	_	25	case	_	_
+28	ア	a=	PART	人称接辞	_	29	nsubj	_	SpaceAfter=No
+29	エイワンケ	eywanke	VERB	他動詞	_	0	root	_	SpaceAfter=No
+30	.	.	PUNCT	記号	_	29	punct	_	_
 
-# text = 2014 パ ワノ タネ パㇰノ『ゴールデンカムイ』オルㇱペ「週刊ヤングジャンプ」(集英社) セコㇿ レヘ アン カンピソㇱ カ タ アンヌイェ コㇿ アン.
+# doc = ゴールデンカムイ トゥラノ アㇷ゚カㇱアン, 白老: 国立アイヌ民族博物館, 2021年6月26日
+# page = 2
+# text = ウェランカラㇷ゚
 
-# text = 2016 パ タ 野田 ニㇱパ「漫画大賞」アンコレ.
+# text = イランカラㇷ゚テ.
 
+# text = ウポポイ オルン エチシネウパ ワ エチエヤイコプンテㇰ ワ,『ゴールデンカムイ トゥラノ アㇷ゚カㇱアン ― 杉元佐一とアシㇼパが旅する世界 ―』セコㇿ ネ ワ,『ゴールデンカムイ』オッタ アヌイェ ㇷ゚ チュオエロㇱキ ワ エチヌカレ ルウェ ネ.
+
+# text = 『ゴールデンカムイ』セコㇿ レヘ アン 漫画 ヌカㇻ ワ アイヌプリ アㇺキㇼ ウタㇻ, ポロンノ アン ナンコㇿ.
+
+# text = 『ゴールデンカムイ』ヌカㇻ ウタㇻ アナㇰ 日本 オッタ パテㇰ オカ カ ソモ キ ノ, 英語, 中国語, 韓国語, ウサ オカイ イタㇰ アニ ヌカラ エアㇱカイ クス, レプンクㇽモシㇼ オッタ カ『ゴールデンカムイ』ピㇼカ アスル アㇱ ペ ネ.
+
+# text = イギリス ウン ロンドン オッタ アン 大英博物館 セコㇿ レヘ アン イコロマケンル アン, オロ タ 2019 パ 5 チュㇷ゚ ワノ, “The Citi exhibition Manga マンガ” セコㇿ ネ ワ, アシㇼパ ノカ キービジュアル ネ アカㇻ ルウェ ネ.
+
+# text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
+
+# text = ウライケ ウタㇻ, マチヤ オルン ウタㇻ, レプンクㇽ ウタㇻ, ニヴフ ネ ヤ, ウイルタ ネ ヤ, ウサ オカ ヤンケモシㇼ ウン クㇽ アヌイェ, ウサ オカ プリ コㇿ ウタㇻ オカ ワ, ネイタ ウレㇱパ コラチ ミピヒ カ ウニヒ カ アエイワンケㇷ゚ カ 野田ニㇱパ エヤㇺノ ヌイェ ワ アン ルウェ ネ.
+
+# text = 原画 イコㇿ トゥラノ『ゴールデンカムイ』オッタ アヌイェ ウサ ウパㇱクマ ウサ ウレㇱパ エチヌカレ ワ, オロ タ 杉元 アシㇼパ アㇷ゚カㇱ モシㇼ エチエラマン クニ チェサンニヨ.
+
+# text = イヨッタ イヨㇱノ, 集英社 オルン ウタㇻ, ピㇼカ イコㇿ アエソウㇰテ イコロマケンル オルン ウタㇻ, ウンカスイ ウタㇻ ソンノ チコヤイライケ ハウェ ネ ナ.
+
+# page = 4
 # text = ヤウンモシㇼ ネワ コンカニ
 
 # text = ハンケ モシㇼ タ オカ ウタㇻ カ トゥイマ モシㇼ タ オカ ウタㇻ カ ネㇷ゚ ネ ヤッカ シロカニ コンカニ タサレ ワ ウㇰ ペ ネ クス, コンカニ ヘネ シロカニ へネ カネ ネ クニ エサンニヨ.
@@ -1226,6 +1234,7 @@
 
 # text = ウサ「ユリイタ」ウサ「カッチャ」ウサ アエイワンケㇷ゚ アリ コンカニ アカㇻ.
 
+# page = 6
 # text = 『ゴールデンカムイ』オルン ウタㇻ
 
 # text = 『ゴールデンカムイ』オッタ ヤウンモシルンクㇽ, ヤンケモシルンクㇽ, シサㇺ, フレシサㇺ, ニヴフ, ウイルタ, ウサ オカイ ウタㇻ オカイ.
@@ -1234,6 +1243,7 @@
 
 # text = 杉元, アシㇼパ, アイヌウタリ, 第七師団ウタリ, 土方ウタリ, ウサ オカイ『ゴールデンカムイ』イッケウェ ネ オカ ウタㇻ オルㇱペ チイェ コㇿ, ミピヒ ヘネ コㇿ ペ ヘネ エチヌカレアㇱ ナ.
 
+# page = 8
 # text = コタン オッタ エトゥナンカㇻ
 
 # text = 杉元 シサㇺ オッカイポ ネ ワ,アシㇼパ セコㇿ アイェ アイヌ ポンメノコ エトゥナンカㇻ.
@@ -1244,6 +1254,7 @@
 
 # text = 『ゴールデンカムイ』オッタ アヌイェ ㇷ゚ ネ ワ アヌココㇿ アイヌ イコロマケンル オッタ アコㇿ ストゥ カ トゥレㇷ゚タニ カ エチヌカレ.
 
+# page = 10
 # text = ヌチャ ウライケ ネワ ヤウンモシルンクㇽ
 
 # text = 1904 パ タ「ヌチャ ウライケ」レヘ アン トゥミ アン.
@@ -1256,6 +1267,7 @@
 
 # text = ネイ タ アナㇰネ ヤウンモシㇼ タ ネコン アイヌ オカイ ヤ, 『ゴールデンカムイ』オッタ アヌイェ「ヌチャ ウライケ」ネコン アン トゥムンチ ネ ヤ セコㇿ アンペ エㇱヌカレアㇱ.
 
+# page = 12
 # text = ヤンケモシリ オㇹタ ウェーカーリ
 
 # text = ヤンケモシリ オㇹタ 2000 パㇵノ アイヌ エピㇱカアンタ オカヤㇵシ.
@@ -1270,6 +1282,7 @@
 
 # text = タン テータ ヤンケモシリ ウン アイヌ (エンチウ) ネーワ ウイルタ ネーワ ニヴフ コロ プーリ エチヌカンテアン.
 
+# page = 14
 # text = ヤウンモシㇼ マチヤ
 
 # text = 明治 ケㇱ タ, ヤウンモシㇼ オッタ アエシㇼキラㇷ゚ ペ ポロンノ アン.
@@ -1281,4 +1294,19 @@
 # text = 「お雇い外国人」セコㇿ アイェ フレシサㇺ ウタㇻ カ ヤㇷ゚ ワ, アイヌ, シサㇺ, フレシサㇺ ウサ オカ ウタㇻ オカ ルウェ ネ.
 
 # text = テオロ タ, 『ゴールデンカムイ』オッタ アヌイェ マチヤ, ヘロキカㇻ, シサㇺ アエイワンケㇷ゚, エチヌカレ ナ.
+
+# page = 16
+# text = ゴールデンカムイ ネコン アン ペ ネ ルウェ アン?
+
+# text = 『ゴールデンカムイ』 セコㇿ レヘ アン オルㇱペ, 野田サトル ニㇱパ ヌイェ ㇷ゚ ネ ワ アスル アㇱ ルウェ ネ.ネ オルㇱペ オッタ ヤウンモシㇼ タ アン ペ ネ チキ ヤンケモシㇼ タ アン ペ ネ チキ テエタ (明治 ケㇱ) アン ペ シンネ, 野田 ニㇱパ ヌイェ.
+
+# text = アイヌ ウタㇻ コンカニ ポロンノ カㇻ ワ ウエカリレ コㇿカ ネン カ ウㇰ ワ ウカオ.
+
+# text = オロワノ ウサ オカイ ウタㇻ コンカニ フナラ コㇿ ウコイキ.
+
+# text = スギモト セコㇿ レヘ アン シサㇺ トゥミ オッタ ラメトッコㇿ クス 「ソモ ライ クㇽ」 セコㇿ アンレコレ. ネ オッカイ ネワ アシㇼパ セコㇿ レヘ アン シネ ポン メノコ コンカニ フナラ クス ピㇱカネ アㇷ゚カㇱ.
+
+# text = 2014 パ ワノ タネ パㇰノ『ゴールデンカムイ』オルㇱペ「週刊ヤングジャンプ」(集英社) セコㇿ レヘ アン カンピソㇱ カ タ アンヌイェ コㇿ アン.
+
+# text = 2016 パ タ 野田 ニㇱパ「漫画大賞」アンコレ.
 
