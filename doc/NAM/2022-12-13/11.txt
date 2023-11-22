@@ -1,0 +1,24 @@
+# text = ウアイヌコㇿ コタン オッタ カ イコロマケンル オッタ カ イタㇰペ ネヤ オルㇱペ ニソㇱ ネヤ アン。
+1	ウアイヌコㇿ	uwaynukor	VERB	他動詞	_	2	amod	_	_
+2	コタン	kotan	NOUN	名詞	_	3	nmod	_	_
+3	オッ	or	NOUN	位置名詞	_	20	obl	_	SpaceAfter=No
+4	タ	ta	ADP	格助詞	_	3	case	_	_
+5	カ	ka	ADP	副助詞	_	3	case	_	_
+6-7	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
+6	イコㇿ	ikor	NOUN	名詞	_	7	obj	_	_
+7	オマ	oma	VERB	他動詞	_	8	acl	_	_
+8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
+9	オッ	or	NOUN	位置名詞	_	20	obl	_	SpaceAfter=No
+10	タ	ta	ADP	格助詞	_	9	case	_	_
+11	カ	ka	ADP	副助詞	_	9	case	_	_
+12	イタㇰ	itak	VERB	自動詞	_	13	amod	_	SpaceAfter=No
+13	ペ	pe	NOUN	名詞	_	16	nmod	_	_
+14	ネ	ne	AUX	デアル動詞	_	13	cop	_	SpaceAfter=No
+15	ヤ	ya	SCONJ	接続助詞	_	13	mark	_	_
+16	オルㇱペ	oruspe	NOUN	名詞	_	17	nmod	_	_
+17	ニソㇱ	nisos	NOUN	名詞	_	20	nsubj	_	_
+18	ネ	ne	AUX	デアル動詞	_	17	cop	_	SpaceAfter=No
+19	ヤ	ya	SCONJ	接続助詞	_	17	mark	_	_
+20	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+21	。	.	PUNCT	記号	_	20	punct	_	_
+

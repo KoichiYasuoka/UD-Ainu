@@ -1,0 +1,4 @@
+# page = 13
+# text = シンレ
+1	シンレ	sinre	NOUN	名詞	_	0	root	_	_
+

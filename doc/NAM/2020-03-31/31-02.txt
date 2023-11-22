@@ -1,0 +1,18 @@
+# text = チェㇷ゚ エネ ユㇰ エネ チコイキ ワ キモルㇱペ チカㇻ ワ イペアㇱ.
+1	チェㇷ゚	cep	NOUN	名詞	_	6	obj	_	_
+2	エネ	hene	ADP	副助詞	_	1	case	_	_
+3	ユㇰ	yuk	NOUN	名詞	_	1	conj	_	_
+4	エネ	hene	ADP	副助詞	_	3	case	_	_
+5	チ	ci=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	コイキ	koyki	VERB	他動詞	_	11	advcl	_	_
+7	ワ	wa	SCONJ	接続助詞	_	6	mark	_	_
+8-9	キモルㇱペ	_	_	_	_	_	_	_	_
+8	キㇺ	kim	NOUN	位置名詞	_	9	nmod	_	_
+9	オルㇱペ	oruspe	NOUN	名詞	_	11	obj	_	_
+10	チ	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	カㇻ	kar	VERB	他動詞	_	13	advcl	_	_
+12	ワ	wa	SCONJ	接続助詞	_	11	mark	_	_
+13	イペ	ipe	VERB	自動詞	_	0	root	_	SpaceAfter=No
+14	アㇱ	=as	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	13	punct	_	_
+

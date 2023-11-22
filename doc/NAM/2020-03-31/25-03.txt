@@ -1,0 +1,22 @@
+# text = カムイノミ オッタ アエイワンケㇷ゚ オッタ カ ウリチ プリ ニヴフ プリ トゥラ ウネㇷ゚コン アンペ アヌカㇻ.
+1	カムイノミ	kamuynomi	VERB	自動詞	_	2	amod	_	_
+2	オッ	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	ア	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	エイワンケ	eywanke	VERB	他動詞	_	6	acl	_	SpaceAfter=No
+6	ㇷ゚	-p	PART	接尾辞	_	7	nmod	_	_
+7	オッ	or	NOUN	位置名詞	_	19	obl	_	SpaceAfter=No
+8	タ	ta	ADP	格助詞	_	7	case	_	_
+9	カ	ka	ADP	副助詞	_	7	case	_	_
+10	ウリチ	Ulch	PROPN	固有名詞	_	11	nmod	_	_
+11	プリ	puri	NOUN	名詞	_	19	obl	_	_
+12	ニヴフ	Nivkh	PROPN	固有名詞	_	13	nmod	_	_
+13	プリ	puri	NOUN	名詞	_	11	conj	_	_
+14	トゥラ	tura	SCONJ	後置副詞	_	13	case	_	_
+15	ウネㇷ゚コン	unepkon	ADV	副詞	_	16	advmod	_	_
+16	アン	an	VERB	自動詞	_	17	acl	_	SpaceAfter=No
+17	ペ	pe	NOUN	形式名詞	_	19	obj	_	_
+18	ア	a=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	ヌカㇻ	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	19	punct	_	_
+

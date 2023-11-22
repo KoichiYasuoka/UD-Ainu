@@ -1,0 +1,21 @@
+# text = オロワノ マタ ハンケ コㇿ カㇺ エネ チェㇷ゚ エネ チサッケ ワ ウパルㇱペ チカㇻ ワ リヤアㇱ.
+1	オロワノ	orowano	SCONJ	接続詞	_	3	advmod	_	_
+2	マタ	mata	NOUN	名詞	_	3	nsubj	_	_
+3	ハンケ	hanke	VERB	自動詞	_	17	advcl	_	_
+4	コㇿ	kor	SCONJ	接続助詞	_	3	mark	_	_
+5	カㇺ	kam	NOUN	名詞	_	10	obj	_	_
+6	エネ	ene	SCONJ	後置副詞	_	5	case	_	_
+7	チェㇷ゚	cep	NOUN	名詞	_	5	conj	_	_
+8	エネ	ene	SCONJ	後置副詞	_	7	case	_	_
+9	チ	ci=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	サッケ	satke	VERB	他動詞	_	17	advcl	_	_
+11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	ウパルㇱ	uparus	VERB	自動詞	_	13	amod	_	SpaceAfter=No
+13	ペ	pe	NOUN	形式名詞	_	15	obj	_	_
+14	チ	ci=	PART	人称接辞	_	15	nsubj	_	SpaceAfter=No
+15	カㇻ	kar	VERB	他動詞	_	17	advcl	_	_
+16	ワ	wa	SCONJ	接続助詞	_	15	mark	_	_
+17	リヤ	riya	VERB	自動詞	_	0	root	_	SpaceAfter=No
+18	アㇱ	=as	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+19	.	.	PUNCT	記号	_	17	punct	_	_
+

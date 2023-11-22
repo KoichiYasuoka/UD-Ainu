@@ -1,0 +1,5 @@
+# page = 27
+# text = インカㇻ ウシ
+1	インカㇻ	inkar	VERB	自動詞	_	2	amod	_	_
+2	ウシ	usi	NOUN	形式名詞	_	0	root	_	_
+

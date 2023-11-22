@@ -1,0 +1,33 @@
+# text = イヨッタ イヨㇱノ ポロトコタン アオシレパレ カトゥ イランマカカ ピㇼカ ノカハ ネ アウㇰ ワ アカㇻペ 「ポロトコタン最後の一日」 セコㇿ アン イノカ エチヌカレ。
+1	イヨッタ	iyotta	ADV	副詞	_	2	advmod	_	_
+2	イヨㇱノ	iyosno	ADV	副詞	_	30	advmod	_	_
+3	ポロト	Poroto	PROPN	固有名詞	_	4	nmod	_	SpaceAfter=No
+4	コタン	kotan	NOUN	名詞	_	6	obj	_	_
+5	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	オシレパレ	osirepa-re	VERB	他動詞	_	7	acl	_	_
+7	カトゥ	katu	NOUN	形式名詞	_	10	nsubj	_	_
+8	イランマカカ	irammakaka	ADV	副詞	_	9	advmod	_	_
+9	ピㇼカ	pirka	VERB	自動詞	_	10	acl	_	_
+10	ノカハ	nokaha	NOUN	名詞	_	13	obj	_	_
+11	ネ	ne	AUX	デアル動詞	_	10	cop	_	_
+12	ア	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	ウㇰ	uk	VERB	他動詞	_	16	advcl	_	_
+14	ワ	wa	SCONJ	接続助詞	_	13	mark	_	_
+15	ア	a=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+16	カㇻ	kar	VERB	他動詞	_	17	acl	_	SpaceAfter=No
+17	ペ	pe	NOUN	形式名詞	_	27	obl	_	_
+18	「	"	PUNCT	記号	_	24	punct	_	SpaceAfter=No
+19	ポロト	Poroto	PROPN	固有名詞	_	20	nmod	_	SpaceAfter=No
+20	コタン	kotan	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
+21	最後	最後	NOUN	名詞-普通名詞-一般	_	24	nmod	_	SpaceAfter=No
+22	の	の	ADP	助詞-格助詞	_	21	case	_	SpaceAfter=No
+23	一	一	NUM	名詞-数詞	_	24	nummod	_	SpaceAfter=No
+24	日	日	NOUN	名詞-普通名詞-助数詞可能	_	17	appos	_	SpaceAfter=No
+25	」	"	PUNCT	記号	_	24	punct	_	_
+26	セコㇿ	sekor	ADP	副助詞	_	17	case	_	_
+27	アン	an	VERB	自動詞	_	28	acl	_	_
+28	イノカ	inoka	NOUN	名詞	_	30	obj	_	_
+29	エチ	eci=	PART	人称接辞	_	30	nsubj	_	SpaceAfter=No
+30	ヌカレ	nukare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+31	。	.	PUNCT	記号	_	30	punct	_	_
+

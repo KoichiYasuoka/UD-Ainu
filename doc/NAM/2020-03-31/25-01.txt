@@ -1,0 +1,16 @@
+# page = 25
+# text = アコㇿ プリ ネワ イピㇱカン ウン ウオヤアン ウタㇻ プリ アウパㇰテ
+1	ア	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	コㇿ	kor	VERB	他動詞	_	3	acl	_	_
+3	プリ	puri	NOUN	名詞	_	13	advcl	_	_
+4	ネ	ne	AUX	デアル動詞	_	3	cop	_	SpaceAfter=No
+5	ワ	wa	SCONJ	接続助詞	_	3	mark	_	_
+6	イ	i=	PART	人称接辞	_	7	det	_	SpaceAfter=No
+7	ピㇱカン	piskan	NOUN	位置名詞	_	13	obl	_	_
+8	ウン	un	ADP	格助詞	_	7	case	_	_
+9	ウオヤアン	uwoya-an	DET	連体詞	_	10	det	_	_
+10	ウタㇻ	utar	NOUN	名詞	_	11	nmod	_	_
+11	プリ	puri	NOUN	名詞	_	13	obj	_	_
+12	ア	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	ウパㇰテ	upakte	VERB	他動詞	_	0	root	_	_
+

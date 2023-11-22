@@ -1,0 +1,5 @@
+# page = 33
+# text = チセ オルㇱペ
+1	チセ	cise	NOUN	名詞	_	2	nmod	_	_
+2	オルㇱペ	oruspe	NOUN	名詞	_	0	root	_	_
+

@@ -1,0 +1,11 @@
+# text = “ウポポイ” アナㇰネ ウアイヌコㇿ コタン ポンレ ネ。
+1	“	"	PUNCT	記号	_	2	punct	_	SpaceAfter=No
+2	ウポポイ	Upopoy	PROPN	固有名詞	_	7	nsubj	_	SpaceAfter=No
+3	”	"	PUNCT	記号	_	2	punct	_	_
+4	アナㇰネ	anakne	ADP	副助詞	_	2	case	_	_
+5	ウアイヌコㇿ	uwaynukor	VERB	他動詞	_	6	amod	_	_
+6	コタン	kotan	NOUN	名詞	_	7	nmod	_	_
+7	ポンレ	ponre	NOUN	名詞	_	0	root	_	_
+8	ネ	ne	AUX	デアル動詞	_	7	cop	_	SpaceAfter=No
+9	。	.	PUNCT	記号	_	7	punct	_	_
+

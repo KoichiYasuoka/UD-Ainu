@@ -1,0 +1,19 @@
+# text = イピㇱカン ウン ウオヤアン ウタㇻ ウタㇱパ ノ パヨカアン アヒンネ タネアン アイヌプリ アレス.
+1	イ	i=	PART	人称接辞	_	2	det	_	SpaceAfter=No
+2	ピㇱカン	piskan	NOUN	位置名詞	_	8	obl	_	_
+3	ウン	un	ADP	格助詞	_	2	case	_	_
+4	ウオヤアン	uwoya-an	DET	連体詞	_	5	det	_	_
+5	ウタㇻ	utar	NOUN	名詞	_	8	obj	_	_
+6	ウタㇱパ	utaspa	ADV	副詞	_	8	advmod	_	_
+7	ノ	no	SCONJ	接続助詞	_	6	case	_	_
+8	パヨカ	payoka	VERB	自動詞	_	16	advcl	_	SpaceAfter=No
+9	アン	=an	PART	人称接辞	_	8	nsubj	_	_
+10	アヒンネ	ahinne	SCONJ	後置副詞	_	8	mark	_	_
+11	タネ	tane	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+12	アン	an	VERB	自動詞	_	14	acl	_	_
+13	アイヌ	aynu	NOUN	名詞	_	14	nmod	_	SpaceAfter=No
+14	プリ	puri	NOUN	名詞	_	16	obj	_	_
+15	ア	a=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+16	レス	resu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+

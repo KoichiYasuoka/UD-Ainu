@@ -1,0 +1,5 @@
+# page = 23
+# text = ラマッ オルㇲペ
+1	ラマッ	ramat	NOUN	名詞	_	2	nmod	_	_
+2	オルㇲペ	oruspe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+

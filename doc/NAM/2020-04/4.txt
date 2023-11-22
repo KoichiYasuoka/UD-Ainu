@@ -1,0 +1,8 @@
+# text = アイヌ アリ アイェ ㇷ゚ アナㇰネ
+1	アイヌ	aynu	NOUN	名詞	_	4	obl	_	_
+2	アリ	ari	SCONJ	接続助詞	_	1	case	_	_
+3	ア	a=	PART	人称接辞	_	4	nsubj	_	SpaceAfter=No
+4	イェ	ye	VERB	他動詞	_	5	acl	_	_
+5	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
+6	アナㇰネ	anakne	ADP	副助詞	_	5	case	_	_
+

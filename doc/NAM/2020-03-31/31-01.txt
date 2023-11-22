@@ -1,0 +1,4 @@
+# page = 31
+# text = ヤイパロイキ
+1	ヤイパロイキ	yayparoiki	VERB	自動詞	_	0	root	_	_
+

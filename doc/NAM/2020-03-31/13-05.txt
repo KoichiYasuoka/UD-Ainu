@@ -1,0 +1,33 @@
+# text = アイヌイタㇰ イェ ウタㇻ ネア ウシ オッ タ オカ ルウェ ヘネ, オロ タ テエタ マㇰ オカ ヤ, タネ ネ ヤッカ アイヌイタㇰ シンレ アニ アエラマン ルウェ ネ.
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	イタㇰ	itak	NOUN	名詞	_	3	obj	_	_
+3	イェ	ye	VERB	他動詞	_	4	acl	_	_
+4	ウタㇻ	utar	NOUN	名詞	_	9	nsubj	_	_
+5	ネア	nea	DET	連体詞	_	6	det	_	_
+6	ウシ	usi	NOUN	形式名詞	_	7	nmod	_	_
+7	オッ	or	NOUN	位置名詞	_	9	obl	_	_
+8	タ	ta	ADP	格助詞	_	7	case	_	_
+9	オカ	oka	VERB	自動詞	_	10	acl	_	_
+10	ルウェ	ruwe	NOUN	形式名詞	_	29	advcl	_	_
+11	ヘネ	hene	ADP	副助詞	_	10	case	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	10	punct	_	_
+13	オロ	oro	NOUN	位置名詞	_	17	obl	_	_
+14	タ	ta	ADP	格助詞	_	13	case	_	_
+15	テエタ	teeta	ADV	副詞	_	17	advmod	_	_
+16	マㇰ	mak	ADV	副詞	_	17	advmod	_	_
+17	オカ	oka	VERB	自動詞	_	28	advcl	_	_
+18	ヤ	ya	SCONJ	接続助詞	_	17	mark	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	17	punct	_	_
+20	タネ	tane	ADV	副詞	_	28	advcl	_	_
+21	ネ	ne	AUX	デアル動詞	_	20	cop	_	_
+22	ヤッカ	yakka	SCONJ	接続助詞	_	20	mark	_	_
+23	アイヌ	aynu	NOUN	名詞	_	24	nmod	_	SpaceAfter=No
+24	イタㇰ	itak	NOUN	名詞	_	25	nmod	_	_
+25	シンレ	sinre	NOUN	名詞	_	28	obl	_	_
+26	アニ	ani	SCONJ	後置副詞	_	25	case	_	_
+27	ア	a=	PART	人称接辞	_	28	nsubj	_	SpaceAfter=No
+28	エラマン	eraman	VERB	他動詞	_	29	acl	_	_
+29	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+30	ネ	ne	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	29	punct	_	_
+

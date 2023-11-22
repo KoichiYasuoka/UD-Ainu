@@ -1,0 +1,12 @@
+# text = アノカイ アナㇰネ カムイ トゥラ オカヤン キ ナ.
+1	アノカイ	anokay	PRON	代名詞	_	5	nsubj	_	_
+2	アナㇰネ	anakne	ADP	副助詞	_	1	case	_	_
+3	カムイ	kamuy	NOUN	名詞	_	5	obl	_	_
+4	トゥラ	tura	SCONJ	後置副詞	_	3	case	_	_
+5-6	オカヤン	_	_	_	_	_	_	_	_
+5	オカイ	okay	VERB	自動詞	_	0	root	_	_
+6	アン	=an	PART	終助詞	_	5	expl	_	_
+7	キ	ki	AUX	助動詞	_	5	aux	_	_
+8	ナ	na	PART	終助詞	_	5	discourse	_	SpaceAfter=No
+9	.	.	PUNCT	記号	_	5	punct	_	_
+

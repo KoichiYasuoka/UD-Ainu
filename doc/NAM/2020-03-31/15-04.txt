@@ -1,0 +1,22 @@
+# text = オラ カムイ マㇰ チェオリパㇰ ヤ, エネ アイヌ アン ヒ チェラマン クス オルㇱペ チイェ ルウェ ネ.
+1	オラ	ora	SCONJ	接続詞	_	5	advmod	_	_
+2	カムイ	kamuy	NOUN	名詞	_	3	nmod	_	_
+3	マㇰ	mak	NOUN	位置名詞	_	5	obj	_	_
+4	チ	c=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	ェオリパㇰ	eoripak	VERB	他動詞	_	17	advcl	_	_
+6	ヤ	ya	SCONJ	接続助詞	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	記号	_	5	punct	_	_
+8	エネ	ene	ADV	副詞	_	10	advmod	_	_
+9	アイヌ	aynu	NOUN	名詞	_	10	nsubj	_	_
+10	アン	an	VERB	自動詞	_	11	acl	_	_
+11	ヒ	hi	NOUN	形式名詞	_	13	obj	_	_
+12	チ	c=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	ェラマン	eraman	VERB	他動詞	_	17	advcl	_	_
+14	クス	kusu	SCONJ	接続助詞	_	13	mark	_	_
+15	オルㇱペ	oruspe	NOUN	名詞	_	17	obj	_	_
+16	チ	ci=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	イェ	ye	VERB	他動詞	_	18	acl	_	_
+18	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+19	ネ	ne	AUX	デアル動詞	_	18	cop	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	18	punct	_	_
+

@@ -1,0 +1,33 @@
+# text = シフㇱコトイオロワノ アコㇽロッキア チセ オッタ ケㇱト ケㇱパ ピㇼカ ウエネウサㇽ アンキワ スクㇷ゚ ケラヌ キ パㇰノ スクㇷ゚トゥラㇱテレ アンキクニㇷ゚ ネ ナ.
+1	シフㇱコトイ	si-huskotoy	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	オロ	oro	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+3	ワ	wa	ADP	格助詞	_	2	case	_	SpaceAfter=No
+4	ノ	no	ADP	格助詞	_	2	case	_	_
+5	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+6	コㇽ	kor	VERB	他動詞	_	8	advcl	_	SpaceAfter=No
+7	ロッ	rok	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	キ	ki	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+9	ア	a	AUX	助動詞	_	8	aux	_	_
+10	チセ	cise	NOUN	名詞	_	11	nmod	_	_
+11	オッ	or	NOUN	位置名詞	_	18	obl	_	SpaceAfter=No
+12	タ	ta	ADP	格助詞	_	11	case	_	_
+13	ケㇱト	kesto	ADV	副詞	_	16	advmod	_	_
+14	ケㇱパ	kespa	ADV	副詞	_	16	advmod	_	_
+15	ピㇼカ	pirka	VERB	自動詞	_	16	advcl	_	_
+16	ウエネウサㇽ	uwenewsar	VERB	自動詞	_	18	advcl	_	_
+17	アン	an=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+18	キ	ki	VERB	他動詞	_	22	advcl	_	SpaceAfter=No
+19	ワ	wa	SCONJ	接続助詞	_	18	mark	_	_
+20	スクㇷ゚	sukup	VERB	自動詞	_	22	advcl	_	_
+21	ケラヌ	keranu	VERB	自動詞	_	22	advcl	_	_
+22	キ	ki	VERB	他動詞	_	26	advcl	_	_
+23	パㇰノ	pakno	SCONJ	後置副詞	_	22	mark	_	_
+24	スクㇷ゚トゥラㇱテレ	sukupturastere	VERB	自動詞	_	26	ccomp	_	_
+25	アン	an=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	キ	ki	VERB	他動詞	_	28	acl	_	SpaceAfter=No
+27	クニ	kuni	AUX	助動詞	_	26	aux	_	SpaceAfter=No
+28	ㇷ゚	-p	PART	接尾辞	_	0	root	_	_
+29	ネ	ne	AUX	デアル動詞	_	28	cop	_	_
+30	ナ	na	PART	終助詞	_	28	discourse	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	28	punct	_	_
+

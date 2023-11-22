@@ -1,0 +1,23 @@
+# text = イミネヤッカ タマサイカ ニンカリカ エカシ フチ コㇿワ オカイペ アネヤㇺノ アイシッカㇱマ.
+1	イミ	imi	NOUN	名詞	_	10	advcl	_	SpaceAfter=No
+2	ネ	ne	AUX	デアル動詞	_	1	cop	_	SpaceAfter=No
+3	ヤッカ	yakka	SCONJ	接続助詞	_	1	mark	_	_
+4	タマサイ	tamasay	NOUN	名詞	_	10	obj	_	SpaceAfter=No
+5	カ	ka	ADP	副助詞	_	4	case	_	_
+6	ニンカリ	ninkari	NOUN	名詞	_	4	conj	_	SpaceAfter=No
+7	カ	ka	ADP	副助詞	_	6	case	_	_
+8	エカシ	ekasi	NOUN	名詞	_	10	nsubj	_	_
+9	フチ	huci	NOUN	名詞	_	8	conj	_	_
+10	コㇿ	kor	VERB	他動詞	_	12	advcl	_	SpaceAfter=No
+11	ワ	wa	SCONJ	接続助詞	_	10	mark	_	_
+12	オカイ	okay	VERB	自動詞	_	13	acl	_	SpaceAfter=No
+13	ペ	pe	NOUN	形式名詞	_	15	obj	_	_
+14-15	アネヤㇺ	_	_	_	_	_	_	_	SpaceAfter=No
+14	アン	an=	PART	人称接辞	_	15	nsubj	_	_
+15	エヤㇺ	eyam	VERB	他動詞	_	19	advcl	_	_
+16	ノ	-no	PART	接尾辞	_	15	mark	_	_
+17	ア	a=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+18	イ	i=	PART	人称接辞	_	19	obj	_	SpaceAfter=No
+19	シッカㇱマ	sikkasma	VERB	自動詞	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	記号	_	19	punct	_	_
+

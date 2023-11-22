@@ -1,0 +1,18 @@
+# text = アノカイ イオイカラリ チュㇷ゚ホクㇱ タ シサㇺ チュㇷ゚ハㇻキ タ チュㇷ゚ホクㇱチュㇷ゚ハㇻキ アジア ウン ウオヤアン ウタㇻ オカイ.
+1	アノカイ	anokay	PRON	代名詞	_	15	obl	_	_
+2	イ	i=	PART	人称接辞	_	1	appos	_	SpaceAfter=No
+3	オイカラリ	oikarari	SCONJ	後置副詞	_	1	case	_	_
+4	チュㇷ゚ホクㇱ	cup-hokus	NOUN	名詞	_	6	obl	_	_
+5	タ	ta	ADP	格助詞	_	4	mark	_	_
+6	シサㇺ	sisam	NOUN	名詞	_	15	obl	_	_
+7	チュㇷ゚ハㇻキ	cup-harki	NOUN	名詞	_	11	obl	_	_
+8	タ	ta	ADP	格助詞	_	7	case	_	_
+9	チュㇷ゚ホクㇱ	cup-hokus	NOUN	名詞	_	10	compound	_	SpaceAfter=No
+10	チュㇷ゚ハㇻキ	cup-harki	NOUN	名詞	_	11	nmod	_	_
+11	アジア	Asia	PROPN	固有名詞	_	6	conj	_	_
+12	ウン	un	ADP	格助詞	_	11	case	_	_
+13	ウオヤアン	uwoya-an	DET	連体詞	_	14	det	_	_
+14	ウタㇻ	utar	NOUN	名詞	_	15	nsubj	_	_
+15	オカイ	okay	VERB	自動詞	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	記号	_	15	punct	_	_
+

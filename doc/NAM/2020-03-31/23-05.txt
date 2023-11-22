@@ -1,0 +1,32 @@
+# text = シノオイナネ シロㇽ ネ ヤッカ ラマッウン キ ノ オカイ ペ ネ ア クㇲ イララ ケウトゥㇺ アリ エイアッチャウシ アンキ ㇷ゚ カ ソモ ネ.
+1	シノ	sino	DET	連体詞	_	2	det	_	SpaceAfter=No
+2	オイナ	oyna	NOUN	名詞	_	10	advcl	_	SpaceAfter=No
+3	ネ	ne	AUX	デアル動詞	_	2	cop	_	_
+4-5	シロㇽ	_	_	_	_	_	_	_	_
+4	シㇼ	sir	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+5	オㇽ	or	NOUN	位置名詞	_	2	conj	_	_
+6	ネ	ne	AUX	デアル動詞	_	5	cop	_	_
+7	ヤッカ	yakka	SCONJ	接続助詞	_	5	mark	_	_
+8	ラマッ	ramat	NOUN	名詞	_	10	obl	_	SpaceAfter=No
+9	ウン	un	SCONJ	後置副詞	_	8	case	_	_
+10	キ	ki	VERB	他動詞	_	13	advcl	_	_
+11	ノ	no	SCONJ	接続助詞	_	10	mark	_	_
+12	オカイ	okay	VERB	自動詞	_	13	acl	_	_
+13	ペ	pe	NOUN	形式名詞	_	27	advcl	_	_
+14	ネ	ne	AUX	デアル動詞	_	13	cop	_	_
+15	ア	a	AUX	助動詞	_	13	aux	_	_
+16	クㇲ	kus	SCONJ	接続助詞	_	13	mark	_	_
+17	イララ	irara	VERB	自動詞	_	18	amod	_	_
+18	ケウトゥㇺ	kewtum	NOUN	名詞	_	24	obl	_	_
+19	アリ	ari	SCONJ	接続助詞	_	18	case	_	_
+20	エイ	e=	PART	人称接辞	_	21	nsubj	_	SpaceAfter=No
+21	アッチャ	atca	VERB	他動詞	_	22	acl	_	SpaceAfter=No
+22	ウシ	usi	NOUN	形式名詞	_	23	nsubj	_	_
+23	アン	an	VERB	自動詞	_	24	advcl	_	SpaceAfter=No
+24	キ	ki	VERB	他動詞	_	25	acl	_	_
+25	ㇷ゚	-p	PART	接尾辞	_	27	nsubj	_	_
+26	カ	ka	ADP	副助詞	_	25	case	_	_
+27	ソモ	somo	ADV	副詞	_	0	root	_	_
+28	ネ	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
+29	.	.	PUNCT	記号	_	27	punct	_	_
+

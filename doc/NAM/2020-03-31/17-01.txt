@@ -1,0 +1,6 @@
+# page = 17
+# text = ヤイイタㇰホシピレ
+1	ヤイ	yay-	PART	接頭辞	_	3	iobj	_	SpaceAfter=No
+2	イタㇰ	itak	NOUN	名詞	_	3	obj	_	SpaceAfter=No
+3	ホシピレ	kohosipire	VERB	他動詞	_	0	root	_	_
+

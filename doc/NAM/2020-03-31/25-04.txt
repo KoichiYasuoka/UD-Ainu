@@ -1,0 +1,13 @@
+# text = オロワ シサㇺプリ トゥラ ソンノ ウホㇰ プリ カ アヌカㇻ.
+1	オロワ	orowa	SCONJ	接続詞	_	10	advmod	_	_
+2	シサㇺ	sisam	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
+3	プリ	puri	NOUN	名詞	_	10	obl	_	_
+4	トゥラ	tura	SCONJ	後置副詞	_	3	case	_	_
+5	ソンノ	sonno	ADV	副詞	_	6	advmod	_	_
+6	ウホㇰ	u-hok	VERB	自動詞	_	7	acl	_	_
+7	プリ	puri	NOUN	名詞	_	10	obj	_	_
+8	カ	ka	ADP	副助詞	_	7	case	_	_
+9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ヌカㇻ	nukar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	10	punct	_	_
+

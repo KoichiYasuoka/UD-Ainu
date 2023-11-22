@@ -1,0 +1,29 @@
+# text = ネイ オカケタ カント リ モシロㇽ オッタ ホオンネノ オモンラッチノ シニ キ ヤクン カムイ コㇽ サンニヨ アリ カンナ ルイノ ヤイカシピ エイアㇱカイ キ ナンコㇽ ナ.
+1	ネイ	néa	DET	連体詞	_	2	det	_	_
+2	オカケ	okake	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	カント	kanto	NOUN	名詞	_	5	obl	_	_
+5	リ	ri	VERB	自動詞	_	6	acl	_	_
+6-7	モシロㇽ	_	_	_	_	_	_	_	_
+6	モシㇼ	mosir	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	オㇽ	or	NOUN	位置名詞	_	8	nmod	_	_
+8	オッ	or	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+9	タ	ta	ADP	格助詞	_	8	case	_	_
+10	ホオンネノ	hoonneno	ADV	副詞	_	12	advmod	_	SpaceAfter=No
+11	オモンラッチノ	omonratcino	ADV	副詞	_	12	advmod	_	_
+12	シニ	sini	VERB	自動詞	_	13	advcl	_	_
+13	キ	ki	VERB	他動詞	_	23	advcl	_	_
+14	ヤクン	yakun	SCONJ	接続助詞	_	13	mark	_	_
+15	カムイ	kamuy	NOUN	名詞	_	16	nsubj	_	_
+16	コㇽ	kor	VERB	他動詞	_	17	acl	_	_
+17	サンニヨ	sanniyo	NOUN	名詞	_	21	obl	_	_
+18	アリ	ari	SCONJ	接続助詞	_	17	case	_	_
+19	カンナ	kanna	ADV	副詞	_	21	advmod	_	SpaceAfter=No
+20	ルイノ	ruyno	ADV	副詞	_	21	advmod	_	_
+21	ヤイカシピ	yay-ka-sipi	VERB	自動詞	_	23	advcl	_	_
+22	エイアㇱカイ	easkay	AUX	助動詞	_	21	aux	_	_
+23	キ	ki	VERB	他動詞	_	0	root	_	_
+24	ナンコㇽ	nankor	AUX	助動詞	_	23	aux	_	_
+25	ナ	na	PART	終助詞	_	23	mark	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	23	punct	_	SpaceAfter=No
+

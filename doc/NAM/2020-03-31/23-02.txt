@@ -1,0 +1,21 @@
+# text = カムイ ラマッ アリ アイイェ ㇷ゚ アナㇰネ シオホㇿマニウ パㇰノ ラケライ サㇰノ オカイ ペ ネ ルウェ タパン ナ.
+1	カムイ	kamuy	NOUN	名詞	_	2	nmod	_	_
+2	ラマッ	ramat	NOUN	名詞	_	6	obl	_	_
+3	アリ	ari	SCONJ	接続助詞	_	2	case	_	_
+4	ア	a=	PART	人称接辞	_	6	nsubj	_	SpaceAfter=No
+5	イ	i=	PART	人称接辞	_	6	obj	_	SpaceAfter=No
+6	イェ	ye	VERB	他動詞	_	7	acl	_	_
+7	ㇷ゚	-p	PART	接尾辞	_	16	nsubj	_	_
+8	アナㇰネ	anakne	ADP	副助詞	_	7	case	_	_
+9	シオホㇿマニウ	siohormaniw	NOUN	名詞	_	13	obl	_	_
+10	パㇰノ	pakno	SCONJ	後置副詞	_	9	case	_	_
+11	ラケライ	rakeray	NOUN	名詞	_	13	nsubj	_	_
+12	サㇰノ	sakno	ADV	副詞	_	13	advmod	_	_
+13	オカイ	okay	VERB	自動詞	_	14	acl	_	_
+14	ペ	pe	NOUN	形式名詞	_	16	acl	_	_
+15	ネ	ne	AUX	デアル動詞	_	14	cop	_	_
+16	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+17	タパン	tapan	AUX	デアル動詞	_	16	cop	_	_
+18	ナ	na	PART	終助詞	_	16	discourse	_	SpaceAfter=No
+19	.	.	PUNCT	記号	_	16	punct	_	_
+

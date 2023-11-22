@@ -1,0 +1,37 @@
+# text = シンリッ オッタ アエウコイソイタㇰ パテㇰ キ アワ タネ アシㇼ アヌイェㇷ゚(ト゚, ㇰ, ㇷ゚, ㇵ, ウサ アエイワンケ) アニ ネㇷ゚ ネ ヤッカ ピㇼカノ アヌイェ エアㇱカイ.
+1	シンリッ	sinrit	NOUN	名詞	_	2	nmod	_	_
+2	オッ	or	NOUN	位置名詞	_	5	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	ア	a=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	エウコイソイタㇰ	eukoisoytak	VERB	他動詞	_	7	ccomp	_	_
+6	パテㇰ	patek	SCONJ	後置副詞	_	5	mark	_	_
+7	キ	ki	VERB	他動詞	_	33	advcl	_	_
+8	アワ	awa	CCONJ	接続詞	_	7	cc	_	_
+9	タネ	tane	ADV	副詞	_	10	advmod	_	_
+10	アシㇼ	asir	VERB	自動詞	_	13	amod	_	_
+11	ア	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	ヌイェ	nuye	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+13	ㇷ゚	-p	PART	接尾辞	_	28	nsubj	_	SpaceAfter=No
+14	(	(	PUNCT	記号	_	25	punct	_	SpaceAfter=No
+15	ト゚	tu	SYM	_	_	25	obj	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	15	punct	_	_
+17	ㇰ	-k	SYM	_	_	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	ㇷ゚	-p	SYM	_	_	15	conj	_	SpaceAfter=No
+20	,	,	PUNCT	記号	_	19	punct	_	_
+21	ㇵ	-h	SYM	_	_	15	conj	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	ウサ	usa	ADP	副助詞	_	21	case	_	_
+24	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	エイワンケ	eywanke	VERB	他動詞	_	13	acl	_	SpaceAfter=No
+26	)	)	PUNCT	記号	_	25	punct	_	_
+27	アニ	ani	SCONJ	後置副詞	_	13	case	_	_
+28	ネㇷ゚	nep	NOUN	名詞	_	33	advcl	_	_
+29	ネ	ne	AUX	デアル動詞	_	28	cop	_	_
+30	ヤッカ	yakka	SCONJ	接続助詞	_	28	mark	_	_
+31	ピㇼカノ	pirkano	ADV	副詞	_	33	advmod	_	_
+32	ア	a=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
+33	ヌイェ	nuye	VERB	他動詞	_	0	root	_	_
+34	エアㇱカイ	easkay	AUX	助動詞	_	33	aux	_	SpaceAfter=No
+35	.	.	PUNCT	記号	_	33	punct	_	_
+

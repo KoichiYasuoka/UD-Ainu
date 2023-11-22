@@ -1,0 +1,14 @@
+# text = ヤウンモシッ タ シンレ ポロセㇾケ アナㇰ チシンリチ ウタン レコ ルウェ ネ.
+1	ヤウンモシッ	Yaunmosir	PROPN	固有名詞	_	9	obl	_	_
+2	タ	ta	ADP	格助詞	_	1	case	_	_
+3	シンレ	sinre	NOUN	名詞	_	4	nmod	_	_
+4	ポロセㇾケ	porosereke	NOUN	名詞	_	9	obj	_	_
+5	アナㇰ	anak	ADP	副助詞	_	4	case	_	_
+6	チ	ci=	PART	人称接辞	_	7	det	_	SpaceAfter=No
+7	シンリチ	sinrici	NOUN	名詞	_	8	nmod	_	_
+8	ウタン	utar	NOUN	名詞	_	9	nsubj	_	_
+9	レコ	réko	VERB	他動詞	_	10	acl	_	_
+10	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+11	ネ	ne	AUX	デアル動詞	_	10	cop	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	10	punct	_	_
+

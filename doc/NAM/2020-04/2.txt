@@ -1,0 +1,33 @@
+# text = タパン ケンル アナㇰ アイヌ ウタㇻ アアイヌコㇿ クニ アパセレ クニ アイヌ ウパㇱクマ アイヌ プリ インネウタㇻ アエコウパㇱクマ コㇿ サスイシㇼ パㇰノ アピラサ クス アカㇻ ルウェ ネ.
+1	タパン	tapan	DET	連体詞	_	2	det	_	_
+2	ケンル	kenru	NOUN	名詞	_	28	obj	_	_
+3	アナㇰ	anak	ADP	副助詞	_	2	case	_	_
+4	アイヌ	aynu	NOUN	名詞	_	5	compound	_	_
+5	ウタㇻ	utar	NOUN	名詞	_	7	obj	_	_
+6	ア	a=	NOUN	名詞	_	7	nsubj	_	SpaceAfter=No
+7	アイヌコㇿ	aynukor	VERB	他動詞	_	10	advcl	_	_
+8	クニ	kuni	SCONJ	接続助詞	_	7	mark	_	_
+9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	パセレ	pasere	VERB	他動詞	_	20	advcl	_	_
+11	クニ	kuni	SCONJ	接続助詞	_	10	mark	_	_
+12	アイヌ	aynu	NOUN	名詞	_	13	nmod	_	_
+13	ウパㇱクマ	upaskuma	NOUN	名詞	_	20	obj	_	_
+14	アイヌ	aynu	NOUN	名詞	_	15	nmod	_	_
+15	プリ	puri	NOUN	名詞	_	13	conj	_	_
+16	インネ	inne	VERB	自動詞	_	17	amod	_	SpaceAfter=No
+17	ウタㇻ	utar	NOUN	名詞	_	20	iobj	_	_
+18	ア	a=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+19	エ	e=	PART	人称接辞	_	20	expl	_	SpaceAfter=No
+20	コウパㇱクマ	ko-upaskuma	VERB	他動詞	_	28	advcl	_	_
+21	コㇿ	kor	SCONJ	接続助詞	_	20	mark	_	_
+22	サスイシㇼ	sasuysir	NOUN	名詞	_	25	obl	_	_
+23	パㇰノ	pakno	SCONJ	後置副詞	_	22	case	_	_
+24	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
+25	ピラサ	pirasa	VERB	他動詞	_	28	advcl	_	_
+26	クス	kusu	SCONJ	接続助詞	_	25	mark	_	_
+27	ア	a=	PART	人称接辞	_	28	nsubj	_	SpaceAfter=No
+28	カㇻ	kar	VERB	他動詞	_	29	acl	_	_
+29	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+30	ネ	ne	AUX	デアル動詞	_	29	cop	_	SpaceAfter=No
+31	.	.	PUNCT	記号	_	29	punct	_	_
+

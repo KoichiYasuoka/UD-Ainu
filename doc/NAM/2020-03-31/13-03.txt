@@ -1,0 +1,23 @@
+# text = 1800 パㇰノ ネ パ ワノ アイヌイタㇰ ハウ カ イタキペ カ アエイワンケ ワ カンジ カタカナ アニ シンレ アヌイェ.
+1	1800	1800	NUM	数詞	_	4	acl	_	_
+2	パㇰノ	pakno	SCONJ	後置副詞	_	1	case	_	_
+3	ネ	ne	AUX	デアル動詞	_	1	cop	_	_
+4	パ	pa	NOUN	名詞	_	20	obl	_	_
+5	ワノ	wano	ADP	格助詞	_	4	case	_	_
+6	アイヌ	aynu	NOUN	名詞	_	7	nmod	_	SpaceAfter=No
+7	イタㇰ	itak	NOUN	名詞	_	8	nmod	_	_
+8	ハウ	haw	NOUN	名詞	_	13	obj	_	_
+9	カ	ka	ADP	副助詞	_	8	case	_	_
+10	イタキペ	itakipe	NOUN	名詞	_	8	conj	_	_
+11	カ	ka	ADP	副助詞	_	10	case	_	_
+12	ア	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
+13	エイワンケ	eywanke	VERB	他動詞	_	20	advcl	_	_
+14	ワ	wa	SCONJ	接続助詞	_	13	mark	_	_
+15	カンジ	kanji	NOUN	名詞	_	20	obl	_	_
+16	カタカナ	katakana	NOUN	名詞	_	15	conj	_	_
+17	アニ	ani	SCONJ	後置副詞	_	15	case	_	_
+18	シンレ	sinre	NOUN	名詞	_	20	obj	_	_
+19	ア	a=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+20	ヌイェ	nuye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	記号	_	20	punct	_	_
+

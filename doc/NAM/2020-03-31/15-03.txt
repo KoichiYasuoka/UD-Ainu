@@ -1,0 +1,14 @@
+# text = エネ アン オルㇱペ ウウェカㇻパアㇱ ワ チイェ コㇿ チェキロロアン.
+1	エネ	ene	ADV	副詞	_	2	advmod	_	_
+2	アン	an	VERB	自動詞	_	3	acl	_	_
+3	オルㇱペ	oruspe	NOUN	名詞	_	8	obj	_	_
+4	ウウェカㇻパ	uwekarpa	VERB	自動詞	_	8	advcl	_	SpaceAfter=No
+5	アㇱ	=as	PART	人称接辞	_	4	nsubj	_	_
+6	ワ	wa	SCONJ	接続助詞	_	4	mark	_	_
+7	チ	ci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
+8	イェ	ye	VERB	他動詞	_	11	advcl	_	_
+9	コㇿ	kor	SCONJ	接続助詞	_	8	mark	_	_
+10	チ	c=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	ェキロロアン	ekiroroan	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

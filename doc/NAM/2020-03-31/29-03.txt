@@ -1,0 +1,16 @@
+# text = エカシ セトゥル ペカ モレウ モイモイケワ クㇲ カムイコヤイライケイ アネラムアン.
+1	エカシ	ekasi	NOUN	名詞	_	2	nmod	_	_
+2	セトゥル	seturu	NOUN	名詞	_	5	obl	_	_
+3	ペカ	peka	ADP	格助詞	_	2	case	_	_
+4	モレウ	morew	NOUN	名詞	_	5	nsubj	_	_
+5	モイモイケ	moymoyke	VERB	自動詞	_	9	advcl	_	SpaceAfter=No
+6	ワ	wa	SCONJ	接続助詞	_	5	mark	_	_
+7	クㇲ	kus	SCONJ	接続詞	_	5	mark	_	_
+8	カムイ	kamuy	NOUN	名詞	_	9	obj	_	SpaceAfter=No
+9	コヤイライケ	koyayrayke	VERB	他動詞	_	10	acl	_	SpaceAfter=No
+10	イ	-i	PART	接尾辞	_	12	obj	_	_
+11-12	アネラムアン	_	_	_	_	_	_	_	SpaceAfter=No
+11	アン	an=	PART	終助詞	_	12	nsubj	_	_
+12	エラムアン	eramuan	VERB	他動詞	_	0	root	_	_
+13	.	.	PUNCT	記号	_	12	punct	_	_
+

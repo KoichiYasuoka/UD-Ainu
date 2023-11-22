@@ -1,0 +1,19 @@
+# text = カムイノミ エトコタ エカシ フチ チカㇻカㇻペ アンミレクス ポンヘカッタㇻカ アンウイテㇰ.
+1	カムイノミ	kamuynomi	VERB	自動詞	_	2	amod	_	_
+2	エトコ	etoko	NOUN	位置名詞	_	7	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	エカシ	ekasi	NOUN	名詞	_	7	obj	_	_
+5	フチ	huci	NOUN	名詞	_	4	conj	_	_
+6	チ	ci=	PART	人称接辞	_	7	nsubj	_	SpaceAfter=No
+7	カㇻカㇻ	karkar	VERB	他動詞	_	8	acl	_	SpaceAfter=No
+8	ペ	pe	NOUN	形式名詞	_	10	obj	_	_
+9	アン	an=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ミレ	míre	VERB	他動詞	_	16	advcl	_	SpaceAfter=No
+11	クス	kusu	SCONJ	接続助詞	_	10	mark	_	_
+12	ポン	pon	VERB	自動詞	_	13	amod	_	SpaceAfter=No
+13	ヘカッタㇻ	hekattar	NOUN	名詞	_	16	obj	_	SpaceAfter=No
+14	カ	ka	ADP	副助詞	_	13	case	_	_
+15	アン	an=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+16	ウイテㇰ	uytek	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	記号	_	16	punct	_	_
+

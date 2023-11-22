@@ -1,0 +1,17 @@
+# text = オルㇱペ オッタ アナㇰネ カムイ オルㇱペ ヘネ アイヌ オルㇱペ ヘネ ラメトㇰ オルㇱペ ヘネ アン.
+1	オルㇱペ	oruspe	NOUN	名詞	_	2	nmod	_	_
+2	オッ	or	NOUN	位置名詞	_	14	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	アナㇰネ	anakne	ADP	副助詞	_	2	case	_	_
+5	カムイ	kamuy	NOUN	名詞	_	6	nmod	_	_
+6	オルㇱペ	oruspe	NOUN	名詞	_	14	nsubj	_	_
+7	ヘネ	hene	ADP	副助詞	_	6	case	_	_
+8	アイヌ	aynu	NOUN	名詞	_	9	nmod	_	_
+9	オルㇱペ	oruspe	NOUN	名詞	_	6	conj	_	_
+10	ヘネ	hene	ADP	副助詞	_	9	case	_	_
+11	ラメトㇰ	rametok	NOUN	名詞	_	12	nmod	_	_
+12	オルㇱペ	oruspe	NOUN	名詞	_	6	conj	_	_
+13	ヘネ	hene	ADP	副助詞	_	12	case	_	_
+14	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	記号	_	14	punct	_	_
+

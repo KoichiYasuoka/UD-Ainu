@@ -1,0 +1,25 @@
+# text = ネコン ネ クス イノンノ ハウ オモ ヌ エヌキ キ コ カムイ オレン ニウウェンリミㇺセアン, ウチャㇱコマ ネ イヌアン.
+1	ネコン	nékon	ADV	副詞	_	9	advcl	_	_
+2	ネ	ne	AUX	デアル動詞	_	1	cop	_	_
+3	クス	kusu	SCONJ	接続助詞	_	1	mark	_	_
+4	イノンノ	inonno	ADV	副詞	_	5	amod	_	_
+5	ハウ	haw	NOUN	名詞	_	7	obj	_	_
+6	オモ	somo	ADV	副詞	_	7	advmod	_	_
+7	ヌ	nu	VERB	他動詞	_	8	acl	_	_
+8	エヌキ	e-nu-ki	NOUN	名詞	_	9	obj	_	_
+9	キ	ki	VERB	他動詞	_	16	advcl	_	_
+10	コ	ko	SCONJ	接続助詞	_	9	mark	_	_
+11	カムイ	kamuy	NOUN	名詞	_	12	nmod	_	_
+12-13	オレン	_	_	_	_	_	_	_	_
+12	オㇿ	or	NOUN	位置名詞	_	16	obl	_	_
+13	ウン	un	ADP	格助詞	_	12	case	_	_
+14	ニウウェン	niwen	VERB	自動詞	_	15	amod	_	SpaceAfter=No
+15	リミㇺセ	rimimse	NOUN	名詞	_	16	nsubj	_	SpaceAfter=No
+16	アン	an	VERB	自動詞	_	20	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	記号	_	16	punct	_	_
+18	ウチャㇱコマ	ucaskoma	NOUN	名詞	_	20	obl	_	_
+19	ネ	ne	ADP	格助詞	_	18	case	_	_
+20	イヌ	inu	VERB	自動詞	_	0	root	_	SpaceAfter=No
+21	アン	=an	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+22	.	.	PUNCT	記号	_	20	punct	_	_
+

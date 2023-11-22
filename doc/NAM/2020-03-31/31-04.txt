@@ -1,0 +1,14 @@
+# text = カムイノミ アン コㇿ トノト チシクㇷ゚カ ワ シト カ チカㇻ.
+1	カムイノミ	kamuynomi	VERB	自動詞	_	6	advcl	_	_
+2	アン	=an	PART	人称接辞	_	1	nsubj	_	_
+3	コㇿ	kor	SCONJ	接続助詞	_	1	mark	_	_
+4	トノト	tonoto	NOUN	名詞	_	6	obj	_	_
+5	チ	ci=	NOUN	名詞	_	6	nsubj	_	SpaceAfter=No
+6	シクㇷ゚カ	sikup-ka	VERB	他動詞	_	11	advcl	_	_
+7	ワ	wa	SCONJ	接続助詞	_	6	mark	_	_
+8	シト	sito	NOUN	名詞	_	11	obj	_	_
+9	カ	ka	ADP	副助詞	_	8	case	_	_
+10	チ	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	カㇻ	kar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	記号	_	11	punct	_	_
+

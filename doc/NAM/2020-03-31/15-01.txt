@@ -1,0 +1,6 @@
+# page = 15
+# text = アコㇿ オルㇱペ
+1	ア	a=	PART	人称接辞	_	2	nsubj	_	SpaceAfter=No
+2	コㇿ	kor	VERB	他動詞	_	3	acl	_	_
+3	オルㇱペ	oruspe	NOUN	名詞	_	0	root	_	SpaceAfter=No
+

@@ -1,0 +1,21 @@
+# text = カラㇷ゚ト ウサ ルトㇺ オロタ マタ ネ キ コ トイチセ アリ リヤ アンキㇷ゚ ネ ナ.
+1	カラㇷ゚ト	Karapto	NOUN	名詞	_	6	obl	_	_
+2	ウサ	usa	ADP	副助詞	_	1	case	_	_
+3	ルトㇺ	Rutom	PROPN	固有名詞	_	4	nmod	_	_
+4	オロ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	タ	ta	ADP	格助詞	_	4	case	_	_
+6	マタ	mata	NOUN	名詞	_	14	advcl	_	_
+7	ネ	ne	AUX	デアル動詞	_	6	cop	_	_
+8	キ	ki	AUX	助動詞	_	6	aux	_	_
+9	コ	ko	SCONJ	接続助詞	_	6	mark	_	_
+10	トイ	toy	NOUN	名詞	_	11	nmod	_	SpaceAfter=No
+11	チセ	cise	NOUN	名詞	_	14	obl	_	_
+12	アリ	ari	SCONJ	接続助詞	_	11	case	_	_
+13	リヤ	riya	ADV	副詞	_	14	advmod	_	_
+14	アン	an	VERB	自動詞	_	16	acl	_	SpaceAfter=No
+15	キ	ki	AUX	助動詞	_	14	aux	_	SpaceAfter=No
+16	ㇷ゚	p	NOUN	形式名詞	_	0	root	_	_
+17	ネ	ne	AUX	デアル動詞	_	16	cop	_	_
+18	ナ	na	PART	終助詞	_	16	discourse	_	SpaceAfter=No
+19	.	.	PUNCT	記号	_	16	punct	_	_
+

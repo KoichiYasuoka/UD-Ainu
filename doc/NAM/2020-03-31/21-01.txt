@@ -1,0 +1,8 @@
+# page = 21
+# text = カムイ トゥラ オカヤン
+1	カムイ	kamuy	NOUN	名詞	_	3	obl	_	_
+2	トゥラ	tura	SCONJ	後置副詞	_	1	case	_	_
+3-4	オカヤン	_	_	_	_	_	_	_	_
+3	オカイ	okay	VERB	自動詞	_	0	root	_	_
+4	アン	=an	PART	人称接辞	_	3	nsubj	_	_
+

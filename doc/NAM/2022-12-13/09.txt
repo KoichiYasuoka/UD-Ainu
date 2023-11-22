@@ -1,0 +1,32 @@
+# text = ホㇱキノ 1965パ ワノ ポロト オルㇱペ ネヤ アヌココㇿ アイヌ イコロマケンル オルㇱペ ネヤ エチエコイソイタㇰ ワ ウアイヌコㇿ コタン アカㇻ カトゥ エチヌカレ。
+1	ホㇱキノ	hoskino	ADV	副詞	_	6	advmod	_	_
+2	1965	1965	NUM	数詞	_	3	nummod	_	SpaceAfter=No
+3	パ	pa	NOUN	名詞	_	6	obl	_	_
+4	ワノ	wano	ADP	格助詞	_	3	case	_	_
+5	ポロト	Poroto	PROPN	固有名詞	_	6	nsubj	_	_
+6	オルㇱペ	oruspe	NOUN	名詞	_	19	obj	_	_
+7	ネ	ne	AUX	デアル動詞	_	6	cop	_	SpaceAfter=No
+8	ヤ	ya	SCONJ	接続助詞	_	6	mark	_	_
+9-10	アヌココㇿ	_	_	_	_	_	_	_	_
+9	アン	an=	PART	人称接辞	_	10	nsubj	_	_
+10	ウココㇿ	ukokor	VERB	他動詞	_	14	acl	_	_
+11	アイヌ	aynu	NOUN	名詞	_	12	nmod	_	_
+12-13	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
+12	イコㇿ	ikor	NOUN	名詞	_	13	obj	_	_
+13	オマ	oma	VERB	他動詞	_	14	acl	_	_
+14	ケンル	kenru	NOUN	名詞	_	15	nsubj	_	_
+15	オルㇱペ	oruspe	NOUN	名詞	_	6	conj	_	_
+16	ネ	ne	AUX	デアル動詞	_	15	cop	_	SpaceAfter=No
+17	ヤ	ya	SCONJ	接続助詞	_	15	mark	_	_
+18	エチ	eci=	PART	人称接辞	_	19	nsubj	_	SpaceAfter=No
+19	エコイソイタㇰ	ekoysoytak	VERB	他動詞	_	27	advcl	_	_
+20	ワ	wa	SCONJ	接続助詞	_	19	mark	_	_
+21	ウアイヌコㇿ	uwaynukor	VERB	他動詞	_	22	amod	_	_
+22	コタン	kotan	NOUN	名詞	_	24	obj	_	_
+23	ア	a=	PART	人称接辞	_	24	nsubj	_	SpaceAfter=No
+24	カㇻ	kar	VERB	他動詞	_	25	acl	_	_
+25	カトゥ	katu	NOUN	形式名詞	_	27	obj	_	_
+26	エチ	eci=	PART	人称接辞	_	27	nsubj	_	SpaceAfter=No
+27	ヌカレ	nukare	VERB	他動詞	_	0	root	_	SpaceAfter=No
+28	。	.	PUNCT	記号	_	27	punct	_	_
+

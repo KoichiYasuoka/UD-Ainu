@@ -1,0 +1,6 @@
+# text = アイヌ プリ エヤイパカㇱヌ。
+1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	_
+2	プリ	puri	NOUN	名詞	_	3	obj	_	_
+3	エヤイパカㇱヌ	eyaypakasnu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	。	.	PUNCT	記号	_	3	punct	_	_
+

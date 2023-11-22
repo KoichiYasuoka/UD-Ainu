@@ -1,0 +1,4 @@
+# page = 35
+# text = スクㇷ゚
+1	スクㇷ゚	sukup	VERB	自動詞	_	0	root	_	_
+

@@ -1,0 +1,16 @@
+# text = オヤㇰ タ アン コタン タ イサㇺ アネㇷ゚ チカㇻ ルウェ ネ.
+1	オヤㇰ	oyak	NOUN	位置名詞	_	3	obl	_	_
+2	タ	ta	ADP	格助詞	_	1	case	_	_
+3	アン	an	VERB	自動詞	_	4	acl	_	_
+4	コタン	kotan	NOUN	名詞	_	6	obl	_	_
+5	タ	ta	ADP	格助詞	_	4	case	_	_
+6	イサㇺ	isam	VERB	自動詞	_	9	acl	_	_
+7	ア	a	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+8	ネ	ne	AUX	助動詞	_	6	aux	_	SpaceAfter=No
+9	ㇷ゚	-p	PART	接尾辞	_	11	obj	_	_
+10	チ	ci=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	カㇻ	kar	VERB	他動詞	_	12	acl	_	_
+12	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+13	ネ	ne	AUX	デアル動詞	_	12	cop	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	12	punct	_	_
+

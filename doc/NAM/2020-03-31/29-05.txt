@@ -1,0 +1,31 @@
+# text = シンリッ プリ アネラペウテㇰワ シサㇺ イレンカ ユㇷ゚ケ アコㇿカ エネ アン ヤヨマㇷ゚ テウンノ オカ ヘカッタㇻ ソモキクニネ アイヌカ シサㇺカ ウコラㇺコㇿナンコンナ.
+1	シンリッ	sinrit	NOUN	名詞	_	2	nmod	_	_
+2	プリ	puri	NOUN	名詞	_	4	obj	_	_
+3-4	アネランペウテㇰ	_	_	_	_	_	_	_	SpaceAfter=No
+3	アン	an=	PART	人称接辞	_	4	nsubj	_	_
+4	エランペウテㇰ	erampewtek	VERB	他動詞	_	8	advcl	_	_
+5	ワ	wa	SCONJ	接続助詞	_	4	mark	_	_
+6	シサㇺ	sisam	NOUN	名詞	_	7	nmod	_	_
+7	イレンカ	irenka	NOUN	名詞	_	8	nsubj	_	_
+8	ユㇷ゚ケ	yupke	VERB	自動詞	_	19	advcl	_	_
+9	ア	a	AUX	助動詞	_	8	aux	_	SpaceAfter=No
+10	コㇿカ	korka	CCONJ	接続詞	_	8	cc	_	_
+11	エネ	ene	ADV	副詞	_	13	advmod	_	_
+12	アン	an=	PART	人称接辞	_	13	nsubj	_	_
+13	ヤヨマㇷ゚	yayomap	VERB	自動詞	_	14	acl	_	_
+14	テ	te	NOUN	位置名詞	_	16	nmod	_	SpaceAfter=No
+15	ウンノ	unno	ADP	格助詞	_	14	case	_	_
+16	オカ	oka	NOUN	位置名詞	_	19	obj	_	_
+17	ヘカッタㇻ	hekattar	NOUN	名詞	_	19	nsubj	_	_
+18	ソモ	somo	ADV	副詞	_	19	advmod	_	SpaceAfter=No
+19	キ	ki	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+20	クニネ	kunine	SCONJ	接続助詞	_	19	mark	_	_
+21	アイヌ	aynu	NOUN	名詞	_	25	nsubj	_	SpaceAfter=No
+22	カ	ka	ADP	副助詞	_	21	case	_	_
+23	シサㇺ	sisam	NOUN	名詞	_	21	conj	_	SpaceAfter=No
+24	カ	ka	ADP	副助詞	_	23	case	_	_
+25	ウコラㇺコㇿ	ukoramkor	VERB	自動詞	_	0	root	_	SpaceAfter=No
+26	ナンコン	nankor	AUX	助動詞	_	25	aux	_	SpaceAfter=No
+27	ナ	na	PART	終助詞	_	25	discourse	_	SpaceAfter=No
+28	.	.	PUNCT	記号	_	25	punct	_	_
+

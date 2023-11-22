@@ -1,0 +1,28 @@
+# text = タㇰネ オイナ(短歌) アニ ヘネ ポン オルㇱペ(小説) アニ ヘネ エネ ヤイヌアㇱ ヒ チヌイェ ワ チホッパ ルウェ ネ.
+1	タㇰネ	takne	VERB	自動詞	_	2	amod	_	_
+2	オイナ	oyna	NOUN	名詞	_	20	obl	_	SpaceAfter=No
+3	(	(	PUNCT	記号	_	4	punct	_	SpaceAfter=No
+4	短歌	tanka	NOUN	名詞	_	2	appos	_	SpaceAfter=No
+5	)	)	PUNCT	記号	_	4	punct	_	_
+6	アニ	ani	SCONJ	後置副詞	_	2	case	_	_
+7	ヘネ	hene	ADP	副助詞	_	2	case	_	_
+8	ポン	pon	VERB	自動詞	_	9	amod	_	_
+9	オルㇱペ	oruspe	NOUN	名詞	_	20	obl	_	SpaceAfter=No
+10	(	(	PUNCT	記号	_	11	punct	_	SpaceAfter=No
+11	小説	shosetsu	NOUN	名詞	_	9	appos	_	SpaceAfter=No
+12	)	)	PUNCT	記号	_	11	punct	_	_
+13	アニ	ani	SCONJ	後置副詞	_	9	case	_	_
+14	ヘネ	hene	ADP	副助詞	_	9	case	_	_
+15	エネ	ene	ADV	副詞	_	16	advmod	_	_
+16	ヤイヌ	yaynu	VERB	自動詞	_	18	acl	_	SpaceAfter=No
+17	アㇱ	=as	PART	人称接辞	_	16	nsubj	_	_
+18	ヒ	hi	NOUN	形式名詞	_	20	obj	_	_
+19	チ	ci=	PART	人称接辞	_	20	nsubj	_	SpaceAfter=No
+20	ヌイェ	nuye	VERB	他動詞	_	23	advcl	_	_
+21	ワ	wa	SCONJ	接続助詞	_	20	mark	_	_
+22	チ	ci=	PART	人称接辞	_	23	nsubj	_	SpaceAfter=No
+23	ホッパ	hoppa	VERB	他動詞	_	24	acl	_	_
+24	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+25	ネ	ne	AUX	デアル動詞	_	24	cop	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	24	punct	_	_
+

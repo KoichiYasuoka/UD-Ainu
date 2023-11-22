@@ -1,0 +1,29 @@
+# text = チセ オㇱケタ ウロㇰロッキ シオイナネ イレスキ カムイ オレン トゥキリキンテ アンキ カネ エコテカムイ コオンカミ アンキ ルウェタパンナ.
+1	チセ	cise	NOUN	名詞	_	2	nmod	_	_
+2	オㇱケ	uske	NOUN	位置名詞	_	4	obl	_	SpaceAfter=No
+3	タ	ta	ADP	格助詞	_	2	case	_	_
+4	ウロㇰ	u-rok	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+5	ロッ	rok	AUX	助動詞	_	4	aux	_	SpaceAfter=No
+6	キ	ki	AUX	助動詞	_	4	aux	_	_
+7	シオイナネ	sioynane	VERB	自動詞	_	10	amod	_	_
+8	イレス	iresu	VERB	自動詞	_	10	acl	_	SpaceAfter=No
+9	キ	ki	AUX	助動詞	_	8	aux	_	_
+10	カムイ	kamuy	NOUN	名詞	_	11	nmod	_	_
+11-12	オレン	_	_	_	_	_	_	_	_
+11	オㇿ	or	NOUN	位置名詞	_	13	nmod	_	SpaceAfter=No
+12	エン	en=	PART	人称接辞	_	13	det	_	_
+13	トゥキ	túki	NOUN	名詞	_	14	obj	_	SpaceAfter=No
+14	リキンテ	rikinte	VERB	他動詞	_	16	ccomp	_	_
+15	アン	an=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
+16	キ	ki	VERB	他動詞	_	22	advcl	_	_
+17	カネ	kane	SCONJ	接続助詞	_	16	mark	_	_
+18	エコテ	ekote	SCONJ	後置副詞	_	16	mark	_	SpaceAfter=No
+19	カムイ	kamuy	NOUN	名詞	_	20	obj	_	_
+20	コオンカミ	koonkami	VERB	他動詞	_	22	ccomp	_	_
+21	アン	an=	PART	人称接辞	_	22	nsubj	_	SpaceAfter=No
+22	キ	ki	VERB	他動詞	_	23	acl	_	_
+23	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+24	タパン	tapan	AUX	デアル動詞	_	23	cop	_	SpaceAfter=No
+25	ナ	na	PART	終助詞	_	23	discourse	_	SpaceAfter=No
+26	.	.	PUNCT	記号	_	23	punct	_	_
+

@@ -1,0 +1,31 @@
+# text = タン トゥンプ オッタ “ウアイヌコㇿ コタン ヘマンタ クス アカㇻ ルウェ アン? マカナㇰ アカㇻ ルウェ アン?” セコㇿ アン ペ エチヌカレ ルウェ ネ。
+1	タン	tan	DET	連体詞	_	2	det	_	_
+2	トゥンプ	tunpu	NOUN	名詞	_	3	nmod	_	_
+3	オッ	or	NOUN	位置名詞	_	26	obl	_	SpaceAfter=No
+4	タ	ta	ADP	格助詞	_	3	case	_	_
+5	“	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
+6	ウアイヌコㇿ	uwaynukor	VERB	他動詞	_	7	amod	_	_
+7	コタン	kotan	NOUN	名詞	_	11	obj	_	_
+8	ヘマンタ	hemanta	NOUN	名詞	_	11	obl	_	_
+9	クス	kusu	SCONJ	後置副詞	_	8	case	_	_
+10	ア	a=	PART	人称接辞	_	11	nsubj	_	SpaceAfter=No
+11	カㇻ	kar	VERB	他動詞	_	12	acl	_	_
+12	ルウェ	ruwe	NOUN	形式名詞	_	13	nsubj	_	_
+13	アン	an	VERB	自動詞	_	23	advcl	_	SpaceAfter=No
+14	?	?	PUNCT	記号	_	13	punct	_	_
+15	マカナㇰ	makanak	ADV	副詞	_	17	advmod	_	_
+16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
+17	カㇻ	kar	VERB	他動詞	_	18	acl	_	_
+18	ルウェ	ruwe	NOUN	形式名詞	_	19	nsubj	_	_
+19	アン	an	VERB	自動詞	_	13	parataxis	_	SpaceAfter=No
+20	?	?	PUNCT	記号	_	19	punct	_	SpaceAfter=No
+21	”	"	PUNCT	記号	_	13	punct	_	_
+22	セコㇿ	sekor	SCONJ	接続詞	_	13	mark	_	_
+23	アン	an	VERB	自動詞	_	24	acl	_	_
+24	ペ	pe	NOUN	形式名詞	_	26	obj	_	_
+25	エチ	eci=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	ヌカレ	nukare	VERB	他動詞	_	27	acl	_	_
+27	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+28	ネ	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
+29	。	.	PUNCT	記号	_	27	punct	_	_
+

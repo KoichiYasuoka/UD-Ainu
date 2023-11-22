@@ -1,0 +1,19 @@
+# text = 2020パ 7チュㇷ゚ 12ト ワノ アイヌ プリ カンナ アシトゥリレ クニネ ウアイヌコㇿ コタン アン。
+1	2020	2020	NUM	数詞	_	2	nummod	_	SpaceAfter=No
+2	パ	pa	NOUN	名詞	_	6	compound	_	_
+3	7	7	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
+5	12	12	NUM	数詞	_	6	nummod	_	SpaceAfter=No
+6	ト	to	NOUN	名詞	_	16	obl	_	_
+7	ワノ	wano	ADP	格助詞	_	6	case	_	_
+8	アイヌ	aynu	NOUN	名詞	_	9	compound	_	_
+9	プリ	puri	NOUN	名詞	_	12	obj	_	_
+10	カンナ	kanna	ADV	副詞	_	12	advmod	_	_
+11	ア	a=	PART	人称接辞	_	12	nsubj	_	SpaceAfter=No
+12	シトゥリレ	situri-re	VERB	他動詞	_	16	advcl	_	_
+13	クニネ	kunine	SCONJ	接続助詞	_	12	mark	_	_
+14	ウアイヌコㇿ	uwaynukor	VERB	他動詞	_	15	amod	_	_
+15	コタン	kotan	NOUN	名詞	_	16	nsubj	_	_
+16	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+17	。	.	PUNCT	記号	_	16	punct	_	_
+
