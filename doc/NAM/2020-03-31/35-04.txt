@@ -1,2 +1,6 @@
 # text = オナハ オッカイポホ パカㇱヌ.
+1	オナハ	onaha	NOUN	名詞	_	3	nsubj	_	_
+2	オッカイポホ	okkaypo-ho	NOUN	名詞	_	3	obj	_	_
+3	パカㇱヌ	pákasnu	VERB	他動詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 
