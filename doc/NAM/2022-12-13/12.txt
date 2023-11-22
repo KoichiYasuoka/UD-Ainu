@@ -1,5 +1,5 @@
 # text = アイヌ イタㇰ アニ エネ アカㇻ ヒ エチヌカレ。
-1	アイヌ	aynu	NOUN	名詞	_	2	compound	_	_
+1	アイヌ	aynu	NOUN	名詞	_	2	nmod	_	_
 2	イタㇰ	itak	NOUN	名詞	_	6	obl	_	_
 3	アニ	ani	SCONJ	後置副詞	_	2	case	_	_
 4	エネ	ene	ADV	副詞	_	6	advmod	_	_
