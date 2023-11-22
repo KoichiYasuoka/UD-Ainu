@@ -1,2 +1,20 @@
 # text = オッカイエカチ 15パ パㇰノ ポロ コㇿ イノミ アン ヒ タ ウンカスイ ワ エカシ プリ エラマン.
+1	オッカイ	okkayo	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	エカチ	hekaci	NOUN	名詞	_	6	nsubj	_	_
+3	15	15	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	パ	pa	NOUN	名詞	_	6	obl	_	_
+5	パㇰノ	pakno	SCONJ	後置副詞	_	4	case	_	_
+6	ポロ	poro	VERB	自動詞	_	13	advcl	_	_
+7	コㇿ	kor	SCONJ	接続助詞	_	6	mark	_	_
+8	イノミ	inomi	VERB	自動詞	_	10	acl	_	_
+9	アン	an	AUX	助動詞	_	8	aux	_	_
+10	ヒ	hi	NOUN	形式名詞	_	13	obl	_	_
+11	タ	ta	ADP	格助詞	_	10	case	_	_
+12	ウン	un=	PART	人称接辞	_	13	obj	_	SpaceAfter=No
+13	カスイ	kasuy	VERB	他動詞	_	17	advcl	_	_
+14	ワ	wa	SCONJ	接続助詞	_	13	mark	_	_
+15	エカシ	ekasi	NOUN	名詞	_	16	nmod	_	_
+16	プリ	puri	NOUN	名詞	_	17	obj	_	_
+17	エラマン	eraman	VERB	他動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
 
