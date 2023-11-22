@@ -1,2 +1,13 @@
 # text = オヤㇰ タ シンナイ ウポポ シンナイ リㇺセ アンキ ルウェ ネ.
+1	オヤㇰ	oyak	NOUN	位置名詞	_	7	obl	_	_
+2	タ	ta	ADP	格助詞	_	1	case	_	_
+3	シンナイ	sinna	VERB	自動詞	_	4	amod	_	_
+4	ウポポ	upopo	NOUN	名詞	_	7	nsubj	_	_
+5	シンナイ	sinna	VERB	自動詞	_	6	amod	_	_
+6	リㇺセ	rimse	NOUN	名詞	_	4	conj	_	_
+7	アン	an	VERB	自動詞	_	9	acl	_	SpaceAfter=No
+8	キ	ki	AUX	助動詞	_	7	aux	_	_
+9	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+10	ネ	ne	AUX	デアル動詞	_	9	cop	_	SpaceAfter=No
+11	.	.	PUNCT	記号	_	9	punct	_	_
 

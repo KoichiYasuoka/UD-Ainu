@@ -1,2 +1,9 @@
 # text = ウポポ エネ リㇺセ エネ ポロンノ アン.
+1	ウポポ	upopo	NOUN	名詞	_	6	nsubj	_	_
+2	エネ	hene	ADP	副助詞	_	1	case	_	_
+3	リㇺセ	rimse	NOUN	名詞	_	1	conj	_	_
+4	エネ	hene	ADP	副助詞	_	3	case	_	_
+5	ポロンノ	poronno	ADV	副詞	_	6	advmod	_	_
+6	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	記号	_	6	punct	_	_
 
