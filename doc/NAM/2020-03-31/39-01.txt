@@ -1,3 +1,5 @@
 # page = 39
 # text = アパ サㇺ
+1	アパ	apa	NOUN	名詞	_	2	nmod	_	_
+2	サㇺ	sam	NOUN	位置名詞	_	0	root	_	_
 
