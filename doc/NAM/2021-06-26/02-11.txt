@@ -1,9 +1,9 @@
 # text = 2021パ 6チュㇷ゚ 26ト アヌココㇿ アイヌ イコロマケンル サパネクㇽ 佐々木史郎(エトゥナンカㇻ)
-1	2022	2022	NUM	数詞	_	2	nummod	_	SpaceAfter=No
+1	2021	2021	NUM	数詞	_	2	nummod	_	SpaceAfter=No
 2	パ	pa	NOUN	名詞	_	6	compound	_	_
-3	12	12	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+3	6	6	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
-5	13	13	NUM	数詞	_	6	nummod	_	SpaceAfter=No
+5	26	26	NUM	数詞	_	6	nummod	_	SpaceAfter=No
 6	ト	to	NOUN	名詞	_	17	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
