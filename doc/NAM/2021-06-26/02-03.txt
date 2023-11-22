@@ -7,7 +7,7 @@
 5	シネウパ	sinewpa	VERB	自動詞	_	8	advcl	_	_
 6	ワ	wa	SCONJ	接続助詞	_	5	mark	_	_
 7	エチ	eci=	PART	人称接辞	_	8	nsubj	_	SpaceAfter=No
-8	エヤイコプンテㇰ	eyaikopuntek	VERB	他動詞	_	45	advcl	_	_
+8	エヤイコプンテㇰ	eyaykopuntek	VERB	他動詞	_	45	advcl	_	_
 9	ワ	wa	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 10	,	,	PUNCT	記号	_	8	punct	_	SpaceAfter=No
 11	『	"	PUNCT	記号	_	15	punct	_	SpaceAfter=No
