@@ -454,7 +454,7 @@
 2	ウココㇿ	ukokor	VERB	他動詞	_	6	acl	_	_
 3	アイヌ	aynu	NOUN	名詞	_	4	nmod	_	_
 4-5	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-4	イコㇿ	ikor	NOUN	名詞	_	5	obj	_	_
+4	イコㇿ	ikor	NOUN	名詞	_	5	nsubj	_	_
 5	オマ	oma	VERB	他動詞	_	6	acl	_	_
 6	ケンル	kenru	NOUN	名詞	_	0	root	_	_
 
@@ -1305,7 +1305,7 @@
 2	ウココㇿ	ukokor	VERB	他動詞	_	6	acl	_	_
 3	アイヌ	aynu	NOUN	名詞	_	4	nmod	_	_
 4-5	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-4	イコㇿ	ikor	NOUN	名詞	_	5	obj	_	_
+4	イコㇿ	ikor	NOUN	名詞	_	5	nsubj	_	_
 5	オマ	oma	VERB	他動詞	_	6	acl	_	_
 6	ケンル	kenru	NOUN	名詞	_	0	root	_	_
 
@@ -1410,10 +1410,102 @@
 48	.	.	PUNCT	記号	_	46	punct	_	_
 
 # text = 『ゴールデンカムイ』セコㇿ レヘ アン 漫画 ヌカㇻ ワ アイヌプリ アㇺキㇼ ウタㇻ, エラマス ウタㇻ, ポロンノ アン ナンコㇿ.
+1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+3	カムイ	kamuy	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
+4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	セコㇿ	sekor	SCONJ	接続詞	_	3	case	_	_
+6	レヘ	réhe	NOUN	名詞	_	7	nsubj	_	_
+7	アン	an	VERB	自動詞	_	8	acl	_	_
+8	漫画	Manga	NOUN	名詞	_	9	obj	_	_
+9	ヌカㇻ	nukar	VERB	他動詞	_	20	advcl	_	_
+10	ワ	wa	SCONJ	接続助詞	_	9	mark	_	_
+11	アイヌ	aynu	NOUN	名詞	_	12	nmod	_	SpaceAfter=No
+12	プリ	puri	NOUN	名詞	_	13	obj	_	_
+13	アㇺキㇼ	amkir	VERB	他動詞	_	14	acl	_	_
+14	ウタㇻ	utar	NOUN	名詞	_	20	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	記号	_	14	punct	_	_
+16	エラマス	eramasu	VERB	他動詞	_	17	acl	_	_
+17	ウタㇻ	utar	NOUN	名詞	_	14	conj	_	SpaceAfter=No
+18	,	,	PUNCT	記号	_	17	punct	_	_
+19	ポロンノ	poronno	ADV	副詞	_	20	advmod	_	_
+20	アン	an	VERB	自動詞	_	0	root	_	_
+21	ナンコㇿ	nankor	AUX	助動詞	_	20	aux	_	SpaceAfter=No
+22	.	.	PUNCT	記号	_	20	punct	_	_
 
-# text = 『ゴールデンカムイ』ヌカㇻ ウタㇻ アナㇰ 日本 オッタ パテㇰ オカ カ ソモ キ ノ, 英語, 中国語, 韓国語, ウサ オカイ イタㇰ アニ ヌカラ エアㇱカイ クス, レプンクㇽモシㇼ オッタ カ『ゴールデンカムイ』ピㇼカ アスル アㇱ ペ ネ.
+# text = 『ゴールデンカムイ』ヌカㇻ ウタㇻ アナㇰ 日本 オッタ パテㇰ オカ カ ソモ キ ノ, 英語, 中国語, 韓国語, ウサ オカイ イタㇰ アニ ヌカㇻ エアㇱカイ クス, レプンクㇽモシㇼ オッタ カ『ゴールデンカムイ』ピㇼカ アスル アㇱ ペ ネ.
+1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+3	カムイ	kamuy	NOUN	名詞	_	5	obj	_	SpaceAfter=No
+4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	ヌカㇻ	nukar	VERB	他動詞	_	6	acl	_	_
+6	ウタㇻ	utar	NOUN	名詞	_	12	nsubj	_	_
+7	アナㇰ	anak	ADP	副助詞	_	6	case	_	_
+8	日本	Nihon	PROPN	固有名詞	_	9	nmod	_	_
+9	オッ	or	NOUN	位置名詞	_	12	obl	_	SpaceAfter=No
+10	タ	ta	ADP	格助詞	_	9	case	_	_
+11	パテㇰ	patek	SCONJ	後置副詞	_	9	case	_	_
+12	オカ	oka	VERB	自動詞	_	15	ccomp	_	_
+13	カ	ka	ADP	副助詞	_	12	mark	_	_
+14	ソモ	somo	ADV	副詞	_	15	advmod	_	_
+15	キ	ki	VERB	他動詞	_	30	advcl	_	_
+16	ノ	no	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
+17	,	,	PUNCT	記号	_	15	punct	_	_
+18	英語	英語	NOUN	名詞-普通名詞-一般	_	27	nsubj	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	18	punct	_	_
+20	中国	中国	PROPN	名詞-固有名詞-地名-国	_	21	compound	_	SpaceAfter=No
+21	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
+22	,	,	PUNCT	記号	_	21	punct	_	_
+23	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	24	compound	_	SpaceAfter=No
+24	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
+25	,	,	PUNCT	記号	_	24	punct	_	_
+26	ウサ	usa	ADP	副助詞	_	18	case	_	_
+27	オカイ	okay	VERB	自動詞	_	28	acl	_	_
+28	イタㇰ	itak	NOUN	名詞	_	30	obj	_	_
+29	アニ	ani	PART	人称接辞	_	28	case	_	_
+30	ヌカㇻ	nukar	VERB	他動詞	_	47	advcl	_	_
+31	エアㇱカイ	easkay	AUX	助動詞	_	30	aux	_	_
+32	クス	kusu	SCONJ	接続詞	_	30	mark	_	SpaceAfter=No
+33	,	,	PUNCT	記号	_	30	punct	_	_
+34	レプン	repun	DET	連体詞	_	35	det	_	SpaceAfter=No
+35	クㇽ	kur	NOUN	名詞	_	36	nmod	_	SpaceAfter=No
+36	モシㇼ	mosir	NOUN	名詞	_	37	nmod	_	_
+37	オッ	or	NOUN	位置名詞	_	46	obl	_	SpaceAfter=No
+38	タ	ta	ADP	格助詞	_	37	case	_	_
+39	カ	ka	ADP	副助詞	_	37	case	_	SpaceAfter=No
+40	『	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
+41	ゴールデン	Golden	X	_	_	42	amod	_	SpaceAfter=No
+42	カムイ	kamuy	NOUN	名詞	_	45	nmod	_	SpaceAfter=No
+43	』	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
+44	ピㇼカ	pirka	VERB	自動詞	_	45	amod	_	_
+45	アスル	asuru	NOUN	名詞	_	46	nsubj	_	_
+46	アㇱ	as	VERB	自動詞	_	47	acl	_	_
+47	ペ	pe	NOUN	形式名詞	_	0	root	_	_
+48	ネ	ne	AUX	デアル動詞	_	47	cop	_	SpaceAfter=No
+49	.	.	PUNCT	記号	_	47	punct	_	_
 
-# text = イギリス ウン ロンドン オッタ アン 大英博物館 セコㇿ レヘ アン イコロマケンル アン, オロ タ 2019 パ 5 チュㇷ゚ ワノ, “The Citi exhibition Manga マンガ” セコㇿ ネ ワ, アシㇼパ ノカ キービジュアル ネ アカㇻ ルウェ ネ.
+# text = イギリス ウン ロンドン オッタ アン 大英博物館 セコㇿ レヘ アン イコロマケンル アン.
+1	イギリス	England	PROPN	固有名詞	_	3	nmod	_	_
+2	ウン	un	ADP	格助詞	_	1	case	_	_
+3	ロンドン	London	PROPN	固有名詞	_	4	nmod	_	_
+4	オッ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	タ	ta	ADP	格助詞	_	4	case	_	_
+6	アン	an	VERB	自動詞	_	17	advcl	_	_
+7	大	大	NOUN	接頭辞	_	10	compound	_	_
+8	英	英	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
+9	博物	博物	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
+10	館	館	NOUN	接尾辞-名詞的-一般	_	12	nmod	_	_
+11	セコㇿ	sekor	SCONJ	接続詞	_	10	case	_	_
+12	レヘ	réhe	NOUN	名詞	_	13	nsubj	_	_
+13	アン	an	VERB	自動詞	_	16	acl	_	_
+14-15	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
+14	イコㇿ	ikor	NOUN	名詞	_	15	nsubj	_	_
+15	オマ	oma	VERB	他動詞	_	16	acl	_	_
+16	ケンル	kenru	NOUN	名詞	_	17	nsubj	_	_
+17	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
+
+# text = オロ タ 2019 パ 5 チュㇷ゚ ワノ, “The Citi exhibition Manga マンガ” セコㇿ ネ ワ, アシㇼパ ノカ キービジュアル ネ アカㇻ ルウェ ネ.
 
 # text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
 
@@ -1437,7 +1529,7 @@
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
 9	アイヌ	aynu	NOUN	名詞	_	10	nmod	_	_
 10-11	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-10	イコㇿ	ikor	NOUN	名詞	_	11	obj	_	_
+10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
 13	サパネクㇽ	sapanekur	NOUN	名詞	_	17	nsubj	_	_
@@ -1579,7 +1671,7 @@
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
 9	アイヌ	aynu	NOUN	名詞	_	10	nmod	_	_
 10-11	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-10	イコㇿ	ikor	NOUN	名詞	_	11	obj	_	_
+10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
 13	サパネクㇽ	sapanekur	NOUN	名詞	_	14	nsubj	_	_
@@ -1610,7 +1702,7 @@
 2	ウココㇿ	ukokor	VERB	他動詞	_	6	acl	_	_
 3	アイヌ	aynu	NOUN	名詞	_	4	nmod	_	_
 4-5	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-4	イコㇿ	ikor	NOUN	名詞	_	5	obj	_	_
+4	イコㇿ	ikor	NOUN	名詞	_	5	nsubj	_	_
 5	オマ	oma	VERB	他動詞	_	6	acl	_	_
 6	ケンル	kenru	NOUN	名詞	_	11	nmod	_	_
 7	第	第	NOUN	接頭辞	_	8	compound	_	SpaceAfter=No
@@ -1746,7 +1838,7 @@
 10	ウココㇿ	ukokor	VERB	他動詞	_	14	acl	_	_
 11	アイヌ	aynu	NOUN	名詞	_	12	nmod	_	_
 12-13	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-12	イコㇿ	ikor	NOUN	名詞	_	13	obj	_	_
+12	イコㇿ	ikor	NOUN	名詞	_	13	nsubj	_	_
 13	オマ	oma	VERB	他動詞	_	14	acl	_	_
 14	ケンル	kenru	NOUN	名詞	_	15	nsubj	_	_
 15	オルㇱペ	oruspe	NOUN	名詞	_	6	conj	_	_
@@ -1788,7 +1880,7 @@
 4	タ	ta	ADP	格助詞	_	3	case	_	_
 5	カ	ka	ADP	副助詞	_	3	case	_	_
 6-7	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-6	イコㇿ	ikor	NOUN	名詞	_	7	obj	_	_
+6	イコㇿ	ikor	NOUN	名詞	_	7	nsubj	_	_
 7	オマ	oma	VERB	他動詞	_	8	acl	_	_
 8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
 9	オッ	or	NOUN	位置名詞	_	20	obl	_	SpaceAfter=No
@@ -1825,7 +1917,7 @@
 4	ウココㇿ	ukokor	VERB	他動詞	_	8	acl	_	_
 5	アイヌ	aynu	NOUN	名詞	_	6	nmod	_	_
 6-7	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-6	イコㇿ	ikor	NOUN	名詞	_	7	obj	_	_
+6	イコㇿ	ikor	NOUN	名詞	_	7	nsubj	_	_
 7	オマ	oma	VERB	他動詞	_	8	acl	_	_
 8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
 9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
@@ -1920,7 +2012,7 @@
 7	ヌカㇻ	nukar	VERB	他動詞	_	18	advcl	_	_
 8	ヤクン	yakun	SCONJ	接続助詞	_	7	mark	_	_
 9-10	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-9	イコㇿ	ikor	NOUN	名詞	_	10	obj	_	_
+9	イコㇿ	ikor	NOUN	名詞	_	10	nsubj	_	_
 10	オマ	oma	VERB	他動詞	_	11	acl	_	_
 11	ケンル	kenru	NOUN	名詞	_	13	obj	_	_
 12	ア	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No
@@ -1958,7 +2050,7 @@
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
 9	アイヌ	aynu	NOUN	名詞	_	10	nmod	_	_
 10-11	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-10	イコㇿ	ikor	NOUN	名詞	_	11	obj	_	_
+10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
 13	サパネクㇽ	sapanekur	NOUN	名詞	_	14	nsubj	_	_
