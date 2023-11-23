@@ -5,7 +5,7 @@
 4	オッ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
 5	タ	ta	ADP	格助詞	_	4	case	_	_
 6	アン	an	VERB	自動詞	_	17	advcl	_	_
-7	大	大	NOUN	接頭辞	_	10	compound	_	_
+7	大	大	NOUN	接頭辞-一般	_	10	compound	_	_
 8	英	英	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
 9	博物	博物	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
 10	館	館	NOUN	接尾辞-名詞的-一般	_	12	nmod	_	_

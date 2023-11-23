@@ -1,6 +1,6 @@
 # text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	オッ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No

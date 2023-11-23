@@ -11,7 +11,7 @@
 9	ワ	wa	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 10	,	,	PUNCT	記号	_	8	punct	_	SpaceAfter=No
 11	『	"	PUNCT	記号	_	15	punct	_	SpaceAfter=No
-12	ゴールデン	Golden	X	_	_	13	amod	_	SpaceAfter=No
+12	ゴールデン	Golden	ADJ	_	_	13	amod	_	SpaceAfter=No
 13	カムイ	kamuy	NOUN	名詞	_	15	obl	_	_
 14	トゥラノ	turano	SCONJ	後置副詞	_	13	case	_	_
 15	アㇷ゚カㇱ	apkas	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
@@ -32,7 +32,7 @@
 30	ワ	wa	SCONJ	接続助詞	_	25	mark	_	SpaceAfter=No
 31	,	,	PUNCT	記号	_	25	punct	_	SpaceAfter=No
 32	『	"	PUNCT	記号	_	34	punct	_	SpaceAfter=No
-33	ゴールデン	Golden	X	_	_	34	amod	_	SpaceAfter=No
+33	ゴールデン	Golden	ADJ	_	_	34	amod	_	SpaceAfter=No
 34	カムイ	kamuy	NOUN	名詞	_	36	nmod	_	SpaceAfter=No
 35	』	"	PUNCT	記号	_	34	punct	_	SpaceAfter=No
 36	オッ	or	NOUN	位置名詞	_	39	obl	_	SpaceAfter=No

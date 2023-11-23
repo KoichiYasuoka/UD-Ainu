@@ -1,6 +1,6 @@
 # text = 『ゴールデンカムイ』ヌカㇻ ウタㇻ アナㇰ 日本 オッタ パテㇰ オカ カ ソモ キ ノ, 英語, 中国語, 韓国語, ウサ オカイ イタㇰ アニ ヌカㇻ エアㇱカイ クス, レプンクㇽモシㇼ オッタ カ『ゴールデンカムイ』ピㇼカ アスル アㇱ ペ ネ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	5	obj	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	ヌカㇻ	nukar	VERB	他動詞	_	6	acl	_	_
@@ -39,7 +39,7 @@
 38	タ	ta	ADP	格助詞	_	37	case	_	_
 39	カ	ka	ADP	副助詞	_	37	case	_	SpaceAfter=No
 40	『	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
-41	ゴールデン	Golden	X	_	_	42	amod	_	SpaceAfter=No
+41	ゴールデン	Golden	ADJ	_	_	42	amod	_	SpaceAfter=No
 42	カムイ	kamuy	NOUN	名詞	_	45	nmod	_	SpaceAfter=No
 43	』	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
 44	ピㇼカ	pirka	VERB	自動詞	_	45	amod	_	_

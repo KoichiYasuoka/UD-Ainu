@@ -8,10 +8,10 @@
 7	ワノ	wano	ADP	格助詞	_	6	case	_	SpaceAfter=No
 8	,	,	PUNCT	記号	_	6	punct	_	_
 9	“	"	PUNCT	記号	_	12	punct	_	SpaceAfter=No
-10	The	The	X	_	_	12	det	_	_
-11	Citi	Citi	X	_	_	12	nmod	_	_
-12	exhibition	Exhibition	X	_	_	26	advcl	_	_
-13	Manga	Manga	X	_	_	12	nmod	_	_
+10	The	The	DET	_	_	12	det	_	_
+11	Citi	Citi	PROPN	_	_	12	nmod	_	_
+12	exhibition	Exhibition	NOUN	_	_	26	advcl	_	_
+13	Manga	Manga	NOUN	_	_	12	nmod	_	_
 14	マンガ	Manga	NOUN	名詞	_	13	appos	_	SpaceAfter=No
 15	”	"	PUNCT	記号	_	12	punct	_	_
 16	セコㇿ	sekor	SCONJ	接続詞	_	12	case	_	_
@@ -20,8 +20,8 @@
 19	,	,	PUNCT	記号	_	12	punct	_	_
 20	アシㇼパ	Asirpa	PROPN	固有名詞	_	21	nmod	_	_
 21	ノカ	noka	NOUN	名詞	_	23	nsubj	_	_
-22	キー	Key	X	_	_	23	nmod	_	SpaceAfter=No
-23	ビジュアル	Visual	X	_	_	26	ccomp	_	_
+22	キー	Key	NOUN	_	_	23	nmod	_	SpaceAfter=No
+23	ビジュアル	Visual	NOUN	_	_	26	ccomp	_	_
 24	ネ	ne	AUX	デアル動詞	_	23	case	_	_
 25	ア	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
 26	カㇻ	kar	VERB	他動詞	_	27	acl	_	_

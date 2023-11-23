@@ -1,6 +1,6 @@
 # text = 『ゴールデンカムイ』セコㇿ レヘ アン 漫画 ヌカㇻ ワ アイヌプリ アㇺキㇼ ウタㇻ, エラマス ウタㇻ, ポロンノ アン ナンコㇿ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	セコㇿ	sekor	SCONJ	接続詞	_	3	case	_	_
