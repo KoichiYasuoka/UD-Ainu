@@ -11,7 +11,7 @@
 10	オッ	or	NOUN	位置名詞	_	17	obl	_	SpaceAfter=No
 11	タ	ta	ADP	格助詞	_	10	case	_	_
 12	「	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
-13	人間	ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
+13	人間	Ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
 14	」	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
 15	アリ	ari	SCONJ	接続助詞	_	13	case	_	_
 16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
