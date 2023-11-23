@@ -1585,6 +1585,36 @@
 29	.	.	PUNCT	記号	_	28	punct	_	_
 
 # text = ウサ オカ プリ コㇿ ウタㇻ オカ ワ, ネイタ ウレㇱパ コラチ ミピヒ カ ウニヒ カ アエイワンケㇷ゚ カ 野田ニㇱパ エヤㇺノ ヌイェ ワ アン ルウェ ネ.
+1	ウサ	usa	ADV	副詞	_	2	advmod	_	_
+2	オカ	oka	VERB	自動詞	_	3	acl	_	_
+3	プリ	puri	NOUN	名詞	_	4	obj	_	_
+4	コㇿ	kor	VERB	他動詞	_	5	acl	_	_
+5	ウタㇻ	utar	NOUN	名詞	_	6	nsubj	_	_
+6	オカ	oka	VERB	自動詞	_	11	advcl	_	_
+7	ワ	wa	SCONJ	接続助詞	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	ネイ	ney	NOUN	位置名詞	_	11	obl	_	SpaceAfter=No
+10	タ	ta	ADP	格助詞	_	9	case	_	_
+11	ウレㇱパ	urespa	VERB	自動詞	_	23	advcl	_	_
+12	コラチ	koraci	SCONJ	後置副詞	_	11	mark	_	_
+13	ミピヒ	mipihi	NOUN	名詞	_	23	obj	_	_
+14	カ	ka	ADP	副助詞	_	13	case	_	_
+15	ウニヒ	unihi	NOUN	名詞	_	13	conj	_	_
+16	カ	ka	ADP	副助詞	_	15	case	_	_
+17	ア	a=	PART	人称接辞	_	18	nsubj	_	SpaceAfter=No
+18	エイワンケ	eywanke	VERB	他動詞	_	19	acl	_	SpaceAfter=No
+19	ㇷ゚	-p	PART	接尾辞	_	13	conj	_	_
+20	カ	ka	ADP	副助詞	_	19	case	_	_
+21	野田	Noda	PROPN	固有名詞	_	22	nmod	_	SpaceAfter=No
+22	ニㇱパ	nispa	NOUN	名詞	_	23	nsubj	_	_
+23	エヤㇺ	eyam	VERB	他動詞	_	25	advcl	_	SpaceAfter=No
+24	ノ	no	SCONJ	接続助詞	_	23	mark	_	_
+25	ヌイェ	nuye	VERB	他動詞	_	27	advcl	_	_
+26	ワ	wa	SCONJ	接続助詞	_	25	mark	_	_
+27	アン	an	VERB	自動詞	_	28	acl	_	_
+28	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+29	ネ	ne	AUX	デアル動詞	_	28	cop	_	SpaceAfter=No
+30	.	.	PUNCT	記号	_	28	punct	_	_
 
 # text = 原画 イコㇿ トゥラノ『ゴールデンカムイ』オッタ アヌイェ ウサ ウパㇱクマ ウサ ウレㇱパ エチヌカレ ワ, オロ タ 杉元 アシㇼパ アㇷ゚カㇱ モシㇼ エチエラマン クニ チェサンニヨ.
 
