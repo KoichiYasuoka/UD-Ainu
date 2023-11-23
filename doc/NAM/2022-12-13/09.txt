@@ -12,7 +12,7 @@
 10	ウココㇿ	ukokor	VERB	他動詞	_	14	acl	_	_
 11	アイヌ	aynu	NOUN	名詞	_	12	nmod	_	_
 12-13	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-12	イコㇿ	ikor	NOUN	名詞	_	13	obj	_	_
+12	イコㇿ	ikor	NOUN	名詞	_	13	nsubj	_	_
 13	オマ	oma	VERB	他動詞	_	14	acl	_	_
 14	ケンル	kenru	NOUN	名詞	_	15	nsubj	_	_
 15	オルㇱペ	oruspe	NOUN	名詞	_	6	conj	_	_

@@ -8,7 +8,7 @@
 7	ヌカㇻ	nukar	VERB	他動詞	_	18	advcl	_	_
 8	ヤクン	yakun	SCONJ	接続助詞	_	7	mark	_	_
 9-10	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-9	イコㇿ	ikor	NOUN	名詞	_	10	obj	_	_
+9	イコㇿ	ikor	NOUN	名詞	_	10	nsubj	_	_
 10	オマ	oma	VERB	他動詞	_	11	acl	_	_
 11	ケンル	kenru	NOUN	名詞	_	13	obj	_	_
 12	ア	a=	PART	人称接辞	_	13	nsubj	_	SpaceAfter=No

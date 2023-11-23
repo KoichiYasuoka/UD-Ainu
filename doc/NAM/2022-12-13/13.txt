@@ -6,7 +6,7 @@
 4	ウココㇿ	ukokor	VERB	他動詞	_	8	acl	_	_
 5	アイヌ	aynu	NOUN	名詞	_	6	nmod	_	_
 6-7	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-6	イコㇿ	ikor	NOUN	名詞	_	7	obj	_	_
+6	イコㇿ	ikor	NOUN	名詞	_	7	nsubj	_	_
 7	オマ	oma	VERB	他動詞	_	8	acl	_	_
 8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
 9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No

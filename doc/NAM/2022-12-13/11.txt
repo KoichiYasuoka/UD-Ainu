@@ -5,7 +5,7 @@
 4	タ	ta	ADP	格助詞	_	3	case	_	_
 5	カ	ka	ADP	副助詞	_	3	case	_	_
 6-7	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
-6	イコㇿ	ikor	NOUN	名詞	_	7	obj	_	_
+6	イコㇿ	ikor	NOUN	名詞	_	7	nsubj	_	_
 7	オマ	oma	VERB	他動詞	_	8	acl	_	_
 8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
 9	オッ	or	NOUN	位置名詞	_	20	obl	_	SpaceAfter=No
