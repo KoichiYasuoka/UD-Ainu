@@ -16,7 +16,7 @@
 15	キ	ki	VERB	他動詞	_	30	advcl	_	_
 16	ノ	no	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
 17	,	,	PUNCT	記号	_	15	punct	_	_
-18	英語	英語	NOUN	名詞-普通名詞-一般	_	27	nsubj	_	SpaceAfter=No
+18	英語	英語	NOUN	名詞-普通名詞-一般	_	30	obl	_	SpaceAfter=No
 19	,	,	PUNCT	記号	_	18	punct	_	_
 20	中国	中国	PROPN	名詞-固有名詞-地名-国	_	21	compound	_	SpaceAfter=No
 21	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
@@ -24,9 +24,9 @@
 23	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	24	compound	_	SpaceAfter=No
 24	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
 25	,	,	PUNCT	記号	_	24	punct	_	_
-26	ウサ	usa	ADP	副助詞	_	18	case	_	_
+26	ウサ	usa	ADV	副詞	_	27	advmod	_	_
 27	オカイ	okay	VERB	自動詞	_	28	acl	_	_
-28	イタㇰ	itak	NOUN	名詞	_	30	obj	_	_
+28	イタㇰ	itak	NOUN	名詞	_	18	conj	_	_
 29	アニ	ani	PART	人称接辞	_	28	case	_	_
 30	ヌカㇻ	nukar	VERB	他動詞	_	47	advcl	_	_
 31	エアㇱカイ	easkay	AUX	助動詞	_	30	aux	_	_
