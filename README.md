@@ -3,7 +3,7 @@
 - アイヌ神謠集 [ain_syos-ud-test.conllu](https://github.com/KoichiYasuoka/UD-Ainu/blob/master/ain_syos-ud-test.conllu)
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/SYOS/viewer.html)
 
-- アイヌ會話字典 [ain_kanazawa-ud-test.conllu](https://github.com/KoichiYasuoka/UD-Ainu/blob/master/ain_kanazawa-ud-test.conllu)
+- アイヌ會話字典 [ain_kanazawa-ud-train.conllu](https://github.com/KoichiYasuoka/UD-Ainu/blob/master/ain_kanazawa-ud-train.conllu)
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/Kanazawa/viewer.html)
 
 - Аинско-русский словарь [ain_cyrillic-ud-test.conllu](https://github.com/KoichiYasuoka/UD-Ainu/blob/master/ain_cyrillic-ud-test.conllu)
