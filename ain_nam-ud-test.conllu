@@ -1371,7 +1371,7 @@
 9	ワ	wa	SCONJ	接続助詞	_	8	mark	_	SpaceAfter=No
 10	,	,	PUNCT	記号	_	8	punct	_	SpaceAfter=No
 11	『	"	PUNCT	記号	_	15	punct	_	SpaceAfter=No
-12	ゴールデン	Golden	X	_	_	13	amod	_	SpaceAfter=No
+12	ゴールデン	Golden	ADJ	_	_	13	amod	_	SpaceAfter=No
 13	カムイ	kamuy	NOUN	名詞	_	15	obl	_	_
 14	トゥラノ	turano	SCONJ	後置副詞	_	13	case	_	_
 15	アㇷ゚カㇱ	apkas	VERB	自動詞	_	25	advcl	_	SpaceAfter=No
@@ -1392,7 +1392,7 @@
 30	ワ	wa	SCONJ	接続助詞	_	25	mark	_	SpaceAfter=No
 31	,	,	PUNCT	記号	_	25	punct	_	SpaceAfter=No
 32	『	"	PUNCT	記号	_	34	punct	_	SpaceAfter=No
-33	ゴールデン	Golden	X	_	_	34	amod	_	SpaceAfter=No
+33	ゴールデン	Golden	ADJ	_	_	34	amod	_	SpaceAfter=No
 34	カムイ	kamuy	NOUN	名詞	_	36	nmod	_	SpaceAfter=No
 35	』	"	PUNCT	記号	_	34	punct	_	SpaceAfter=No
 36	オッ	or	NOUN	位置名詞	_	39	obl	_	SpaceAfter=No
@@ -1411,7 +1411,7 @@
 
 # text = 『ゴールデンカムイ』セコㇿ レヘ アン 漫画 ヌカㇻ ワ アイヌプリ アㇺキㇼ ウタㇻ, エラマス ウタㇻ, ポロンノ アン ナンコㇿ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	6	nmod	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	セコㇿ	sekor	SCONJ	接続詞	_	3	case	_	_
@@ -1435,7 +1435,7 @@
 
 # text = 『ゴールデンカムイ』ヌカㇻ ウタㇻ アナㇰ 日本 オッタ パテㇰ オカ カ ソモ キ ノ, 英語, 中国語, 韓国語, ウサ オカイ イタㇰ アニ ヌカㇻ エアㇱカイ クス, レプンクㇽモシㇼ オッタ カ『ゴールデンカムイ』ピㇼカ アスル アㇱ ペ ネ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	5	obj	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	ヌカㇻ	nukar	VERB	他動詞	_	6	acl	_	_
@@ -1474,7 +1474,7 @@
 38	タ	ta	ADP	格助詞	_	37	case	_	_
 39	カ	ka	ADP	副助詞	_	37	case	_	SpaceAfter=No
 40	『	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
-41	ゴールデン	Golden	X	_	_	42	amod	_	SpaceAfter=No
+41	ゴールデン	Golden	ADJ	_	_	42	amod	_	SpaceAfter=No
 42	カムイ	kamuy	NOUN	名詞	_	45	nmod	_	SpaceAfter=No
 43	』	"	PUNCT	記号	_	42	punct	_	SpaceAfter=No
 44	ピㇼカ	pirka	VERB	自動詞	_	45	amod	_	_
@@ -1491,7 +1491,7 @@
 4	オッ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
 5	タ	ta	ADP	格助詞	_	4	case	_	_
 6	アン	an	VERB	自動詞	_	17	advcl	_	_
-7	大	大	NOUN	接頭辞	_	10	compound	_	_
+7	大	大	NOUN	接頭辞-一般	_	10	compound	_	_
 8	英	英	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
 9	博物	博物	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
 10	館	館	NOUN	接尾辞-名詞的-一般	_	12	nmod	_	_
@@ -1515,10 +1515,10 @@
 7	ワノ	wano	ADP	格助詞	_	6	case	_	SpaceAfter=No
 8	,	,	PUNCT	記号	_	6	punct	_	_
 9	“	"	PUNCT	記号	_	12	punct	_	SpaceAfter=No
-10	The	The	X	_	_	12	det	_	_
-11	Citi	Citi	X	_	_	12	nmod	_	_
-12	exhibition	Exhibition	X	_	_	26	advcl	_	_
-13	Manga	Manga	X	_	_	12	nmod	_	_
+10	The	The	DET	_	_	12	det	_	_
+11	Citi	Citi	PROPN	_	_	12	nmod	_	_
+12	exhibition	Exhibition	NOUN	_	_	26	advcl	_	_
+13	Manga	Manga	NOUN	_	_	12	nmod	_	_
 14	マンガ	Manga	NOUN	名詞	_	13	appos	_	SpaceAfter=No
 15	”	"	PUNCT	記号	_	12	punct	_	_
 16	セコㇿ	sekor	SCONJ	接続詞	_	12	case	_	_
@@ -1527,8 +1527,8 @@
 19	,	,	PUNCT	記号	_	12	punct	_	_
 20	アシㇼパ	Asirpa	PROPN	固有名詞	_	21	nmod	_	_
 21	ノカ	noka	NOUN	名詞	_	23	nsubj	_	_
-22	キー	Key	X	_	_	23	nmod	_	SpaceAfter=No
-23	ビジュアル	Visual	X	_	_	26	ccomp	_	_
+22	キー	Key	NOUN	_	_	23	nmod	_	SpaceAfter=No
+23	ビジュアル	Visual	NOUN	_	_	26	ccomp	_	_
 24	ネ	ne	AUX	デアル動詞	_	23	case	_	_
 25	ア	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
 26	カㇻ	kar	VERB	他動詞	_	27	acl	_	_
@@ -1538,7 +1538,7 @@
 
 # text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
 1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+2	ゴールデン	Golden	ADJ	_	_	3	amod	_	SpaceAfter=No
 3	カムイ	kamuy	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
 4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
 5	オッ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
@@ -1823,7 +1823,7 @@
 4	イコㇿ	ikor	NOUN	名詞	_	5	nsubj	_	_
 5	オマ	oma	VERB	他動詞	_	6	acl	_	_
 6	ケンル	kenru	NOUN	名詞	_	11	nmod	_	_
-7	第	第	NOUN	接頭辞	_	8	compound	_	SpaceAfter=No
+7	第	第	NOUN	接頭辞-一般	_	8	compound	_	SpaceAfter=No
 8	3	三	NUM	名詞-数詞	_	11	nummod	_	SpaceAfter=No
 9	回	回	NOUN	名詞-普通名詞-助数詞可能	_	8	clf	_	SpaceAfter=No
 10	テーマ	テーマ	NOUN	名詞-普通名詞-一般	_	11	compound	_	SpaceAfter=No
@@ -1833,19 +1833,19 @@
 14	コタン	kotan	NOUN	名詞	_	16	obj	_	_
 15	ア	a=	PART	人称接辞	_	16	nsubj	_	SpaceAfter=No
 16	カㇻ	kar	VERB	他動詞	_	11	appos	_	_
-17	―	―	PUNCT	補助記号-一般	_	26	punct	_	SpaceAfter=No
+17	―	―	PUNCT	記号	_	26	punct	_	SpaceAfter=No
 18	民族	民族	NOUN	名詞-普通名詞-一般	_	21	compound	_	SpaceAfter=No
 19	共生	共生	NOUN	名詞-普通名詞-サ変可能	_	21	compound	_	SpaceAfter=No
 20	象徴	象徴	NOUN	名詞-普通名詞-サ変可能	_	21	compound	_	SpaceAfter=No
 21	空間	空間	NOUN	名詞-普通名詞-一般	_	26	nmod	_	SpaceAfter=No
-22	(	（	PUNCT	補助記号-括弧開	_	23	punct	_	SpaceAfter=No
+22	(	（	PUNCT	記号	_	23	punct	_	SpaceAfter=No
 23	ウポポイ	Upopoy	PROPN	固有名詞	_	21	appos	_	SpaceAfter=No
-24	)	）	PUNCT	補助記号-括弧閉	_	23	punct	_	SpaceAfter=No
+24	)	）	PUNCT	記号	_	23	punct	_	SpaceAfter=No
 25	の	の	ADP	助詞-格助詞	_	21	case	_	SpaceAfter=No
 26	ことば	言葉	NOUN	名詞-普通名詞-一般	_	16	parataxis	_	SpaceAfter=No
 27	と	と	ADP	助詞-格助詞	_	26	case	_	SpaceAfter=No
 28	歴史	歴史	NOUN	名詞-普通名詞-一般	_	26	conj	_	SpaceAfter=No
-29	―	―	PUNCT	補助記号-一般	_	26	punct	_	SpaceAfter=No
+29	―	―	PUNCT	記号	_	26	punct	_	SpaceAfter=No
 30	』	"	PUNCT	記号	_	16	punct	_	_
 31	セコㇿ	sekor	SCONJ	接続詞	_	11	case	_	_
 32	チ	ci=	PART	人称接辞	_	33	nsubj	_	SpaceAfter=No
