@@ -1,2 +1,21 @@
-# text = イギリス ウン ロンドン オッタ アン 大英博物館 セコㇿ レヘ アン イコロマケンル アン, オロ タ 2019 パ 5 チュㇷ゚ ワノ, “The Citi exhibition Manga マンガ” セコㇿ ネ ワ, アシㇼパ ノカ キービジュアル ネ アカㇻ ルウェ ネ.
+# text = イギリス ウン ロンドン オッタ アン 大英博物館 セコㇿ レヘ アン イコロマケンル アン.
+1	イギリス	England	PROPN	固有名詞	_	3	nmod	_	_
+2	ウン	un	ADP	格助詞	_	1	case	_	_
+3	ロンドン	London	PROPN	固有名詞	_	4	nmod	_	_
+4	オッ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
+5	タ	ta	ADP	格助詞	_	4	case	_	_
+6	アン	an	VERB	自動詞	_	17	advcl	_	_
+7	大	大	NOUN	接頭辞	_	10	compound	_	_
+8	英	英	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
+9	博物	博物	NOUN	名詞-普通名詞-一般	_	10	compound	_	_
+10	館	館	NOUN	接尾辞-名詞的-一般	_	12	nmod	_	_
+11	セコㇿ	sekor	SCONJ	接続詞	_	10	case	_	_
+12	レヘ	réhe	NOUN	名詞	_	13	nsubj	_	_
+13	アン	an	VERB	自動詞	_	16	acl	_	_
+14-16	イコロマケンル	_	_	_	_	_	_	_	_
+14	イコㇿ	ikor	NOUN	名詞	_	15	nsubj	_	SpaceAfter=No
+15	オマ	oma	VERB	他動詞	_	16	acl	_	_
+16	ケンル	kenru	NOUN	名詞	_	17	nsubj	_	_
+17	アン	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	記号	_	17	punct	_	_
 
