@@ -13,13 +13,13 @@
 12	ヌイェ	nuye	VERB	他動詞	_	13	acl	_	SpaceAfter=No
 13	ㇷ゚	-p	PART	接尾辞	_	28	nsubj	_	SpaceAfter=No
 14	(	(	PUNCT	記号	_	25	punct	_	SpaceAfter=No
-15	ト゚	tu	SYM	_	_	25	obj	_	SpaceAfter=No
+15	ト゚	tu	SYM	文字	_	25	obj	_	SpaceAfter=No
 16	,	,	PUNCT	記号	_	15	punct	_	_
-17	ㇰ	-k	SYM	_	_	15	conj	_	SpaceAfter=No
+17	ㇰ	-k	SYM	文字	_	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	記号	_	17	punct	_	_
-19	ㇷ゚	-p	SYM	_	_	15	conj	_	SpaceAfter=No
+19	ㇷ゚	-p	SYM	文字	_	15	conj	_	SpaceAfter=No
 20	,	,	PUNCT	記号	_	19	punct	_	_
-21	ㇵ	-h	SYM	_	_	15	conj	_	SpaceAfter=No
+21	ㇵ	-h	SYM	文字	_	15	conj	_	SpaceAfter=No
 22	,	,	PUNCT	記号	_	21	punct	_	_
 23	ウサ	usa	ADP	副助詞	_	21	case	_	_
 24	ア	a=	PART	人称接辞	_	25	nsubj	_	SpaceAfter=No
