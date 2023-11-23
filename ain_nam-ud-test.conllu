@@ -1451,7 +1451,7 @@
 15	キ	ki	VERB	他動詞	_	30	advcl	_	_
 16	ノ	no	SCONJ	接続助詞	_	15	mark	_	SpaceAfter=No
 17	,	,	PUNCT	記号	_	15	punct	_	_
-18	英語	英語	NOUN	名詞-普通名詞-一般	_	27	nsubj	_	SpaceAfter=No
+18	英語	英語	NOUN	名詞-普通名詞-一般	_	30	obl	_	SpaceAfter=No
 19	,	,	PUNCT	記号	_	18	punct	_	_
 20	中国	中国	PROPN	名詞-固有名詞-地名-国	_	21	compound	_	SpaceAfter=No
 21	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
@@ -1459,9 +1459,9 @@
 23	韓国	韓国	PROPN	名詞-固有名詞-地名-国	_	24	compound	_	SpaceAfter=No
 24	語	語	NOUN	名詞-普通名詞-一般	_	18	conj	_	SpaceAfter=No
 25	,	,	PUNCT	記号	_	24	punct	_	_
-26	ウサ	usa	ADP	副助詞	_	18	case	_	_
+26	ウサ	usa	ADV	副詞	_	27	advmod	_	_
 27	オカイ	okay	VERB	自動詞	_	28	acl	_	_
-28	イタㇰ	itak	NOUN	名詞	_	30	obj	_	_
+28	イタㇰ	itak	NOUN	名詞	_	18	conj	_	_
 29	アニ	ani	PART	人称接辞	_	28	case	_	_
 30	ヌカㇻ	nukar	VERB	他動詞	_	47	advcl	_	_
 31	エアㇱカイ	easkay	AUX	助動詞	_	30	aux	_	_
@@ -1506,10 +1506,83 @@
 18	.	.	PUNCT	記号	_	17	punct	_	_
 
 # text = オロ タ 2019 パ 5 チュㇷ゚ ワノ, “The Citi exhibition Manga マンガ” セコㇿ ネ ワ, アシㇼパ ノカ キービジュアル ネ アカㇻ ルウェ ネ.
+1	オロ	oro	NOUN	位置名詞	_	26	obl	_	_
+2	タ	ta	ADP	格助詞	_	1	case	_	_
+3	2019	2019	NUM	数詞	_	4	nummod	_	_
+4	パ	pa	NOUN	名詞	_	6	compound	_	_
+5	5	5	NUM	数詞	_	6	nummod	_	_
+6	チュㇷ゚	cup	NOUN	名詞	_	26	obl	_	_
+7	ワノ	wano	ADP	格助詞	_	6	case	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	6	punct	_	_
+9	“	"	PUNCT	記号	_	12	punct	_	SpaceAfter=No
+10	The	The	X	_	_	12	det	_	_
+11	Citi	Citi	X	_	_	12	nmod	_	_
+12	exhibition	Exhibition	X	_	_	26	advcl	_	_
+13	Manga	Manga	X	_	_	12	nmod	_	_
+14	マンガ	Manga	NOUN	名詞	_	13	appos	_	SpaceAfter=No
+15	”	"	PUNCT	記号	_	12	punct	_	_
+16	セコㇿ	sekor	SCONJ	接続詞	_	12	case	_	_
+17	ネ	ne	AUX	デアル動詞	_	12	cop	_	_
+18	ワ	wa	PART	終助詞	_	12	mark	_	SpaceAfter=No
+19	,	,	PUNCT	記号	_	12	punct	_	_
+20	アシㇼパ	Asirpa	PROPN	固有名詞	_	21	nmod	_	_
+21	ノカ	noka	NOUN	名詞	_	23	nsubj	_	_
+22	キー	Key	X	_	_	23	nmod	_	SpaceAfter=No
+23	ビジュアル	Visual	X	_	_	26	ccomp	_	_
+24	ネ	ne	AUX	デアル動詞	_	23	case	_	_
+25	ア	a=	PART	人称接辞	_	26	nsubj	_	SpaceAfter=No
+26	カㇻ	kar	VERB	他動詞	_	27	acl	_	_
+27	ルウェ	ruwe	NOUN	形式名詞	_	0	root	_	_
+28	ネ	ne	AUX	デアル動詞	_	27	cop	_	SpaceAfter=No
+29	.	.	PUNCT	記号	_	27	punct	_	_
 
 # text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
+1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+3	カムイ	kamuy	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	オッ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+6	タ	ta	ADP	格助詞	_	5	case	_	_
+7	アイヌ	aynu	NOUN	名詞	_	10	obj	_	_
+8	パテㇰ	patek	SCONJ	後置副詞	_	7	case	_	_
+9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ヌイェ	nuye	VERB	他動詞	_	13	ccomp	_	_
+11	カ	ka	ADP	副助詞	_	10	mark	_	_
+12	ソモ	somo	ADV	副詞	_	13	advmod	_	_
+13	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
 
 # text = ウライケ ウタㇻ, マチヤ オルン ウタㇻ, レプンクㇽ ウタㇻ, ニヴフ ネ ヤ, ウイルタ ネ ヤ, ウサ オカ ヤンケモシㇼ ウン クㇽ アヌイェ.
+1	ウライケ	urayke	VERB	自動詞	_	2	amod	_	_
+2	ウタㇻ	utar	NOUN	名詞	_	28	dislocated	_	SpaceAfter=No
+3	,	,	PUNCT	記号	_	2	punct	_	_
+4	マチヤ	maciya	NOUN	名詞	_	5	nmod	_	_
+5-6	オルン	_	_	_	_	_	_	_	_
+5	オㇿ	or	NOUN	位置名詞	_	7	nmod	_	_
+6	ウン	un	ADP	格助詞	_	5	case	_	_
+7	ウタㇻ	utar	NOUN	名詞	_	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	記号	_	7	punct	_	_
+9	レプン	repun	DET	連体詞	_	10	det	_	SpaceAfter=No
+10	クㇽ	kur	NOUN	名詞	_	11	nmod	_	_
+11	ウタㇻ	utar	NOUN	名詞	_	2	conj	_	SpaceAfter=No
+12	,	,	PUNCT	記号	_	11	punct	_	_
+13	ニヴフ	Nivkh	PROPN	固有名詞	_	28	advcl	_	_
+14	ネ	ne	AUX	デアル動詞	_	13	cop	_	_
+15	ヤ	ya	SCONJ	接続助詞	_	13	mark	_	SpaceAfter=No
+16	,	,	PUNCT	記号	_	13	punct	_	_
+17	ウイルタ	Uilta	PROPN	固有名詞	_	28	advcl	_	_
+18	ネ	ne	AUX	デアル動詞	_	17	cop	_	_
+19	ヤ	ya	SCONJ	接続助詞	_	17	mark	_	SpaceAfter=No
+20	,	,	PUNCT	記号	_	17	punct	_	_
+21	ウサ	usa	ADV	副詞	_	22	advmod	_	_
+22	オカ	oka	VERB	自動詞	_	26	acl	_	_
+23	ヤンケ	yanke	VERB	他動詞	_	24	acl	_	SpaceAfter=No
+24	モシㇼ	mosir	NOUN	名詞	_	26	nmod	_	_
+25	ウン	un	ADP	格助詞	_	24	case	_	_
+26	クㇽ	kur	NOUN	名詞	_	28	obj	_	_
+27	ア	a=	PART	人称接辞	_	28	nsubj	_	SpaceAfter=No
+28	ヌイェ	nuye	VERB	他動詞	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	記号	_	28	punct	_	_
 
 # text = ウサ オカ プリ コㇿ ウタㇻ オカ ワ, ネイタ ウレㇱパ コラチ ミピヒ カ ウニヒ カ アエイワンケㇷ゚ カ 野田ニㇱパ エヤㇺノ ヌイェ ワ アン ルウェ ネ.
 
