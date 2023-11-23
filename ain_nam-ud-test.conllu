@@ -1330,7 +1330,7 @@
 10	オッ	or	NOUN	位置名詞	_	17	obl	_	SpaceAfter=No
 11	タ	ta	ADP	格助詞	_	10	case	_	_
 12	「	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
-13	人間	ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
+13	人間	Ningen	NOUN	名詞	_	17	obl	_	SpaceAfter=No
 14	」	"	PUNCT	記号	_	13	punct	_	SpaceAfter=No
 15	アリ	ari	SCONJ	接続助詞	_	13	case	_	_
 16	ア	a=	PART	人称接辞	_	17	nsubj	_	SpaceAfter=No
@@ -1740,6 +1740,17 @@
 2	イタク	itak	NOUN	名詞	_	0	root	_	_
 
 # text = ウポポイ オルン エチシネウパ クス イランカラㇷ゚テ チキ ナ。
+1	ウポポイ	Upopoy	PROPN	固有名詞	_	2	nmod	_	_
+2-3	オルン	_	_	_	_	_	_	_	_
+2	オㇿ	or	NOUN	位置名詞	_	5	obl	_	_
+3	ウン	un	ADP	格助詞	_	2	case	_	_
+4	エチ	eci=	PART	人称接辞	_	5	nsubj	_	SpaceAfter=No
+5	シネウパ	sinewpa	VERB	自動詞	_	7	advcl	_	_
+6	クス	kusu	SCONJ	接続詞	_	5	mark	_	_
+7	イランカラㇷ゚テ	irankarapte	INTJ	間投詞	_	0	root	_	_
+8	チキ	ciki	SCONJ	接続助詞	_	7	mark	_	_
+9	ナ	na	PART	終助詞	_	7	discourse	_	SpaceAfter=No
+10	。	.	PUNCT	記号	_	7	punct	_	_
 
 # text = アヌココㇿ アイヌ イコロマケンル 第4回特別展示「CHIRI MASHIHO 知里真志保 ― アイヌ語研究にかけた熱意 ―」アリ チレコ ワ オロタ エチエカノㇰアㇱ ナ。
 
