@@ -1,2 +1,16 @@
 # text = 『ゴールデンカムイ』オッタ アイヌ パテㇰ アヌイェ カ ソモ キ.
+1	『	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+2	ゴールデン	Golden	X	_	_	3	amod	_	SpaceAfter=No
+3	カムイ	kamuy	NOUN	名詞	_	5	nmod	_	SpaceAfter=No
+4	』	"	PUNCT	記号	_	3	punct	_	SpaceAfter=No
+5	オッ	or	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
+6	タ	ta	ADP	格助詞	_	5	case	_	_
+7	アイヌ	aynu	NOUN	名詞	_	10	obj	_	_
+8	パテㇰ	patek	SCONJ	後置副詞	_	7	case	_	_
+9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
+10	ヌイェ	nuye	VERB	他動詞	_	13	ccomp	_	_
+11	カ	ka	ADP	副助詞	_	10	mark	_	_
+12	ソモ	somo	ADV	副詞	_	13	advmod	_	_
+13	キ	ki	VERB	他動詞	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	記号	_	13	punct	_	_
 
