@@ -1,2 +1,3 @@
 # text = ウエランカラㇷ゚
+1	ウエランカラㇷ゚	uwerankarap	VERB	自動詞	_	0	root	_	_
 

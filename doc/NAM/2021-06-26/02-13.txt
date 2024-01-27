@@ -13,10 +13,10 @@
 10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
-13	サパネクㇽ	sapanekur	NOUN	名詞	_	17	nsubj	_	_
+13	サパネクㇽ	sapanekur	NOUN	名詞	_	0	root	_	_
 14	佐々木	Sasaki	PROPN	固有名詞	_	13	flat	_	SpaceAfter=No
 15	史郎	Shiro	PROPN	固有名詞	_	13	flat	_	SpaceAfter=No
 16	(	"	PUNCT	記号	_	17	punct	_	SpaceAfter=No
-17	エトゥナンカㇻ	etunankar	VERB	他動詞	_	0	root	_	SpaceAfter=No
+17	エトゥナンカㇻ	etunankar	PROPN	固有名詞	_	13	flat	_	SpaceAfter=No
 18	)	"	PUNCT	記号	_	17	punct	_	_
 

@@ -14,6 +14,6 @@
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
 13	サパネクㇽ	sapanekur	NOUN	名詞	_	0	root	_	_
-14	佐々木	ササキ	PROPN	名詞-固有名詞-人名-姓	_	13	flat	_	_
-15	史郎	シロウ	PROPN	名詞-固有名詞-人名-名	_	13	flat	_	_
+14	佐々木	Sasaki	PROPN	固有名詞	_	13	flat	_	_
+15	史郎	Shiro	PROPN	固有名詞	_	13	flat	_	_
 

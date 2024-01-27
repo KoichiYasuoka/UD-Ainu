@@ -13,6 +13,6 @@
 10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
 11	オマ	oma	VERB	他動詞	_	12	acl	_	_
 12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
-13	サパネクㇽ	sapanekur	NOUN	名詞	_	14	nsubj	_	_
-14	エトゥナンカㇻ	etunankar	VERB	他動詞	_	0	root	_	_
+13	サパネクㇽ	sapanekur	NOUN	名詞	_	0	root	_	_
+14	エトゥナンカㇻ	etunankar	PROPN	固有名詞	_	13	flat	_	_
 
