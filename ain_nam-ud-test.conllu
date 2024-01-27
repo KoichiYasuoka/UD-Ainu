@@ -1300,7 +1300,7 @@
 3	4	4	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
 5	24	24	NUM	数詞	_	6	nummod	_	SpaceAfter=No
-6	ト	to	NOUN	名詞	_	14	obl	_	_
+6	ト	to	NOUN	名詞	_	13	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
@@ -1680,7 +1680,7 @@
 3	6	6	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
 5	26	26	NUM	数詞	_	6	nummod	_	SpaceAfter=No
-6	ト	to	NOUN	名詞	_	17	obl	_	_
+6	ト	to	NOUN	名詞	_	13	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
@@ -1842,7 +1842,7 @@
 3	6	6	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
 5	25	25	NUM	数詞	_	6	nummod	_	SpaceAfter=No
-6	ト	to	NOUN	名詞	_	14	obl	_	_
+6	ト	to	NOUN	名詞	_	13	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
@@ -2086,7 +2086,7 @@
 9	ヌカレ	nukare	VERB	他動詞	_	0	root	_	SpaceAfter=No
 10	。	.	PUNCT	記号	_	9	punct	_	_
 
-# text = イマカケタ アヌココㇿ アイヌ イコロマケンル アカㇻ パクノ 東京 札幌 白老 オッタ 「国立アイヌ民族博物館設立準備室」 アン ワ ネヒタ イコㇿ トゥンプ オッタ イコㇿ ネヤ カンピソㇱ ネヤ イノカ ネヤ ウサ オカイ ペ チウォエロㇱキ エトコイキ カトゥ エチヌカレ ルウェ ネ。
+# text = イマカケタ アヌココㇿ アイヌ イコロマケンル アカㇻ パㇰノ 東京 札幌 白老 オッタ 「国立アイヌ民族博物館設立準備室」 アン ワ ネヒタ イコㇿ トゥンプ オッタ イコㇿ ネヤ カンピソㇱ ネヤ イノカ ネヤ ウサ オカイ ペ チウォエロㇱキ エトコイキ カトゥ エチヌカレ ルウェ ネ。
 1	イマカケ	imakake	NOUN	位置名詞	_	50	obl	_	SpaceAfter=No
 2	タ	ta	ADP	格助詞	_	1	case	_	_
 3-4	アヌココㇿ	_	_	_	_	_	_	_	_
@@ -2099,7 +2099,7 @@
 8	ケンル	kenru	NOUN	名詞	_	9	nmod	_	_
 9	ア	a=	PART	人称接辞	_	10	nsubj	_	SpaceAfter=No
 10	カㇻ	kar	VERB	他動詞	_	50	advcl	_	_
-11	パクノ	pakuno	SCONJ	接続助詞	_	10	mark	_	_
+11	パㇰノ	pakno	SCONJ	後置副詞	_	10	mark	_	_
 12	東京	Tokyo	PROPN	固有名詞	_	15	nmod	_	_
 13	札幌	Satporo	PROPN	固有名詞	_	12	conj	_	_
 14	白老	Siraoy	PROPN	固有名詞	_	12	conj	_	_
@@ -2221,7 +2221,7 @@
 3	12	12	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
 5	13	13	NUM	数詞	_	6	nummod	_	SpaceAfter=No
-6	ト	to	NOUN	名詞	_	14	obl	_	_
+6	ト	to	NOUN	名詞	_	13	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
@@ -2288,7 +2288,7 @@
 3	6	6	NUM	数詞	_	4	nummod	_	SpaceAfter=No
 4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
 5	24	24	NUM	数詞	_	6	nummod	_	SpaceAfter=No
-6	ト	to	NOUN	名詞	_	14	obl	_	_
+6	ト	to	NOUN	名詞	_	13	obl	_	_
 7-8	アヌココㇿ	_	_	_	_	_	_	_	_
 7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
 8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
