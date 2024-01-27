@@ -14,11 +14,29 @@ nam.init=function(){
   t.style.position="static";
   t.style.visibility="hidden";
   document.body.appendChild(t);
+  nam.checkURL();
   nam.svg=new Array();
   nam.pre=new Array();
   nam.dirs=new Array();
   nam.timer=setTimeout("clearTimeout(nam.timer);nam.checkview()",200);
   nam.volchange();
+}
+nam.checkURL=function(){
+  var h=location.href;
+  var i=h.indexOf("#");
+  var s;
+  if(0>i)
+    return;
+  if(1>h.length-i)
+    return;
+  h=decodeURIComponent(h.slice(i+1));
+  s=document.getElementById("vol");
+  for(i=0;i<s.length;i++){
+    if(s.options[i].value.indexOf(h)>=0){
+      s.selectedIndex=i;
+      return;
+    }
+  }
 }
 nam.checkview=function(){
   var t,r,b,i;
