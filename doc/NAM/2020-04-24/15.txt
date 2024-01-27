@@ -1,0 +1,19 @@
+# text = 2020パ 4チュㇷ゚ 24ト アヌココㇿ アイヌ イコロマケンル サパネクㇽ 佐々木 史郎
+1	2020	2020	NUM	数詞	_	2	nummod	_	SpaceAfter=No
+2	パ	pa	NOUN	名詞	_	6	compound	_	_
+3	4	4	NUM	数詞	_	4	nummod	_	SpaceAfter=No
+4	チュㇷ゚	cup	NOUN	名詞	_	6	compound	_	_
+5	24	24	NUM	数詞	_	6	nummod	_	SpaceAfter=No
+6	ト	to	NOUN	名詞	_	14	obl	_	_
+7-8	アヌココㇿ	_	_	_	_	_	_	_	_
+7	アン	an=	PART	人称接辞	_	8	nsubj	_	_
+8	ウココㇿ	ukokor	VERB	他動詞	_	12	acl	_	_
+9	アイヌ	aynu	NOUN	名詞	_	10	nmod	_	_
+10-11	イコロマ	_	_	_	_	_	_	_	SpaceAfter=No
+10	イコㇿ	ikor	NOUN	名詞	_	11	nsubj	_	_
+11	オマ	oma	VERB	他動詞	_	12	acl	_	_
+12	ケンル	kenru	NOUN	名詞	_	13	nmod	_	_
+13	サパネクㇽ	sapanekur	NOUN	名詞	_	0	root	_	_
+14	佐々木	ササキ	PROPN	名詞-固有名詞-人名-姓	_	13	flat	_	_
+15	史郎	シロウ	PROPN	名詞-固有名詞-人名-名	_	13	flat	_	_
+
