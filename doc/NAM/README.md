@@ -12,3 +12,5 @@
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2022-12-13)
 * 2023-06-24 “アウタリオピッタ”
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2023-06-24)
+* 2023-09-16 考古学と歴史学からみるアイヌ史展
+  - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2023-09-16)
