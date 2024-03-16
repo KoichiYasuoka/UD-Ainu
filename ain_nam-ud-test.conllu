@@ -2397,3 +2397,50 @@
 
 # text = アヌココㇿ アイヌ イコロマケンル サパネクㇽ エトゥナンカㇻ
 
+# text = uwerankarap
+1	uwerankarap	uwerankarap	VERB	自動詞	_	0	root	_	_
+
+# text = irankarapte.
+1	irankarapte	irankarapte	INTJ	間投詞	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	記号	_	1	punct	_	_
+
+# text = tan ikor tunpu or un eci=arki wa c=eyaykopuntek.
+
+# text = iyayraykere.
+
+# text = an=ukokor aynu ikor oma kenru ‘a cooperative exhibition by the National Ainu Museum's Punkar network, The World of Ainu Architecture and Crafts ― cise, makiri, attus,’ sekor ci=reko wa oro ta eci=ekanok.
+
+# text = tane ‘National Archives of Modern Architecture’ or ta aynu puri pirkano eci=nukare easkay.
+
+# text = hoskino, ‘National Archives of Modern Architecture’ sonno ci=koyayrayke na.
+
+# text = tan tunpu or ta teeta cise noka ne ya a=eyayramekotep ne ya inomi or ta a=eywankep ne ya cikuni ani a=kar usa oka ikor ci=woeroski wa eci=nukare ruwe ne.
+
+# text = yaunmosir ta hetukpa wa a=eywanke cikuni ka kina ka eci=nukare.
+
+# text = teeta wano cikuni ani a=kar usa okay pe a=eywanke kor oka=an ruwe ne.
+
+# text = cise anakne oro ta hetukpa=an ka ki, oka=an ka ki, nepki=an ka ki kamuykoytak=an ka ki uske ne ruwe ne.
+
+# text = teeta aynu utar ciseni ani cise kar.
+
+# text = makiri ani aynu ni kewre wa nuye wa ita ne ya itanki ne ya pera ne ya a=eyayramekotep kar ruwe ne.
+
+# text = inaw ne ya ikupasuy ne ya inomi or ta a=eywankep ne ya cikuni ani aynu kar.
+
+# text = usa at usa nipes ani attus amip kar.
+
+# text = cikuni anakne ramat kor pe ne wa kamuy ne.
+
+# text = ne wa an cikuni ani a=kar pe a=eywanke wa kamuy turano tane ne yakka oka=an ruwe ne.
+
+# text = tan ‘cooperative exhibition’ or ta anakne yaunmosir un re ‘museum’ turano an=ukokor aynu ikor oma kenru utaspano uwowpekare wa usa oka aynu ikor uwekarpare wa eci=nukare.
+
+# text = ne wa an ‘exhibition’ ani aynu puri irammakaka eci=eramuoka wa un=kore yak pirka nankor.
+
+# text = iyotta iyosno, eukasuy utar opitta, sonno ci=koyayrayke hawe ne na.
+
+# text = 2024 pa 3 cup 1 to
+
+# text = an=ukokor aynu ikor oma kenru sapanekur etunankar
+
