@@ -1,0 +1,3 @@
+# text = uwerankarap
+1	uwerankarap	uwerankarap	VERB	自動詞	_	0	root	_	_
+

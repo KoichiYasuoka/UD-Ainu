@@ -14,3 +14,5 @@
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2023-06-24)
 * 2023-09-16 考古学と歴史学からみるアイヌ史展
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2023-09-16)
+* 2024-03-01 アイヌの建築と工芸の世界
+  - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2024-03-01)
