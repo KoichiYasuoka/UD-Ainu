@@ -1825,10 +1825,10 @@
 10	特別	特別	NOUN	名詞-普通名詞-一般	_	11	compound	_	SpaceAfter=No
 11	展示	展示	NOUN	名詞-普通名詞-サ変可能	_	29	obj	_	SpaceAfter=No
 12	「	「	PUNCT	補助記号-括弧開	_	13	punct	_	SpaceAfter=No
-13	CHIRI	CHIRI	PROPN	名詞-固有名詞-人名-姓	_	11	appos	_	_
-14	MASHIHO	MASHIHO	PROPN	名詞-固有名詞-人名-名	_	13	flat	_	_
-15	知里	チリ	PROPN	名詞-固有名詞-人名-姓	_	13	appos	_	SpaceAfter=No
-16	真志保	マシホ	PROPN	名詞-固有名詞-人名-名	_	15	flat	_	_
+13	CHIRI	Chiri	PROPN	固有名詞	_	11	appos	_	_
+14	MASHIHO	Mashiho	PROPN	固有名詞	_	13	flat	_	_
+15	知里	Chiri	PROPN	固有名詞	_	13	appos	_	SpaceAfter=No
+16	真志保	Mashiho	PROPN	固有名詞	_	15	flat	_	_
 17	―	―	PUNCT	補助記号-一般	_	24	punct	_	_
 18	アイヌ	アイヌ	PROPN	名詞-固有名詞-一般	_	19	compound	_	SpaceAfter=No
 19	語	語	NOUN	名詞-普通名詞-一般	_	20	nmod	_	SpaceAfter=No
