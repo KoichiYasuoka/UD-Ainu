@@ -28504,8 +28504,8 @@
 
 # text_ja = 何故汝は慾張るか
 # text = Hemanda e ikaoingarauship hawe an?
-1	Hemanda	hemanta	NOUN	名詞	_	3	obl	_	_
-2	e	e=	PART	人称接辞	_	3	nsubj	_	_
+1	Hemanda	hemanta	NOUN	名詞	_	4	obl	_	_
+2	e	e=	PART	人称接辞	_	4	nsubj	_	_
 3	ika	ika	NOUN	位置名詞	_	4	obj	_	SpaceAfter=No
 4	oingara	oinkar	VERB	自動詞	_	5	acl	_	SpaceAfter=No
 5	ushi	usi	NOUN	形式名詞	_	6	nmod	_	SpaceAfter=No
