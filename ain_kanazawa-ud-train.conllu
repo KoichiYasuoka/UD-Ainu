@@ -5649,14 +5649,14 @@
 
 # text_ja = カゲンヲミル
 # text = Sapkere.
-1	Sapkere	sapkere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+1	Sapkere	sapke-re	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 一寸加減を見さして吳れ
 # text = Ponno en sapkere.
 1	Ponno	ponno	ADV	副詞	_	3	advmod	_	_
-2	en	en=	PART	人称接辞	_	3	obj	_	_
-3	sapkere	sapkere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	en	en=	PART	人称接辞	_	3	iobj	_	_
+3	sapkere	sapke-re	VERB	他動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = カゴ(籠)
@@ -13279,8 +13279,8 @@
 # text_ja = 一寸加減を見せよ
 # text = Ponno en sapkere.
 1	Ponno	ponno	ADV	副詞	_	3	advmod	_	_
-2	en	en=	PART	人称接辞	_	3	obj	_	_
-3	sapkere	sapkere	VERB	他動詞	_	0	root	_	SpaceAfter=No
+2	en	en=	PART	人称接辞	_	3	iobj	_	_
+3	sapkere	sapke-re	VERB	他動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = ダク(抱く)
