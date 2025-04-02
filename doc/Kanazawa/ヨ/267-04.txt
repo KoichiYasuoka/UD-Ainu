@@ -1,6 +1,8 @@
 # text_ja = ヨクバル(慾張)
 # text = Ikaoingarauship.
-1	Ikaoingaraushi	ikaoinkar'us	VERB	自動詞	_	2	amod	_	SpaceAfter=No
-2	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	記号	_	2	punct	_	_
+1	Ika	ika	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	oingara	oinkar	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	ushi	usi	NOUN	形式名詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
 
