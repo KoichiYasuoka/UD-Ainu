@@ -1,12 +1,13 @@
 # text_ja = あるなら遠慮せずに云うて下さい
 # text = An chiki, iteki rauke an no en teshko.
-1	An	an	VERB	自動詞	_	8	advcl	_	_
+1	An	an	VERB	自動詞	_	9	advcl	_	_
 2	chiki	ciki	SCONJ	接続助詞	_	1	mark	_	SpaceAfter=No
 3	,	,	PUNCT	記号	_	1	punct	_	_
-4	iteki	iteki	ADV	副詞	_	5	advmod	_	_
-5	rauke an	rawkean	VERB	自動詞	_	8	advcl	_	_
-6	no	no	SCONJ	接続助詞	_	5	mark	_	_
-7	en	en=	PART	人称接辞	_	8	obj	_	_
-8	teshko	tesko	VERB	他動詞	_	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	記号	_	8	punct	_	_
+4	iteki	iteki	ADV	副詞	_	6	advmod	_	_
+5	rauke	rawke	NOUN	位置名詞	_	6	obl	_	_
+6	an	an	VERB	自動詞	_	9	advcl	_	_
+7	no	no	SCONJ	接続助詞	_	6	mark	_	_
+8	en	en=	PART	人称接辞	_	9	obj	_	_
+9	teshko	tesko	VERB	他動詞	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	記号	_	9	punct	_	_
 
