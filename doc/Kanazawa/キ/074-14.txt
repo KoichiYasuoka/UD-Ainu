@@ -1,6 +1,7 @@
 # text_ja = キット
 # text = Oheuge sakno.
-1	Oheuge	ohewke	VERB	自動詞	_	2	amod	_	_
-2	sakno	sakno	ADV	副詞	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	記号	_	2	punct	_	_
+1	Oheuge	ohewke	NOUN	名詞	_	2	obj	_	_
+2	sak	sak	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	no	no	SCONJ	接続助詞	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	2	punct	_	_
 
