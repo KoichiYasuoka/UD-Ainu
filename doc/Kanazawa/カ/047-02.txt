@@ -2,8 +2,8 @@
 # text = Heyashi ku ingarabe koro ku yainu.
 1	Heyashi	heyasi	ADV	副詞	_	3	advmod	_	_
 2	ku	ku=	PART	人称接辞	_	3	nsubj	_	_
-3	ingarabe	inkar	VERB	自動詞	_	6	advcl	_	_
-4	koro	pékor	SCONJ	接続助詞	_	3	mark	_	_
+3	ingara	inkar	VERB	自動詞	_	6	advcl	_	SpaceAfter=No
+4	be koro	pékor	SCONJ	接続助詞	_	3	mark	_	_
 5	ku	ku=	PART	人称接辞	_	6	nsubj	_	_
 6	yainu	yaynu	VERB	自動詞	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	記号	_	6	punct	_	_
