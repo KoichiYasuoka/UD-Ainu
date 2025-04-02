@@ -2,7 +2,7 @@
 # text = Hotuyekara; Utakara; Tak.
 1	Hotuyekara	hotuyekar	VERB	他動詞	_	0	root	_	SpaceAfter=No
 2	;	;	PUNCT	記号	_	1	punct	_	_
-3	Utakara	utakar	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
+3	Utakara	u-tak-ar	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
 4	;	;	PUNCT	記号	_	3	punct	_	_
 5	Tak	tak	VERB	他動詞	_	1	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	記号	_	5	punct	_	_
