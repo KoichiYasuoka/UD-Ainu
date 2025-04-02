@@ -5450,7 +5450,7 @@
 1	Usa	usa	DET	連体詞	_	2	det	_	_
 2	okaibe	okaype	NOUN	名詞	_	4	obj	_	_
 3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
-4	komonush	komonus	VERB	他動詞	_	8	advcl	_	_
+4	komonush	ko-monasap	VERB	他動詞	_	8	advcl	_	_
 5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
 6	tane	tane	ADV	副詞	_	8	advmod	_	_
 7	ku	ku=	PART	人称接辞	_	8	nsubj	_	_
@@ -5459,7 +5459,7 @@
 
 # text_ja = カエリミル(顧)
 # text = Hosare wa ingara.
-1	Hosare	hosare	VERB	自動詞	_	3	advcl	_	_
+1	Hosare	hosari	VERB	自動詞	_	3	advcl	_	_
 2	wa	wa	SCONJ	接続助詞	_	1	mark	_	_
 3	ingara	inkar	VERB	自動詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
@@ -17788,7 +17788,7 @@
 1	Usa	usa	DET	連体詞	_	2	det	_	_
 2	okaibe	okaype	NOUN	名詞	_	4	obj	_	_
 3	ku	ku=	PART	人称接辞	_	4	nsubj	_	_
-4	komonush	komonus	VERB	他動詞	_	10	advcl	_	_
+4	komonush	ko-monasap	VERB	他動詞	_	10	advcl	_	_
 5	wa	wa	SCONJ	接続助詞	_	4	mark	_	_
 6	ohonno	ohonno	ADV	副詞	_	10	advmod	_	_
 7	te	te	NOUN	位置名詞	_	10	obl	_	SpaceAfter=No
@@ -18263,7 +18263,7 @@
 1	Nep	nep	NOUN	名詞	_	4	obl	_	SpaceAfter=No
 2	ka	ka	ADP	副助詞	_	1	case	_	_
 3	e	e=	PART	人称接辞	_	4	nsubj	_	_
-4	komonush	komonus	VERB	他動詞	_	5	acl	_	SpaceAfter=No
+4	komonush	ko-monasap	VERB	他動詞	_	5	acl	_	SpaceAfter=No
 5	pe	pe	NOUN	形式名詞	_	6	nsubj	_	_
 6	isam	isam	VERB	自動詞	_	7	acl	_	_
 7	ruwe	ruwe	NOUN	形式名詞	_	9	nsubj	_	_
