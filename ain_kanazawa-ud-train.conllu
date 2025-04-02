@@ -23757,8 +23757,10 @@
 
 # text_ja = ホシガル(欲)
 # text = Ikaoingaraush.
-1	Ikaoingaraush	ikaoinkar'us	VERB	自動詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Ika	ika	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	oingara	oinkar	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	ush	usi	NOUN	形式名詞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = ホス(干)
 # text = Asatke.
@@ -28486,24 +28488,31 @@
 
 # text_ja = ヨクバリ(慾張)
 # text = Ikaoingaraushi guru.
-1	Ikaoingaraushi	ikaoinkar'us	VERB	自動詞	_	2	amod	_	_
-2	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	記号	_	2	punct	_	_
+1	Ika	ika	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	oingara	oinkar	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	ushi	usi	NOUN	形式名詞	_	4	nmod	_	_
+4	guru	kur	NOUN	名詞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = ヨクバル(慾張)
 # text = Ikaoingarauship.
-1	Ikaoingaraushi	ikaoinkar'us	VERB	自動詞	_	2	amod	_	SpaceAfter=No
-2	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	記号	_	2	punct	_	_
+1	Ika	ika	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+2	oingara	oinkar	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	ushi	usi	NOUN	形式名詞	_	4	acl	_	SpaceAfter=No
+4	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	記号	_	4	punct	_	_
 
 # text_ja = 何故汝は慾張るか
 # text = Hemanda e ikaoingarauship hawe an?
-1	Hemanda	hemanta	NOUN	名詞	_	3	obj	_	_
+1	Hemanda	hemanta	NOUN	名詞	_	3	obl	_	_
 2	e	e=	PART	人称接辞	_	3	nsubj	_	_
-3	ikaoingarauship	ikaoinkar'us	VERB	自動詞	_	4	acl	_	_
-4	hawe	ruwe	NOUN	形式名詞	_	5	nsubj	_	_
-5	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	記号	_	5	punct	_	_
+3	ika	ika	NOUN	位置名詞	_	4	obj	_	SpaceAfter=No
+4	oingara	oinkar	VERB	自動詞	_	5	acl	_	SpaceAfter=No
+5	ushi	usi	NOUN	形式名詞	_	6	nmod	_	SpaceAfter=No
+6	p	-p	PART	接尾辞	_	7	nmod	_	_
+7	hawe	hawe	NOUN	形式名詞	_	8	nsubj	_	_
+8	an	an	VERB	自動詞	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	記号	_	8	punct	_	_
 
 # text_ja = ヨコス(寄)
 # text = Ekte.
