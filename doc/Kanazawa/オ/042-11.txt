@@ -1,5 +1,6 @@
 # text_ja = オハチ(飯櫃)
 # text = Chumbachi.
-1	Chumbachi	cumpaci(?)	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Chum	túna	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	bachi	patci	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 

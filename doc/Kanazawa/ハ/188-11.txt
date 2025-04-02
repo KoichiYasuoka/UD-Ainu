@@ -1,5 +1,6 @@
 # text_ja = ハク(掃)
 # text = Mukechirase.
-1	Mukechirase	mun'cirase	VERB	自動詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Muk	muk	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	echirase	ecarase	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 

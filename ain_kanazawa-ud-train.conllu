@@ -4493,8 +4493,9 @@
 
 # text_ja = オハチ(飯櫃)
 # text = Chumbachi.
-1	Chumbachi	cumpaci(?)	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Chum	túna	NOUN	名詞	_	2	nmod	_	SpaceAfter=No
+2	bachi	patci	NOUN	名詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = オビ(帶)
 # text = Kut.
@@ -20103,13 +20104,16 @@
 
 # text_ja = ハク(掃)
 # text = Mukechirase.
-1	Mukechirase	mun'cirase	VERB	自動詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Muk	muk	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	echirase	ecarase	VERB	他動詞	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	記号	_	2	punct	_	_
 
 # text_ja = 箒
 # text = Mukechirasep.
-1	Mukechirasep	muk'ecirasep(?)	NOUN	名詞	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	記号	_	1	punct	_	_
+1	Muk	muk	NOUN	名詞	_	2	obj	_	SpaceAfter=No
+2	echirase	ecarase	VERB	他動詞	_	3	acl	_	SpaceAfter=No
+3	p	-p	PART	接尾辞	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = ハク(穿)
 # text = Kema ush.
