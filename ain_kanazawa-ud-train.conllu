@@ -12626,7 +12626,7 @@
 # text = Setun-noshike.
 1	Setun	setur	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
 2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-3	noshike	noske	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	noshike	noski	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = 脊中を搔て吳れ
@@ -18132,7 +18132,7 @@
 # text = Sak-noshike.
 1	Sak	sak	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
 2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-3	noshike	noske	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	noshike	noski	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 
 # text_ja = 夏末
@@ -28157,7 +28157,7 @@
 
 # text_ja = 中指
 # text = Shinnoshikeushi ashkepet; Noshikike ashikepet.
-1	Shinnoshike	sinnoske	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+1	Shinnoshike	sinnoski	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
 2	ushi	us	VERB	他動詞	_	3	acl	_	_
 3	ashkepet	askepet	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	;	;	PUNCT	記号	_	3	punct	_	_
@@ -28167,7 +28167,7 @@
 
 # text_ja = 食指
 # text = Shinnoshikeun ashikepet.
-1	Shinnoshike	sinnoske	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
+1	Shinnoshike	sinnoski	NOUN	位置名詞	_	2	obj	_	SpaceAfter=No
 2	un	un	VERB	他動詞	_	3	acl	_	_
 3	ashikepet	askepet	NOUN	名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
@@ -28632,7 +28632,7 @@
 
 # text_ja = ヨナカ(夜中)
 # text = An-noshike.
-1	An-noshike	annoske	NOUN	名詞	_	0	root	_	SpaceAfter=No
+1	An-noshike	annoski	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = ヨーナ(様)
@@ -28795,7 +28795,7 @@
 
 # text_ja = 夜中
 # text = An-noshike.
-1	An-noshike	annoske	NOUN	名詞	_	0	root	_	SpaceAfter=No
+1	An-noshike	annoski	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
 # text_ja = 夜明け方

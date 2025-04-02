@@ -2,6 +2,6 @@
 # text = Setun-noshike.
 1	Setun	setur	NOUN	名詞	_	3	nmod	_	SpaceAfter=No
 2	-	-	PUNCT	記号	_	3	punct	_	SpaceAfter=No
-3	noshike	noske	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
+3	noshike	noski	NOUN	位置名詞	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	記号	_	3	punct	_	_
 

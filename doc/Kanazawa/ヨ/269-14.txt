@@ -1,5 +1,5 @@
 # text_ja = 夜中
 # text = An-noshike.
-1	An-noshike	annoske	NOUN	名詞	_	0	root	_	SpaceAfter=No
+1	An-noshike	annoski	NOUN	名詞	_	0	root	_	SpaceAfter=No
 2	.	.	PUNCT	記号	_	1	punct	_	_
 
