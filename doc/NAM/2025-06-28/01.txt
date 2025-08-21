@@ -1,0 +1,4 @@
+# doc = アイヌモシㇼ, 東京: 國學院大學博物館, 2025年6月28日
+# page = i
+# text = Uwerankarap
+
