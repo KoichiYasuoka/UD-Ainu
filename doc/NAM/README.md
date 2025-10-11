@@ -22,3 +22,5 @@
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2025-03-31)
 * 2025-06-28 アイヌモシㇼ
   - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2025-06-28)
+* 2025-07-26 ウィーン万国博覧会とアイヌ・コレクション
+  - [viewer](https://koichiyasuoka.github.io/UD-Ainu/doc/NAM/viewer.html#2025-07-26)
