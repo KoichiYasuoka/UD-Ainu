@@ -1,2 +1,2 @@
-# text = te ta okay pe ベルリン国立博物館群民族学博物館(Staatliche Museen zu Berlin, Echnologisches Museum) ドイツベルリン国立民族学博物館 or wa ci=rura ikor ne.
+# text = te ta okay pe ベルリン国立博物館群民族学博物館(Staatliche Museen zu Berlin, Ethnologisches Museum) ドイツベルリン国立民族学博物館 or wa ci=rura ikor ne.
 

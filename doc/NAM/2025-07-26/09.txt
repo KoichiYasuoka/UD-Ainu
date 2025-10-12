@@ -1,2 +1,2 @@
-# text = ora okake ta aynu ikor a=hok wa ベルリン国立博物館群民族学博物館(Staatliche Museen zu Berlin, Echnologisches Museum) ドイツベルリン国立民族学博物館or ta oka, ウィーン (Vienna) koran or un aynu ikor a=rura kor, nimaraha a=usaraye wa Tokiyo kotan ta asinno a=kar 国立博物館(national museum) or ta a=nukare kusu a=ari.
+# text = ora okake ta aynu ikor a=hok wa ベルリン国立博物館群民族学博物館(Staatliche Museen zu Berlin, Ethnologisches Museum) ドイツベルリン国立民族学博物館or ta oka, ウィーン (Vienna) kotan or un aynu ikor a=rura kor, nimaraha a=usaraye wa Tokiyo kotan ta asinno a=kar 国立博物館(national museum) or ta a=nukare kusu a=ari.
 
