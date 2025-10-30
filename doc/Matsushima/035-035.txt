@@ -1,6 +1,0 @@
-# text = 夏秋之交
-1	夏	夏	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	Gloss=summer|SpaceAfter=No
-2	秋	秋	NOUN	n,名詞,時,*	Case=Tem	1	conj	_	Gloss=autumn|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	交	交	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=cross|SpaceAfter=No
-

@@ -1,4 +1,0 @@
-# text = 配之
-1	配	配	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=distribute|SpaceAfter=No
-2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	obj	_	Gloss=[3PRON]|SpaceAfter=No
-

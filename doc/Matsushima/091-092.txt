@@ -1,7 +1,0 @@
-# text = 酒曰部幾利
-1	酒	酒	NOUN	n,名詞,可搬,糧食	_	2	nsubj	_	Gloss=alcoholic-drink|SpaceAfter=No
-2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-3	部	部	NOUN	n,名詞,主体,集団	_	5	nsubj	_	Gloss=section|SpaceAfter=No
-4	幾	幾	ADV	v,副詞,判断,推定	_	5	advmod	_	Gloss=how-many|SpaceAfter=No
-5	利	利	NOUN	n,名詞,描写,形質	_	2	ccomp	_	Gloss=profit|SpaceAfter=No
-

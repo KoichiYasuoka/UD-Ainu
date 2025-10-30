@@ -1,7 +1,0 @@
-# text = 命童侍記之
-1	命	命	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=decree|SpaceAfter=No
-2	童	童	NOUN	n,名詞,人,人	_	1	obj	_	Gloss=youth|SpaceAfter=No
-3	侍	侍	VERB	v,動詞,行為,設置	_	2	flat	_	Gloss=serve|SpaceAfter=No
-4	記	記	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=record|SpaceAfter=No
-5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
-

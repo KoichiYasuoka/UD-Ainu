@@ -1,6 +1,0 @@
-# text = 鶴雁相鳩
-1	鶴	鶴	NOUN	n,名詞,主体,動物	_	4	nsubj	_	Gloss=crane|SpaceAfter=No
-2	雁	雁	NOUN	n,名詞,主体,動物	_	1	conj	_	SpaceAfter=No
-3	相	相	VERB	v,動詞,行為,交流	_	4	advmod	_	Gloss=assist|SpaceAfter=No
-4	鳩	鳩	NOUN	n,名詞,主体,動物	_	0	root	_	SpaceAfter=No
-

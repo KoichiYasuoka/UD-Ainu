@@ -1,8 +1,0 @@
-# text = 烟筒曰㔟礼保
-1	烟	烟	NOUN	n,名詞,天象,気象	_	3	nsubj	_	SpaceAfter=No
-2	筒	筒	NOUN	n,名詞,可搬,道具	_	1	conj	_	Gloss=hollow-tube|SpaceAfter=No
-3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-4	㔟	㔟	NOUN	n,名詞,可搬,道具	_	3	ccomp	_	SpaceAfter=No
-5	礼	禮	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=ceremony|SpaceAfter=No
-6	保	保	NOUN	n,名詞,人,役割	_	5	conj	_	SpaceAfter=No
-

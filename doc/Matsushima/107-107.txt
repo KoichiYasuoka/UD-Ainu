@@ -1,8 +1,0 @@
-# text = 太守中將尊官
-1	太	太	VERB	v,動詞,描写,量	Degree=Pos	2	amod	_	Gloss=very-great|SpaceAfter=No
-2	守	守	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=guard|SpaceAfter=No
-3	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=centre|SpaceAfter=No
-4	將	將	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=general|SpaceAfter=No
-5	尊	尊	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=honour|SpaceAfter=No
-6	官	官	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=officer|SpaceAfter=No
-

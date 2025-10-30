@@ -1,8 +1,0 @@
-# text = 為梅氏告罷云
-1	為	爲	ADP	v,前置詞,源泉,*	_	2	case	_	Gloss=for|SpaceAfter=No
-2	梅	梅	PROPN	n,名詞,人,姓氏	NameType=Sur	4	obl	_	Gloss=[surname]|SpaceAfter=No
-3	氏	氏	NOUN	n,名詞,不可譲,属性	_	2	flat	_	Gloss=lineage|SpaceAfter=No
-4	告	吿	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=proclaim|SpaceAfter=No
-5	罷	罷	VERB	v,動詞,行為,動作	_	4	obj	_	Gloss=stop|SpaceAfter=No
-6	云	云	VERB	v,動詞,行為,伝達	_	5	obj	_	Gloss=says-so|SpaceAfter=No
-

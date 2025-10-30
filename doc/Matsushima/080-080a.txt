@@ -1,8 +1,0 @@
-# text = 不喰塩味鹵水
-1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
-2	喰	喰	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-3	塩	鹽	NOUN	n,名詞,可搬,糧食	_	4	nmod	_	Gloss=salt|SpaceAfter=No
-4	味	味	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=taste|SpaceAfter=No
-5	鹵	鹵	NOUN	n,名詞,固定物,地形	Case=Loc	6	amod	_	SpaceAfter=No
-6	水	水	NOUN	n,名詞,可搬,道具	_	4	conj	_	Gloss=water|SpaceAfter=No
-

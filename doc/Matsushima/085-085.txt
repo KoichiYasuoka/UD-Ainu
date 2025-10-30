@@ -1,8 +1,0 @@
-# text = 苟有直有義乎
-1	苟	苟	ADV	v,副詞,判断,推定	_	2	advmod	_	Gloss=careless|SpaceAfter=No
-2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-3	直	直	VERB	v,動詞,描写,形質	Degree=Pos	2	obj	_	Gloss=straight|SpaceAfter=No
-4	有	有	VERB	v,動詞,存在,存在	_	2	parataxis	_	Gloss=have|SpaceAfter=No
-5	義	義	NOUN	n,名詞,描写,態度	_	4	obj	_	Gloss=righteousness|SpaceAfter=No
-6	乎	乎	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
-

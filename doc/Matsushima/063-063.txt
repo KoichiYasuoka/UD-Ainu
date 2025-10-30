@@ -1,7 +1,0 @@
-# text = 女子極而色白
-1	女子	女子	NOUN	n,名詞,人,関係	_	2	nsubj	_	Gloss=daughter|SpaceAfter=No
-2	極	極	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=reach-the-end|SpaceAfter=No
-3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
-4	色	色	NOUN	n,名詞,描写,形質	_	5	nsubj	_	Gloss=colour|SpaceAfter=No
-5	白	白	VERB	v,動詞,描写,形質	Degree=Pos	2	conj	_	Gloss=white|SpaceAfter=No
-

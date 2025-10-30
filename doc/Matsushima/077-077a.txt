@@ -1,6 +1,0 @@
-# text = 見其食料
-1	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
-2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	食	食	VERB	v,動詞,行為,飲食	_	1	ccomp	_	Gloss=feed|SpaceAfter=No
-4	料	料	NOUN	n,名詞,可搬,糧食	_	3	conj	_	Gloss=seed|SpaceAfter=No
-

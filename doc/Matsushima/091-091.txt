@@ -1,6 +1,0 @@
-# text = 飯曰阿末茂
-1	飯	飯	NOUN	n,名詞,可搬,糧食	_	2	nsubj	_	Gloss=meal|SpaceAfter=No
-2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-3	阿	阿	PROPN	n,名詞,人,姓氏	NameType=Sur	4	compound	_	Gloss=[surname]|SpaceAfter=No
-4	末茂	末茂	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
-

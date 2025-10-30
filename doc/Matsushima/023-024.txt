@@ -1,7 +1,0 @@
-# text = 去府三十里許
-1	去	去	VERB	v,動詞,行為,移動	_	3	csubj	_	Gloss=go-away|SpaceAfter=No
-2	府	府	NOUN	n,名詞,主体,機関	_	1	obj	_	Gloss=repository|SpaceAfter=No
-3	三十	三十	NUM	n,数詞,数,*	_	0	root	_	Gloss=thirty|SpaceAfter=No
-4	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	3	clf	_	Gloss=[distance-unit]|SpaceAfter=No
-5	許	許	NOUN	n,名詞,数量,*	_	3	clf	_	SpaceAfter=No
-

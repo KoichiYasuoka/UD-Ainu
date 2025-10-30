@@ -1,9 +1,0 @@
-# text = 而舩路兩行疏矣
-1	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
-2	舩	舩	VERB	v,動詞,行為,態度	_	3	nmod	_	SpaceAfter=No
-3	路	路	NOUN	n,名詞,固定物,建造物	Case=Loc	5	nmod	_	Gloss=road|SpaceAfter=No
-4	兩	兩	NOUN	n,名詞,数量,*	_	5	nmod	_	Gloss=pair|SpaceAfter=No
-5	行	行	NOUN	n,名詞,行為,*	_	6	csubj	_	Gloss=action|SpaceAfter=No
-6	疏	疏	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=distant|SpaceAfter=No
-7	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
-

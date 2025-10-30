@@ -1,9 +1,0 @@
-# text = 畄于松府数旬月
-1	畄	畄	VERB	v,動詞,行為,動作	_	6	csubj	_	SpaceAfter=No
-2	于	于	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-3	松	松	NOUN	n,名詞,固定物,樹木	_	4	nmod	_	Gloss=pine-tree|SpaceAfter=No
-4	府	府	NOUN	n,名詞,主体,機関	_	1	obl:lmod	_	Gloss=repository|SpaceAfter=No
-5	数	數	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=number|SpaceAfter=No
-6	旬	旬	NOUN	n,名詞,時,*	Case=Tem	0	root	_	Gloss=[cycle-of-ten-days]|SpaceAfter=No
-7	月	月	NOUN	n,名詞,時,*	Case=Tem	6	clf	_	Gloss=month|SpaceAfter=No
-

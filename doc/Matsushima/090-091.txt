@@ -1,9 +1,0 @@
-# text = 米子曰志也末奴
-1	米	米	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nmod	_	SpaceAfter=No
-2	子	子	PROPN	n,名詞,人,複合的人名	NameType=Prs	3	nsubj	_	SpaceAfter=No
-3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-4	志	志	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=aim|SpaceAfter=No
-5	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-6	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	7	compound	_	Gloss=end|SpaceAfter=No
-7	奴	奴	NOUN	n,名詞,人,関係	_	3	obj	_	Gloss=family-dependents|SpaceAfter=No
-

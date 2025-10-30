@@ -1,6 +1,0 @@
-# text = 流浪此地
-1	流	流	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=flow|SpaceAfter=No
-2	浪	浪	VERB	v,動詞,行為,動作	_	1	flat:vv	_	SpaceAfter=No
-3	此	此	PRON	n,代名詞,指示,*	PronType=Dem	4	det	_	Gloss=this|SpaceAfter=No
-4	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	Gloss=earth|SpaceAfter=No
-

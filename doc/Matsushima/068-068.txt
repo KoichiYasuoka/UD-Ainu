@@ -1,7 +1,0 @@
-# text = 男女不着履
-1	男	男	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=son|SpaceAfter=No
-2	女	女	NOUN	n,名詞,人,関係	_	1	flat	_	Gloss=daughter|SpaceAfter=No
-3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	着	著	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=appear|SpaceAfter=No
-5	履	履	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=shoe|SpaceAfter=No
-

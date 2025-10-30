@@ -1,7 +1,0 @@
-# text = 女子環有組緒
-1	女子	女子	NOUN	n,名詞,人,関係	_	2	nmod	_	Gloss=daughter|SpaceAfter=No
-2	環	環	VERB	v,動詞,行為,移動	_	3	nsubj	_	Gloss=encircle|SpaceAfter=No
-3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-4	組	組	NOUN	n,名詞,可搬,道具	_	5	nmod	_	Gloss=cord|SpaceAfter=No
-5	緒	緖	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=sequence|SpaceAfter=No
-

@@ -1,6 +1,0 @@
-# text = 夜話已了
-1	夜	夜	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=night|SpaceAfter=No
-2	話	話	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	Gloss=speech|SpaceAfter=No
-3	已	已	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	4	advmod	_	Gloss=already|SpaceAfter=No
-4	了	了	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-

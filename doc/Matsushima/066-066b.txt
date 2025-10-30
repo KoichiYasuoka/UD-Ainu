@@ -1,6 +1,0 @@
-# text = 漁游恣意
-1	漁	漁	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=fish|SpaceAfter=No
-2	游	游	VERB	v,動詞,行為,動作	_	1	flat:vv	_	Gloss=float|SpaceAfter=No
-3	恣	恣	VERB	v,動詞,描写,態度	Degree=Pos	4	advmod	_	Gloss=unrestrained|SpaceAfter=No
-4	意	意	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-

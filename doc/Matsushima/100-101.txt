@@ -1,6 +1,0 @@
-# text = 更點鐘鳴
-1	更	更	VERB	v,動詞,行為,動作	_	2	compound	_	Gloss=replace|SpaceAfter=No
-2	點	點	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	SpaceAfter=No
-3	鐘	鐘	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	Gloss=bell|SpaceAfter=No
-4	鳴	鳴	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=ring|SpaceAfter=No
-

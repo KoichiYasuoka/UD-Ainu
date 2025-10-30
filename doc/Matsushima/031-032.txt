@@ -1,7 +1,0 @@
-# text = 来買賣松前
-1	来	來	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=come|SpaceAfter=No
-2	買	買	VERB	v,動詞,行為,得失	_	1	parataxis	_	Gloss=buy|SpaceAfter=No
-3	賣	賣	VERB	v,動詞,行為,得失	_	2	flat:vv	_	SpaceAfter=No
-4	松	松	NOUN	n,名詞,固定物,樹木	_	5	nmod	_	Gloss=pine-tree|SpaceAfter=No
-5	前	前	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=front|SpaceAfter=No
-

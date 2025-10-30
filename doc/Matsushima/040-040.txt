@@ -1,8 +1,0 @@
-# text = 有伊之加利島
-1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	伊	伊	PRON	n,代名詞,指示,*	PronType=Dem	6	nmod	_	Gloss=[3PRON]|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	加	加	VERB	v,動詞,行為,得失	_	5	compound	_	Gloss=add|SpaceAfter=No
-5	利	利	NOUN	n,名詞,描写,形質	_	6	compound	_	Gloss=profit|SpaceAfter=No
-6	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	SpaceAfter=No
-

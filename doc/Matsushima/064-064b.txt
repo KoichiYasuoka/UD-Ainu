@@ -1,6 +1,0 @@
-# text = 樵山負薪
-1	樵	樵	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=gather-firewood|SpaceAfter=No
-2	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	Gloss=mountain|SpaceAfter=No
-3	負	負	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=owe|SpaceAfter=No
-4	薪	薪	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=firewood|SpaceAfter=No
-

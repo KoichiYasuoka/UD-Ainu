@@ -1,6 +1,0 @@
-# text = 朝夕食事
-1	朝	朝	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=morning|SpaceAfter=No
-2	夕	夕	NOUN	n,名詞,時,*	Case=Tem	1	conj	_	Gloss=evening|SpaceAfter=No
-3	食	食	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=feed|SpaceAfter=No
-4	事	事	NOUN	n,名詞,可搬,成果物	_	3	obj	_	Gloss=affair|SpaceAfter=No
-

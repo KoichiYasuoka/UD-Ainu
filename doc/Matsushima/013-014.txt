@@ -1,8 +1,0 @@
-# text = 行行至喜伊達不島
-1	行	行	NOUN	n,名詞,行為,*	_	2	advmod	_	Gloss=action|SpaceAfter=No
-2	行	行	NOUN	n,名詞,行為,*	_	0	root	_	Gloss=action|SpaceAfter=No
-3	至	至	VERB	v,動詞,行為,移動	_	2	parataxis	_	Gloss=arrive|SpaceAfter=No
-4	喜	喜	VERB	v,動詞,行為,動作	_	5	compound	_	Gloss=pleased|SpaceAfter=No
-5	伊達不	伊達不	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	6	compound	_	Gloss=[place-name]|SpaceAfter=No
-6	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	3	obj	_	SpaceAfter=No
-

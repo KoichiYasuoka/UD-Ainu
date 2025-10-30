@@ -1,7 +1,0 @@
-# text = 看源氏雄機
-1	看	看	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=look-at|SpaceAfter=No
-2	源	源	PROPN	n,名詞,人,姓氏	NameType=Sur	5	nmod	_	Gloss=[surname]|SpaceAfter=No
-3	氏	氏	NOUN	n,名詞,不可譲,属性	_	2	flat	_	Gloss=lineage|SpaceAfter=No
-4	雄	雄	NOUN	n,名詞,主体,動物	_	5	nmod	_	Gloss=male|SpaceAfter=No
-5	機	機	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=latch|SpaceAfter=No
-

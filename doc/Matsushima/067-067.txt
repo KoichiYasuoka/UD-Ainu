@@ -1,9 +1,0 @@
-# text = 唇吻与爪甲黛矣
-1	唇	唇	NOUN	n,名詞,不可譲,身体	_	6	nsubj	_	SpaceAfter=No
-2	吻	吻	NOUN	n,名詞,不可譲,身体	_	1	conj	_	SpaceAfter=No
-3	与	與	ADP	v,前置詞,関係,*	_	5	cc	_	Gloss=associate-with|SpaceAfter=No
-4	爪	爪	NOUN	n,名詞,不可譲,身体	_	5	nmod	_	SpaceAfter=No
-5	甲	甲	NOUN	n,名詞,可搬,道具	_	2	conj	_	Gloss=shell|SpaceAfter=No
-6	黛	黛	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
-7	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
-

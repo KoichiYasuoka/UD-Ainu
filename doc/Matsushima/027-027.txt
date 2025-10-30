@@ -1,8 +1,0 @@
-# text = 松府曰之赤狄
-1	松	松	PROPN	n,名詞,人,名	NameType=Giv	2	nmod	_	Gloss=[given-name]|SpaceAfter=No
-2	府	府	NOUN	n,名詞,主体,機関	_	3	nsubj	_	Gloss=repository|SpaceAfter=No
-3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	iobj	_	Gloss=[3PRON]|SpaceAfter=No
-5	赤	赤	NOUN	n,名詞,描写,形質	_	6	nmod	_	Gloss=red|SpaceAfter=No
-6	狄	狄	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=[northern-people]|SpaceAfter=No
-

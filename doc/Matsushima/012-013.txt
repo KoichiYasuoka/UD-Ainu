@@ -1,7 +1,0 @@
-# text = 嶋濱五十餘所
-1	嶋	嶋	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	nmod	_	Gloss=[place-name]|SpaceAfter=No
-2	濱	濱	NOUN	n,名詞,固定物,地形	Case=Loc	5	nsubj	_	Gloss=shore|SpaceAfter=No
-3	五十	五十	NUM	n,数詞,数,*	_	5	nummod	_	Gloss=fifty|SpaceAfter=No
-4	餘	餘	NOUN	n,名詞,数量,*	_	3	conj	_	Gloss=surplus|SpaceAfter=No
-5	所	所	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=place|SpaceAfter=No
-

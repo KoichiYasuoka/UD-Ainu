@@ -1,5 +1,0 @@
-# text = 性空典
-1	性	性	NOUN	n,名詞,不可譲,属性	_	2	nsubj	_	Gloss=nature|SpaceAfter=No
-2	空	空	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=hollow|SpaceAfter=No
-3	典	典	VERB	v,動詞,行為,儀礼	_	2	flat:vv	_	SpaceAfter=No
-

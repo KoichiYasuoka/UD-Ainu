@@ -1,7 +1,0 @@
-# text = 非和人所覃
-1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	5	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-2	和	和	VERB	v,動詞,描写,形質	Degree=Pos	3	amod	_	Gloss=harmonious|SpaceAfter=No
-3	人	人	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=person|SpaceAfter=No
-4	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	Gloss=that-which|SpaceAfter=No
-5	覃	覃	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-

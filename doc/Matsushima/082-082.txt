@@ -1,6 +1,0 @@
-# text = 得物報人
-1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-2	物	物	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=thing|SpaceAfter=No
-3	報	報	VERB	v,動詞,行為,交流	_	1	parataxis	_	Gloss=report-back|SpaceAfter=No
-4	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
-

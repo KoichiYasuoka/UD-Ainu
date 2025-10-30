@@ -1,7 +1,0 @@
-# text = 其巡行前程
-1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-2	巡	巡	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=tour-of-inspection|SpaceAfter=No
-3	行	行	VERB	v,動詞,行為,動作	_	2	flat:vv	_	Gloss=behave|SpaceAfter=No
-4	前	前	NOUN	n,名詞,時,*	Case=Tem	5	nmod	_	Gloss=before|SpaceAfter=No
-5	程	程	NOUN	n,名詞,描写,形質	_	2	obj	_	SpaceAfter=No
-

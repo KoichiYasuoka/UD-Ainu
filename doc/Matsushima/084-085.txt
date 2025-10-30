@@ -1,7 +1,0 @@
-# text = 固避婦疑也
-1	固	固	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=certainly|SpaceAfter=No
-2	避	避	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=avoid|SpaceAfter=No
-3	婦	婦	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=female-person|SpaceAfter=No
-4	疑	疑	VERB	v,動詞,行為,態度	_	2	ccomp	_	Gloss=suspect|SpaceAfter=No
-5	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-

@@ -1,6 +1,0 @@
-# text = 彫角刻木
-1	彫	彫	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=carve|SpaceAfter=No
-2	角	角	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=horn|SpaceAfter=No
-3	刻	刻	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=engrave|SpaceAfter=No
-4	木	木	NOUN	n,名詞,固定物,樹木	_	3	obj	_	Gloss=tree|SpaceAfter=No
-

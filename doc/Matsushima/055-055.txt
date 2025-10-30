@@ -1,7 +1,0 @@
-# text = 此所方物也
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	4	nsubj	_	Gloss=this|SpaceAfter=No
-2	所	所	PART	p,助詞,接続,体言化	_	3	mark	_	Gloss=that-which|SpaceAfter=No
-3	方	方	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pattern|SpaceAfter=No
-4	物	物	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=thing|SpaceAfter=No
-5	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-

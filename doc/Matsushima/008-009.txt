@@ -1,8 +1,0 @@
-# text = 帰日又来松島
-1	帰	歸	VERB	v,動詞,行為,移動	_	2	amod	_	Gloss=return|SpaceAfter=No
-2	日	日	NOUN	n,名詞,天象,天文	_	4	obl:tmod	_	Gloss=sun|SpaceAfter=No
-3	又	又	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
-4	来	來	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=come|SpaceAfter=No
-5	松	松	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	6	compound	_	Gloss=[place-name]|SpaceAfter=No
-6	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	4	obj	_	SpaceAfter=No
-

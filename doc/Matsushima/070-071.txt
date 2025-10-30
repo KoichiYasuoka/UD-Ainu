@@ -1,6 +1,0 @@
-# text = 急走如飛
-1	急	急	VERB	v,動詞,描写,態度	Degree=Pos	2	advmod	_	Gloss=hasty|SpaceAfter=No
-2	走	走	VERB	v,動詞,行為,移動	_	3	csubj	_	Gloss=run|SpaceAfter=No
-3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
-4	飛	飛	VERB	v,動詞,行為,動作	_	3	obj	_	Gloss=fly|SpaceAfter=No
-

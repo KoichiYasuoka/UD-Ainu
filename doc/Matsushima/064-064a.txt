@@ -1,6 +1,0 @@
-# text = 項力強矣
-1	項	項	NOUN	n,名詞,不可譲,身体	_	2	nmod	_	SpaceAfter=No
-2	力	力	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	Gloss=strength|SpaceAfter=No
-3	強	強	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=strong|SpaceAfter=No
-4	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
-

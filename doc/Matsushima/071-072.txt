@@ -1,6 +1,0 @@
-# text = 堀沙屏汚
-1	堀	堀	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-2	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	SpaceAfter=No
-3	屏	屏	VERB	v,動詞,行為,設置	_	1	parataxis	_	SpaceAfter=No
-4	汚	汚	VERB	v,動詞,描写,形質	Degree=Pos	3	obj	_	Gloss=dirty|SpaceAfter=No
-

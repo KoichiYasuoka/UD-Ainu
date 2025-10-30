@@ -1,8 +1,0 @@
-# text = 松府商人家居
-1	松	松	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	nmod	_	Gloss=[place-name]|SpaceAfter=No
-2	府	府	NOUN	n,名詞,主体,機関	_	4	nmod	_	Gloss=repository|SpaceAfter=No
-3	商	商	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	人	人	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=person|SpaceAfter=No
-5	家	家	NOUN	n,名詞,主体,集団	_	6	obl	_	Gloss=family|SpaceAfter=No
-6	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
-

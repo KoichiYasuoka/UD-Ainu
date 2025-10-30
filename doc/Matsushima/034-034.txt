@@ -1,8 +1,0 @@
-# text = 又此相也近邊
-1	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
-2	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
-3	相	相	NOUN	n,名詞,不可譲,身体	_	6	nsubj	_	Gloss=appearlance|SpaceAfter=No
-4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-5	近	近	VERB	v,動詞,描写,形質	Degree=Pos	6	amod	_	Gloss=near|SpaceAfter=No
-6	邊	邊	NOUN	n,名詞,固定物,地形	Case=Loc	0	root	_	Gloss=margin|SpaceAfter=No
-

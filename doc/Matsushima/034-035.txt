@@ -1,7 +1,0 @@
-# text = 山沢薮野中
-1	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	5	nsubj	_	Gloss=mountain|SpaceAfter=No
-2	沢	澤	NOUN	n,名詞,固定物,樹木	_	1	conj	_	SpaceAfter=No
-3	薮	薮	NOUN	n,名詞,固定物,地形	Case=Loc	5	nmod	_	SpaceAfter=No
-4	野	野	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	Gloss=uncultivated-land|SpaceAfter=No
-5	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	0	root	_	Gloss=centre|SpaceAfter=No
-

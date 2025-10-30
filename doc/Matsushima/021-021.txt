@@ -1,8 +1,0 @@
-# text = 嶋数廿五六所
-1	嶋	嶋	NOUN	n,名詞,固定物,地形	Case=Loc	6	nsubj	_	SpaceAfter=No
-2	数	數	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=number|SpaceAfter=No
-3	廿	廿	NUM	n,数詞,数,*	_	6	nmod	_	SpaceAfter=No
-4	五	五	NUM	n,数詞,数,*	_	6	nummod	_	SpaceAfter=No
-5	六	六	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=six|SpaceAfter=No
-6	所	所	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=place|SpaceAfter=No
-

@@ -1,8 +1,0 @@
-# text = 書于所居蓮華軒
-1	書	書	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=write|SpaceAfter=No
-2	于	于	ADP	v,前置詞,基盤,*	_	4	mark	_	Gloss=at|SpaceAfter=No
-3	所	所	PART	p,助詞,接続,体言化	_	4	mark	_	Gloss=that-which|SpaceAfter=No
-4	居	居	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=sit-down|SpaceAfter=No
-5	蓮華	蓮華	NOUN	n,名詞,固定物,樹木	_	6	compound	_	SpaceAfter=No
-6	軒	軒	NOUN	n,名詞,固定物,建造物	Case=Loc	1	obl:lmod	_	SpaceAfter=No
-

@@ -1,6 +1,0 @@
-# text = 游行徐歩
-1	游	游	VERB	v,動詞,行為,動作	_	2	advmod	_	Gloss=float|SpaceAfter=No
-2	行	行	VERB	v,動詞,行為,移動	_	4	nsubj	_	Gloss=go|SpaceAfter=No
-3	徐	徐	VERB	v,動詞,行為,態度	_	4	advmod	_	Gloss=slow|SpaceAfter=No
-4	歩	步	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=walk|SpaceAfter=No
-

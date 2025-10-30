@@ -1,6 +1,0 @@
-# text = 耳着扵環
-1	耳	耳	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=ear|SpaceAfter=No
-2	着	著	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=appear|SpaceAfter=No
-3	扵	扵	ADP	v,前置詞,基盤,*	_	4	case	_	SpaceAfter=No
-4	環	環	VERB	v,動詞,行為,移動	_	2	obj	_	Gloss=encircle|SpaceAfter=No
-

@@ -1,6 +1,0 @@
-# text = 復耳常語
-1	復	復	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=repeat|SpaceAfter=No
-2	耳	耳	PART	p,助詞,句末,*	_	4	nsubj	_	Gloss=only|SpaceAfter=No
-3	常	常	ADV	v,副詞,時相,恒常	AdvType=Tim	4	advmod	_	Gloss=usually|SpaceAfter=No
-4	語	語	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=tell|SpaceAfter=No
-

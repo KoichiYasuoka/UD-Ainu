@@ -1,8 +1,0 @@
-# text = 男子鬆髮不結
-1	男	男	NOUN	n,名詞,人,関係	_	2	nmod	_	Gloss=son|SpaceAfter=No
-2	子	子	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=child|SpaceAfter=No
-3	鬆	鬆	VERB	v,動詞,描写,形質	Degree=Pos	4	amod	_	SpaceAfter=No
-4	髮	髮	NOUN	n,名詞,不可譲,身体	_	6	nsubj	_	Gloss=hair-of-the-head|SpaceAfter=No
-5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
-6	結	結	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=tie|SpaceAfter=No
-

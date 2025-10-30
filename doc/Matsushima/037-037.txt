@@ -1,8 +1,0 @@
-# text = 又赴諸夏暖國
-1	又	又	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
-2	赴	赴	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=hurry-to|SpaceAfter=No
-3	諸	諸	NOUN	n,名詞,数量,*	_	2	iobj	_	Gloss=[plural]|SpaceAfter=No
-4	夏	夏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nmod	_	Gloss=[country-name]|SpaceAfter=No
-5	暖	暖	VERB	v,動詞,描写,形質	Degree=Pos	6	amod	_	SpaceAfter=No
-6	國	國	NOUN	n,名詞,主体,集団	_	2	obj	_	Gloss=country|SpaceAfter=No
-

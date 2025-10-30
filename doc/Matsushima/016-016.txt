@@ -1,9 +1,0 @@
-# text = 兹松府商民家居
-1	兹	茲	PRON	n,代名詞,指示,*	PronType=Dem	7	discourse	_	Gloss=this|SpaceAfter=No
-2	松	松	NOUN	n,名詞,固定物,樹木	_	3	nmod	_	Gloss=pine-tree|SpaceAfter=No
-3	府	府	NOUN	n,名詞,主体,機関	_	5	nmod	_	Gloss=repository|SpaceAfter=No
-4	商	商	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=merchant|SpaceAfter=No
-5	民	民	NOUN	n,名詞,人,人	_	7	nsubj	_	Gloss=people|SpaceAfter=No
-6	家	家	NOUN	n,名詞,主体,集団	_	7	obl	_	Gloss=family|SpaceAfter=No
-7	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
-

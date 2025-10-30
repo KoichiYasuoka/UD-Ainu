@@ -1,6 +1,0 @@
-# text = 東行参礼
-1	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=east|SpaceAfter=No
-2	行	行	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=behave|SpaceAfter=No
-3	参	參	VERB	v,動詞,行為,役割	_	4	amod	_	Gloss=consult|SpaceAfter=No
-4	礼	禮	NOUN	n,名詞,制度,儀礼	_	2	obj	_	Gloss=ceremony|SpaceAfter=No
-

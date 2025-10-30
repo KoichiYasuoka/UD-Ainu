@@ -1,6 +1,0 @@
-# text = 等秋尾子
-1	等	等	NOUN	n,名詞,数量,*	_	0	root	_	Gloss=class|SpaceAfter=No
-2	秋	秋	NOUN	n,名詞,時,*	Case=Tem	3	nmod	_	Gloss=autumn|SpaceAfter=No
-3	尾	尾	NOUN	n,名詞,不可譲,身体	_	4	nmod	_	SpaceAfter=No
-4	子	子	NOUN	n,名詞,人,関係	_	1	obj	_	Gloss=child|SpaceAfter=No
-

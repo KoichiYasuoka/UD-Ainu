@@ -1,9 +1,0 @@
-# text = 享保十九秊夏日記
-1	享	享	VERB	v,動詞,行為,得失	_	2	compound	_	Gloss=offer-a-feast|SpaceAfter=No
-2	保	保	NOUN	n,名詞,人,役割	_	3	nmod	_	SpaceAfter=No
-3	十九	十九	NUM	n,数詞,数,*	_	7	obl:tmod	_	Gloss=nineteen|SpaceAfter=No
-4	秊	年	NOUN	n,名詞,時,*	Case=Tem	3	clf	_	Gloss=year|SpaceAfter=No
-5	夏	夏	NOUN	n,名詞,時,*	Case=Tem	6	nmod	_	Gloss=summer|SpaceAfter=No
-6	日	日	NOUN	n,名詞,時,*	Case=Tem	7	obl:tmod	_	Gloss=day|SpaceAfter=No
-7	記	記	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=record|SpaceAfter=No
-

@@ -1,6 +1,0 @@
-# text = 禽獣魚肉
-1	禽	禽	NOUN	n,名詞,主体,動物	_	0	root	_	Gloss=bird|SpaceAfter=No
-2	獣	獸	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
-3	魚	魚	NOUN	n,名詞,主体,動物	_	1	obj	_	Gloss=fish|SpaceAfter=No
-4	肉	肉	NOUN	n,名詞,可搬,糧食	_	1	conj	_	Gloss=flesh|SpaceAfter=No
-

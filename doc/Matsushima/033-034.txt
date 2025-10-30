@@ -1,8 +1,0 @@
-# text = 此玉實瓦陶也
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	玉	玉	NOUN	n,名詞,可搬,道具	_	3	nsubj	_	Gloss=jade|SpaceAfter=No
-3	實	實	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=fruit|SpaceAfter=No
-4	瓦	瓦	NOUN	n,名詞,可搬,道具	_	5	nmod	_	Gloss=tile|SpaceAfter=No
-5	陶	陶	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=pottery|SpaceAfter=No
-6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-
