@@ -1,0 +1,14 @@
+# text = 復是相也近濱有加羅不途島
+1	復	復	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=repeat|SpaceAfter=No
+2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
+3	相	相	NOUN	n,名詞,不可譲,身体	_	7	csubj	_	Gloss=appearlance|SpaceAfter=No
+4	也	也	PART	p,助詞,句末,*	_	3	mark	_	Gloss=[final-particle]|SpaceAfter=No
+5	近	近	VERB	v,動詞,描写,形質	Degree=Pos	6	amod	_	Gloss=near|SpaceAfter=No
+6	濱	濱	NOUN	n,名詞,固定物,地形	Case=Loc	7	nsubj	_	Gloss=shore|SpaceAfter=No
+7	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+8	加	加	VERB	v,動詞,行為,得失	_	9	compound	_	Gloss=add|SpaceAfter=No
+9	羅	羅	VERB	v,動詞,行為,動作	_	10	compound	_	Gloss=gather|SpaceAfter=No
+10	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	11	compound	_	Gloss=not|SpaceAfter=No
+11	途	途	NOUN	n,名詞,固定物,建造物	Case=Loc	12	compound	_	SpaceAfter=No
+12	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	7	obj	_	SpaceAfter=No
+

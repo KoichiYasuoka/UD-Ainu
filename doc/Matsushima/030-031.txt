@@ -1,0 +1,8 @@
+# text = 購金地等織物
+1	購	購	VERB	v,動詞,行為,得失	_	0	root	_	SpaceAfter=No
+2	金	金	NOUN	n,名詞,可搬,道具	_	3	compound	_	Gloss=metal|SpaceAfter=No
+3	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	6	nmod	_	Gloss=earth|SpaceAfter=No
+4	等	等	NOUN	n,名詞,数量,*	_	3	conj	_	Gloss=class|SpaceAfter=No
+5	織	織	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=weave|SpaceAfter=No
+6	物	物	NOUN	n,名詞,可搬,道具	_	5	obj	_	Gloss=thing|SpaceAfter=No
+

@@ -1,0 +1,10 @@
+# text = 其間有久末伊之濱
+1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
+2	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=between|SpaceAfter=No
+3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+4	久	久	VERB	v,動詞,描写,量	Degree=Pos	5	compound	_	Gloss=for-a-long-time|SpaceAfter=No
+5	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	6	compound	_	Gloss=end|SpaceAfter=No
+6	伊	伊	PROPN	n,名詞,人,姓氏	NameType=Sur	8	nmod	_	Gloss=[surname]|SpaceAfter=No
+7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
+8	濱	濱	NOUN	n,名詞,固定物,地形	Case=Loc	3	obj	_	Gloss=shore|SpaceAfter=No
+

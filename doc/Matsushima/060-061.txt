@@ -1,0 +1,8 @@
+# text = 靣㒵眉間一莖
+1	靣	靣	NOUN	n,名詞,不可譲,身体	_	6	nsubj	_	SpaceAfter=No
+2	㒵	㒵	NOUN	n,名詞,可搬,道具	_	1	conj	_	SpaceAfter=No
+3	眉	眉	NOUN	n,名詞,不可譲,身体	_	4	nmod	_	SpaceAfter=No
+4	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=between|SpaceAfter=No
+5	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
+6	莖	莖	NOUN	n,名詞,固定物,樹木	_	0	root	_	SpaceAfter=No
+

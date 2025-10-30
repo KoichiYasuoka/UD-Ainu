@@ -1,0 +1,10 @@
+# text = 尊命書此記奉呈進
+1	尊	尊	VERB	v,動詞,行為,態度	_	2	advmod	_	Gloss=honour|SpaceAfter=No
+2	命	命	NOUN	n,名詞,可搬,伝達	_	3	nsubj	_	Gloss=decree|SpaceAfter=No
+3	書	書	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=write|SpaceAfter=No
+4	此	此	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=this|SpaceAfter=No
+5	記	記	NOUN	n,名詞,可搬,伝達	_	3	obj	_	SpaceAfter=No
+6	奉	奉	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=esteem|SpaceAfter=No
+7	呈	呈	VERB	v,動詞,行為,動作	_	6	flat:vv	_	SpaceAfter=No
+8	進	進	VERB	v,動詞,行為,移動	_	6	parataxis	_	Gloss=advance|SpaceAfter=No
+

@@ -1,0 +1,6 @@
+# text = 逃扵衣川
+1	逃	逃	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=run-away|SpaceAfter=No
+2	扵	扵	ADP	v,前置詞,基盤,*	_	3	case	_	SpaceAfter=No
+3	衣	衣	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obj	_	Gloss=[place-name]|SpaceAfter=No
+4	川	川	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	Gloss=river|SpaceAfter=No
+

@@ -1,0 +1,8 @@
+# text = 斯歳七月十日
+1	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
+2	歳	歲	NOUN	n,名詞,時,*	Case=Tem	6	nsubj	_	Gloss=year|SpaceAfter=No
+3	七	七	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=seven|SpaceAfter=No
+4	月	月	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=month|SpaceAfter=No
+5	十	十	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=ten|SpaceAfter=No
+6	日	日	NOUN	n,名詞,時,*	Case=Tem	0	root	_	Gloss=day|SpaceAfter=No
+

@@ -1,0 +1,9 @@
+# text = 眼子丸而如鳥目
+1	眼	眼	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	Gloss=eye|SpaceAfter=No
+2	子	子	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	SpaceAfter=No
+3	丸	丸	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
+4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
+5	如	如	VERB	v,動詞,行為,分類	Degree=Equ	3	conj	_	Gloss=be-like|SpaceAfter=No
+6	鳥	鳥	NOUN	n,名詞,主体,動物	_	5	obj	_	Gloss=bird|SpaceAfter=No
+7	目	目	NOUN	n,名詞,不可譲,身体	_	6	conj	_	Gloss=eye|SpaceAfter=No
+

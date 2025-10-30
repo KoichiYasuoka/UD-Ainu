@@ -1,0 +1,12 @@
+# text = 因崇之曰久畄部加茂伊
+1	因	因	VERB	v,動詞,行為,動作	_	2	advmod	_	Gloss=depend-on|SpaceAfter=No
+2	崇	崇	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=honour|SpaceAfter=No
+3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
+5	久	久	VERB	v,動詞,描写,量	Degree=Pos	6	compound	_	Gloss=for-a-long-time|SpaceAfter=No
+6	畄	畄	NOUN	n,名詞,時,*	Case=Tem	7	nmod	_	SpaceAfter=No
+7	部	部	NOUN	n,名詞,主体,集団	_	4	obj	_	Gloss=section|SpaceAfter=No
+8	加	加	VERB	v,動詞,行為,得失	_	4	ccomp	_	Gloss=add|SpaceAfter=No
+9	茂	茂	VERB	v,動詞,描写,形質	Degree=Pos	10	compound	_	Gloss=luxuriant|SpaceAfter=No
+10	伊	伊	PROPN	n,名詞,人,姓氏	NameType=Sur	8	obj	_	Gloss=[surname]|SpaceAfter=No
+

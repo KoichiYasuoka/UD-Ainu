@@ -1,0 +1,6 @@
+# text = 常訪隣家
+1	常	常	ADV	v,副詞,時相,恒常	AdvType=Tim	2	advmod	_	Gloss=usually|SpaceAfter=No
+2	訪	訪	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=enquire|SpaceAfter=No
+3	隣	鄰	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=neighbour|SpaceAfter=No
+4	家	家	NOUN	n,名詞,主体,集団	_	2	obj	_	Gloss=family|SpaceAfter=No
+

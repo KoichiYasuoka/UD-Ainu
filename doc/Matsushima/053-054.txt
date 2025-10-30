@@ -1,0 +1,7 @@
+# text = 川遡百里餘
+1	川	川	NOUN	n,名詞,固定物,地形	Case=Loc	2	nsubj	_	Gloss=river|SpaceAfter=No
+2	遡	遡	VERB	v,動詞,行為,移動	_	3	csubj	_	SpaceAfter=No
+3	百	百	NUM	n,数詞,数字,*	_	0	root	_	Gloss=hundred|SpaceAfter=No
+4	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	3	clf	_	Gloss=[distance-unit]|SpaceAfter=No
+5	餘	餘	NOUN	n,名詞,数量,*	_	3	conj	_	Gloss=surplus|SpaceAfter=No
+

@@ -1,0 +1,6 @@
+# text = 額系千斤
+1	額	額	NOUN	n,名詞,可搬,伝達	_	2	nsubj	_	SpaceAfter=No
+2	系	系	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+3	千	千	NUM	n,数詞,数字,*	_	2	obj	_	Gloss=thousand|SpaceAfter=No
+4	斤	斤	NOUN	n,名詞,可搬,道具	_	3	clf	_	Gloss=axe|SpaceAfter=No
+

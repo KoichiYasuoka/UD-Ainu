@@ -1,0 +1,8 @@
+# text = 和人曰志也茂
+1	和	和	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=harmonious|SpaceAfter=No
+2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
+3	曰	曰	VERB	v,動詞,行為,伝達	_	6	csubj	_	Gloss=say|SpaceAfter=No
+4	志	志	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=aim|SpaceAfter=No
+5	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
+6	茂	茂	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=luxuriant|SpaceAfter=No
+

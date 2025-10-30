@@ -1,0 +1,9 @@
+# text = 復従此處阻四十五里
+1	復	復	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=again|SpaceAfter=No
+2	従	從	ADP	v,前置詞,経由,*	_	4	case	_	Gloss=from|SpaceAfter=No
+3	此	此	PRON	n,代名詞,指示,*	PronType=Dem	4	det	_	Gloss=this|SpaceAfter=No
+4	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	5	obl	_	SpaceAfter=No
+5	阻	阻	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=impede|SpaceAfter=No
+6	四十五	四十五	NUM	n,数詞,数,*	_	5	obj	_	Gloss=forty-five|SpaceAfter=No
+7	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	6	clf	_	Gloss=[distance-unit]|SpaceAfter=No
+

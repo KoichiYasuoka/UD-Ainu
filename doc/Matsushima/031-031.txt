@@ -1,0 +1,5 @@
+# text = 或巣玉
+1	或	或	PRON	n,代名詞,人称,起格	PronType=Prs	2	nsubj	_	Gloss=someone|SpaceAfter=No
+2	巣	巢	VERB	v,動詞,行為,設置	_	0	root	_	SpaceAfter=No
+3	玉	玉	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=jade|SpaceAfter=No
+

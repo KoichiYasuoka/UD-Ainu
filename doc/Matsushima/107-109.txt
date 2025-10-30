@@ -1,0 +1,11 @@
+# text = 見抂玉轅扵松島之日𣴎
+1	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
+2	抂	抂	VERB	v,動詞,行為,動作	_	3	compound	_	SpaceAfter=No
+3	玉轅	玉轅	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	SpaceAfter=No
+4	扵	扵	ADP	v,前置詞,基盤,*	_	9	case	_	SpaceAfter=No
+5	松	松	NOUN	n,名詞,固定物,樹木	_	6	nmod	_	Gloss=pine-tree|SpaceAfter=No
+6	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	4	obj	_	SpaceAfter=No
+7	之	之	SCONJ	p,助詞,接続,属格	_	4	mark	_	Gloss='s|SpaceAfter=No
+8	日	日	NOUN	n,名詞,天象,天文	_	9	obl:tmod	_	Gloss=sun|SpaceAfter=No
+9	𣴎	𣴎	VERB	v,動詞,行為,態度	_	1	ccomp	_	SpaceAfter=No
+

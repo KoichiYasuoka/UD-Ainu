@@ -1,0 +1,12 @@
+# text = 復松前狄千島之総管也
+1	復	復	ADV	v,副詞,頻度,重複	_	2	compound	_	Gloss=again|SpaceAfter=No
+2	松	松	PROPN	n,名詞,人,名	NameType=Giv	3	nmod	_	Gloss=[given-name]|SpaceAfter=No
+3	前	前	NOUN	n,名詞,時,*	Case=Tem	9	nmod	_	Gloss=before|SpaceAfter=No
+4	狄	狄	NOUN	n,名詞,主体,集団	_	9	nmod	_	Gloss=[northern-people]|SpaceAfter=No
+5	千	千	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=thousand|SpaceAfter=No
+6	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	9	nmod	_	SpaceAfter=No
+7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
+8	総	総	VERB	v,動詞,行為,交流	_	9	amod	_	Gloss=bind-together|SpaceAfter=No
+9	管	管	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=tube|SpaceAfter=No
+10	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+

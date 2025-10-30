@@ -1,0 +1,10 @@
+# text = 神天主君曰加茂伊
+1	神	神	NOUN	n,名詞,人,役割	_	2	nmod	_	Gloss=god|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	主	主	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=host|SpaceAfter=No
+4	君	君	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=ruler|SpaceAfter=No
+5	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+6	加	加	VERB	v,動詞,行為,得失	_	7	compound	_	Gloss=add|SpaceAfter=No
+7	茂	茂	VERB	v,動詞,描写,形質	Degree=Pos	8	compound	_	Gloss=luxuriant|SpaceAfter=No
+8	伊	伊	PROPN	n,名詞,人,姓氏	NameType=Sur	5	obj	_	Gloss=[surname]|SpaceAfter=No
+

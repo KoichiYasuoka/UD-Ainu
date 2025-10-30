@@ -1,0 +1,10 @@
+# text = 此處夷狄恒入北高麗
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
+2	處	處	VERB	v,動詞,行為,設置	_	6	nsubj	_	Gloss=place|SpaceAfter=No
+3	夷	夷	NOUN	n,名詞,主体,集団	_	6	nsubj	_	Gloss=barbarian|SpaceAfter=No
+4	狄	狄	NOUN	n,名詞,主体,集団	_	3	conj	_	Gloss=[northern-people]|SpaceAfter=No
+5	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos	6	advmod	_	Gloss=constant|SpaceAfter=No
+6	入	入	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=enter|SpaceAfter=No
+7	北	北	NOUN	n,名詞,固定物,関係	Case=Loc	8	nmod	_	Gloss=north|SpaceAfter=No
+8	高麗	高麗	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	obj	_	Gloss=[country-name]|SpaceAfter=No
+

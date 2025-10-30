@@ -1,0 +1,7 @@
+# text = 勝諸夏罔矣
+1	勝	勝	VERB	v,動詞,行為,交流	_	4	csubj	_	Gloss=conquer|SpaceAfter=No
+2	諸	諸	NOUN	n,名詞,数量,*	_	3	nmod	_	Gloss=[plural]|SpaceAfter=No
+3	夏	夏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	obj	_	Gloss=[country-name]|SpaceAfter=No
+4	罔	罔	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+5	矣	矣	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
+

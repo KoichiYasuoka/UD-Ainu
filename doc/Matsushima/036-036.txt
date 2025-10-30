@@ -1,0 +1,6 @@
+# text = 葺巣孚子
+1	葺	葺	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+2	巣	巢	NOUN	n,名詞,固定物,地形	Case=Loc	3	compound	_	SpaceAfter=No
+3	孚	孚	VERB	v,動詞,行為,動作	_	4	compound	_	SpaceAfter=No
+4	子	子	NOUN	n,名詞,人,関係	_	1	obj	_	Gloss=child|SpaceAfter=No
+

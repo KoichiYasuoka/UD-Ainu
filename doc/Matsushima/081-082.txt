@@ -1,0 +1,7 @@
+# text = 復見其氣性
+1	復	復	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=again|SpaceAfter=No
+2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
+3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
+4	氣	氣	NOUN	n,名詞,描写,形質	_	5	nmod	_	Gloss=air|SpaceAfter=No
+5	性	性	NOUN	n,名詞,不可譲,属性	_	2	obj	_	Gloss=nature|SpaceAfter=No
+

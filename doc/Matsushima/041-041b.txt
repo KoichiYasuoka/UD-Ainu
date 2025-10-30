@@ -1,0 +1,7 @@
+# text = 昔判官源氏
+1	昔	昔	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=formerly|SpaceAfter=No
+2	判	判	NOUN	n,名詞,人,役割	_	3	amod	_	SpaceAfter=No
+3	官	官	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=officer|SpaceAfter=No
+4	源	源	PROPN	n,名詞,人,姓氏	NameType=Sur	0	root	_	Gloss=[surname]|SpaceAfter=No
+5	氏	氏	NOUN	n,名詞,不可譲,属性	_	4	flat	_	Gloss=lineage|SpaceAfter=No
+

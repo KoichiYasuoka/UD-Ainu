@@ -1,0 +1,6 @@
+# text = 得米釅酒
+1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
+2	米	米	NOUN	n,名詞,可搬,糧食	_	1	obj	_	Gloss=rice|SpaceAfter=No
+3	釅	釅	VERB	v,動詞,描写,形質	Degree=Pos	1	parataxis	_	SpaceAfter=No
+4	酒	酒	NOUN	n,名詞,可搬,糧食	_	3	obj	_	Gloss=alcoholic-drink|SpaceAfter=No
+

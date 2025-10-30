@@ -1,0 +1,6 @@
+# text = 𮚁糧詣之
+1	𮚁	𮚁	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+2	糧	糧	NOUN	n,名詞,可搬,糧食	_	1	obj	_	Gloss=grain|SpaceAfter=No
+3	詣	詣	VERB	v,動詞,行為,移動	_	1	parataxis	_	Gloss=come-to|SpaceAfter=No
+4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
+

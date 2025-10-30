@@ -1,0 +1,10 @@
+# text = 夫主不處不入其扄
+1	夫	夫	NOUN	n,名詞,人,人	_	4	discourse	_	Gloss=male-person|SpaceAfter=No
+2	主	主	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=host|SpaceAfter=No
+3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
+4	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
+5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
+6	入	入	VERB	v,動詞,行為,移動	_	4	conj	_	Gloss=enter|SpaceAfter=No
+7	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
+8	扄	扄	NOUN	n,名詞,可搬,道具	_	6	obj	_	SpaceAfter=No
+

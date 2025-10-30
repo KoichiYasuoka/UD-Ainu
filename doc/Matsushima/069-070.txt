@@ -1,0 +1,7 @@
+# text = 然足跟不穢
+1	然	然	VERB	v,動詞,描写,態度	Degree=Pos	5	advmod	_	Gloss=like-this|SpaceAfter=No
+2	足	足	NOUN	n,名詞,不可譲,身体	_	5	nsubj	_	Gloss=foot|SpaceAfter=No
+3	跟	跟	NOUN	n,名詞,固定物,関係	Case=Loc	2	conj	_	SpaceAfter=No
+4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
+5	穢	穢	VERB	v,動詞,変化,性質	_	0	root	_	SpaceAfter=No
+

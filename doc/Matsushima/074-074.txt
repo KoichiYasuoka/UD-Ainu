@@ -1,0 +1,12 @@
+# text = 平生調度只佩刀一口耳
+1	平	平	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=level|SpaceAfter=No
+2	生	生	NOUN	n,名詞,行為,*	_	3	nsubj	_	Gloss=life|SpaceAfter=No
+3	調	調	VERB	v,動詞,行為,動作	_	9	csubj	_	Gloss=tune|SpaceAfter=No
+4	度	度	VERB	v,動詞,行為,態度	_	3	flat:vv	_	Gloss=measure|SpaceAfter=No
+5	只	只	ADV	v,副詞,範囲,限定	_	7	amod	_	SpaceAfter=No
+6	佩	佩	VERB	v,動詞,行為,動作	_	7	amod	_	Gloss=wear-ornament|SpaceAfter=No
+7	刀	刀	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=knife|SpaceAfter=No
+8	一	一	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=one|SpaceAfter=No
+9	口	口	NOUN	n,名詞,不可譲,身体	_	7	conj	_	Gloss=mouth|SpaceAfter=No
+10	耳	耳	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=only|SpaceAfter=No
+

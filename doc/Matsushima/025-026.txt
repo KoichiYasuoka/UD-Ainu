@@ -1,0 +1,6 @@
+# text = 嚮千里可
+1	嚮	嚮	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=face-to|SpaceAfter=No
+2	千	千	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=thousand|SpaceAfter=No
+3	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	2	clf	_	Gloss=[distance-unit]|SpaceAfter=No
+4	可	可	VERB	v,動詞,描写,態度	Degree=Pos	1	parataxis	_	Gloss=permissible|SpaceAfter=No
+

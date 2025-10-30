@@ -1,0 +1,16 @@
+# text = 府俗曰之加羅不途織加羅不途玉
+1	府	府	NOUN	n,名詞,主体,機関	_	2	nmod	_	Gloss=repository|SpaceAfter=No
+2	俗	俗	NOUN	n,名詞,描写,形質	_	3	nsubj	_	Gloss=vulgarness|SpaceAfter=No
+3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	compound	_	Gloss=[3PRON]|SpaceAfter=No
+5	加	加	VERB	v,動詞,行為,得失	_	6	compound	_	Gloss=add|SpaceAfter=No
+6	羅	羅	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=bird-net|SpaceAfter=No
+7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
+8	途	途	NOUN	n,名詞,固定物,建造物	Case=Loc	6	conj	_	SpaceAfter=No
+9	織	織	VERB	v,動詞,行為,動作	_	8	flat:vv	_	Gloss=weave|SpaceAfter=No
+10	加	加	VERB	v,動詞,行為,得失	_	11	compound	_	Gloss=add|SpaceAfter=No
+11	羅	羅	NOUN	n,名詞,可搬,道具	_	6	conj	_	Gloss=bird-net|SpaceAfter=No
+12	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	13	advmod	_	Gloss=not|SpaceAfter=No
+13	途	途	VERB	v,動詞,行為,移動	_	8	conj	_	SpaceAfter=No
+14	玉	玉	NOUN	n,名詞,可搬,道具	_	13	obj	_	Gloss=jade|SpaceAfter=No
+

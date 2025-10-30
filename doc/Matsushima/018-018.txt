@@ -1,0 +1,6 @@
+# text = 松府道俗
+1	松	松	NOUN	n,名詞,固定物,樹木	_	2	nmod	_	Gloss=pine-tree|SpaceAfter=No
+2	府	府	NOUN	n,名詞,主体,機関	_	3	nmod	_	Gloss=repository|SpaceAfter=No
+3	道	道	NOUN	n,名詞,制度,儀礼	_	4	nmod	_	Gloss=doctrine|SpaceAfter=No
+4	俗	俗	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=vulgarness|SpaceAfter=No
+

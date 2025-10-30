@@ -1,0 +1,7 @@
+# text = 吁夷狄有義
+1	吁	吁	INTJ	p,感嘆詞,*,*	_	0	root	_	Gloss=sigh|SpaceAfter=No
+2	夷	夷	NOUN	n,名詞,主体,集団	_	4	nsubj	_	Gloss=barbarian|SpaceAfter=No
+3	狄	狄	NOUN	n,名詞,主体,集団	_	2	conj	_	Gloss=[northern-people]|SpaceAfter=No
+4	有	有	VERB	v,動詞,存在,存在	_	1	ccomp	_	Gloss=have|SpaceAfter=No
+5	義	義	NOUN	n,名詞,描写,態度	_	4	obj	_	Gloss=righteousness|SpaceAfter=No
+

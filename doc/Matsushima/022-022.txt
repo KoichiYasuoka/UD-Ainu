@@ -1,0 +1,10 @@
+# text = 皆松府朝来之狄也
+1	皆	皆	ADV	v,副詞,範囲,総括	_	7	amod	_	Gloss=all|SpaceAfter=No
+2	松	松	PROPN	n,名詞,人,名	NameType=Giv	3	nmod	_	Gloss=[given-name]|SpaceAfter=No
+3	府	府	NOUN	n,名詞,主体,機関	_	7	nmod	_	Gloss=repository|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=court|SpaceAfter=No
+5	来	來	VERB	v,動詞,行為,移動	_	7	acl	_	Gloss=come|SpaceAfter=No
+6	之	之	SCONJ	p,助詞,接続,属格	_	5	mark	_	Gloss='s|SpaceAfter=No
+7	狄	狄	NOUN	n,名詞,主体,集団	_	0	root	_	Gloss=[northern-people]|SpaceAfter=No
+8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+

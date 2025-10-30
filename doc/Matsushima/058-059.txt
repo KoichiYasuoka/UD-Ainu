@@ -1,0 +1,9 @@
+# text = 衣服皆単之葛布
+1	衣	衣	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	Gloss=cloth|SpaceAfter=No
+2	服	服	NOUN	n,名詞,可搬,道具	_	1	flat	_	Gloss=clothing|SpaceAfter=No
+3	皆	皆	ADV	v,副詞,範囲,総括	_	4	advmod	_	Gloss=all|SpaceAfter=No
+4	単	單	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	iobj	_	Gloss=[3PRON]|SpaceAfter=No
+6	葛	葛	NOUN	n,名詞,固定物,樹木	_	4	obj	_	Gloss=kudzu-vine|SpaceAfter=No
+7	布	布	NOUN	n,名詞,可搬,成果物	_	6	conj	_	Gloss=cloth|SpaceAfter=No
+

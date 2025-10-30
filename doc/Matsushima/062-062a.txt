@@ -1,0 +1,6 @@
+# text = 男子色黒
+1	男	男	NOUN	n,名詞,人,関係	_	2	nmod	_	Gloss=son|SpaceAfter=No
+2	子	子	NOUN	n,名詞,人,関係	_	3	nmod	_	Gloss=child|SpaceAfter=No
+3	色	色	NOUN	n,名詞,描写,形質	_	4	nsubj	_	Gloss=colour|SpaceAfter=No
+4	黒	黑	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=black|SpaceAfter=No
+

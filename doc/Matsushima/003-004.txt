@@ -1,0 +1,13 @@
+# text = 東奧邊塞之志記如不聞見
+1	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=east|SpaceAfter=No
+2	奧	奧	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=interior|SpaceAfter=No
+3	邊	邊	NOUN	n,名詞,固定物,地形	Case=Loc	4	nmod	_	Gloss=margin|SpaceAfter=No
+4	塞	塞	NOUN	n,名詞,固定物,建造物	Case=Loc	6	nmod	_	Gloss=frontier|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
+6	志	志	NOUN	n,名詞,思考,思考	_	7	nmod	_	Gloss=aim|SpaceAfter=No
+7	記	記	NOUN	n,名詞,可搬,伝達	_	8	nsubj	_	SpaceAfter=No
+8	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
+9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
+10	聞	聞	VERB	v,動詞,行為,伝達	_	8	ccomp	_	Gloss=hear|SpaceAfter=No
+11	見	見	VERB	v,動詞,行為,動作	_	10	obj	_	Gloss=see|SpaceAfter=No
+

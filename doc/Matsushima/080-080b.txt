@@ -1,0 +1,6 @@
+# text = 日日獲山
+1	日	日	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=day|SpaceAfter=No
+2	日	日	NOUN	n,名詞,時,*	Case=Tem	1	conj	_	Gloss=day|SpaceAfter=No
+3	獲	獲	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=catch|SpaceAfter=No
+4	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	3	obj	_	Gloss=mountain|SpaceAfter=No
+

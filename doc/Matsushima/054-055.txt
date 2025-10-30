@@ -1,0 +1,6 @@
+# text = 乹鮏名産
+1	乹	乹	VERB	v,動詞,行為,動作	_	2	nmod	_	SpaceAfter=No
+2	鮏	鮏	NOUN	n,名詞,主体,動物	_	4	nsubj	_	SpaceAfter=No
+3	名	名	NOUN	n,名詞,不可譲,属性	_	4	nsubj	_	Gloss=name|SpaceAfter=No
+4	産	產	NOUN	n,名詞,可搬,成果物	_	0	root	_	Gloss=product|SpaceAfter=No
+

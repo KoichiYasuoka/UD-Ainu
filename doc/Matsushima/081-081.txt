@@ -1,0 +1,7 @@
+# text = 幇閑充棟云
+1	幇	幇	VERB	v,動詞,行為,態度	_	3	nsubj	_	SpaceAfter=No
+2	閑	閑	VERB	v,動詞,行為,態度	_	3	nsubj	_	SpaceAfter=No
+3	充	充	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=fill|SpaceAfter=No
+4	棟	棟	NOUN	n,名詞,固定物,建造物	Case=Loc	3	obj	_	SpaceAfter=No
+5	云	云	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=says-so|SpaceAfter=No
+

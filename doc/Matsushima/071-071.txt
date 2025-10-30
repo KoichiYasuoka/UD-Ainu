@@ -1,0 +1,6 @@
+# text = 赴大小行
+1	赴	赴	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=hurry-to|SpaceAfter=No
+2	大	大	VERB	v,動詞,描写,量	Degree=Pos	4	amod	_	Gloss=big|SpaceAfter=No
+3	小	小	VERB	v,動詞,描写,量	Degree=Pos	4	amod	_	Gloss=small|SpaceAfter=No
+4	行	行	NOUN	n,名詞,行為,*	_	1	obj	_	Gloss=action|SpaceAfter=No
+

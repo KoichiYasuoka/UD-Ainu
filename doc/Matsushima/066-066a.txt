@@ -1,0 +1,6 @@
+# text = 歴時不息
+1	歴	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
+2	時	時	NOUN	n,名詞,時,*	Case=Tem	1	obj	_	Gloss=time|SpaceAfter=No
+3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
+4	息	息	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=breathe|SpaceAfter=No
+

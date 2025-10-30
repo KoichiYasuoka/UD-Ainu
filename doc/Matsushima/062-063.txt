@@ -1,0 +1,6 @@
+# text = 力量弱也
+1	力	力	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=strength|SpaceAfter=No
+2	量	量	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=measure|SpaceAfter=No
+3	弱	弱	VERB	v,動詞,描写,形質	Degree=Pos	2	obj	_	Gloss=weak|SpaceAfter=No
+4	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+

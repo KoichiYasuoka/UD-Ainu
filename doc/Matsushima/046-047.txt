@@ -1,0 +1,6 @@
+# text = 身羙婦子
+1	身	身	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=body|SpaceAfter=No
+2	羙	羙	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
+3	婦	婦	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=wife|SpaceAfter=No
+4	子	子	NOUN	n,名詞,人,関係	_	2	obj	_	Gloss=child|SpaceAfter=No
+

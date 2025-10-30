@@ -1,0 +1,8 @@
+# text = 故曰羙女島也
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+3	羙	羙	VERB	v,動詞,描写,形質	Degree=Pos	5	nmod	_	SpaceAfter=No
+4	女	女	NOUN	n,名詞,人,人	_	5	nmod	_	Gloss=woman|SpaceAfter=No
+5	島	島	NOUN	n,名詞,固定物,地形	Case=Loc	2	obj	_	SpaceAfter=No
+6	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+

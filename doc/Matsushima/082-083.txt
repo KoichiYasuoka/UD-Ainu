@@ -1,0 +1,10 @@
+# text = 又不典不取不与矣
+1	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
+2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
+3	典	典	VERB	v,動詞,行為,儀礼	_	0	root	_	SpaceAfter=No
+4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
+5	取	取	VERB	v,動詞,行為,得失	_	3	conj	_	Gloss=take|SpaceAfter=No
+6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
+7	与	與	VERB	v,動詞,行為,交流	_	3	conj	_	Gloss=participate|SpaceAfter=No
+8	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
+

@@ -1,0 +1,8 @@
+# text = 男子曰阿以農
+1	男	男	NOUN	n,名詞,人,関係	_	2	nmod	_	Gloss=son|SpaceAfter=No
+2	子	子	NOUN	n,名詞,人,関係	_	3	nsubj	_	Gloss=child|SpaceAfter=No
+3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	阿	阿	PROPN	n,名詞,人,名	NameType=Giv	3	obj	_	Gloss=[given-name]|SpaceAfter=No
+5	以	以	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=use|SpaceAfter=No
+6	農	農	NOUN	n,名詞,行為,*	_	5	obj	_	Gloss=agriculture|SpaceAfter=No
+

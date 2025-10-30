@@ -1,0 +1,7 @@
+# text = 又能入水中
+1	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
+2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
+3	入	入	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=enter|SpaceAfter=No
+4	水	水	NOUN	n,名詞,可搬,道具	_	5	nmod	_	Gloss=water|SpaceAfter=No
+5	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=centre|SpaceAfter=No
+

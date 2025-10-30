@@ -1,0 +1,9 @@
+# text = 現松嶋瑞岩天嶺
+1	現	現	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+2	松	松	NOUN	n,名詞,固定物,樹木	_	3	compound	_	Gloss=pine-tree|SpaceAfter=No
+3	嶋	嶋	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	SpaceAfter=No
+4	瑞	瑞	VERB	v,動詞,描写,形質	Degree=Pos	5	compound	_	Gloss=auspicious|SpaceAfter=No
+5	岩	岩	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
+7	嶺	嶺	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	Gloss=mountain-range|SpaceAfter=No
+

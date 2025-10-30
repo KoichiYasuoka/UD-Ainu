@@ -1,0 +1,10 @@
+# text = 三住花園燕山中興
+1	三	三	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=three|SpaceAfter=No
+2	住	住	VERB	v,動詞,行為,設置	_	0	root	_	SpaceAfter=No
+3	花	花	NOUN	n,名詞,固定物,樹木	_	4	nmod	_	Gloss=flower|SpaceAfter=No
+4	園	園	NOUN	n,名詞,固定物,建造物	Case=Loc	2	obj	_	Gloss=garden|SpaceAfter=No
+5	燕	燕	VERB	v,動詞,描写,態度	Degree=Pos	6	compound	_	Gloss=rest|SpaceAfter=No
+6	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	7	nmod	_	Gloss=mountain|SpaceAfter=No
+7	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	8	obl:lmod	_	Gloss=centre|SpaceAfter=No
+8	興	興	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=rise|SpaceAfter=No
+

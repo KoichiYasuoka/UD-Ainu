@@ -1,0 +1,8 @@
+# text = 有波古多天嶋
+1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+2	波	波	NOUN	n,名詞,描写,形質	_	3	compound	_	SpaceAfter=No
+3	古	古	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=olden-times|SpaceAfter=No
+4	多	多	VERB	v,動詞,描写,量	Degree=Pos	1	ccomp	_	Gloss=many|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
+6	嶋	嶋	NOUN	n,名詞,描写,形質	_	4	obj	_	SpaceAfter=No
+

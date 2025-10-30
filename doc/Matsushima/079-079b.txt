@@ -1,0 +1,6 @@
+# text = 烹魚油喰
+1	烹	烹	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=boil|SpaceAfter=No
+2	魚	魚	NOUN	n,名詞,主体,動物	_	1	obj	_	Gloss=fish|SpaceAfter=No
+3	油	油	NOUN	n,名詞,可搬,糧食	_	2	conj	_	SpaceAfter=No
+4	喰	喰	NOUN	n,名詞,可搬,糧食	_	1	obj	_	SpaceAfter=No
+

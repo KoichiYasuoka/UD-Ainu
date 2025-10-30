@@ -1,0 +1,8 @@
+# text = 是故不造厠云
+1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	4	obl	_	Gloss=reason|SpaceAfter=No
+3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
+4	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
+5	厠	厠	NOUN	n,名詞,固定物,建造物	Case=Loc	4	obj	_	Gloss=latrine|SpaceAfter=No
+6	云	云	VERB	v,動詞,行為,伝達	_	4	parataxis	_	Gloss=says-so|SpaceAfter=No
+

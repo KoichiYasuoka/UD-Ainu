@@ -1,0 +1,8 @@
+# text = 僧人曰部素利
+1	僧	僧	NOUN	n,名詞,人,役割	_	2	nmod	_	Gloss=monk|SpaceAfter=No
+2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
+3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	部	部	NOUN	n,名詞,主体,集団	_	6	nmod	_	Gloss=section|SpaceAfter=No
+5	素	素	VERB	v,動詞,描写,形質	Degree=Pos	6	compound	_	Gloss=plain|SpaceAfter=No
+6	利	利	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=profit|SpaceAfter=No
+

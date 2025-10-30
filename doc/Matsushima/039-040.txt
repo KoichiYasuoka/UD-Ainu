@@ -1,0 +1,11 @@
+# text = 復此方従府阻二百六十餘里
+1	復	復	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=repeat|SpaceAfter=No
+2	此	此	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=this|SpaceAfter=No
+3	方	方	ADV	v,副詞,時相,現在	AdvType=Tim|Tense=Pres	4	advmod	_	Gloss=just-then|SpaceAfter=No
+4	従	從	ADP	v,前置詞,経由,*	_	5	nmod	_	Gloss=from|SpaceAfter=No
+5	府	府	NOUN	n,名詞,主体,機関	_	6	nsubj	_	Gloss=repository|SpaceAfter=No
+6	阻	阻	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=impede|SpaceAfter=No
+7	二百六十	二百六十	NUM	n,数詞,数,*	_	6	obj	_	SpaceAfter=No
+8	餘	餘	NOUN	n,名詞,数量,*	_	7	conj	_	Gloss=surplus|SpaceAfter=No
+9	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	7	clf	_	Gloss=[distance-unit]|SpaceAfter=No
+

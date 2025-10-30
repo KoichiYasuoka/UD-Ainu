@@ -1,0 +1,6 @@
+# text = 至相也所
+1	至	至	VERB	v,動詞,行為,移動	_	2	nmod	_	Gloss=arrive|SpaceAfter=No
+2	相	相	PROPN	n,名詞,人,名	NameType=Giv	4	nmod	_	Gloss=[given-name]|SpaceAfter=No
+3	也	也	PART	p,助詞,提示,*	_	2	case	_	Gloss=that-which|SpaceAfter=No
+4	所	所	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=place|SpaceAfter=No
+

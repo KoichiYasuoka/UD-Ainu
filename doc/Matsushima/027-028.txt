@@ -1,0 +1,11 @@
+# text = 此舩路逼北高麗韃靼地也
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
+2	舩	舩	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	nmod	_	Gloss=[place-name]|SpaceAfter=No
+3	路	路	NOUN	n,名詞,固定物,建造物	Case=Loc	4	nsubj	_	Gloss=road|SpaceAfter=No
+4	逼	逼	VERB	v,動詞,行為,動作	_	8	csubj	_	Gloss=encroach-on|SpaceAfter=No
+5	北	北	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=north|SpaceAfter=No
+6	高麗	高麗	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	nmod	_	Gloss=[country-name]|SpaceAfter=No
+7	韃靼	韃靼	NOUN	n,名詞,主体,集団	_	6	conj	_	SpaceAfter=No
+8	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	0	root	_	Gloss=earth|SpaceAfter=No
+9	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+

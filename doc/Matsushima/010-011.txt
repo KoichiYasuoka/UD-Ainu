@@ -1,0 +1,10 @@
+# text = 狄嶋在松前府東西
+1	狄	狄	NOUN	n,名詞,主体,集団	_	3	nsubj	_	Gloss=[northern-people]|SpaceAfter=No
+2	嶋	嶋	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
+3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
+4	松	松	PROPN	n,名詞,人,名	NameType=Giv	5	compound	_	Gloss=[given-name]|SpaceAfter=No
+5	前	前	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=front|SpaceAfter=No
+6	府	府	NOUN	n,名詞,主体,機関	_	3	obj	_	Gloss=repository|SpaceAfter=No
+7	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=east|SpaceAfter=No
+8	西	西	NOUN	n,名詞,固定物,関係	Case=Loc	7	conj	_	Gloss=west|SpaceAfter=No
+

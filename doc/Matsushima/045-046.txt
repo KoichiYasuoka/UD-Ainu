@@ -1,0 +1,9 @@
+# text = 云此濱夷族至今
+1	云	云	VERB	v,動詞,行為,伝達	_	6	advcl	_	Gloss=says-so|SpaceAfter=No
+2	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
+3	濱	濱	NOUN	n,名詞,固定物,地形	Case=Loc	5	nmod	_	Gloss=shore|SpaceAfter=No
+4	夷	夷	VERB	v,動詞,行為,動作	_	5	nmod	_	Gloss=raze|SpaceAfter=No
+5	族	族	NOUN	n,名詞,人,関係	_	6	nsubj	_	Gloss=clan|SpaceAfter=No
+6	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
+7	今	今	NOUN	n,名詞,時,*	Case=Tem	6	obj	_	Gloss=now|SpaceAfter=No
+

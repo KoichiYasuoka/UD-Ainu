@@ -1,0 +1,8 @@
+# text = 有臼岳一座山
+1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+2	臼	臼	NOUN	n,名詞,可搬,道具	_	3	compound	_	SpaceAfter=No
+3	岳	嶽	NOUN	n,名詞,固定物,地形	Case=Loc	6	nmod	_	Gloss=great-mountain|SpaceAfter=No
+4	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
+5	座	座	NOUN	n,名詞,可搬,道具	_	4	clf	_	SpaceAfter=No
+6	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	Gloss=mountain|SpaceAfter=No
+

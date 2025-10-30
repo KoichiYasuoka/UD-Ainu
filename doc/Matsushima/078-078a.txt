@@ -1,0 +1,6 @@
+# text = 不知做飯
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
+3	做	做	VERB	v,動詞,行為,動作	_	2	ccomp	_	SpaceAfter=No
+4	飯	飯	NOUN	n,名詞,可搬,糧食	_	3	obj	_	Gloss=meal|SpaceAfter=No
+

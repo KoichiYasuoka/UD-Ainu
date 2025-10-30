@@ -1,0 +1,6 @@
+# text = 鮏魚夥矣
+1	鮏	鮏	VERB	v,動詞,行為,動作	_	2	nmod	_	SpaceAfter=No
+2	魚	魚	NOUN	n,名詞,主体,動物	_	3	nsubj	_	Gloss=fish|SpaceAfter=No
+3	夥	夥	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
+4	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
+
