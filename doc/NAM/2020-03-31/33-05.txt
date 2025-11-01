@@ -1,5 +1,5 @@
 # text = カラㇷ゚ト ウサ ルトㇺ オロタ マタ ネ キ コ トイチセ アリ リヤ アンキㇷ゚ ネ ナ.
-1	カラㇷ゚ト	Karapto	NOUN	名詞	_	6	obl	_	_
+1	カラㇷ゚ト	Karapto	PROPN	固有名詞	_	6	obl	_	_
 2	ウサ	usa	ADP	副助詞	_	1	case	_	_
 3	ルトㇺ	Rutom	PROPN	固有名詞	_	4	nmod	_	_
 4	オロ	or	NOUN	位置名詞	_	6	obl	_	SpaceAfter=No
